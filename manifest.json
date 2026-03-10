@@ -1,0 +1,116 @@
+{
+  "exported_at": "2026-03-09T19:06:09.794789+00:00",
+  "total_translations": 657,
+  "translations_per_language": {
+    "eng": 396,
+    "ita": 33,
+    "fra": 78,
+    "spa": 102,
+    "pol": 48
+  },
+  "translations_per_site": {
+    "laparola.net": 25,
+    "bible.audio": 19,
+    "bibles.org": 100,
+    "bible.com": 139,
+    "jw.org": 5,
+    "bible.is": 44,
+    "biblehub.com": 46,
+    "biblegateway.com": 95,
+    "biblestudytools.com": 37,
+    "ebible.org": 37,
+    "bibliepolskie.pl": 20,
+    "obohu.cz": 74,
+    "crossbible.com": 16
+  },
+  "year_range": [
+    1525,
+    2025
+  ],
+  "copyright_breakdown": {
+    "public_domain": {
+      "count": 242,
+      "percentage": 36.8
+    },
+    "open_license": {
+      "count": 65,
+      "percentage": 9.9
+    },
+    "copyrighted": {
+      "count": 350,
+      "percentage": 53.3
+    }
+  },
+  "copyright_breakdown_by_language": {
+    "eng": {
+      "public_domain": {
+        "count": 156,
+        "percentage": 39.4
+      },
+      "open_license": {
+        "count": 40,
+        "percentage": 10.1
+      },
+      "copyrighted": {
+        "count": 200,
+        "percentage": 50.5
+      }
+    },
+    "fra": {
+      "public_domain": {
+        "count": 42,
+        "percentage": 53.8
+      },
+      "open_license": {
+        "count": 2,
+        "percentage": 2.6
+      },
+      "copyrighted": {
+        "count": 34,
+        "percentage": 43.6
+      }
+    },
+    "ita": {
+      "public_domain": {
+        "count": 13,
+        "percentage": 39.4
+      },
+      "open_license": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "copyrighted": {
+        "count": 20,
+        "percentage": 60.6
+      }
+    },
+    "pol": {
+      "public_domain": {
+        "count": 13,
+        "percentage": 27.1
+      },
+      "open_license": {
+        "count": 12,
+        "percentage": 25.0
+      },
+      "copyrighted": {
+        "count": 23,
+        "percentage": 47.9
+      }
+    },
+    "spa": {
+      "public_domain": {
+        "count": 18,
+        "percentage": 17.6
+      },
+      "open_license": {
+        "count": 11,
+        "percentage": 10.8
+      },
+      "copyrighted": {
+        "count": 73,
+        "percentage": 71.6
+      }
+    }
+  }
+}
