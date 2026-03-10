@@ -18,11 +18,21 @@ size_categories:
 task_categories:
 - text-generation
 - translation
+configs:
+- config_name: index
+  data_files: "index.tsv"
+  default: true
+- config_name: book_coverage
+  data_files: "book_coverage.tsv"
+- config_name: copyrights
+  data_files: "copyrights.tsv"
 ---
 
 # Targum Corpus
 
 Targum is a multilingual New Testament translation corpus covering 657 translations across English, French, Spanish, Polish, and Italian, collected from 13 source libraries and spanning 1525–2025. This dataset contains the public release subset: 307 translations distributed under public domain or open licenses; the remaining 350 copyrighted translations are excluded.
+
+Also available on GitHub: [mrapacz/targum-corpus](https://github.com/mrapacz/targum-corpus).
 
 ## Dataset summary
 
@@ -45,6 +55,7 @@ corpora/
     {iso}/
       {id}.jsonl        # one verse per line
 index.tsv               # metadata for all 307 translations
+copyrights.tsv          # copyright text and status per translation
 book_coverage.tsv       # which books each translation covers
 manifest.json           # summary statistics
 ```
@@ -88,7 +99,6 @@ import pandas as pd
 index = pd.read_csv(
     "hf://datasets/mrapacz/targum-corpus/index.tsv",
     sep="\t",
-    usecols=["translation_id", "translation_name", "iso", "canonical_year", "copyright_status"],
 )
 ```
 
@@ -101,7 +111,7 @@ Only public domain and open-license translations are included in this release. C
 ## License
 
 Corpus metadata and derived annotations: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-Individual translations retain their original licenses as recorded in `index.tsv`.
+Individual translations retain their original licenses as recorded in `copyrights.tsv`.
 
 ## Citation
 

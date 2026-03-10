@@ -2,6 +2,8 @@
 
 Targum is a multilingual New Testament translation corpus covering 657 translations across English, French, Spanish, Polish, and Italian, collected from 13 source libraries and spanning 1525–2025. This repository contains the public release subset: 307 translations distributed under public domain or open licenses.
 
+Also available on HuggingFace: [mrapacz/targum-corpus](https://huggingface.co/datasets/mrapacz/targum-corpus).
+
 ## Contents
 
 | Language | Code | Translations |
@@ -23,6 +25,7 @@ corpus/
     {iso}/
       {id}.jsonl     # one verse per line
 index.tsv            # metadata for all 307 translations
+copyrights.tsv       # copyright text and status per translation
 book_coverage.tsv    # which books each translation covers
 manifest.json        # summary statistics
 ```
@@ -67,7 +70,10 @@ ds = load_dataset("mrapacz/targum-corpus", data_files="corpora/ebible.org/eng/en
 ## Index
 
 `index.tsv` contains one row per translation with fields:
-`translation_id`, `translation_name`, `translation_abbr`, `site`, `iso`, `num_books`, `num_chapters`, `num_verses`, `num_words`, `copyright`, `copyright_status`, `canonical_id`, `canonical_year`
+`translation_id`, `translation_name`, `translation_abbr`, `site`, `iso`, `num_books`, `num_chapters`, `num_verses`, `num_words`, `copyright_status`, `canonical_id`, `canonical_version`, `canonical_year`
+
+`copyrights.tsv` contains the full copyright text per translation:
+`site`, `translation_id`, `copyright`, `copyright_status`
 
 ## Citation
 
@@ -76,5 +82,5 @@ Citation TBD. Preprint: [arxiv.org/abs/2602.09724](https://arxiv.org/abs/2602.09
 ## License
 
 Corpus metadata and our derived annotations are released under [CC-BY 4.0](LICENSE).
-Individual translations retain their original licenses as recorded in `index.tsv`.
+Individual translations retain their original licenses as recorded in `copyrights.tsv`.
 Public domain translations are freely usable; open-license translations carry their respective terms.
