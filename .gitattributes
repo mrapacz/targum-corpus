@@ -1,0 +1,5 @@
+# corpus files tracked as binary/text (no LFS required at current scale)
+corpus/**/*.jsonl text eol=lf
+*.tsv             text eol=lf
+*.json            text eol=lf
+*.md              text eol=lf

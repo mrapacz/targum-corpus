@@ -1,0 +1,9 @@
+# OS / editor artifacts
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# HuggingFace upload cache
+.cache/
