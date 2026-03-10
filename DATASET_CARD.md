@@ -22,7 +22,7 @@ task_categories:
 
 # Targum Corpus
 
-Multilingual New Testament translation corpus. 307 translations across 5 languages from 13 source libraries, spanning 1525–2025.
+Targum is a multilingual New Testament translation corpus covering 657 translations across English, French, Spanish, Polish, and Italian, collected from 13 source libraries and spanning 1525–2025. This dataset contains the public release subset: 307 translations distributed under public domain or open licenses; the remaining 350 copyrighted translations are excluded.
 
 ## Dataset summary
 
@@ -105,11 +105,4 @@ Individual translations retain their original licenses as recorded in `index.tsv
 
 ## Citation
 
-```bibtex
-@dataset{targum2026,
-  author    = {Rapacz, Maciej},
-  title     = {Targum Corpus: A Multilingual New Testament Translation Corpus},
-  year      = {2026},
-  url       = {https://huggingface.co/datasets/mrapacz/targum-corpus},
-}
-```
+Citation TBD. Preprint: [arxiv.org/abs/2602.09724](https://arxiv.org/abs/2602.09724)
