@@ -123,18 +123,9 @@ Translations were collected from 13 libraries: bible.audio, bible.com, bible.is,
 
 ## Citation
 
-If you use this corpus, please cite:
+This corpus will be published at [LREC 2026](https://lrec2026.info/) (Palma, Mallorca, 11--16 May 2026). Citation TBD.
 
-```bibtex
-@inproceedings{rapacz2026targum,
-  title={ {Targum} -- A Multilingual New Testament Translation Corpus},
-  author={Rapacz, Maciej and Smywi{\'n}ski-Pohl, Aleksander},
-  booktitle={Proceedings of the 2026 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2026)},
-  year={2026}
-}
-```
-
-Preprint: [arxiv.org/abs/2602.09724](https://arxiv.org/abs/2602.09724)
+A preprint is available at [arxiv.org/abs/2602.09724](https://arxiv.org/abs/2602.09724).
 
 ## License
 
