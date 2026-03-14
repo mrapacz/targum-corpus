@@ -1,21 +1,25 @@
 # targum-corpus
 
-Targum is a multilingual New Testament translation corpus covering 657 translations across English, French, Spanish, Polish, and Italian, collected from 13 source libraries and spanning 1525–2025. This repository contains the public release subset: 307 translations distributed under public domain or open licenses.
+**Targum** is a multilingual New Testament translation corpus with unprecedented depth in five European languages: English, French, Italian, Polish, and Spanish. It contains **657** translations (**349** unique) collected from **13** source libraries and spanning **1525–2025**.
+
+This repository contains the **public release subset**: **307** translations distributed under public domain or open licenses.
+
+Named after the ancient Aramaic translations of the Hebrew Bible (תרגום, "translation"), the corpus prioritizes vertical depth over linguistic breadth, making it possible to computationally analyze a wide spectrum of historical periods and confessional traditions within each language.
 
 Also available on HuggingFace: [mrapacz/targum-corpus](https://huggingface.co/datasets/mrapacz/targum-corpus).
 
-## Contents
+## Corpus Scale
 
-| Language | Code | Translations |
-|---|---|---|
-| English | `eng` | 196 |
-| French | `fra` | 44 |
-| Spanish | `spa` | 29 |
-| Polish | `pol` | 25 |
-| Italian | `ita` | 13 |
-| **Total** | | **307** |
+| Language | Code | Total | Unique | Public subset |
+|---|---|---:|---:|---:|
+| English | `eng` | 396 | 208 | 196 |
+| French | `fra` | 78 | 41 | 44 |
+| Spanish | `spa` | 102 | 54 | 29 |
+| Polish | `pol` | 48 | 29 | 25 |
+| Italian | `ita` | 33 | 17 | 13 |
+| **Total** | | **657** | **349** | **307** |
 
-Includes public domain (242) and open-license (65) translations from biblegateway.com, bible.com, ebible.org, and 10 other libraries. Full metadata in [`manifest.json`](manifest.json) and [`index.tsv`](index.tsv).
+"Total" is the number of translation instances collected across all 13 source libraries (the same translation may appear on multiple sites). "Unique" is the number of distinct translation editions after deduplication. "Public subset" is the number of instances distributed in this repository under public domain (242) or open licenses (65).
 
 ## Structure
 
@@ -24,7 +28,7 @@ corpus/
   {site}/
     {iso}/
       {id}.jsonl     # one verse per line
-index.tsv            # metadata for all 307 translations
+index.tsv            # metadata for all 657 translations
 copyrights.tsv       # copyright text and status per translation
 book_coverage.tsv    # which books each translation covers
 manifest.json        # summary statistics
@@ -37,7 +41,20 @@ Each JSONL file contains one verse per line:
 {"book": "MAT", "chapter": 1, "verse": "2", "text": "Abraham begat Isaac..."}
 ```
 
-`book` uses standard 3-letter New Testament codes: `MAT MRK LUK JHN ACT ROM 1CO 2CO GAL EPH PHP COL 1TH 2TH 1TI 2TI TIT PHM HEB JAS 1PE 2PE 1JN 2JN 3JN JUD REV`.
+`book` uses USFM 3-letter New Testament codes: `MAT MRK LUK JHN ACT ROM 1CO 2CO GAL EPH PHP COL 1TH 2TH 1TI 2TI TIT PHM HEB JAS 1PE 2PE 1JN 2JN 3JN JUD REV`.
+
+## Metadata
+
+Each translation in `index.tsv` is annotated with manually verified metadata:
+
+- **`canonical_id`** — a standardized identifier for the translation work (e.g. `kjv`, `nkjv`). Any version presented under a new name receives its own unique identifier.
+- **`canonical_version`** — the specific edition or revision (e.g. `1611`, `4th edition`).
+- **`canonical_year`** — the year of the specific revision.
+- **`copyright_status`** — one of `public_domain`, `open_license`, or `copyrighted`.
+
+This canonicalization allows researchers to define "uniqueness" for their own needs: they can perform micro-level analyses on translation families (e.g. the KJV lineage) or conduct macro-level studies by deduplicating closely related texts.
+
+Full field list: `site`, `iso`, `translation_id`, `translation_name`, `translation_abbr`, `canonical_id`, `canonical_version`, `canonical_year`, `num_books`, `num_chapters`, `num_verses`, `num_words`, `copyright_status`.
 
 ## Quickstart
 
@@ -46,16 +63,14 @@ import json
 from pathlib import Path
 
 corpus = Path("corpus")
-# load one translation
+# Load one translation
 verses = [json.loads(line) for line in (corpus / "ebible.org/eng/eng-web.jsonl").read_text().splitlines()]
 print(f"{len(verses)} verses loaded")
-# → 7957 verses loaded
 
-# load all English translations
+# Load all English translations
 translations = {}
 for path in sorted(corpus.glob("*/eng/*.jsonl")):
-    translation_id = path.stem
-    translations[translation_id] = [json.loads(line) for line in path.read_text().splitlines()]
+    translations[path.stem] = [json.loads(line) for line in path.read_text().splitlines()]
 print(f"{len(translations)} English translations")
 ```
 
@@ -67,20 +82,28 @@ from datasets import load_dataset
 ds = load_dataset("mrapacz/targum-corpus", data_files="corpora/ebible.org/eng/eng-web.jsonl", split="train")
 ```
 
-## Index
+## Source Data
 
-`index.tsv` contains one row per translation with fields:
-`translation_id`, `translation_name`, `translation_abbr`, `site`, `iso`, `num_books`, `num_chapters`, `num_verses`, `num_words`, `copyright_status`, `canonical_id`, `canonical_version`, `canonical_year`
+Translations were collected from 13 libraries: bible.audio, bible.com, bible.is, biblegateway.com, biblehub.com, bibles.org, biblestudytools.com, bibliepolskie.pl, crossbible.com, ebible.org, jw.org, laparola.net, obohu.cz.
 
-`copyrights.tsv` contains the full copyright text per translation:
-`site`, `translation_id`, `copyright`, `copyright_status`
+Only public domain and open-license translations are included in this release. The remaining 350 copyrighted translations are available to researchers upon reasonable request for noncommercial research purposes.
 
 ## Citation
 
-Citation TBD. Preprint: [arxiv.org/abs/2602.09724](https://arxiv.org/abs/2602.09724)
+If you use this corpus, please cite:
+
+```bibtex
+@inproceedings{rapacz2026targum,
+  title={ {Targum} -- A Multilingual New Testament Translation Corpus},
+  author={Rapacz, Maciej and Smywi{\'n}ski-Pohl, Aleksander},
+  booktitle={Proceedings of the 2026 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2026)},
+  year={2026}
+}
+```
+
+Preprint: [arxiv.org/abs/2602.09724](https://arxiv.org/abs/2602.09724)
 
 ## License
 
-Corpus metadata and our derived annotations are released under [CC-BY 4.0](LICENSE).
+Corpus metadata and derived annotations are released under [CC-BY 4.0](LICENSE).
 Individual translations retain their original licenses as recorded in `copyrights.tsv`.
-Public domain translations are freely usable; open-license translations carry their respective terms.

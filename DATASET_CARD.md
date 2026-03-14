@@ -13,6 +13,7 @@ tags:
 - nlp
 - corpus-linguistics
 - parallel-corpus
+- digital-humanities
 size_categories:
 - 10M<n<100M
 task_categories:
@@ -30,22 +31,26 @@ configs:
 
 # Targum Corpus
 
-Targum is a multilingual New Testament translation corpus covering 657 translations across English, French, Spanish, Polish, and Italian, collected from 13 source libraries and spanning 1525–2025. This dataset contains the public release subset: 307 translations distributed under public domain or open licenses; the remaining 350 copyrighted translations are excluded.
+**Targum** is a multilingual New Testament translation corpus with unprecedented depth in five European languages: English, French, Italian, Polish, and Spanish. It contains **657** translations (**349** unique) collected from **13** source libraries and spanning **1525–2025**.
+
+This dataset contains the **public release subset**: **307** translations distributed under public domain or open licenses. The remaining 350 copyrighted translations are not distributed but are available to researchers upon request.
+
+Named after the ancient Aramaic translations of the Hebrew Bible (תרגום, "translation"), the corpus prioritizes vertical depth over linguistic breadth, making it possible to computationally analyze a wide spectrum of historical periods and confessional traditions within each language.
 
 Also available on GitHub: [mrapacz/targum-corpus](https://github.com/mrapacz/targum-corpus).
 
-## Dataset summary
+## Corpus Scale
 
-| Language | Code | Translations |
-|---|---|---|
-| English | `en` | 196 |
-| French | `fr` | 44 |
-| Spanish | `es` | 29 |
-| Polish | `pl` | 25 |
-| Italian | `it` | 13 |
-| **Total** | | **307** |
+| Language | Code | Total | Unique | Public subset |
+|---|---|---:|---:|---:|
+| English | `eng` | 396 | 208 | 196 |
+| French | `fra` | 78 | 41 | 44 |
+| Spanish | `spa` | 102 | 54 | 29 |
+| Polish | `pol` | 48 | 29 | 25 |
+| Italian | `ita` | 33 | 17 | 13 |
+| **Total** | | **657** | **349** | **307** |
 
-Includes public domain (242) and open-license (65) translations. Full translation metadata in `index.tsv` and `manifest.json`.
+"Total" is the number of translation instances collected across all 13 source libraries (the same translation may appear on multiple sites). "Unique" is the number of distinct translation editions after deduplication. "Public subset" is the number of instances distributed in this dataset under public domain (242) or open licenses (65).
 
 ## Structure
 
@@ -54,7 +59,7 @@ corpora/
   {site}/
     {iso}/
       {id}.jsonl        # one verse per line
-index.tsv               # metadata for all 307 translations
+index.tsv               # metadata for all 657 translations
 copyrights.tsv          # copyright text and status per translation
 book_coverage.tsv       # which books each translation covers
 manifest.json           # summary statistics
@@ -67,7 +72,18 @@ Each JSONL file:
 {"book": "MAT", "chapter": 1, "verse": "2", "text": "Abraham begat Isaac..."}
 ```
 
-`book` uses standard 3-letter New Testament codes: `MAT MRK LUK JHN ACT ROM 1CO 2CO GAL EPH PHP COL 1TH 2TH 1TI 2TI TIT PHM HEB JAS 1PE 2PE 1JN 2JN 3JN JUD REV`.
+`book` uses USFM 3-letter New Testament codes: `MAT MRK LUK JHN ACT ROM 1CO 2CO GAL EPH PHP COL 1TH 2TH 1TI 2TI TIT PHM HEB JAS 1PE 2PE 1JN 2JN 3JN JUD REV`.
+
+## Metadata
+
+Each translation in `index.tsv` is annotated with manually verified metadata:
+
+- **`canonical_id`** — a standardized identifier for the translation work (e.g. `kjv`, `nkjv`). Any version presented under a new name receives its own unique identifier.
+- **`canonical_version`** — the specific edition or revision (e.g. `1611`, `4th edition`).
+- **`canonical_year`** — the year of the specific revision.
+- **`copyright_status`** — one of `public_domain`, `open_license`, or `copyrighted`.
+
+This canonicalization allows researchers to define "uniqueness" for their own needs: they can perform micro-level analyses on translation families (e.g. the KJV lineage) or conduct macro-level studies by deduplicating closely related texts.
 
 ## Usage
 
@@ -81,7 +97,6 @@ ds = load_dataset(
     split="train",
 )
 print(ds[0])
-# {'book': 'MAT', 'chapter': 1, 'verse': '1', 'text': 'This is the genealogy of Jesus...'}
 
 # Load all English translations from one site
 ds = load_dataset(
@@ -102,17 +117,26 @@ index = pd.read_csv(
 )
 ```
 
-## Source data
+## Source Data
 
-Translations were scraped from 13 libraries: biblegateway.com, bible.com, biblehub.com, bible.is, ebible.org, bibles.org, bible.audio, jw.org, biblestudytools.com, bibliepolskie.pl, obohu.cz, crossbible.com, laparola.net.
+Translations were collected from 13 libraries: bible.audio, bible.com, bible.is, biblegateway.com, biblehub.com, bibles.org, biblestudytools.com, bibliepolskie.pl, crossbible.com, ebible.org, jw.org, laparola.net, obohu.cz.
 
-Only public domain and open-license translations are included in this release. Copyrighted translations (350 of 657 total) are excluded.
+## Citation
+
+If you use this corpus, please cite:
+
+```bibtex
+@inproceedings{rapacz2026targum,
+  title={ {Targum} -- A Multilingual New Testament Translation Corpus},
+  author={Rapacz, Maciej and Smywi{\'n}ski-Pohl, Aleksander},
+  booktitle={Proceedings of the 2026 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2026)},
+  year={2026}
+}
+```
+
+Preprint: [arxiv.org/abs/2602.09724](https://arxiv.org/abs/2602.09724)
 
 ## License
 
 Corpus metadata and derived annotations: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 Individual translations retain their original licenses as recorded in `copyrights.tsv`.
-
-## Citation
-
-Citation TBD. Preprint: [arxiv.org/abs/2602.09724](https://arxiv.org/abs/2602.09724)
