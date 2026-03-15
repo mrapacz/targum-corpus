@@ -31,9 +31,11 @@ configs:
 
 # Targum Corpus
 
-**Targum** is a multilingual New Testament translation corpus with unprecedented depth in five European languages: English, French, Italian, Polish, and Spanish. It contains **657** translations (**349** unique) collected from **13** source libraries and spanning **1525–2025**.
+![Targum — A Multilingual New Testament Translation Corpus](banner.jpg)
 
-This dataset contains the **public release subset**: **307** translations distributed under public domain or open licenses. The remaining 350 copyrighted translations are not distributed but are available to researchers upon request.
+**Targum** is a multilingual New Testament translation corpus with unprecedented depth in five European languages: English, French, Italian, Polish, and Spanish. It contains **651** translations (**334** unique) collected from **13** source libraries and spanning **1525–2025**.
+
+This dataset contains the **public release subset**: **302** translations distributed under public domain or open licenses. The remaining 349 copyrighted translations are not distributed but are available to researchers upon request.
 
 Named after the ancient Aramaic translations of the Hebrew Bible (תרגום, "translation"), the corpus prioritizes vertical depth over linguistic breadth, making it possible to computationally analyze a wide spectrum of historical periods and confessional traditions within each language.
 
@@ -43,14 +45,14 @@ Also available on GitHub: [mrapacz/targum-corpus](https://github.com/mrapacz/tar
 
 | Language | Code | Total | Unique | Public subset |
 |---|---|---:|---:|---:|
-| English | `eng` | 396 | 208 | 196 |
+| English | `eng` | 390 | 194 | 191 |
 | French | `fra` | 78 | 41 | 44 |
-| Spanish | `spa` | 102 | 54 | 29 |
+| Spanish | `spa` | 102 | 53 | 29 |
 | Polish | `pol` | 48 | 29 | 25 |
 | Italian | `ita` | 33 | 17 | 13 |
-| **Total** | | **657** | **349** | **307** |
+| **Total** | | **651** | **334** | **302** |
 
-"Total" is the number of translation instances collected across all 13 source libraries (the same translation may appear on multiple sites). "Unique" is the number of distinct translation editions after deduplication. "Public subset" is the number of instances distributed in this dataset under public domain (242) or open licenses (65).
+"Total" is the number of translation instances collected across all 13 source libraries (the same translation may appear on multiple sites). "Unique" is the number of distinct translation editions after deduplication. "Public subset" is the number of instances distributed in this dataset under public domain (237) or open licenses (65).
 
 ## Structure
 
@@ -59,7 +61,7 @@ corpora/
   {site}/
     {iso}/
       {id}.jsonl        # one verse per line
-index.tsv               # metadata for all 657 translations
+index.tsv               # metadata for all 651 translations
 copyrights.tsv          # copyright text and status per translation
 book_coverage.tsv       # which books each translation covers
 manifest.json           # summary statistics
