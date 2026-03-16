@@ -29,7 +29,7 @@ configs:
   data_files: "copyrights.tsv"
 ---
 
-# Targum Corpus
+# Targum - A Multilingual New Testament Translation Corpus
 
 ![Targum — A Multilingual New Testament Translation Corpus](banner.jpg)
 

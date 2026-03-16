@@ -1,4 +1,4 @@
-# targum-corpus
+# Targum - A Multilingual New Testament Translation Corpus
 
 ![Targum — A Multilingual New Testament Translation Corpus](banner.jpg)
 
