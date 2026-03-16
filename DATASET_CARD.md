@@ -76,6 +76,43 @@ Each JSONL file:
 
 `book` uses USFM 3-letter New Testament codes: `MAT MRK LUK JHN ACT ROM 1CO 2CO GAL EPH PHP COL 1TH 2TH 1TI 2TI TIT PHM HEB JAS 1PE 2PE 1JN 2JN 3JN JUD REV`.
 
+## Embeddings
+
+Pre-computed text embeddings are available for all translations at both chapter and verse granularity, produced by two Qwen3 embedding models:
+
+| Model | Granularity | Files | Size |
+|---|---|---:|---:|
+| `Qwen/Qwen3-Embedding-0.6B` | chapter | 656 | ~270 MB |
+| `Qwen/Qwen3-Embedding-0.6B` | verse | 656 | ~7.7 GB |
+| `Qwen/Qwen3-Embedding-8B` | chapter | 656 | ~2.4 GB |
+| `Qwen/Qwen3-Embedding-8B` | verse | 656 | ~75 GB |
+
+Embeddings are stored as Hive-partitioned Parquet files:
+
+```
+embeddings/
+  {model}/
+    language={iso}/
+      site={site}/
+        translation={id}/
+          granularity={chapter|verse}/
+            data.parquet
+```
+
+Where `{model}` uses `XxX` as a separator (e.g. `QwenXxXQwen3-Embedding-0.6B`). Each `data.parquet` contains columns `key` (e.g. `MAT 1` for chapter, `MAT 1:1` for verse) and `value` (the embedding vector).
+
+Loading chapter embeddings for one translation:
+
+```python
+import pandas as pd
+
+df = pd.read_parquet(
+    "hf://datasets/mrapacz/targum-corpus/embeddings/"
+    "QwenXxXQwen3-Embedding-0.6B/language=eng/site=ebible.org/"
+    "translation=eng-web/granularity=chapter/data.parquet"
+)
+```
+
 ## Metadata
 
 Each translation in `index.tsv` is annotated with manually verified metadata:
