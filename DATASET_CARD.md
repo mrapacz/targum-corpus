@@ -7,31 +7,39 @@ language:
 - it
 license: cc-by-4.0
 pretty_name: Targum Corpus
+multilinguality:
+- multilingual
 tags:
 - bible
+- bible-translation
 - translation
 - nlp
 - corpus-linguistics
 - parallel-corpus
 - digital-humanities
+- religion
 size_categories:
-- 10M<n<100M
+- 1M<n<10M
 task_categories:
 - text-generation
 - translation
 configs:
-- config_name: index
-  data_files: "index.tsv"
+- config_name: corpora
+  data_files: "corpora/**/*.jsonl"
   default: true
+- config_name: works
+  data_files: "works.tsv"
+- config_name: editions
+  data_files: "editions.tsv"
+- config_name: instances
+  data_files: "instances.tsv"
 - config_name: book_coverage
   data_files: "book_coverage.tsv"
-- config_name: copyrights
-  data_files: "copyrights.tsv"
 ---
 
-# Targum - A Multilingual New Testament Translation Corpus
+# Targum -- A Multilingual New Testament Translation Corpus
 
-![Targum — A Multilingual New Testament Translation Corpus](banner.jpg)
+**Links:** 📄 [LREC 2026 paper](https://aclanthology.org/2026.lrec-main.564/) · 🗂️ [GitHub mirror](https://github.com/mrapacz/targum-corpus) · 🌐 [Online viewer](https://targum.mrapacz.com/)
 
 **Targum** is a multilingual New Testament translation corpus with unprecedented depth in five European languages: English, French, Italian, Polish, and Spanish. It contains **651** translations (**334** unique) collected from **13** source libraries and spanning **1525–2025**.
 
@@ -39,7 +47,13 @@ This dataset contains the **public release subset**: **302** translations distri
 
 Named after the ancient Aramaic translations of the Hebrew Bible (תרגום, "translation"), the corpus prioritizes vertical depth over linguistic breadth, making it possible to computationally analyze a wide spectrum of historical periods and confessional traditions within each language.
 
-Also available on GitHub: [mrapacz/targum-corpus](https://github.com/mrapacz/targum-corpus).
+The repository ships three families of artefacts side by side:
+
+- **Corpus texts** -- verse-level JSONL under `corpora/`.
+- **Embeddings** -- pre-computed encoder vectors under `embeddings/` (~120 GB across six (model, granularity) combinations).
+- **Similarity** -- pairwise lexical and semantic similarity scores under `similarity/` (~5 GB).
+
+The metadata tables (`works`, `editions`, `instances`, `book_coverage`) are exposed as HuggingFace dataset configs and can be loaded directly with `load_dataset`.
 
 ## Corpus Scale
 
@@ -61,10 +75,13 @@ corpora/
   {site}/
     {iso}/
       {id}.jsonl        # one verse per line
-index.tsv               # metadata for all 651 translations
-copyrights.tsv          # copyright text and status per translation
-book_coverage.tsv       # which books each translation covers
+works.tsv               # one row per translation work (a work groups all editions of one underlying translation)
+editions.tsv            # one row per edition, with copyright + provenance
+instances.tsv           # one row per per-site instance, FK to editions
+book_coverage.tsv       # which books each instance covers
 manifest.json           # summary statistics
+
+# Same tables are also available as .json (lists preserved as arrays).
 ```
 
 Each JSONL file:
@@ -78,14 +95,16 @@ Each JSONL file:
 
 ## Embeddings
 
-Pre-computed text embeddings are available for all translations at both chapter and verse granularity, produced by two Qwen3 embedding models:
+Pre-computed text embeddings are available for all translations, produced by several encoder models at chapter and/or verse granularity:
 
 | Model | Granularity | Files | Size |
 |---|---|---:|---:|
-| `Qwen/Qwen3-Embedding-0.6B` | chapter | 656 | ~270 MB |
 | `Qwen/Qwen3-Embedding-0.6B` | verse | 656 | ~7.7 GB |
-| `Qwen/Qwen3-Embedding-8B` | chapter | 656 | ~2.4 GB |
-| `Qwen/Qwen3-Embedding-8B` | verse | 656 | ~75 GB |
+| `Qwen/Qwen3-Embedding-8B` | chapter | 656 | ~1007.1 MB |
+| `Qwen/Qwen3-Embedding-8B` | verse | 656 | ~74.5 GB |
+| `nvidia/llama-embed-nemotron-8b` | chapter | 656 | ~1007.5 MB |
+| `sentence-transformers/LaBSE` | chapter | 656 | ~1.1 GB |
+| `sentence-transformers/LaBSE` | verse | 656 | ~22.8 GB |
 
 Embeddings are stored as Hive-partitioned Parquet files:
 
@@ -104,27 +123,53 @@ Where `{model}` uses `XxX` as a separator (e.g. `QwenXxXQwen3-Embedding-0.6B`). 
 Loading chapter embeddings for one translation:
 
 ```python
+import pyarrow.parquet as pq
+from huggingface_hub import hf_hub_download
+
+p = hf_hub_download(
+    repo_id="mrapacz/targum-corpus",
+    repo_type="dataset",
+    filename="embeddings/QwenXxXQwen3-Embedding-0.6B/language=eng/"
+             "site=ebible.org/translation=engwebp/granularity=chapter/data.parquet",
+)
+df = pq.ParquetFile(p).read().to_pandas()
+```
+
+## Similarity
+
+Pre-computed pairwise similarity scores between translations are
+distributed alongside the corpus under `similarity/`:
+
+- **`similarity/lexical/jaccard/chapter/{iso}.parquet`** -- chapter-level Jaccard token-overlap scores.
+- **`similarity/lexical/levenshtein/chapter/{iso}.parquet`** -- chapter-level Levenshtein-based scores.
+- **`similarity/semantic/cosine/{model}/chapter/{iso}.parquet`** -- chapter-level cosine similarity between embeddings (currently `QwenXxXQwen3-Embedding-8B`). A `cross_language.parquet` adds pairs that span language boundaries.
+
+One parquet file per language at chapter granularity. Total payload
+is roughly 5 GB (lexical ~3 GB, semantic/cosine ~2 GB).
+
+```python
 import pandas as pd
 
-df = pd.read_parquet(
-    "hf://datasets/mrapacz/targum-corpus/embeddings/"
-    "QwenXxXQwen3-Embedding-0.6B/language=eng/site=ebible.org/"
-    "translation=eng-web/granularity=chapter/data.parquet"
+sem = pd.read_parquet(
+    "hf://datasets/mrapacz/targum-corpus/similarity/semantic/cosine/"
+    "QwenXxXQwen3-Embedding-8B/chapter/ita.parquet"
 )
+print(sem.head())
 ```
 
 ## Metadata
 
-Each translation in `index.tsv` is annotated with manually verified metadata:
+Each translation has three layers of metadata:
 
-- **`canonical_id`** — a standardized identifier for the translation work (e.g. `kjv`, `nkjv`). Any version presented under a new name receives its own unique identifier.
-- **`canonical_version`** — the specific edition or revision (e.g. `1611`, `4th edition`).
-- **`canonical_year`** — the year of the specific revision.
-- **`copyright_status`** — one of `public_domain`, `open_license`, or `copyrighted`.
+- **`works.tsv`** — one row per translation work (`work_id`, display name, abbreviation, language, tradition, reference URLs). A work groups together all editions of the same underlying translation.
+- **`editions.tsv`** — one row per distinct edition (FK `work_id`). Carries the curated copyright status / category / statement / source URL / publisher / publication year — these are invariant across the sites that host the edition.
+- **`instances.tsv`** — one row per per-site instance of an edition (FK `edition_id` → `work_id`). Captures the per-site declared copyright (which may disagree with the curated truth — useful for spotting publisher disputes).
 
-This canonicalization allows researchers to define "uniqueness" for their own needs: they can perform micro-level analyses on translation families (e.g. the KJV lineage) or conduct macro-level studies by deduplicating closely related texts.
+This three-layer structure lets researchers define "uniqueness" for their own needs: deduplicate by work (translation family), edition (specific revision), or keep every per-site instance.
 
 ## Usage
+
+### Verse text
 
 ```python
 from datasets import load_dataset
@@ -132,7 +177,7 @@ from datasets import load_dataset
 # Load a single translation
 ds = load_dataset(
     "mrapacz/targum-corpus",
-    data_files="corpora/ebible.org/eng/eng-web.jsonl",
+    data_files="corpora/ebible.org/eng/engwebp.jsonl",
     split="train",
 )
 print(ds[0])
@@ -145,15 +190,84 @@ ds = load_dataset(
 )
 ```
 
-Load metadata:
+### Metadata via configs
+
+Each declared config maps to one of the TSV tables and is loadable
+directly:
+
+```python
+from datasets import load_dataset
+
+works       = load_dataset("mrapacz/targum-corpus", "works",          split="train")
+editions    = load_dataset("mrapacz/targum-corpus", "editions",       split="train")
+instances   = load_dataset("mrapacz/targum-corpus", "instances",      split="train")
+book_cov    = load_dataset("mrapacz/targum-corpus", "book_coverage",  split="train")
+```
+
+Or as pandas / polars frames over the raw TSV / JSON files:
 
 ```python
 import pandas as pd
 
-index = pd.read_csv(
-    "hf://datasets/mrapacz/targum-corpus/index.tsv",
-    sep="\t",
+editions  = pd.read_csv("hf://datasets/mrapacz/targum-corpus/editions.tsv",  sep="\t")
+instances = pd.read_csv("hf://datasets/mrapacz/targum-corpus/instances.tsv", sep="\t")
+```
+
+### Selective access (recommended for embeddings / similarity)
+
+With ~120 GB of embeddings + ~5 GB of similarity, you almost never
+want a full clone. Pull only what you need:
+
+```python
+from huggingface_hub import hf_hub_download, snapshot_download
+
+# One specific embedding file
+path = hf_hub_download(
+    repo_id="mrapacz/targum-corpus",
+    repo_type="dataset",
+    filename="embeddings/QwenXxXQwen3-Embedding-0.6B/language=eng/"
+             "site=ebible.org/translation=engwebp/granularity=chapter/data.parquet",
 )
+
+# All English chapter embeddings for one model
+local_dir = snapshot_download(
+    repo_id="mrapacz/targum-corpus",
+    repo_type="dataset",
+    allow_patterns=[
+        "embeddings/QwenXxXQwen3-Embedding-0.6B/language=eng/**/granularity=chapter/data.parquet",
+    ],
+)
+
+# All metadata + the public corpus, no embeddings, no similarity
+local_dir = snapshot_download(
+    repo_id="mrapacz/targum-corpus",
+    repo_type="dataset",
+    allow_patterns=["*.tsv", "*.json", "corpora/**"],
+)
+```
+
+The repository is backed by HuggingFace's [Xet](https://huggingface.co/docs/hub/storage-backends#xet)
+storage. To pull only the slices you care about from the
+shell, use the [`hf` CLI](https://huggingface.co/docs/huggingface_hub/main/en/guides/cli)'s
+`--include` filters:
+
+```bash
+pip install -U "huggingface_hub[cli]"
+
+# One specific embedding file
+hf download mrapacz/targum-corpus --repo-type dataset \
+  --include "embeddings/QwenXxXQwen3-Embedding-0.6B/language=eng/site=ebible.org/translation=engwebp/granularity=chapter/data.parquet" \
+  --local-dir ./targum-corpus
+
+# All English chapter embeddings for one model
+hf download mrapacz/targum-corpus --repo-type dataset \
+  --include "embeddings/QwenXxXQwen3-Embedding-0.6B/language=eng/**/granularity=chapter/data.parquet" \
+  --local-dir ./targum-corpus
+
+# Metadata + public corpus only (no embeddings, no similarity)
+hf download mrapacz/targum-corpus --repo-type dataset \
+  --include "*.tsv" --include "*.json" --include "corpora/**" \
+  --local-dir ./targum-corpus
 ```
 
 ## Source Data
@@ -162,11 +276,29 @@ Translations were collected from 13 libraries: bible.audio, bible.com, bible.is,
 
 ## Citation
 
-This corpus will be published at [LREC 2026](https://lrec2026.info/) (Palma, Mallorca, 11--16 May 2026). Citation TBD.
+If you use this corpus, please cite our LREC 2026 paper:
 
-A preprint is available at [arxiv.org/abs/2602.09724](https://arxiv.org/abs/2602.09724).
+> Rapacz, M., & Smywiński-Pohl, A. (2026). Targum — a Multilingual New Testament Translation Corpus. In *Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026)* (pp. 7092–7105). European Language Resources Association (ELRA). https://doi.org/10.63317/2yiotxcyovir
+
+```bibtex
+@inproceedings{rapacz-etal-2026-targum,
+  title     = {Targum -- a Multilingual New Testament Translation Corpus},
+  author    = {Rapacz, Maciej and Smywi{\'n}ski-Pohl, Aleksander},
+  booktitle = {Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026)},
+  month     = {May},
+  year      = {2026},
+  pages     = {7092--7105},
+  address   = {Palma, Mallorca, Spain},
+  publisher = {European Language Resources Association (ELRA)},
+  editor    = {Piperidis, Stelios and Bel, N{\'u}ria and van den Heuvel, Henk and Ide, Nancy and Krek, Simon and Toral, Antonio},
+  doi       = {10.63317/2yiotxcyovir},
+  url       = {https://lrec.elra.info/lrec2026-main-564}
+}
+```
+
+Open-access PDF: <http://www.lrec-conf.org/proceedings/lrec2026/pdf/2026.lrec2026-1.564.pdf>.
 
 ## License
 
 Corpus metadata and derived annotations: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-Individual translations retain their original licenses as recorded in `copyrights.tsv`.
+Individual translations retain their original licenses as recorded in `editions.tsv` (`copyright_statement` column).

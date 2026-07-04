@@ -1,0 +1,894 @@
+[
+  {
+    "work_id": "2001-translation",
+    "display_name": "2001 Translation"
+  },
+  {
+    "work_id": "21st-century-king-james-version",
+    "display_name": "21st Century King James Version"
+  },
+  {
+    "work_id": "american-king-james-version",
+    "display_name": "American King James Version"
+  },
+  {
+    "work_id": "american-standard-version",
+    "display_name": "American Standard Version"
+  },
+  {
+    "work_id": "amplified-bible",
+    "display_name": "Amplified Bible"
+  },
+  {
+    "work_id": "anderson-new-testament",
+    "display_name": "Anderson New Testament"
+  },
+  {
+    "work_id": "aramaic-plain-english",
+    "display_name": "Aramaic Bible in Plain English"
+  },
+  {
+    "work_id": "berean-literal-bible",
+    "display_name": "Berean Literal Bible"
+  },
+  {
+    "work_id": "berean-standard-bible",
+    "display_name": "Berean Standard Bible"
+  },
+  {
+    "work_id": "berean-study-bible",
+    "display_name": "Berean Standard Bible"
+  },
+  {
+    "work_id": "bible-crampon",
+    "display_name": "Traduction Crampon"
+  },
+  {
+    "work_id": "bible-de-tours",
+    "display_name": "Grande Bible de Tours"
+  },
+  {
+    "work_id": "bible-des-peuples",
+    "display_name": "Bible des Peuples"
+  },
+  {
+    "work_id": "bible-du-semeur",
+    "display_name": "Bible du Semeur"
+  },
+  {
+    "work_id": "bible-francais-courant",
+    "display_name": "Bible en français courant"
+  },
+  {
+    "work_id": "bible-in-basic-english",
+    "display_name": "Bible in Basic English"
+  },
+  {
+    "work_id": "bible-machaira",
+    "display_name": "Bible Machaira"
+  },
+  {
+    "work_id": "bible-martin",
+    "display_name": "Bible Martin"
+  },
+  {
+    "work_id": "bible-nouvelle-francais-courant",
+    "display_name": "Nouvelle Bible en français courant"
+  },
+  {
+    "work_id": "biblia-brzeska",
+    "display_name": "Biblia Brzeska"
+  },
+  {
+    "work_id": "biblia-de-america",
+    "display_name": "Biblia de América"
+  },
+  {
+    "work_id": "biblia-de-la-casa-de-la-biblia",
+    "display_name": "La Biblia (La Casa de la Biblia)"
+  },
+  {
+    "work_id": "biblia-del-jubileo",
+    "display_name": "Biblia del Jubileo"
+  },
+  {
+    "work_id": "biblia-del-oso",
+    "display_name": "Biblia del Oso"
+  },
+  {
+    "work_id": "biblia-gdanska",
+    "display_name": "Biblia Gdańska"
+  },
+  {
+    "work_id": "biblia-jakuba-wujka",
+    "display_name": "Biblia Wujka"
+  },
+  {
+    "work_id": "biblia-krola-jakuba",
+    "display_name": "Biblia Króla Jakuba"
+  },
+  {
+    "work_id": "biblia-libre",
+    "display_name": "Versión Biblia Libre"
+  },
+  {
+    "work_id": "biblia-poznanska",
+    "display_name": "Biblia Poznańska"
+  },
+  {
+    "work_id": "biblia-tysiaclecia",
+    "display_name": "Biblia Tysiąclecia"
+  },
+  {
+    "work_id": "biblia-warszawska",
+    "display_name": "Biblia Warszawska"
+  },
+  {
+    "work_id": "biblia-warszawsko-praska",
+    "display_name": "Biblia warszawsko-praska"
+  },
+  {
+    "work_id": "bishops-bible",
+    "display_name": "Bishops' Bible"
+  },
+  {
+    "work_id": "bovet-bonnet",
+    "display_name": "Bible Bovet-Bonnet"
+  },
+  {
+    "work_id": "byzantine-text-version",
+    "display_name": "The Text-Critical English New Testament"
+  },
+  {
+    "work_id": "catholic-public-domain-version",
+    "display_name": "Catholic Public Domain Version"
+  },
+  {
+    "work_id": "charles-thomson",
+    "display_name": "Thomson's Translation"
+  },
+  {
+    "work_id": "christian-standard-bible",
+    "display_name": "Christian Standard Bible"
+  },
+  {
+    "work_id": "common-english-bible",
+    "display_name": "Common English Bible"
+  },
+  {
+    "work_id": "complete-jewish-bible",
+    "display_name": "Complete Jewish Bible"
+  },
+  {
+    "work_id": "conferenza-episcopale-italiana",
+    "display_name": "Bibbia CEI"
+  },
+  {
+    "work_id": "contemporary-english-version",
+    "display_name": "Contemporary English Version"
+  },
+  {
+    "work_id": "coverdale-bible",
+    "display_name": "Coverdale Bible"
+  },
+  {
+    "work_id": "dabrowski-greka",
+    "display_name": "Ks. Eugeniusz Dąbrowski (Nowy Testament z greckiego)"
+  },
+  {
+    "work_id": "dabrowski-wulgata",
+    "display_name": "Ks. Eugeniusz Dąbrowski (Nowy Testament z Wulgaty)"
+  },
+  {
+    "work_id": "diodati-bible",
+    "display_name": "Bibbia Diodati"
+  },
+  {
+    "work_id": "dios-habla-hoy",
+    "display_name": "Dios Habla Hoy"
+  },
+  {
+    "work_id": "disciples-literal-new-testament",
+    "display_name": "Disciples’ Literal New Testament"
+  },
+  {
+    "work_id": "douay-rheims",
+    "display_name": "Douay–Rheims Bible"
+  },
+  {
+    "work_id": "easy-to-read-version",
+    "display_name": "Easy-to-Read Version"
+  },
+  {
+    "work_id": "easyenglish-bible",
+    "display_name": "EasyEnglish Bible"
+  },
+  {
+    "work_id": "eib-nowe-przymierze-literal",
+    "display_name": "Stare i Nowe Przymierze (przekład dosłowny)"
+  },
+  {
+    "work_id": "eib-nowe-przymierze-literary",
+    "display_name": "Stare i Nowe Przymierze (przekład literacki)"
+  },
+  {
+    "work_id": "eng-darby-translation",
+    "display_name": "Darby Translation"
+  },
+  {
+    "work_id": "eng-new-world-translation",
+    "display_name": "New World Translation"
+  },
+  {
+    "work_id": "english-interlinear-of-the-orthodox-yiddish-brit-chadasha",
+    "display_name": "English Interlinear of the Orthodox Yiddish Brit Chadasha"
+  },
+  {
+    "work_id": "english-majority-text-version",
+    "display_name": "English Majority Text Version"
+  },
+  {
+    "work_id": "english-revised-version",
+    "display_name": "Revised Version"
+  },
+  {
+    "work_id": "english-standard-version",
+    "display_name": "English Standard Version"
+  },
+  {
+    "work_id": "evangelical-heritage-version",
+    "display_name": "Evangelical Heritage Version"
+  },
+  {
+    "work_id": "expanded-bible",
+    "display_name": "Expanded Bible"
+  },
+  {
+    "work_id": "explained-bible",
+    "display_name": "Bible expliquée"
+  },
+  {
+    "work_id": "faithful-version",
+    "display_name": "A Faithful Version"
+  },
+  {
+    "work_id": "family-35-nt",
+    "display_name": "The English New Testament According to Family 35"
+  },
+  {
+    "work_id": "first-nations-version",
+    "display_name": "First Nations Version"
+  },
+  {
+    "work_id": "fra-darby-translation",
+    "display_name": "Bible Darby"
+  },
+  {
+    "work_id": "fra-jerusalem-bible",
+    "display_name": "Bible de Jérusalem"
+  },
+  {
+    "work_id": "fra-new-world-translation",
+    "display_name": "Traduction du monde nouveau"
+  },
+  {
+    "work_id": "frainc-comtois",
+    "display_name": "Évangile de Matthieu (frainc-comtois)"
+  },
+  {
+    "work_id": "free-bible-version",
+    "display_name": "Free Bible Version"
+  },
+  {
+    "work_id": "french-king-james-bible",
+    "display_name": "Bible King James Française"
+  },
+  {
+    "work_id": "french-model-translation",
+    "display_name": "Traduction Française de Modèle"
+  },
+  {
+    "work_id": "geneva-bible-eng",
+    "display_name": "Geneva Bible"
+  },
+  {
+    "work_id": "geneva-bible-fra",
+    "display_name": "Nouvelle Édition de Genève"
+  },
+  {
+    "work_id": "godbey-new-testament",
+    "display_name": "Godbey New Testament"
+  },
+  {
+    "work_id": "gods-word-translation",
+    "display_name": "GOD'S WORD Translation"
+  },
+  {
+    "work_id": "good-news",
+    "display_name": "Good News Translation"
+  },
+  {
+    "work_id": "greens-literal-translation",
+    "display_name": "Green's Literal Translation"
+  },
+  {
+    "work_id": "grzymala",
+    "display_name": "Ks. Edward Grzymała (Ewangelie i Dzieje Apostolskie)"
+  },
+  {
+    "work_id": "haweis-new-testament",
+    "display_name": "Haweis New Testament"
+  },
+  {
+    "work_id": "hb-pratt",
+    "display_name": "Versión Moderna"
+  },
+  {
+    "work_id": "holman-christian-standard-bible",
+    "display_name": "Holman Christian Standard Bible"
+  },
+  {
+    "work_id": "interconfessionale-in-lingua-corrente",
+    "display_name": "Parola del Signore - La Bibbia in lingua corrente"
+  },
+  {
+    "work_id": "international-childrens-bible",
+    "display_name": "International Children's Bible"
+  },
+  {
+    "work_id": "international-standard-version",
+    "display_name": "International Standard Version"
+  },
+  {
+    "work_id": "israeli-authorized-version",
+    "display_name": "Israeli Authorized Version"
+  },
+  {
+    "work_id": "ita-new-world-translation",
+    "display_name": "Traduzione del Nuovo Mondo"
+  },
+  {
+    "work_id": "james-moffatt-new-testament",
+    "display_name": "Moffatt New Testament"
+  },
+  {
+    "work_id": "jb-phillips-new-testament",
+    "display_name": "J.B. Phillips New Testament"
+  },
+  {
+    "work_id": "john-wesley-etheridge",
+    "display_name": "Etheridge's Translation of the Peshitta"
+  },
+  {
+    "work_id": "jubilee-bible",
+    "display_name": "Jubilee Bible 2000"
+  },
+  {
+    "work_id": "junemann-bible",
+    "display_name": "Biblia de Jünemann"
+  },
+  {
+    "work_id": "king-james-version-2000",
+    "display_name": "King James 2000 Bible"
+  },
+  {
+    "work_id": "king-james-version",
+    "display_name": "King James Version"
+  },
+  {
+    "work_id": "la-bibbia-della-gioia",
+    "display_name": "La Bibbia della Gioia"
+  },
+  {
+    "work_id": "la-biblia-de-las-americas",
+    "display_name": "La Biblia de las Américas"
+  },
+  {
+    "work_id": "la-biblia-en-espanol-sencillo",
+    "display_name": "La Biblia en Español Sencillo"
+  },
+  {
+    "work_id": "la-biblia-hispanoamericana-interconfesional",
+    "display_name": "Biblia Interconfesional Hispanoamericana"
+  },
+  {
+    "work_id": "la-biblia-latinoamericana",
+    "display_name": "La Biblia Latinoamericana"
+  },
+  {
+    "work_id": "la-palabra",
+    "display_name": "La Palabra (edición latinoamericana)"
+  },
+  {
+    "work_id": "la-parola-e-vita",
+    "display_name": "La Parola è Vita"
+  },
+  {
+    "work_id": "lamsa-bible",
+    "display_name": "Lamsa Bible"
+  },
+  {
+    "work_id": "lausanne",
+    "display_name": "Bible de Lausanne"
+  },
+  {
+    "work_id": "legacy-standard-bible",
+    "display_name": "Legacy Standard Bible"
+  },
+  {
+    "work_id": "lenguaje-actual",
+    "display_name": "Traducción en Lenguaje Actual"
+  },
+  {
+    "work_id": "lexham-english-bible",
+    "display_name": "Lexham English Bible"
+  },
+  {
+    "work_id": "literal-emphasis-translation",
+    "display_name": "Literal Emphasis Translation"
+  },
+  {
+    "work_id": "literal-standard-version",
+    "display_name": "Literal Standard Version"
+  },
+  {
+    "work_id": "living-bible",
+    "display_name": "Living Bible"
+  },
+  {
+    "work_id": "louis-claude-fillion",
+    "display_name": "Bible Fillion"
+  },
+  {
+    "work_id": "louis-segond",
+    "display_name": "Louis Segond"
+  },
+  {
+    "work_id": "mace-new-testament",
+    "display_name": "Mace New Testament"
+  },
+  {
+    "work_id": "majority-text-version",
+    "display_name": "English Majority Text Version"
+  },
+  {
+    "work_id": "mariawici",
+    "display_name": "Przekład Mariawitów (Nowy Testament)"
+  },
+  {
+    "work_id": "martini",
+    "display_name": "Bibbia Martini"
+  },
+  {
+    "work_id": "mazurkiewicz",
+    "display_name": "Andrzej Mazurkiewicz (Nowy Testament)"
+  },
+  {
+    "work_id": "mit-idiomatic-translation-of-the-new-testament",
+    "display_name": "MIT Idiomatic Translation of the New Testament"
+  },
+  {
+    "work_id": "modern-english-version",
+    "display_name": "Modern English Version"
+  },
+  {
+    "work_id": "mounce-reverse-interlinear-new-testament",
+    "display_name": "Mounce Reverse Interlinear New Testament"
+  },
+  {
+    "work_id": "murdock-peshitta",
+    "display_name": "Murdock's Translation of the Peshitta"
+  },
+  {
+    "work_id": "names-of-god-bible",
+    "display_name": "Names of God Bible"
+  },
+  {
+    "work_id": "neo-crampon-libre",
+    "display_name": "Néo-Crampon Libre"
+  },
+  {
+    "work_id": "net-bible",
+    "display_name": "NET Bible"
+  },
+  {
+    "work_id": "new-american-bible-revised-edition",
+    "display_name": "New American Bible Revised Edition"
+  },
+  {
+    "work_id": "new-american-standard-bible",
+    "display_name": "New American Standard Bible"
+  },
+  {
+    "work_id": "new-catholic-bible",
+    "display_name": "New Catholic Bible"
+  },
+  {
+    "work_id": "new-century-version",
+    "display_name": "New Century Version"
+  },
+  {
+    "work_id": "new-heart-english-bible",
+    "display_name": "New Heart English Bible"
+  },
+  {
+    "work_id": "new-international-readers-version",
+    "display_name": "New International Reader's Version"
+  },
+  {
+    "work_id": "new-international-version",
+    "display_name": "New International Version"
+  },
+  {
+    "work_id": "new-king-james-version",
+    "display_name": "New King James Version"
+  },
+  {
+    "work_id": "new-life-version",
+    "display_name": "New Life Version"
+  },
+  {
+    "work_id": "new-living-translation",
+    "display_name": "New Living Translation"
+  },
+  {
+    "work_id": "new-matthew-bible",
+    "display_name": "New Matthew Bible"
+  },
+  {
+    "work_id": "new-messianic-version-bible",
+    "display_name": "New Messianic Version Bible"
+  },
+  {
+    "work_id": "new-revised-standard-version",
+    "display_name": "New Revised Standard Version"
+  },
+  {
+    "work_id": "nouvelle-edition-de-geneve",
+    "display_name": "Nouvelle Édition de Genève"
+  },
+  {
+    "work_id": "nouvelle-segond-revisee",
+    "display_name": "Nouvelle Version Segond Révisée"
+  },
+  {
+    "work_id": "nouvelle-segond",
+    "display_name": "Nouvelle Bible Segond"
+  },
+  {
+    "work_id": "nowa-biblia-gdanska",
+    "display_name": "Nowa Biblia Gdańska"
+  },
+  {
+    "work_id": "nowy-przeklad-dynamiczny",
+    "display_name": "Nowy Przekład Dynamiczny"
+  },
+  {
+    "work_id": "noyes-bible",
+    "display_name": "Noyes Bible"
+  },
+  {
+    "work_id": "nt-wright-new-testament-for-everyone",
+    "display_name": "The New Testament for Everyone"
+  },
+  {
+    "work_id": "nueva-biblia-de-las-americas",
+    "display_name": "Nueva Biblia de las Américas"
+  },
+  {
+    "work_id": "nueva-biblia-latinoamericana-de-hoy",
+    "display_name": "Nueva Biblia Latinoamericana de Hoy"
+  },
+  {
+    "work_id": "nueva-biblia-viva",
+    "display_name": "Nueva Biblia Viva"
+  },
+  {
+    "work_id": "nueva-traduccion-viviente",
+    "display_name": "Nueva Traducción Viviente"
+  },
+  {
+    "work_id": "nueva-version-internacional",
+    "display_name": "Nueva Versión Internacional"
+  },
+  {
+    "work_id": "nuova-diodati",
+    "display_name": "La Nuova Diodati"
+  },
+  {
+    "work_id": "nuova-riveduta",
+    "display_name": "Nuova Riveduta"
+  },
+  {
+    "work_id": "open-english-bible",
+    "display_name": "Open English Bible"
+  },
+  {
+    "work_id": "orthodox-jewish-bible",
+    "display_name": "Orthodox Jewish Bible"
+  },
+  {
+    "work_id": "ostervald-godieu-levigilant",
+    "display_name": "Bible Ostervald (révision Godieu-Levigilant)"
+  },
+  {
+    "work_id": "ostervald",
+    "display_name": "Bible Ostervald"
+  },
+  {
+    "work_id": "palabra-de-dios-para-ti",
+    "display_name": "Palabra de Dios para Ti"
+  },
+  {
+    "work_id": "palabra-de-dios-para-todos",
+    "display_name": "Palabra de Dios para Todos"
+  },
+  {
+    "work_id": "parole-de-vie",
+    "display_name": "Parole de Vie"
+  },
+  {
+    "work_id": "parole-vivante",
+    "display_name": "Parole Vivante"
+  },
+  {
+    "work_id": "perret-gentil-rilliet",
+    "display_name": "Perret-Gentil & Rilliet"
+  },
+  {
+    "work_id": "peshitta-espanol",
+    "display_name": "Peshitta en Español"
+  },
+  {
+    "work_id": "pirot-clamer",
+    "display_name": "Bible Pirot-Clamer"
+  },
+  {
+    "work_id": "plain-english-version",
+    "display_name": "Plain English Version"
+  },
+  {
+    "work_id": "pol-new-world-translation",
+    "display_name": "Przekład Nowego Świata"
+  },
+  {
+    "work_id": "przeklad-torunski",
+    "display_name": "Przekład toruński"
+  },
+  {
+    "work_id": "radiate-new-testament",
+    "display_name": "Radiate New Testament"
+  },
+  {
+    "work_id": "rakowski-nt",
+    "display_name": "Nowy Testament rakowski"
+  },
+  {
+    "work_id": "reina-valera-actualizada",
+    "display_name": "Reina Valera Actualizada"
+  },
+  {
+    "work_id": "reina-valera-antigua",
+    "display_name": "Reina-Valera Antigua"
+  },
+  {
+    "work_id": "reina-valera-contemporanea",
+    "display_name": "Reina Valera Contemporánea"
+  },
+  {
+    "work_id": "reina-valera-gomez",
+    "display_name": "Reina Valera Gómez"
+  },
+  {
+    "work_id": "reina-valera-revisada",
+    "display_name": "Reina Valera Revisada"
+  },
+  {
+    "work_id": "reina-valera-revised-version",
+    "display_name": "Reina-Valera 1865"
+  },
+  {
+    "work_id": "reina-valera-updated",
+    "display_name": "Reina Valera Actualizada 1989"
+  },
+  {
+    "work_id": "reina-valera",
+    "display_name": "Reina-Valera"
+  },
+  {
+    "work_id": "restored-name-king-james-version",
+    "display_name": "Restored Name King James Version"
+  },
+  {
+    "work_id": "revised-geneva-translation",
+    "display_name": "Revised Geneva Translation"
+  },
+  {
+    "work_id": "revised-standard-version",
+    "display_name": "Revised Standard Version"
+  },
+  {
+    "work_id": "ricciotti",
+    "display_name": "Bibbia Ricciotti"
+  },
+  {
+    "work_id": "riveduta",
+    "display_name": "Riveduta"
+  },
+  {
+    "work_id": "rotherham-emphasized-bible",
+    "display_name": "Rotherham's Emphasized Bible"
+  },
+  {
+    "work_id": "sacy-bible",
+    "display_name": "Bible de Sacy"
+  },
+  {
+    "work_id": "sagradas-escrituras",
+    "display_name": "Sagradas Escrituras"
+  },
+  {
+    "work_id": "sainte-bible-libre",
+    "display_name": "Sainte Bible libre pour le monde"
+  },
+  {
+    "work_id": "segond-21",
+    "display_name": "Bible Segond 21"
+  },
+  {
+    "work_id": "segun-el-texto-bizantino",
+    "display_name": "Según el Texto Bizantino"
+  },
+  {
+    "work_id": "simple-french-bible",
+    "display_name": "Bible en français simple"
+  },
+  {
+    "work_id": "slowo-zycia",
+    "display_name": "Słowo Życia"
+  },
+  {
+    "work_id": "smiths-literal-translation",
+    "display_name": "Smith's Literal Translation"
+  },
+  {
+    "work_id": "soloweyczyk",
+    "display_name": "Eliasz Sołoweyczyk (Ewangelia świętego Mateusza)"
+  },
+  {
+    "work_id": "spa-jerusalem-bible",
+    "display_name": "Biblia de Jerusalén"
+  },
+  {
+    "work_id": "spa-new-world-translation",
+    "display_name": "Traducción del Nuevo Mundo"
+  },
+  {
+    "work_id": "spanish-free-bible-for-the-world",
+    "display_name": "Santa Biblia libre para el mundo"
+  },
+  {
+    "work_id": "st-paul-from-the-trenches",
+    "display_name": "St. Paul from the Trenches"
+  },
+  {
+    "work_id": "szczepanski",
+    "display_name": "Ks. Władysław Szczepański (Ewangelie i Dzieje Apostolskie)"
+  },
+  {
+    "work_id": "szymon-budny",
+    "display_name": "Biblia nieświeska"
+  },
+  {
+    "work_id": "text-critical-english-nt",
+    "display_name": "Text-Critical English New Testament"
+  },
+  {
+    "work_id": "the-books-of-the-bible",
+    "display_name": "The Books of the Bible New Testament"
+  },
+  {
+    "work_id": "the-message-bible",
+    "display_name": "The Message"
+  },
+  {
+    "work_id": "the-passion-translation",
+    "display_name": "The Passion Translation"
+  },
+  {
+    "work_id": "the-scriptures",
+    "display_name": "The Scriptures"
+  },
+  {
+    "work_id": "the-voice-bible",
+    "display_name": "The Voice"
+  },
+  {
+    "work_id": "third-millennium-bible",
+    "display_name": "Third Millennium Bible"
+  },
+  {
+    "work_id": "tintori",
+    "display_name": "Bibbia Tintori"
+  },
+  {
+    "work_id": "traduccion-contemporanea-de-la-biblia",
+    "display_name": "Traducción Contemporánea de la Biblia"
+  },
+  {
+    "work_id": "translation-for-translators",
+    "display_name": "Translation for Translators"
+  },
+  {
+    "work_id": "translator-translation",
+    "display_name": "A Translator's Translation of the New Testament"
+  },
+  {
+    "work_id": "tree-of-life-version",
+    "display_name": "Tree of Life Version"
+  },
+  {
+    "work_id": "trench-epistles-gwc",
+    "display_name": "The Trench Epistles GWC"
+  },
+  {
+    "work_id": "tyndale-bible",
+    "display_name": "Tyndale Bible"
+  },
+  {
+    "work_id": "unlocked-literal-bible",
+    "display_name": "Unlocked Literal Bible"
+  },
+  {
+    "work_id": "uwspolczesniona-biblia-gdanska",
+    "display_name": "Uwspółcześniona Biblia Gdańska"
+  },
+  {
+    "work_id": "vigouroux",
+    "display_name": "Bible Vigouroux"
+  },
+  {
+    "work_id": "vw-edition-bible",
+    "display_name": "VW-Edition Bible"
+  },
+  {
+    "work_id": "webster-bible",
+    "display_name": "Webster's Bible"
+  },
+  {
+    "work_id": "weymouth-new-testament",
+    "display_name": "Weymouth New Testament"
+  },
+  {
+    "work_id": "who-bible",
+    "display_name": "Who?"
+  },
+  {
+    "work_id": "world-english-bible",
+    "display_name": "World English Bible"
+  },
+  {
+    "work_id": "worldwide-english-new-testament",
+    "display_name": "Worldwide English (New Testament)"
+  },
+  {
+    "work_id": "worrell-new-testament",
+    "display_name": "Worrell New Testament"
+  },
+  {
+    "work_id": "worsley-new-testament",
+    "display_name": "Worsley New Testament"
+  },
+  {
+    "work_id": "wycliffe-bible",
+    "display_name": "Wycliffe's Bible"
+  },
+  {
+    "work_id": "yall-version-bible",
+    "display_name": "Y'all Version Bible"
+  },
+  {
+    "work_id": "youngs-literal-translation",
+    "display_name": "Young's Literal Translation"
+  }
+]

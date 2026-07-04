@@ -1,6 +1,6 @@
-# Targum - A Multilingual New Testament Translation Corpus
+# Targum -- A Multilingual New Testament Translation Corpus
 
-![Targum — A Multilingual New Testament Translation Corpus](banner.jpg)
+**Links:** 📄 [LREC 2026 paper](https://aclanthology.org/2026.lrec-main.564/) · 🤗 [HuggingFace dataset](https://huggingface.co/datasets/mrapacz/targum-corpus) · 🌐 [Online viewer](https://targum.mrapacz.com/) · 🧪 [SIGHUM companion code](https://github.com/mrapacz/sighum-interlinear-vector-baselines)
 
 **Targum** is a multilingual New Testament translation corpus with unprecedented depth in five European languages: English, French, Italian, Polish, and Spanish. It contains **651** translations (**334** unique) collected from **13** source libraries and spanning **1525–2025**.
 
@@ -8,7 +8,11 @@ This repository contains the **public release subset**: **302** translations dis
 
 Named after the ancient Aramaic translations of the Hebrew Bible (תרגום, "translation"), the corpus prioritizes vertical depth over linguistic breadth, making it possible to computationally analyze a wide spectrum of historical periods and confessional traditions within each language.
 
-Also available on HuggingFace: [mrapacz/targum-corpus](https://huggingface.co/datasets/mrapacz/targum-corpus).
+This GitHub mirror ships the corpus texts and metadata tables. The
+companion HuggingFace dataset
+([`mrapacz/targum-corpus`](https://huggingface.co/datasets/mrapacz/targum-corpus))
+adds **pre-computed embeddings** (~120 GB) and **pairwise similarity
+scores** (~5 GB).
 
 ## Corpus Scale
 
@@ -30,10 +34,13 @@ corpus/
   {site}/
     {iso}/
       {id}.jsonl     # one verse per line
-index.tsv            # metadata for all 651 translations
-copyrights.tsv       # copyright text and status per translation
-book_coverage.tsv    # which books each translation covers
+works.tsv            # one row per translation work
+editions.tsv         # one row per edition, with copyright + provenance
+instances.tsv        # one row per per-site instance, FK to editions
+book_coverage.tsv    # which books each instance covers
 manifest.json        # summary statistics
+
+# Same tables are also available as .json (lists preserved as arrays).
 ```
 
 Each JSONL file contains one verse per line:
@@ -47,14 +54,16 @@ Each JSONL file contains one verse per line:
 
 ## Embeddings
 
-Pre-computed text embeddings are available for all translations at both chapter and verse granularity, produced by two Qwen3 embedding models:
+Pre-computed text embeddings are available for all translations, produced by several encoder models at chapter and/or verse granularity:
 
 | Model | Granularity | Files | Size |
 |---|---|---:|---:|
-| `Qwen/Qwen3-Embedding-0.6B` | chapter | 656 | ~270 MB |
 | `Qwen/Qwen3-Embedding-0.6B` | verse | 656 | ~7.7 GB |
-| `Qwen/Qwen3-Embedding-8B` | chapter | 656 | ~2.4 GB |
-| `Qwen/Qwen3-Embedding-8B` | verse | 656 | ~75 GB |
+| `Qwen/Qwen3-Embedding-8B` | chapter | 656 | ~1007.1 MB |
+| `Qwen/Qwen3-Embedding-8B` | verse | 656 | ~74.5 GB |
+| `nvidia/llama-embed-nemotron-8b` | chapter | 656 | ~1007.5 MB |
+| `sentence-transformers/LaBSE` | chapter | 656 | ~1.1 GB |
+| `sentence-transformers/LaBSE` | verse | 656 | ~22.8 GB |
 
 Embeddings are stored as Hive-partitioned Parquet files under `embeddings/` on [HuggingFace](https://huggingface.co/datasets/mrapacz/targum-corpus):
 
@@ -78,22 +87,33 @@ import pandas as pd
 df = pd.read_parquet(
     "hf://datasets/mrapacz/targum-corpus/embeddings/"
     "QwenXxXQwen3-Embedding-0.6B/language=eng/site=ebible.org/"
-    "translation=eng-web/granularity=chapter/data.parquet"
+    "translation=engwebp/granularity=chapter/data.parquet"
 )
 ```
 
+## Similarity
+
+The HuggingFace dataset also ships pairwise similarity scores between
+translations under `similarity/`:
+
+- **`similarity/lexical/jaccard/chapter/{iso}.parquet`** -- chapter-level Jaccard token-overlap.
+- **`similarity/lexical/levenshtein/chapter/{iso}.parquet`** -- chapter-level Levenshtein-based scores.
+- **`similarity/semantic/cosine/{model}/chapter/{iso}.parquet`** -- chapter-level cosine similarity between embeddings (currently `QwenXxXQwen3-Embedding-8B`); a `cross_language.parquet` adds pairs that span language boundaries.
+
+One parquet file per language at chapter granularity. Total payload
+is roughly 5 GB (lexical ~3 GB, semantic/cosine ~2 GB). See
+[`docs/targum-corpus/similarity.md`](https://github.com/mrapacz/targum/blob/master/docs/targum-corpus/similarity.md)
+for the exact definitions and reproduction steps.
+
 ## Metadata
 
-Each translation in `index.tsv` is annotated with manually verified metadata:
+Each translation has three layers of metadata:
 
-- **`canonical_id`** — a standardized identifier for the translation work (e.g. `kjv`, `nkjv`). Any version presented under a new name receives its own unique identifier.
-- **`canonical_version`** — the specific edition or revision (e.g. `1611`, `4th edition`).
-- **`canonical_year`** — the year of the specific revision.
-- **`copyright_status`** — one of `public_domain`, `open_license`, or `copyrighted`.
+- **`works.tsv`** — one row per translation work (`work_id`, display name, abbreviation, language, tradition, reference URLs).
+- **`editions.tsv`** — one row per distinct edition (FK `work_id`), with curated `copyright_status` / `copyright_category` / `copyright_statement` / `copyright_statement_source_url` / `publisher` / `publication_year`.
+- **`instances.tsv`** — one row per per-site instance (FK `edition_id`, `work_id`), with `site`, `iso`, `instance_id`, counts (`num_books`, `num_chapters`, `num_verses`, `num_words`) and the per-site declared copyright.
 
-This canonicalization allows researchers to define "uniqueness" for their own needs: they can perform micro-level analyses on translation families (e.g. the KJV lineage) or conduct macro-level studies by deduplicating closely related texts.
-
-Full field list: `site`, `iso`, `translation_id`, `translation_name`, `translation_abbr`, `canonical_id`, `canonical_version`, `canonical_year`, `num_books`, `num_chapters`, `num_verses`, `num_words`, `copyright_status`.
+This three-layer structure lets researchers define "uniqueness" however they need: by work (translation family), by edition (specific revision), or by per-site instance.
 
 ## Quickstart
 
@@ -103,7 +123,7 @@ from pathlib import Path
 
 corpus = Path("corpus")
 # Load one translation
-verses = [json.loads(line) for line in (corpus / "ebible.org/eng/eng-web.jsonl").read_text().splitlines()]
+verses = [json.loads(line) for line in (corpus / "ebible.org/eng/engwebp.jsonl").read_text().splitlines()]
 print(f"{len(verses)} verses loaded")
 
 # Load all English translations
@@ -118,7 +138,7 @@ Or via HuggingFace datasets (note: path prefix is `corpora/` on HF):
 ```python
 from datasets import load_dataset
 
-ds = load_dataset("mrapacz/targum-corpus", data_files="corpora/ebible.org/eng/eng-web.jsonl", split="train")
+ds = load_dataset("mrapacz/targum-corpus", data_files="corpora/ebible.org/eng/engwebp.jsonl", split="train")
 ```
 
 ## Source Data
@@ -129,11 +149,29 @@ Only public domain and open-license translations are included in this release. T
 
 ## Citation
 
-This corpus will be published at [LREC 2026](https://lrec2026.info/) (Palma, Mallorca, 11--16 May 2026). Citation TBD.
+If you use this corpus, please cite our LREC 2026 paper:
 
-A preprint is available at [arxiv.org/abs/2602.09724](https://arxiv.org/abs/2602.09724).
+> Rapacz, M., & Smywiński-Pohl, A. (2026). Targum — a Multilingual New Testament Translation Corpus. In *Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026)* (pp. 7092–7105). European Language Resources Association (ELRA). https://doi.org/10.63317/2yiotxcyovir
+
+```bibtex
+@inproceedings{rapacz-etal-2026-targum,
+  title     = {Targum -- a Multilingual New Testament Translation Corpus},
+  author    = {Rapacz, Maciej and Smywi{\'n}ski-Pohl, Aleksander},
+  booktitle = {Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026)},
+  month     = {May},
+  year      = {2026},
+  pages     = {7092--7105},
+  address   = {Palma, Mallorca, Spain},
+  publisher = {European Language Resources Association (ELRA)},
+  editor    = {Piperidis, Stelios and Bel, N{\'u}ria and van den Heuvel, Henk and Ide, Nancy and Krek, Simon and Toral, Antonio},
+  doi       = {10.63317/2yiotxcyovir},
+  url       = {https://lrec.elra.info/lrec2026-main-564}
+}
+```
+
+Open-access PDF: <http://www.lrec-conf.org/proceedings/lrec2026/pdf/2026.lrec2026-1.564.pdf>.
 
 ## License
 
 Corpus metadata and derived annotations are released under [CC-BY 4.0](LICENSE).
-Individual translations retain their original licenses as recorded in `copyrights.tsv`.
+Individual translations retain their original licenses as recorded in `editions.tsv` (`copyright_statement` column).

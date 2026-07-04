@@ -1,27 +1,27 @@
 {
-  "exported_at": "2026-03-09T19:06:09.794789+00:00",
-  "total_translations": 657,
+  "exported_at": "2026-07-04T21:56:08.408752+00:00",
+  "total_translations": 651,
   "translations_per_language": {
-    "eng": 396,
-    "ita": 33,
+    "eng": 390,
     "fra": 78,
     "spa": 102,
+    "ita": 33,
     "pol": 48
   },
   "translations_per_site": {
-    "laparola.net": 25,
     "bible.audio": 19,
-    "bibles.org": 100,
-    "bible.com": 139,
-    "jw.org": 5,
+    "bible.com": 137,
     "bible.is": 44,
-    "biblehub.com": 46,
     "biblegateway.com": 95,
+    "biblehub.com": 46,
+    "bibles.org": 98,
     "biblestudytools.com": 37,
-    "ebible.org": 37,
     "bibliepolskie.pl": 20,
-    "obohu.cz": 74,
-    "crossbible.com": 16
+    "crossbible.com": 14,
+    "ebible.org": 37,
+    "jw.org": 5,
+    "laparola.net": 25,
+    "obohu.cz": 74
   },
   "year_range": [
     1525,
@@ -29,45 +29,73 @@
   ],
   "copyright_breakdown": {
     "public_domain": {
-      "count": 242,
-      "percentage": 36.8
+      "count": 235,
+      "percentage": 36.1
     },
     "open_license": {
-      "count": 65,
-      "percentage": 9.9
+      "count": 66,
+      "percentage": 10.1
     },
     "copyrighted": {
       "count": 350,
-      "percentage": 53.3
+      "percentage": 53.8
     }
   },
   "copyright_breakdown_by_language": {
-    "eng": {
+    "pol": {
       "public_domain": {
-        "count": 156,
-        "percentage": 39.4
+        "count": 13,
+        "percentage": 27.1
       },
       "open_license": {
-        "count": 40,
-        "percentage": 10.1
+        "count": 12,
+        "percentage": 25.0
       },
       "copyrighted": {
-        "count": 200,
-        "percentage": 50.5
+        "count": 23,
+        "percentage": 47.9
       }
     },
     "fra": {
       "public_domain": {
-        "count": 42,
-        "percentage": 53.8
+        "count": 41,
+        "percentage": 52.6
       },
       "open_license": {
         "count": 2,
         "percentage": 2.6
       },
       "copyrighted": {
-        "count": 34,
-        "percentage": 43.6
+        "count": 35,
+        "percentage": 44.9
+      }
+    },
+    "spa": {
+      "public_domain": {
+        "count": 16,
+        "percentage": 15.7
+      },
+      "open_license": {
+        "count": 13,
+        "percentage": 12.7
+      },
+      "copyrighted": {
+        "count": 73,
+        "percentage": 71.6
+      }
+    },
+    "eng": {
+      "public_domain": {
+        "count": 152,
+        "percentage": 39.0
+      },
+      "open_license": {
+        "count": 39,
+        "percentage": 10.0
+      },
+      "copyrighted": {
+        "count": 199,
+        "percentage": 51.0
       }
     },
     "ita": {
@@ -83,34 +111,7 @@
         "count": 20,
         "percentage": 60.6
       }
-    },
-    "pol": {
-      "public_domain": {
-        "count": 13,
-        "percentage": 27.1
-      },
-      "open_license": {
-        "count": 12,
-        "percentage": 25.0
-      },
-      "copyrighted": {
-        "count": 23,
-        "percentage": 47.9
-      }
-    },
-    "spa": {
-      "public_domain": {
-        "count": 18,
-        "percentage": 17.6
-      },
-      "open_license": {
-        "count": 11,
-        "percentage": 10.8
-      },
-      "copyrighted": {
-        "count": 73,
-        "percentage": 71.6
-      }
     }
-  }
+  },
+  "corpus_tier": "public"
 }
