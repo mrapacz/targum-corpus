@@ -1,652 +1,652 @@
-site	iso	instance_id	instance_name	instance_abbr	edition_id	work_id	num_books	num_chapters	num_verses	num_words	copyright_status	text_included
-bible.audio	eng	ESV	English standard Version		english-standard-version-2001	english-standard-version	27	260	7941	170852	copyrighted	false
-bible.audio	eng	KJV	King James		king-james-version-1769	king-james-version	27	260	7957	180372	public_domain	true
-bible.audio	eng	NIV	New International Version		new-international-version-2011	new-international-version	27	260	7958	168276	copyrighted	false
-bible.audio	fra	CRA	Bible Crampon		bible-crampon-1923	bible-crampon	27	260	7950	181409	public_domain	true
-bible.audio	fra	DBY	Bible Darby		fra-darby-translation-1885	fra-darby-translation	27	260	7954	185591	public_domain	true
-bible.audio	fra	LSG	Bible Louis Segond 1910		louis-segond-1910	louis-segond	27	260	7957	179439	public_domain	true
-bible.audio	fra	MAR	Bible Martin		bible-martin-1744	bible-martin	27	260	7958	190401	public_domain	true
-bible.audio	fra	OST	Bible Ostervald		ostervald-1996	ostervald	27	260	7958	184291	public_domain	true
-bible.audio	fra	S21	Bible Segond 21		segond-21-2007	segond-21	27	260	7957	180066	copyrighted	false
-bible.audio	fra	VIG	Bible Vigouroux		vigouroux-1900	vigouroux	27	260	7957	185721	public_domain	true
-bible.audio	fra	LAU	Bible de Lausanne		lausanne-1872	lausanne	27	260	7957	181215	public_domain	true
-bible.audio	fra	SAC	Bible de Sacy		sacy-bible-1759	sacy-bible	27	260	7950	201227	public_domain	true
-bible.audio	fra	GBT	Bible de Tours		bible-de-tours-1866	bible-de-tours	27	260	7957	178010	public_domain	true
-bible.audio	fra	SEM	Bible du Semeur		bible-du-semeur-1992	bible-du-semeur	27	260	7948	191310	copyrighted	false
-bible.audio	fra	BFC	Bible en français courant		bible-francais-courant-1997	bible-francais-courant	27	260	7958	191680	copyrighted	false
-bible.audio	fra	NEG	Nouvelle Edition de Genève		nouvelle-edition-de-geneve-1979	nouvelle-edition-de-geneve	27	260	7957	179343	copyrighted	false
-bible.audio	fra	PVI	Parole Vivante		parole-vivante-2013-2010	parole-vivante	27	259	7935	190771	copyrighted	false
-bible.audio	fra	PDV	Parole de vie		parole-de-vie-2000	parole-de-vie	27	260	7924	203340	copyrighted	false
-bible.audio	spa	RVR	Bible en espagnol  (RVR)		reina-valera-1960	reina-valera	27	260	7960	164932	copyrighted	false
-bible.com	eng	4253	A Faithful Version		faithful-version-2011	faithful-version	27	260	7958	189694	copyrighted	false
-bible.com	eng	12	American Standard Version		american-standard-version-1901	american-standard-version	27	260	7957	179847	public_domain	true
-bible.com	eng	1588	Amplified Bible		amplified-bible-2015	amplified-bible	27	260	7958	229433	copyrighted	false
-bible.com	eng	8	Amplified Bible, Classic Edition		amplified-bible-1987-classic	amplified-bible	27	260	7956	242935	copyrighted	false
-bible.com	eng	3034	Berean Standard Bible		berean-standard-bible-2016	berean-standard-bible	27	260	7941	171804	public_domain	true
-bible.com	eng	42	Catholic Public Domain Version		catholic-public-domain-version-2009	catholic-public-domain-version	27	260	7952	188687	public_domain	true
-bible.com	eng	1713	Christian Standard Bible		christian-standard-bible-2017	christian-standard-bible	27	260	7942	173290	copyrighted	false
-bible.com	eng	4124	Christian Standard Bible Anglicised		christian-standard-bible-2024-anglicised	christian-standard-bible	27	260	7942	173415	copyrighted	false
-bible.com	eng	37	Common English Bible		common-english-bible-2011	common-english-bible	27	260	7939	177415	copyrighted	false
-bible.com	eng	1275	Complete Jewish Bible		complete-jewish-bible-1998	complete-jewish-bible	27	260	7943	183571	public_domain	true
-bible.com	eng	392	Contemporary English Version		contemporary-english-version-2006-2nd-edition	contemporary-english-version	27	260	7855	180328	copyrighted	false
-bible.com	eng	294	Contemporary English Version (Anglicised) 2012		contemporary-english-version-2012-anglicised	contemporary-english-version	27	260	7855	181075	copyrighted	false
-bible.com	eng	303	Contemporary English Version Interconfessional Edition		contemporary-english-version-2006-2nd-edition-interconfessional	contemporary-english-version	27	260	7855	180328	copyrighted	false
-bible.com	eng	478	Darby's Translation 1890		eng-darby-translation-1890	eng-darby-translation	27	260	7957	179293	public_domain	true
-bible.com	eng	55	Douay-Rheims Challoner Revision 1752 ✠		douay-rheims-1752	douay-rheims	27	260	7949	179006	public_domain	true
-bible.com	eng	2079	EasyEnglish Bible 2024		easyenglish-bible-2024	easyenglish-bible	27	260	7942	263988	copyrighted	false
-bible.com	eng	3915	English Interlinear of the Orthodox Yiddish Brit Chadasha		english-interlinear-of-the-orthodox-yiddish-brit-chadasha-2024	english-interlinear-of-the-orthodox-yiddish-brit-chadasha	27	260	7957	205389	copyrighted	false
-bible.com	eng	59	English Standard Version 2016		english-standard-version-2016	english-standard-version	27	260	7941	175514	copyrighted	false
-bible.com	eng	4224	Evangelical Heritage Version		evangelical-heritage-version-2021	evangelical-heritage-version	27	260	7951	180601	copyrighted	false
-bible.com	eng	3633	First Nations Version		first-nations-version-2021	first-nations-version	27	260	7792	244552	copyrighted	false
-bible.com	eng	1932	Free Bible Version		free-bible-version-4-3	free-bible-version	27	260	7958	176476	open_license	true
-bible.com	eng	70	GOD'S WORD		gods-word-translation-1995	gods-word-translation	27	260	7943	180279	copyrighted	false
-bible.com	eng	2163	Geneva Bible		geneva-bible-eng-1599	geneva-bible-eng	27	260	7953	181932	public_domain	true
-bible.com	eng	296	Good News Bible (British Verison) 2017		good-news-2017-british	good-news	27	260	7897	193311	copyrighted	false
-bible.com	eng	431	Good News Bible (British Version) Catholic Edition 2017		good-news-2017-british-catholic	good-news	27	260	7897	193311	copyrighted	false
-bible.com	eng	416	Good News Bible (British Version) with Deuterocanonical books 2017		good-news-2017-british	good-news	27	260	7897	193311	copyrighted	false
-bible.com	eng	68	Good News Translation		good-news-2012	good-news	27	260	7897	192563	copyrighted	false
-bible.com	eng	69	Good News Translation (US Version)		good-news-1992-2nd-edition-us	good-news	27	260	7897	192563	copyrighted	false
-bible.com	eng	72	Holman Christian Standard Bible		holman-christian-standard-bible-2009	holman-christian-standard-bible	27	260	7956	172725	copyrighted	false
-bible.com	eng	406	Holy Bible: Easy-to-Read Version		easy-to-read-version-2004	easy-to-read-version	27	260	7901	208793	copyrighted	false
-bible.com	eng	1359	International Children’s Bible		international-childrens-bible-2015	international-childrens-bible	27	260	7923	205289	copyrighted	false
-bible.com	eng	1077	Jubilee Bible		jubilee-bible-2000	jubilee-bible	27	260	7957	183842	open_license	true
-bible.com	eng	1	King James Version		king-james-version-1769	king-james-version	27	260	7957	180570	public_domain	true
-bible.com	eng	546	King James Version with Apocrypha, American Edition		king-james-version-1962-american-edition	king-james-version	27	260	7957	180337	copyrighted	false
-bible.com	eng	547	King James Version, American Edition		king-james-version-1962-american-edition	king-james-version	27	260	7957	180337	copyrighted	false
-bible.com	eng	3345	Legacy Standard Bible		legacy-standard-bible-2021	legacy-standard-bible	27	260	7958	184502	copyrighted	false
-bible.com	eng	90	Lexham English Bible		lexham-english-bible-2010	lexham-english-bible	27	260	7939	185166	open_license	true
-bible.com	eng	2660	Literal Standard Version		literal-standard-version-2020	literal-standard-version	27	260	7959	181124	open_license	true
-bible.com	eng	1171	Modern English Version		modern-english-version-2024	modern-english-version	27	260	7957	174387	copyrighted	false
-bible.com	eng	463	New American Bible, revised edition		new-american-bible-revised-edition-1986	new-american-bible-revised-edition	27	260	7957	175381	copyrighted	false
-bible.com	eng	100	New American Standard Bible 1995		new-american-standard-bible-1995	new-american-standard-bible	27	260	7958	183650	copyrighted	false
-bible.com	eng	2692	New American Standard Bible 2020		new-american-standard-bible-2020	new-american-standard-bible	27	260	7945	185650	copyrighted	false
-bible.com	eng	105	New Century Version		new-century-version-2005	new-century-version	27	260	7937	191224	copyrighted	false
-bible.com	eng	107	New English Translation		net-bible-2006-v1	net-bible	27	260	7942	179600	open_license	true
-bible.com	eng	110	New International Reader’s Version 2014		new-international-readers-version-2014	new-international-readers-version	27	260	7942	200828	copyrighted	false
-bible.com	eng	113	New International Version (Anglicized) 2011		new-international-version-2011-anglicised	new-international-version	27	260	7958	176687	copyrighted	false
-bible.com	eng	111	New International Version 2011		new-international-version-2011	new-international-version	27	260	7958	176008	copyrighted	false
-bible.com	eng	114	New King James Version		new-king-james-version-1979	new-king-james-version	27	260	7957	177984	copyrighted	false
-bible.com	eng	116	New Living Translation		new-living-translation-2015	new-living-translation	27	260	7943	186312	copyrighted	false
-bible.com	eng	4249	New Living Translation Catholic Edition		new-living-translation-2016-catholic	new-living-translation	27	260	7943	186312	copyrighted	false
-bible.com	eng	2135	New Messianic Version Bible		new-messianic-version-bible-2018	new-messianic-version-bible	27	260	7955	198932	open_license	true
-bible.com	eng	2015	New Revised Standard Version		new-revised-standard-version-1989	new-revised-standard-version	27	260	7957	176298	copyrighted	false
-bible.com	eng	3523	New Revised Standard Version Updated Edition 2021		new-revised-standard-version-2021	new-revised-standard-version	27	260	7941	176569	copyrighted	false
-bible.com	eng	2530	Plain English Version (Aboriginal)		plain-english-version-2021	plain-english-version	21	192	5042	216996	open_license	true
-bible.com	eng	2753	Radiate New Testament		radiate-new-testament-2020	radiate-new-testament	27	260	7924	188932	copyrighted	false
-bible.com	eng	2020	Revised Standard Version		revised-standard-version-1971	revised-standard-version	27	260	7957	173269	copyrighted	false
-bible.com	eng	3548	Revised Standard Version		revised-standard-version-1971	revised-standard-version	27	260	7957	173269	copyrighted	false
-bible.com	eng	2017	Revised Standard Version Old Tradition 1952		revised-standard-version-1952	revised-standard-version	27	260	7957	173269	copyrighted	false
-bible.com	eng	477	Revised Version 1885		english-revised-version-1885	english-revised-version	27	260	7941	179868	public_domain	true
-bible.com	eng	1922	Revised Version with Apocrypha 1885, 1895		english-revised-version-1885	english-revised-version	27	260	7941	179868	public_domain	true
-bible.com	eng	1047	St Paul from the Trenches 1916		st-paul-from-the-trenches-1916	st-paul-from-the-trenches	3	33	630	24651	copyrighted	false
-bible.com	eng	31	The Books of the Bible NT		the-books-of-the-bible-2011	the-books-of-the-bible	25	208	5799	129313	copyrighted	false
-bible.com	eng	97	The Message		the-message-bible-2018	the-message-bible	27	260	3242	191850	copyrighted	false
-bible.com	eng	130	The Orthodox Jewish Bible		orthodox-jewish-bible-2023	orthodox-jewish-bible	27	260	7959	208836	open_license	true
-bible.com	eng	1849	The Passion Translation		the-passion-translation-2020	the-passion-translation	27	260	7763	216099	copyrighted	false
-bible.com	eng	316	The Scriptures 2009		the-scriptures-2009	the-scriptures	27	260	7957	179448	copyrighted	false
-bible.com	eng	3427	The Text-Critical English New Testament		byzantine-text-version-2022	byzantine-text-version	27	260	7953	181432	copyrighted	false
-bible.com	eng	314	Tree of Life Version		tree-of-life-version-2014	tree-of-life-version	27	260	7956	173871	copyrighted	false
-bible.com	eng	1204	World English Bible British Edition		world-english-bible-2020-british	world-english-bible	27	260	7957	178257	public_domain	true
-bible.com	eng	206	World English Bible, American English Edition, without Strong's Numbers		world-english-bible-2020-american	world-english-bible	27	260	7957	174754	public_domain	true
-bible.com	eng	1209	World Messianic Bible		world-english-bible-2020-messianic	world-english-bible	27	260	7957	178417	public_domain	true
-bible.com	eng	1207	World Messianic Bible British Edition		world-english-bible-2020-messianic-british	world-english-bible	27	260	7957	178433	public_domain	true
-bible.com	eng	2407	Wycliffe's Bible with Modern Spelling		wycliffe-bible-2001-modern-spelling	wycliffe-bible	27	260	7959	186535	copyrighted	false
-bible.com	eng	4108	Y'all Version Bible		yall-version-bible-2024	yall-version-bible	27	260	7959	173246	copyrighted	false
-bible.com	eng	821	Young's Literal Translation 1898		youngs-literal-translation-1898	youngs-literal-translation	27	260	7957	186696	public_domain	true
-bible.com	fra	64	Bible J.N. Darby		fra-darby-translation-1885	fra-darby-translation	27	260	7957	186752	public_domain	true
-bible.com	fra	93	Bible Segond 1910		louis-segond-1910	louis-segond	27	260	7959	173730	public_domain	true
-bible.com	fra	504	Bible catholique Crampon 1923		bible-crampon-1923	bible-crampon	27	260	7950	176013	public_domain	true
-bible.com	fra	3286	Explained Bible		explained-bible-2004	explained-bible	27	260	7941	272610	copyrighted	false
-bible.com	fra	2599	French Gospel of Matthew 1855 (de Sacy)		sacy-bible-1855	sacy-bible	1	28	1070	24199	public_domain	true
-bible.com	fra	3447	French Model Translation		french-model-translation-2025	french-model-translation	12	142	5243	179301	copyrighted	false
-bible.com	fra	63	French common language		bible-francais-courant-1997	bible-francais-courant	27	260	7941	192459	copyrighted	false
-bible.com	fra	3547	Gospel of Matthew 1864 (Frainc-Comtois)		frainc-comtois-1864	frainc-comtois	1	28	1070	25577	public_domain	true
-bible.com	fra	152	La Bible Segond 21		segond-21-2007	segond-21	27	260	7957	179129	copyrighted	false
-bible.com	fra	21	La Bible du Semeur (The Bible of the Sower)		bible-du-semeur-2015	bible-du-semeur	27	260	7945	201079	copyrighted	false
-bible.com	fra	62	Martin 1744		bible-martin-1744	bible-martin	27	260	7953	190331	public_domain	true
-bible.com	fra	2367	New French current		bible-nouvelle-francais-courant-2019	bible-nouvelle-francais-courant	27	260	7944	201251	copyrighted	false
-bible.com	fra	104	Nouvelle Bible Segond		nouvelle-segond-2002	nouvelle-segond	27	260	7956	181867	copyrighted	false
-bible.com	fra	106	Nouvelle Edition de Genève 1979		geneva-bible-fra-1979	geneva-bible-fra	27	260	7957	173266	copyrighted	false
-bible.com	fra	2053	Nouvelle Segond révisée		nouvelle-segond-revisee-1978	nouvelle-segond-revisee	27	260	7957	177778	copyrighted	false
-bible.com	fra	131	Ostervald		ostervald-1744	ostervald	27	260	7953	185294	public_domain	true
-bible.com	fra	133	Parole de Vie 2017		parole-de-vie-2017	parole-de-vie	27	260	7924	210130	copyrighted	false
-bible.com	fra	3877	Segond NEG 1979		geneva-bible-fra-1979	geneva-bible-fra	27	260	7957	173656	copyrighted	false
-bible.com	fra	4410	Simple French Bible 2023		simple-french-bible-2023	simple-french-bible	27	260	7934	272477	copyrighted	false
-bible.com	ita	54	Diodati Bible 1885		diodati-bible-1885	diodati-bible	27	260	7957	168046	public_domain	true
-bible.com	ita	1197	Italian Common Language Bible		interconfessionale-in-lingua-corrente-2014-3rd-edition	interconfessionale-in-lingua-corrente	27	260	7886	176809	copyrighted	false
-bible.com	ita	1196	Italian Common Language Interconfessional Bible		interconfessionale-in-lingua-corrente-2014-3rd-edition	interconfessionale-in-lingua-corrente	27	260	7886	176809	copyrighted	false
-bible.com	ita	3368	Italian Riveduta 2020 Bible		riveduta-2020	riveduta	27	260	7958	162595	copyrighted	false
-bible.com	ita	123	Nuova Riveduta 1994		nuova-riveduta-1994	nuova-riveduta	27	260	7959	161761	copyrighted	false
-bible.com	ita	122	Nuova Riveduta 2006		nuova-riveduta-2006	nuova-riveduta	27	260	7958	161621	copyrighted	false
-bible.com	ita	141	Versione Diodati Riveduta		nuova-riveduta-1994	nuova-riveduta	27	260	7940	163389	copyrighted	false
-bible.com	pol	3881	BIBLIA to jest Pismo Święte Starego i Nowego Przymierza		eib-nowe-przymierze-literal-2019	eib-nowe-przymierze-literal	27	260	7957	138106	copyrighted	false
-bible.com	pol	132	Biblia Gdańska		biblia-gdanska-1632	biblia-gdanska	27	260	7953	139988	public_domain	true
-bible.com	pol	3551	Good News About The Rescue In Christ. New Dynamic Translation of New Testament		nowy-przeklad-dynamiczny-2021	nowy-przeklad-dynamiczny	27	260	7958	193265	copyrighted	false
-bible.com	pol	319	Nowa Biblia Gdańska		nowa-biblia-gdanska-2012	nowa-biblia-gdanska	27	260	7956	140440	copyrighted	false
-bible.com	pol	2095	Polish Bible 2018		eib-nowe-przymierze-literary-2016	eib-nowe-przymierze-literary	27	260	7956	142039	copyrighted	false
-bible.com	pol	137	Polish Living New Testament (The Word of Life)		slowo-zycia-2016	slowo-zycia	27	260	7915	139435	open_license	true
-bible.com	pol	3490	The Warsaw Bible 1975		biblia-warszawska-1975	biblia-warszawska	27	260	7956	139380	copyrighted	false
-bible.com	pol	138	Updated Gdansk Bible		uwspolczesniona-biblia-gdanska-2017	uwspolczesniona-biblia-gdanska	27	260	7957	138326	open_license	true
-bible.com	spa	52	Biblia Dios Habla Hoy		dios-habla-hoy-1994	dios-habla-hoy	27	260	7912	182176	copyrighted	false
-bible.com	spa	1718	Biblia Reina Valera 1909		reina-valera-1909	reina-valera	27	260	7956	164216	public_domain	true
-bible.com	spa	1076	Biblia del Jubileo		biblia-del-jubileo-2000	biblia-del-jubileo	27	260	7957	167405	copyrighted	false
-bible.com	spa	1715	Biblia del Oso 1573		biblia-del-oso-1569	biblia-del-oso	27	260	7954	162443	public_domain	true
-bible.com	spa	411	Dios Habla Hoy Bible		dios-habla-hoy-1994	dios-habla-hoy	27	260	7912	182176	copyrighted	false
-bible.com	spa	1845	Dios Habla Hoy DK		dios-habla-hoy-1994	dios-habla-hoy	27	260	7912	182178	copyrighted	false
-bible.com	spa	1846	Dios habla Hoy Estándar		dios-habla-hoy-1996	dios-habla-hoy	27	260	7912	182165	copyrighted	false
-bible.com	spa	4278	Dios habla hoy 4ta. edición. Estándar.		dios-habla-hoy-2023-4th-edition	dios-habla-hoy	27	260	7926	182153	copyrighted	false
-bible.com	spa	197	Holy Bible: The Word of God for All		palabra-de-dios-para-todos-2015	palabra-de-dios-para-todos	27	260	7943	185353	copyrighted	false
-bible.com	spa	222	La Biblia Hispanoamericana (Traducción Interconfesional, versión hispanoamericana)		la-biblia-hispanoamericana-interconfesional-2011	la-biblia-hispanoamericana-interconfesional	27	260	7953	180076	copyrighted	false
-bible.com	spa	89	La Biblia de las Américas		la-biblia-de-las-americas-1997	la-biblia-de-las-americas	27	260	7958	170235	copyrighted	false
-bible.com	spa	28	La Palabra (Latin American edition)		la-palabra-2010-3rd-edition-hispanoamericana	la-palabra	27	260	7953	178239	copyrighted	false
-bible.com	spa	753	New Living Bible		nueva-biblia-viva-2008	nueva-biblia-viva	27	260	7880	174467	copyrighted	false
-bible.com	spa	103	Nueva Biblia de las Américas		nueva-biblia-de-las-americas-2005	nueva-biblia-de-las-americas	27	260	7958	170840	copyrighted	false
-bible.com	spa	127	Nueva Traducción Viviente		nueva-traduccion-viviente-2010	nueva-traduccion-viviente	27	260	7943	189232	copyrighted	false
-bible.com	spa	2664	Nueva Versión Internacional (Spanish New International Version) 2015		nueva-version-internacional-2015	nueva-version-internacional	27	260	7958	169585	copyrighted	false
-bible.com	spa	128	Nueva Versión Internacional 2022		nueva-version-internacional-2022	nueva-version-internacional	27	260	7958	169585	copyrighted	false
-bible.com	spa	150	Reina Valera 1995		reina-valera-1995	reina-valera	27	260	7958	165587	copyrighted	false
-bible.com	spa	1782	Reina Valera Actualizada		reina-valera-actualizada-2015	reina-valera-actualizada	27	260	7959	167837	copyrighted	false
-bible.com	spa	146	Reina Valera Contemporánea		reina-valera-contemporanea-2009	reina-valera-contemporanea	27	260	7958	173719	copyrighted	false
-bible.com	spa	147	Reina-Valera Antigua		reina-valera-antigua-1602	reina-valera-antigua	27	260	7957	164120	public_domain	true
-bible.com	spa	3539	Segun el Texto Bizantino 2005		segun-el-texto-bizantino-2005	segun-el-texto-bizantino	27	260	7955	164946	copyrighted	false
-bible.com	spa	3365	Spanish Bible, Palabla de Dios para ti		palabra-de-dios-para-ti-2020	palabra-de-dios-para-ti	27	260	7936	154223	open_license	true
-bible.com	spa	149	Spanish, Biblia Reina Valera 1960		reina-valera-1960	reina-valera	27	260	7958	164930	copyrighted	false
-bible.com	spa	4013	Traducción Contemporánea de la Biblia  - NT + Abdías		traduccion-contemporanea-de-la-biblia-2022	traduccion-contemporanea-de-la-biblia	27	260	7957	192976	copyrighted	false
-bible.com	spa	176	Traducción en Lenguaje Actual		lenguaje-actual-2002	lenguaje-actual	27	260	7627	197756	copyrighted	false
-bible.com	spa	178	Traducción en Lenguaje Actual Interconfesional		lenguaje-actual-2002-interconfesional	lenguaje-actual	27	260	7627	197755	copyrighted	false
-bible.com	spa	3291	Versión Biblia Libre		biblia-libre-1-1-beta	biblia-libre	27	260	7957	179166	open_license	true
-bible.is	eng	AUSWBT	English - Aboriginal Translators Version		plain-english-version-2021	plain-english-version	15	93	2219	102389	open_license	true
-bible.is	eng	ENGREV	English - Revised Version 1885		english-revised-version-1885	english-revised-version	27	260	7957	179866	public_domain	true
-bible.is	eng	ENGTLV	English - Tree of Life Version		tree-of-life-version-2014	tree-of-life-version	27	260	7957	173669	copyrighted	false
-bible.is	eng	ENGWM1	English - World Messianic Version		world-english-bible-2020-messianic	world-english-bible	27	260	7957	175013	public_domain	true
-bible.is	eng	ENGWMV	English - Wycliffe Modern		wycliffe-bible-2001-modern-spelling	wycliffe-bible	27	260	7959	178071	copyrighted	false
-bible.is	eng	EN1ESV	English Standard Version® - Hear the Word Audio Bible		english-standard-version-2007	english-standard-version	27	260	7941	174763	copyrighted	false
-bible.is	eng	ENGNAS	New American Standard Bible (NASB)		new-american-standard-bible-1995	new-american-standard-bible	27	260	7958	182368	copyrighted	false
-bible.is	eng	ENGNLT	New Living Translation®, Holy Sanctuary version		new-living-translation-2015	new-living-translation	27	260	7943	186207	copyrighted	false
-bible.is	eng	ENGWWH	World English Bible - Winfred Henson		world-english-bible-2020	world-english-bible	27	260	7958	175124	public_domain	true
-bible.is	eng	ENGASV	American Standard Bible		american-standard-version-1901	american-standard-version	27	260	7957	179865	public_domain	true
-bible.is	eng	ENGCEV	Contemporary English Version®		contemporary-english-version-1991	contemporary-english-version	27	260	7850	181067	copyrighted	false
-bible.is	eng	ENGESV	English Standard Version®		english-standard-version-2007	english-standard-version	27	260	7941	175470	copyrighted	false
-bible.is	eng	ENGEVD	English Version for the Deaf		easy-to-read-version-1987	easy-to-read-version	27	260	7942	218577	copyrighted	false
-bible.is	eng	ENGKJV	King James Version		king-james-version-1769	king-james-version	27	260	7957	180384	public_domain	true
-bible.is	eng	ENGNAB	New American Bible, revised edition (NABRE)		new-american-bible-revised-edition-1968	new-american-bible-revised-edition	16	118	2999	65429	copyrighted	false
-bible.is	eng	ENGNIV	Holy Bible, New International Version®		new-international-version-1984	new-international-version	27	260	7941	175209	copyrighted	false
-bible.is	eng	ENGNKJV	New King James Version		new-king-james-version-1979	new-king-james-version	27	260	7957	177982	copyrighted	false
-bible.is	eng	ENGWEB	World English Bible		world-english-bible-2020	world-english-bible	27	260	7958	175124	public_domain	true
-bible.is	fra	FRADBY	French - 1885 Darby		fra-darby-translation-1885	fra-darby-translation	27	260	7955	178843	public_domain	true
-bible.is	fra	FRNTLS	French - 1910 Louis Segond (Tresorsonore recording)		louis-segond-1910	louis-segond	27	260	7959	173117	public_domain	true
-bible.is	fra	FRABIB	French - La Bible Du Semeur (Biblica Audio)		bible-du-semeur-2015	bible-du-semeur	27	260	7945	201310	copyrighted	false
-bible.is	fra	FRNO96	French - Ostervald Version		ostervald-1996	ostervald	27	260	7958	177599	public_domain	true
-bible.is	fra	FRAPDF	French - Parole de Vie		parole-de-vie-2000	parole-de-vie	27	256	7840	197974	copyrighted	false
-bible.is	fra	FRAPDVA	Parole de Vie - African		parole-de-vie-2000	parole-de-vie	27	260	7934	200287	copyrighted	false
-bible.is	fra	FRADPI	Parole de Vie - African (Davar Audio)		parole-de-vie-2000	parole-de-vie	27	260	7924	209652	copyrighted	false
-bible.is	fra	FRAPDVC	Parole de Vie - Canadian		parole-de-vie-2000	parole-de-vie	27	260	7953	199909	copyrighted	false
-bible.is	ita	ITAR27	Italian Riveduta 1927		riveduta-1927	riveduta	27	260	7957	163669	public_domain	true
-bible.is	pol	POLPBG	1632 Polish Biblia Gdanska		biblia-gdanska-1632	biblia-gdanska	27	260	7953	139986	public_domain	true
-bible.is	pol	POLNCV	New Covenant Translation		eib-nowe-przymierze-literary-2011	eib-nowe-przymierze-literary	27	260	7955	142630	copyrighted	false
-bible.is	spa	SPNR02	1602 Reina-Valera Antigua		reina-valera-antigua-1602	reina-valera-antigua	27	260	7957	164123	public_domain	true
-bible.is	spa	SPABDA	Biblia de América		biblia-de-america-2010	biblia-de-america	27	260	7941	167790	copyrighted	false
-bible.is	spa	SPADHH	Dios Habla Hoy		dios-habla-hoy-1996-3rd-edition	dios-habla-hoy	27	260	7912	182189	copyrighted	false
-bible.is	spa	SPNLBV	La Biblia		biblia-de-la-casa-de-la-biblia-2006	biblia-de-la-casa-de-la-biblia	27	260	7940	167355	copyrighted	false
-bible.is	spa	SPNBLA	La Biblia de las Americas		la-biblia-de-las-americas-1997	la-biblia-de-las-americas	27	260	7958	169674	copyrighted	false
-bible.is	spa	SPNLPS	La Palabra - Spain		la-palabra-2010-3rd-edition-espana	la-palabra	27	260	7954	173136	copyrighted	false
-bible.is	spa	SPANVI	La Santa Biblia, Nueva Versión Internacional ™, NVI ™		nueva-version-internacional-1999	nueva-version-internacional	27	260	7941	170326	copyrighted	false
-bible.is	spa	SPNNVI	La Santa Biblia, Nueva Versión Internacional®		nueva-version-internacional-1999	nueva-version-internacional	27	260	7941	170326	copyrighted	false
-bible.is	spa	SPANTV	La Santa Bíblia, Nueva Traducción Viviente		nueva-traduccion-viviente-2010	nueva-traduccion-viviente	27	260	7943	189059	copyrighted	false
-bible.is	spa	SPNTLA	Lenguaje Actual		lenguaje-actual-2002	lenguaje-actual	24	125	3799	97820	copyrighted	false
-bible.is	spa	SPNDLH	Nueva Biblia Latinoamericana de Hoy		nueva-biblia-latinoamericana-de-hoy-2005	nueva-biblia-latinoamericana-de-hoy	27	260	7958	171929	copyrighted	false
-bible.is	spa	SPAR95	Reina Valera 1995		reina-valera-1995	reina-valera	27	260	7958	163553	copyrighted	false
-bible.is	spa	SPAR60	Reina-Valera 1960 Biblia		reina-valera-1960	reina-valera	27	260	7958	164596	copyrighted	false
-bible.is	spa	SPAERV	The Word of God for All - 2000 World Bible Translation Center		palabra-de-dios-para-todos-2000	palabra-de-dios-para-todos	27	260	7953	185076	copyrighted	false
-bible.is	spa	SPAWTC	The Word of God for All 2014		palabra-de-dios-para-todos-2014	palabra-de-dios-para-todos	27	260	7938	185037	copyrighted	false
-biblegateway.com	eng	1599-Geneva-Bible-GNV	1599 Geneva Bible (GNV)		geneva-bible-eng-1599	geneva-bible-eng	27	260	7952	182238	public_domain	true
-biblegateway.com	eng	21st-Century-King-James-Version-KJ21-Bible	21st Century King James Version (KJ21)		21st-century-king-james-version-1994	21st-century-king-james-version	27	260	7951	181071	copyrighted	false
-biblegateway.com	eng	American-Standard-Version-ASV-Bible	American Standard Version (ASV)		american-standard-version-1901	american-standard-version	27	260	7941	180147	public_domain	true
-biblegateway.com	eng	Amplified-Bible-AMP	Amplified Bible (AMP)		amplified-bible-2015	amplified-bible	27	260	7958	226470	copyrighted	false
-biblegateway.com	eng	Amplified-Bible-Classic-Edition-AMPC	Amplified Bible, Classic Edition (AMPC)		amplified-bible-1987-classic	amplified-bible	27	260	7956	240864	copyrighted	false
-biblegateway.com	eng	Authorized-King-James-Version-AKJV-Bible	Authorized (King James) Version (AKJV)		king-james-version-1769	king-james-version	27	260	7957	181010	public_domain	true
-biblegateway.com	eng	BRG-Bible	BRG Bible (BRG)		king-james-version-1769	king-james-version	27	260	7957	181145	public_domain	true
-biblegateway.com	eng	Christian-Standard-Bible-CSB	Christian Standard Bible (CSB)		christian-standard-bible-2017	christian-standard-bible	27	260	7942	171501	copyrighted	false
-biblegateway.com	eng	Christian-Standard-Bible-Anglicised-CSBA-Bible	Christian Standard Bible Anglicised (CSBA)		christian-standard-bible-2024-anglicised	christian-standard-bible	27	260	7942	172983	copyrighted	false
-biblegateway.com	eng	Common-English-Bible-CEB	Common English Bible (CEB)		common-english-bible-2011	common-english-bible	27	260	7939	175614	copyrighted	false
-biblegateway.com	eng	Complete-Jewish-Bible-CJB	Complete Jewish Bible (CJB)		complete-jewish-bible-1998	complete-jewish-bible	27	260	7958	184773	public_domain	true
-biblegateway.com	eng	Contemporary-English-Version-CEV-Bible	Contemporary English Version (CEV)		contemporary-english-version-1991	contemporary-english-version	27	260	7857	181457	copyrighted	false
-biblegateway.com	eng	Darby-Translation-Bible	Darby Translation (DARBY)		eng-darby-translation-1884	eng-darby-translation	27	260	7954	179231	public_domain	true
-biblegateway.com	eng	Disciples-Literal-New-Testament-DLNT	Disciples’ Literal New Testament (DLNT)		disciples-literal-new-testament-2011	disciples-literal-new-testament	27	260	7958	185160	copyrighted	false
-biblegateway.com	eng	Douay-Rheims-1899-American-Edition-DRA-Bible	Douay-Rheims 1899 American Edition (DRA)		douay-rheims-1899-american-edition	douay-rheims	27	260	7949	179000	public_domain	true
-biblegateway.com	eng	Easy-to-Read-Version-ERV-Bible	Easy-to-Read Version (ERV)		easy-to-read-version-2004	easy-to-read-version	27	260	7901	208533	copyrighted	false
-biblegateway.com	eng	EasyEnglish-Bible-EASY	EasyEnglish Bible (EASY)		easyenglish-bible-2018	easyenglish-bible	27	260	7941	265645	copyrighted	false
-biblegateway.com	eng	English-Standard-Version-ESV-Bible	English Standard Version (ESV)		english-standard-version-2025	english-standard-version	27	260	7941	175546	copyrighted	false
-biblegateway.com	eng	English-Standard-Version-Anglicised-ESV-Bible	English Standard Version Anglicised (ESVUK)		english-standard-version-2002-anglicised	english-standard-version	27	260	7941	175620	copyrighted	false
-biblegateway.com	eng	Evangelical-Heritage-Version-EHV-Bible	Evangelical Heritage Version (EHV)		evangelical-heritage-version-2017	evangelical-heritage-version	27	260	7951	180606	copyrighted	false
-biblegateway.com	eng	Expanded-Bible-EXB	Expanded Bible (EXB)		expanded-bible-2011	expanded-bible	27	260	7923	287653	copyrighted	false
-biblegateway.com	eng	GODS-WORD-Translation-GW-Bible	GOD’S WORD Translation (GW)		gods-word-translation-1995	gods-word-translation	27	260	7943	180582	copyrighted	false
-biblegateway.com	eng	Good-News-Translation-GNT-Bible	Good News Translation (GNT)		good-news-1992-2nd-edition	good-news	27	260	7916	192566	copyrighted	false
-biblegateway.com	eng	Holman-Christian-Standard-Bible-HCSB	Holman Christian Standard Bible (HCSB)		holman-christian-standard-bible-2009	holman-christian-standard-bible	27	260	7956	171380	copyrighted	false
-biblegateway.com	eng	International-Childrens-Bible-ICB	International Children’s Bible (ICB)		international-childrens-bible-2015	international-childrens-bible	27	260	7923	203186	copyrighted	false
-biblegateway.com	eng	International-Standard-Version-ISV-Bible	International Standard Version (ISV)		international-standard-version-2014-v2	international-standard-version	27	260	7953	179118	copyrighted	false
-biblegateway.com	eng	JB-Phillips-New-Testament	J.B. Phillips New Testament (PHILLIPS)		jb-phillips-new-testament-1958	jb-phillips-new-testament	27	260	3223	196956	copyrighted	false
-biblegateway.com	eng	Jubilee-Bible-2000-JUB	Jubilee Bible 2000 (JUB)		jubilee-bible-2000	jubilee-bible	27	260	7957	184411	open_license	true
-biblegateway.com	eng	King-James-Version-KJV-Bible	King James Version (KJV)		king-james-version-1769	king-james-version	27	260	7957	180402	public_domain	true
-biblegateway.com	eng	Legacy-Standard-Bible-LSB-Bible	Legacy Standard Bible (LSB)		legacy-standard-bible-2021	legacy-standard-bible	27	260	7958	185318	copyrighted	false
-biblegateway.com	eng	Lexham-English-Bible-LEB	Lexham English Bible (LEB)		lexham-english-bible-2012	lexham-english-bible	27	260	7939	186673	open_license	true
-biblegateway.com	eng	The-Living-Bible-TLB	Living Bible (TLB)		living-bible-1971	living-bible	27	260	7590	196405	copyrighted	false
-biblegateway.com	eng	Modern-English-Version-MEV-Bible	Modern English Version (MEV)		modern-english-version-2014	modern-english-version	27	260	7957	174332	copyrighted	false
-biblegateway.com	eng	Mounce-Reverse-Interlinear-New-Testament	Mounce Reverse Interlinear New Testament (MOUNCE)		mounce-reverse-interlinear-new-testament-2011	mounce-reverse-interlinear-new-testament	27	260	7940	217383	copyrighted	false
-biblegateway.com	eng	Names-of-God-NOG-Bible	Names of God Bible (NOG)		names-of-god-bible-2011	names-of-god-bible	27	260	7943	180570	copyrighted	false
-biblegateway.com	eng	New-American-Bible-Revised-Edition-NABRE-Bible	New American Bible (Revised Edition) (NABRE)		new-american-bible-revised-edition-1968	new-american-bible-revised-edition	27	260	7958	172489	copyrighted	false
-biblegateway.com	eng	New-American-Standard-Bible-NASB	New American Standard Bible (NASB)		new-american-standard-bible-2020	new-american-standard-bible	27	260	7945	186953	copyrighted	false
-biblegateway.com	eng	New-American-Standard-Bible-NASB1995	New American Standard Bible 1995 (NASB1995)		new-american-standard-bible-1995	new-american-standard-bible	27	260	7958	184525	copyrighted	false
-biblegateway.com	eng	New-Catholic-Bible-NCB-Bible	New Catholic Bible (NCB)		new-catholic-bible-2015	new-catholic-bible	27	260	7941	182524	copyrighted	false
-biblegateway.com	eng	New-Century-Version-NCV-Bible	New Century Version (NCV)		new-century-version-1983	new-century-version	27	260	7939	191170	copyrighted	false
-biblegateway.com	eng	New-English-Translation-NET-Bible	New English Translation (NET Bible)		net-bible-2017-v2	net-bible	27	260	7943	179459	open_license	true
-biblegateway.com	eng	New-International-Readers-Version-NIRV-Bible	New International Reader's Version (NIRV)		new-international-readers-version-2014	new-international-readers-version	27	260	7942	200480	copyrighted	false
-biblegateway.com	eng	New-International-Version-NIV-Bible	New International Version (NIV)		new-international-version-2011	new-international-version	27	260	7942	176087	copyrighted	false
-biblegateway.com	eng	New-International-Version-UK-NIVUK-Bible	New International Version - UK (NIVUK)		new-international-version-1984-anglicised	new-international-version	27	260	7941	176784	copyrighted	false
-biblegateway.com	eng	New-King-James-Version-NKJV-Bible	New King James Version (NKJV)		new-king-james-version-1979	new-king-james-version	27	260	7957	178097	copyrighted	false
-biblegateway.com	eng	New-Life-Version-NLV-Bible	New Life Version (NLV)		new-life-version-1969	new-life-version	27	260	7957	204236	copyrighted	false
-biblegateway.com	eng	New-Living-Translation-NLT-Bible	New Living Translation (NLT)		new-living-translation-2015	new-living-translation	27	260	7943	186417	copyrighted	false
-biblegateway.com	eng	New-Matthew-Bible-NMB	New Matthew Bible (NMB)		new-matthew-bible-2016	new-matthew-bible	27	260	7955	189775	copyrighted	false
-biblegateway.com	eng	New-Revised-Standard-Version-Catholic-Edition-NRSVCE-Bible	New Revised Standard Version Catholic Edition (NRSVCE)		new-revised-standard-version-1991-catholic	new-revised-standard-version	27	260	7940	176251	copyrighted	false
-biblegateway.com	eng	New-Revised-Standard-Version-Updated-Edition-NRSVue-Bible	New Revised Standard Version Updated Edition (NRSVUE)		new-revised-standard-version-2021-updated-edition	new-revised-standard-version	27	260	7941	176615	copyrighted	false
-biblegateway.com	eng	New-Revised-Standard-Version-Anglicised-NRSVA-Bible	New Revised Standard Version, Anglicised (NRSVA)		new-revised-standard-version-1995-anglicised	new-revised-standard-version	27	260	7940	176282	copyrighted	false
-biblegateway.com	eng	New-Revised-Standard-Version-Anglicised-Catholic-Edition-NRSVACE-Bible	New Revised Standard Version, Anglicised Catholic Edition (NRSVACE)		new-revised-standard-version-1989-anglicised-catholic	new-revised-standard-version	27	260	7940	176282	copyrighted	false
-biblegateway.com	eng	New-Testament-for-Everyone-NTFE	New Testament for Everyone (NTFE)		nt-wright-new-testament-for-everyone-2023-3rd-edition	nt-wright-new-testament-for-everyone	27	260	7943	184149	copyrighted	false
-biblegateway.com	eng	Orthodox-Jewish-Bible-OJB	Orthodox Jewish Bible (OJB)		orthodox-jewish-bible-2002	orthodox-jewish-bible	27	260	7959	224064	open_license	true
-biblegateway.com	eng	Revised-Geneva-Translation-RGT-Bible	Revised Geneva Translation (RGT)		revised-geneva-translation-2024	revised-geneva-translation	27	260	7953	180059	copyrighted	false
-biblegateway.com	eng	Revised-Standard-Version-RSV-Bible	Revised Standard Version (RSV)		revised-standard-version-1971	revised-standard-version	27	260	7934	173200	copyrighted	false
-biblegateway.com	eng	Revised-Standard-Version-Catholic-Edition-RSVCE-Bible	Revised Standard Version Catholic Edition (RSVCE)		revised-standard-version-1971-catholic	revised-standard-version	27	260	7939	173339	copyrighted	false
-biblegateway.com	eng	Message-MSG-Bible	The Message (MSG)		the-message-bible-1993	the-message-bible	27	260	3469	191948	copyrighted	false
-biblegateway.com	eng	The-Voice-Bible	The Voice (VOICE)		the-voice-bible-2011	the-voice-bible	27	260	7773	215376	copyrighted	false
-biblegateway.com	eng	Tree-of-Life-Version-TLV-Bible	Tree of Life Version (TLV)		tree-of-life-version-2014	tree-of-life-version	27	260	7951	174613	copyrighted	false
-biblegateway.com	eng	World-English-Bible-WEB	World English Bible (WEB)		world-english-bible-2020	world-english-bible	27	260	7957	174762	public_domain	true
-biblegateway.com	eng	Worldwide-English-New-Testament-WE	Worldwide English (New Testament) (WE)		worldwide-english-new-testament-1996	worldwide-english-new-testament	27	260	7840	205536	copyrighted	false
-biblegateway.com	eng	Wycliffe-Bible-WYC	Wycliffe Bible (WYC)		wycliffe-bible-2001-modern-spelling	wycliffe-bible	27	260	7956	224495	copyrighted	false
-biblegateway.com	eng	Youngs-Literal-Translation-YLT-Bible	Young's Literal Translation (YLT)		youngs-literal-translation-1898	youngs-literal-translation	27	260	7957	186761	public_domain	true
-biblegateway.com	fra	La-Bible-du-Semeur-BDS	La Bible du Semeur (BDS)		bible-du-semeur-2015	bible-du-semeur	27	260	7945	203090	copyrighted	false
-biblegateway.com	fra	Louis-Segond-LSG	Louis Segond (LSG)		louis-segond-1910	louis-segond	27	260	7957	174165	public_domain	true
-biblegateway.com	fra	Nouvelle-Edition-de-Geneve-NEG1979-Bible	Nouvelle Edition de Genève – NEG1979 (NEG1979)		geneva-bible-fra-1979	geneva-bible-fra	27	260	7957	174359	copyrighted	false
-biblegateway.com	fra	Segond-21-SG21-Bible	Segond 21 (SG21)		segond-21-2007	segond-21	27	260	7957	179526	copyrighted	false
-biblegateway.com	ita	Conferenza-Episcopale-Italiana-CEI	Conferenza Episcopale Italiana (CEI)		conferenza-episcopale-italiana-1974	conferenza-episcopale-italiana	27	260	7952	158826	public_domain	true
-biblegateway.com	ita	La-Bibbia-della-Gioia-BDG	La Bibbia della Gioia (BDG)		la-bibbia-della-gioia-2005	la-bibbia-della-gioia	27	260	7588	187350	copyrighted	false
-biblegateway.com	ita	La-Nuova-Diodati-LND	La Nuova Diodati (LND)		nuova-diodati-1991	nuova-diodati	27	260	7957	165684	copyrighted	false
-biblegateway.com	ita	Nuova-Riveduta-1994-NR1994	Nuova Riveduta 1994 (NR1994)		nuova-riveduta-1994	nuova-riveduta	27	260	7957	162067	copyrighted	false
-biblegateway.com	ita	Nuova-Riveduta-2006-NR2006	Nuova Riveduta 2006 (NR2006)		nuova-riveduta-2006	nuova-riveduta	27	260	7958	164152	copyrighted	false
-biblegateway.com	pol	Nowe-Przymierze	Nowe Przymierze (NP)		eib-nowe-przymierze-literary-2011	eib-nowe-przymierze-literary	27	260	7954	142485	copyrighted	false
-biblegateway.com	pol	Słowo-Życia-SZ	Słowo Życia (SZ-PL)		slowo-zycia-2016	slowo-zycia	27	260	7916	139460	open_license	true
-biblegateway.com	pol	Updated-Gdańsk-Bible-UBG	Updated Gdańsk Bible (UBG)		uwspolczesniona-biblia-gdanska-2017	uwspolczesniona-biblia-gdanska	27	260	7957	138776	open_license	true
-biblegateway.com	spa	Jubilee-Bible-2000-Spanish-JBS	Biblia del Jubileo (JBS)		biblia-del-jubileo-2000	biblia-del-jubileo	27	260	7957	167614	copyrighted	false
-biblegateway.com	spa	Dios-Habla-Hoy-DHH-Biblia	Dios Habla Hoy (DHH)		dios-habla-hoy-1994	dios-habla-hoy	27	260	7912	182164	copyrighted	false
-biblegateway.com	spa	La-Biblia-de-las-Américas-LBLA	La Biblia de las Américas (LBLA)		la-biblia-de-las-americas-1986	la-biblia-de-las-americas	27	260	7958	180169	copyrighted	false
-biblegateway.com	spa	Biblia-La-Palabra-España-BLP	La Palabra (España) (BLP)		la-palabra-2010-3rd-edition-espana	la-palabra	27	260	7953	179640	copyrighted	false
-biblegateway.com	spa	Biblia-La-Palabra-Hispanoamérica-BLPH	La Palabra (Hispanoamérica) (BLPH)		la-palabra-2010-3rd-edition-hispanoamericana	la-palabra	27	260	7953	180267	copyrighted	false
-biblegateway.com	spa	Nueva-Biblia-Viva-NBV	Nueva Biblia Viva (NBV)		nueva-biblia-viva-2008	nueva-biblia-viva	27	260	7880	174525	copyrighted	false
-biblegateway.com	spa	Nueva-Biblia-de-las-Américas-NBLA	Nueva Biblia de las Américas (NBLA)		nueva-biblia-de-las-americas-2005	nueva-biblia-de-las-americas	27	260	7958	180342	copyrighted	false
-biblegateway.com	spa	Nueva-Traduccion-Viviente-Biblia-NTV	Nueva Traducción Viviente (NTV)		nueva-traduccion-viviente-2010	nueva-traduccion-viviente	27	260	7943	188975	copyrighted	false
-biblegateway.com	spa	Nueva-Version-Internacional-Castilian-Biblia-CST	Nueva Versión Internacional (Castilian) (CST)		nueva-version-internacional-2018	nueva-version-internacional	27	260	7934	169568	copyrighted	false
-biblegateway.com	spa	Nueva-Version-Internacional-Biblia-NVI	Nueva Versión Internacional (NVI)		nueva-version-internacional-2015	nueva-version-internacional	27	260	7958	169801	copyrighted	false
-biblegateway.com	spa	Palabra-de-Dios-para-Todos-Biblia-PDT	Palabra de Dios para Todos (PDT)		palabra-de-dios-para-todos-2015	palabra-de-dios-para-todos	27	260	7948	186379	copyrighted	false
-biblegateway.com	spa	Reina-Valera-Actualizada-RVA2015-Biblia	Reina Valera Actualizada (RVA-2015)		reina-valera-actualizada-2015	reina-valera-actualizada	27	260	7959	168372	copyrighted	false
-biblegateway.com	spa	Reina-Valera-Contemporanea-Biblia-RVC	Reina Valera Contemporánea (RVC)		reina-valera-contemporanea-2009	reina-valera-contemporanea	27	260	7958	173681	copyrighted	false
-biblegateway.com	spa	Reina-Valera-Revisada-RVR	Reina Valera Revisada (RVR1977)		reina-valera-revisada-1977	reina-valera-revisada	27	260	7957	168599	copyrighted	false
-biblegateway.com	spa	Reina-Valera-1960-RVR1960-Biblia	Reina-Valera 1960 (RVR1960)		reina-valera-1960	reina-valera	27	260	7958	165901	copyrighted	false
-biblegateway.com	spa	Reina-Valera-1995-RVR1995-Biblia	Reina-Valera 1995 (RVR1995)		reina-valera-1995	reina-valera	27	260	7958	163551	copyrighted	false
-biblegateway.com	spa	Reina-Valera-Antigua-RVA-Biblia	Reina-Valera Antigua (RVA)		reina-valera-antigua-1602	reina-valera-antigua	27	260	7956	164095	public_domain	true
-biblegateway.com	spa	Spanish-Blue-Red-Gold-Letter-Edition-SRV-BRG	Spanish Blue Red and Gold Letter Edition (SRV-BRG)		reina-valera-1909	reina-valera	27	260	7957	164181	public_domain	true
-biblegateway.com	spa	Traducción-en-lenguaje-actual-TLA-Biblia	Traducción en lenguaje actual (TLA)		lenguaje-actual-2002	lenguaje-actual	27	260	7655	197738	copyrighted	false
-biblehub.com	eng	afv	A Faithful Version		faithful-version-2011	faithful-version	27	260	7956	189902	copyrighted	false
-biblehub.com	eng	akjv	American King James Version		american-king-james-version-1999	american-king-james-version	27	260	7913	179634	public_domain	true
-biblehub.com	eng	asv	American Standard Version		american-standard-version-1901	american-standard-version	27	260	7913	179053	public_domain	true
-biblehub.com	eng	amp	Amplified Bible		amplified-bible-2015	amplified-bible	27	260	7941	263412	copyrighted	false
-biblehub.com	eng	anderson	Anderson New Testament		anderson-new-testament-1865	anderson-new-testament	27	260	7957	187311	public_domain	true
-biblehub.com	eng	aramaic-plain-english	Aramaic Bible in Plain English		aramaic-plain-english-2013-8th-edition	aramaic-plain-english	27	260	7957	191459	copyrighted	false
-biblehub.com	eng	blb	Berean Literal Bible		berean-literal-bible-2016	berean-literal-bible	27	260	7941	182047	public_domain	true
-biblehub.com	eng	bsb	Berean Study Bible		berean-standard-bible-2025	berean-standard-bible	27	260	7941	191314	public_domain	true
-biblehub.com	eng	bishops	Bishops' Bible of 1568		bishops-bible-1568	bishops-bible	27	260	7957	187828	public_domain	true
-biblehub.com	eng	cpdv	Catholic Public Domain Version		catholic-public-domain-version-2009	catholic-public-domain-version	27	260	7957	194672	public_domain	true
-biblehub.com	eng	csb	Christian Standard Bible		christian-standard-bible-2017	christian-standard-bible	27	260	7941	251701	copyrighted	false
-biblehub.com	eng	cev	Contemporary English Version		contemporary-english-version-2006-2nd-edition	contemporary-english-version	27	260	7854	180341	copyrighted	false
-biblehub.com	eng	coverdale	Coverdale Bible of 1535		coverdale-bible-1535	coverdale-bible	27	260	7957	188519	public_domain	true
-biblehub.com	eng	dbt	Darby Bible Translation		eng-darby-translation-1884	eng-darby-translation	27	260	7913	178333	public_domain	true
-biblehub.com	eng	drb	Douay-Rheims Bible		douay-rheims-1752-challoner-revision	douay-rheims	27	260	7913	178091	public_domain	true
-biblehub.com	eng	erv	English Revised Version		english-revised-version-1885	english-revised-version	27	260	7913	178894	public_domain	true
-biblehub.com	eng	esv	English Standard Version		english-standard-version-2016	english-standard-version	27	260	7940	175503	copyrighted	false
-biblehub.com	eng	gwt	GOD'S WORD® Translation		gods-word-translation-1995	gods-word-translation	27	260	7957	179968	copyrighted	false
-biblehub.com	eng	geneva	Geneva Bible of 1587		geneva-bible-eng-1587	geneva-bible-eng	27	260	7957	187812	public_domain	true
-biblehub.com	eng	godbey	Godbey New Testament		godbey-new-testament-1902	godbey-new-testament	27	260	7954	182369	public_domain	true
-biblehub.com	eng	gnt	Good News Translation		good-news-1992-2nd-edition	good-news	27	260	7896	195372	copyrighted	false
-biblehub.com	eng	haweis	Haweis New Testament		haweis-new-testament-1795	haweis-new-testament	27	260	7957	188100	public_domain	true
-biblehub.com	eng	hcsb	Holman Christian Standard Bible		holman-christian-standard-bible-2009	holman-christian-standard-bible	27	260	7956	210948	copyrighted	false
-biblehub.com	eng	isv	International Standard Version		international-standard-version-1-2-1	international-standard-version	27	260	7957	185680	copyrighted	false
-biblehub.com	eng	kj2000	King James 2000 Bible		king-james-version-2000-2000	king-james-version-2000	27	260	7957	180292	copyrighted	false
-biblehub.com	eng	kjv	King James Bible		king-james-version-1769	king-james-version	27	260	7913	180195	public_domain	true
-biblehub.com	eng	lamsa	Lamsa Bible		lamsa-bible-1933	lamsa-bible	27	260	7957	186136	copyrighted	false
-biblehub.com	eng	let	Literal Emphasis Translation		literal-emphasis-translation-2015	literal-emphasis-translation	27	260	7957	213398	open_license	true
-biblehub.com	eng	lsv	Literal Standard Version		literal-standard-version-2020	literal-standard-version	27	260	7957	181064	open_license	true
-biblehub.com	eng	mace	Mace New Testament		mace-new-testament-1729	mace-new-testament	27	260	7957	183391	public_domain	true
-biblehub.com	eng	nasb77	NASB 1977		new-american-standard-bible-1977	new-american-standard-bible	27	260	7957	185530	copyrighted	false
-biblehub.com	eng	nasb	NASB 1995		new-american-standard-bible-1995	new-american-standard-bible	27	260	7957	185732	copyrighted	false
-biblehub.com	eng	net	NET Bible		net-bible-2006-v1	net-bible	27	260	7957	182624	open_license	true
-biblehub.com	eng	nasb_	New American Standard Bible		new-american-standard-bible-2020	new-american-standard-bible	27	260	7941	233520	copyrighted	false
-biblehub.com	eng	nheb	New Heart English Bible		new-heart-english-bible-2025	new-heart-english-bible	27	260	7949	175987	public_domain	true
-biblehub.com	eng	niv	New International Version		new-international-version-2011	new-international-version	27	260	7941	176057	copyrighted	false
-biblehub.com	eng	nkjv	New King James Version		new-king-james-version-1979	new-king-james-version	27	260	7940	183972	copyrighted	false
-biblehub.com	eng	nlt	New Living Translation		new-living-translation-2015	new-living-translation	27	260	7940	188060	copyrighted	false
-biblehub.com	eng	slt	Smith's Literal Translation		smiths-literal-translation-1876	smiths-literal-translation	27	260	7957	177389	public_domain	true
-biblehub.com	eng	tyndale	Tyndale Bible of 1526		tyndale-bible-1526-worms	tyndale-bible	27	260	7957	187992	public_domain	true
-biblehub.com	eng	wbt	Webster's Bible Translation		webster-bible-1833	webster-bible	27	260	7913	178974	public_domain	true
-biblehub.com	eng	wey	Weymouth New Testament		weymouth-new-testament-1903	weymouth-new-testament	27	260	7913	191640	public_domain	true
-biblehub.com	eng	web	World English Bible		world-english-bible-1997	world-english-bible	27	260	7913	173793	public_domain	true
-biblehub.com	eng	worrell	Worrell New Testament		worrell-new-testament-1904	worrell-new-testament	27	260	7957	182991	public_domain	true
-biblehub.com	eng	worsley	Worsley New Testament		worsley-new-testament-1770	worsley-new-testament	27	260	7957	185123	public_domain	true
-biblehub.com	eng	ylt	Young's Literal Translation		youngs-literal-translation-1898	youngs-literal-translation	27	260	7913	185740	public_domain	true
-bibles.org	eng	685d1470fe4d5c3b-01	American Standard Version (Byzantine Text with Apocrypha)		american-standard-version-2021	american-standard-version	22	177	5202	116607	public_domain	true
-bibles.org	eng	a81b73293d3080c9-01	Amplified Bible		amplified-bible-2015	amplified-bible	27	260	7947	229121	copyrighted	false
-bibles.org	eng	bba9f40183526463-01	Berean Standard Bible		berean-standard-bible-2016	berean-standard-bible	27	260	7941	171804	public_domain	true
-bibles.org	eng	55212e3cf5d04d49-01	Cambridge Paragraph Bible of the KJV		king-james-version-1873-cambridge-paragraph	king-james-version	27	260	7957	180595	public_domain	true
-bibles.org	eng	555fef9a6cb31151-01	Contemporary English Version		contemporary-english-version-2006-2nd-edition	contemporary-english-version	27	260	7855	180328	copyrighted	false
-bibles.org	eng	108aa0495c0f45fb-01	Contemporary English Version (Anglicised) 2012		contemporary-english-version-2012-anglicised	contemporary-english-version	27	260	7855	181075	copyrighted	false
-bibles.org	eng	555fef9a6cb31151-02	Contemporary English Version Interconfessional Edition		contemporary-english-version-2006-2nd-edition-interconfessional	contemporary-english-version	27	260	7855	180328	copyrighted	false
-bibles.org	eng	555fef9a6cb31151-03	Contemporary English Version Old tradition		contemporary-english-version-2006-2nd-edition-old-tradition	contemporary-english-version	27	260	7855	180328	copyrighted	false
-bibles.org	eng	179568874c45066f-01	Douay-Rheims American 1899		douay-rheims-1899-american-edition	douay-rheims	27	260	7951	178978	public_domain	true
-bibles.org	eng	26eb483046b561dc-01	Douay-Rheims Challoner Revision 1752 ✠		douay-rheims-1752-challoner-revision	douay-rheims	27	260	7949	179006	public_domain	true
-bibles.org	eng	55ec700d9e0d77ea-01	English Majority Text Version		english-majority-text-version-2014	english-majority-text-version	27	260	7954	181686	open_license	true
-bibles.org	eng	f421fe261da7624f-01	English Standard Version Revision 2016		english-standard-version-2016	english-standard-version	27	260	7941	175498	copyrighted	false
-bibles.org	eng	65eec8e0b60e656b-01	Free Bible Version		free-bible-version-4-1	free-bible-version	27	260	7937	176359	open_license	true
-bibles.org	eng	0f6d909d7b736d4f-01	Free Bible Version		free-bible-version-2018-pre-v4	free-bible-version	27	260	7941	176298	open_license	true
-bibles.org	eng	c315fa9f71d4af3a-01	Geneva Bible		geneva-bible-eng-1599	geneva-bible-eng	27	260	7953	181932	public_domain	true
-bibles.org	eng	de08848bef5aa286-02	Good News Bible (British Verison) 2017		good-news-2017-british	good-news	27	260	7897	193312	copyrighted	false
-bibles.org	eng	de08848bef5aa286-03	Good News Bible (British Version) Catholic Edition 2017		good-news-2017-british-catholic	good-news	27	260	7897	193312	copyrighted	false
-bibles.org	eng	de08848bef5aa286-01	Good News Bible (British Version) with Deuterocanonical books 2017		good-news-2017-british	good-news	27	260	7897	193312	copyrighted	false
-bibles.org	eng	61fd76eafa1577c2-02	Good News Translation		good-news-1992-2nd-edition	good-news	27	260	7897	192564	copyrighted	false
-bibles.org	eng	61fd76eafa1577c2-01	Good News Translation (US Version)		good-news-1992-2nd-edition-us	good-news	27	260	7897	192564	copyrighted	false
-bibles.org	eng	de4e12af7f28f599-01	King James (Authorised) Version		king-james-version-1769	king-james-version	27	260	7957	180815	public_domain	true
-bibles.org	eng	de4e12af7f28f599-02	King James (Authorised) Version		king-james-version-1769	king-james-version	27	260	7957	180815	public_domain	true
-bibles.org	eng	5cccfa61df57262f-01	King James Version  (Bible Society Paragraphed Edition 1954)		king-james-version-1954-bible-society-paragraphed	king-james-version	27	260	7957	180382	copyrighted	false
-bibles.org	eng	a6aee10bb058511c-01	King James Version with Apocrypha, American Edition		king-james-version-1962-american-edition	king-james-version	27	260	7957	180337	copyrighted	false
-bibles.org	eng	a6aee10bb058511c-02	King James Version, American Edition		king-james-version-1962-american-edition	king-james-version	27	260	7957	180337	copyrighted	false
-bibles.org	eng	01b29f4b342acc35-01	Literal Standard Version		literal-standard-version-2020	literal-standard-version	27	260	7959	181124	open_license	true
-bibles.org	eng	99e22db6104f0498-01	Matthew1-22, 1525 (William Tyndale) Cologne Fragment		tyndale-bible-1525-cologne-fragment	tyndale-bible	1	22	739	16878	public_domain	true
-bibles.org	eng	5b888a42e2d9a89d-01	New International Reader’s Version 2014		new-international-readers-version-2014	new-international-readers-version	27	260	7896	198004	copyrighted	false
-bibles.org	eng	3e2eb613d45e131e-01	New International Version (Anglicized) 2011		new-international-version-2011-anglicised	new-international-version	27	260	7896	175175	copyrighted	false
-bibles.org	eng	78a9f6124f344018-01	New International Version 2011		new-international-version-2011	new-international-version	27	260	7847	173484	copyrighted	false
-bibles.org	eng	d6e14a625393b4da-01	New Living Translation		new-living-translation-2015	new-living-translation	27	260	7942	186287	copyrighted	false
-bibles.org	eng	1fd99b0d5841e19b-01	New Revised Standard Version		new-revised-standard-version-1989	new-revised-standard-version	27	260	7941	176110	copyrighted	false
-bibles.org	eng	1fd99b0d5841e19b-02	New Revised Standard Version		new-revised-standard-version-1989	new-revised-standard-version	27	260	7941	176110	copyrighted	false
-bibles.org	eng	4eede3e748e0a2c3-03	New Revised Standard Version (Anglicised) 1989		new-revised-standard-version-1989-anglicised	new-revised-standard-version	27	260	7941	176144	copyrighted	false
-bibles.org	eng	4eede3e748e0a2c3-02	New Revised Standard Version Catholic Edition (Anglicised) 1989		new-revised-standard-version-1989-anglicised-catholic	new-revised-standard-version	27	260	7941	176144	copyrighted	false
-bibles.org	eng	1fd99b0d5841e19b-03	New Revised Standard Version Old Tradition		new-revised-standard-version-1989-old-tradition	new-revised-standard-version	27	260	7941	176110	copyrighted	false
-bibles.org	eng	4eede3e748e0a2c3-01	New Revised Standard Version with Extended Apocrypha (Anglicised) 1989		new-revised-standard-version-1989-anglicised	new-revised-standard-version	27	260	7941	176144	copyrighted	false
-bibles.org	eng	4b64f7d0cdec0e42-01	Revised Standard Version		revised-standard-version-1971	revised-standard-version	27	260	7935	173269	copyrighted	false
-bibles.org	eng	4b64f7d0cdec0e42-02	Revised Standard Version		revised-standard-version-1971	revised-standard-version	27	260	7935	173269	copyrighted	false
-bibles.org	eng	4b64f7d0cdec0e42-03	Revised Standard Version Old Tradition 1952		revised-standard-version-1946-old-tradition	revised-standard-version	27	260	7935	173269	copyrighted	false
-bibles.org	eng	0a8314e257586058-01	Revised Standard Version UK 1977		revised-standard-version-1977-uk	revised-standard-version	27	260	7935	173521	copyrighted	false
-bibles.org	eng	40072c4a5aba4022-01	Revised Version 1885		english-revised-version-1885	english-revised-version	27	260	7941	179867	public_domain	true
-bibles.org	eng	9bb76cd3e5a7f9b4-01	Revised Version with Apocrypha 1885, 1895		english-revised-version-1885	english-revised-version	27	260	7941	179868	public_domain	true
-bibles.org	eng	2f0fd81d7b85b923-01	The English New Testament According to Family 35		family-35-nt-2016	family-35-nt	10	162	5884	129550	open_license	true
-bibles.org	eng	a9fc3d9729b6a6a0-01	The Gospel of St Matthew 1-22 (William Tyndale) Cologne Fragment - Modern Spelling		tyndale-bible-2025-cologne-fragment-modern-spelling	tyndale-bible	1	22	740	16645	public_domain	true
-bibles.org	eng	06125adad2d5898a-01	The Holy Bible, American Standard Version		american-standard-version-1901	american-standard-version	27	260	7932	179258	public_domain	true
-bibles.org	eng	92df985750968ce9-01	The New Testament 1526 (William Tyndale) Worms Edition		tyndale-bible-1526-worms	tyndale-bible	27	260	7946	181773	public_domain	true
-bibles.org	eng	c89622d31b60c444-02	The Orthodox Jewish Bible		orthodox-jewish-bible-2011	orthodox-jewish-bible	27	260	7959	208836	open_license	true
-bibles.org	eng	32339cf2f720ff8e-01	The Text-Critical English New Testament		text-critical-english-nt-2022	text-critical-english-nt	27	260	7953	181547	open_license	true
-bibles.org	eng	b5674f77348ad856-01	The Translator's Translation:  New Testament 1973		translator-translation-1973	translator-translation	27	260	7924	180290	copyrighted	false
-bibles.org	eng	4524cdb7a7098420-01	The Trench Epistles GWC 1915		trench-epistles-gwc-1915	trench-epistles-gwc	3	33	630	24689	public_domain	true
-bibles.org	eng	9c907df84d849b86-01	The newe Testament 1534 (William Tyndale) Antwerp Revised Edition - original spelling		tyndale-bible-1534-antwerp-original-spelling	tyndale-bible	27	260	7954	182215	public_domain	true
-bibles.org	eng	66c22495370cdfc0-01	Translation for Translators		translation-for-translators-2017	translation-for-translators	27	260	7851	313110	open_license	true
-bibles.org	eng	0bc8836afa7427fa-01	Translation for Translators		translation-for-translators-2017	translation-for-translators	27	260	7860	315405	open_license	true
-bibles.org	eng	fad27c00e7c042a2-01	Who? 2018		who-bible-2018	who-bible	27	260	7667	169240	copyrighted	false
-bibles.org	eng	9879dbb7cfe39e4d-01	World English Bible		world-english-bible-2020	world-english-bible	27	260	7953	174750	public_domain	true
-bibles.org	eng	9879dbb7cfe39e4d-02	World English Bible		world-english-bible-2020	world-english-bible	27	260	7953	174750	public_domain	true
-bibles.org	eng	9879dbb7cfe39e4d-03	World English Bible		world-english-bible-2020	world-english-bible	27	260	7953	174750	public_domain	true
-bibles.org	eng	9879dbb7cfe39e4d-04	World English Bible		world-english-bible-2020	world-english-bible	27	260	7953	174750	public_domain	true
-bibles.org	eng	7142879509583d59-01	World English Bible British Edition		world-english-bible-2020-british	world-english-bible	27	260	7953	174806	public_domain	true
-bibles.org	eng	7142879509583d59-02	World English Bible British Edition		world-english-bible-2020-british	world-english-bible	27	260	7953	174806	public_domain	true
-bibles.org	eng	7142879509583d59-03	World English Bible British Edition		world-english-bible-2020-british	world-english-bible	27	260	7953	174806	public_domain	true
-bibles.org	eng	7142879509583d59-04	World English Bible British Edition		world-english-bible-2020-british	world-english-bible	27	260	7953	174806	public_domain	true
-bibles.org	eng	72f4e6dc683324df-01	World English Bible Updated		world-english-bible-2020-updated	world-english-bible	27	260	7953	174753	public_domain	true
-bibles.org	eng	72f4e6dc683324df-02	World English Bible Updated		world-english-bible-2020-updated	world-english-bible	27	260	7953	174753	public_domain	true
-bibles.org	eng	72f4e6dc683324df-03	World English Bible Updated		world-english-bible-2020-updated	world-english-bible	27	260	7953	174753	public_domain	true
-bibles.org	eng	32664dc3288a28df-01	World English Bible, American English Edition, without Strong's Numbers		world-english-bible-2020-american	world-english-bible	27	260	7953	174753	public_domain	true
-bibles.org	eng	32664dc3288a28df-02	World English Bible, American English Edition, without Strong's Numbers		world-english-bible-2020-american	world-english-bible	27	260	7953	174753	public_domain	true
-bibles.org	eng	32664dc3288a28df-03	World English Bible, American English Edition, without Strong's Numbers		world-english-bible-2020-american	world-english-bible	27	260	7953	174749	public_domain	true
-bibles.org	eng	f72b840c855f362c-04	World Messianic Bible		world-english-bible-2020-messianic	world-english-bible	27	260	7953	178416	public_domain	true
-bibles.org	eng	04da588535d2f823-04	World Messianic Bible British Edition		world-english-bible-2020-messianic-british	world-english-bible	27	260	7953	178432	public_domain	true
-bibles.org	eng	7a29e1242c9ee60d-01	Young's Literal Translation 1898		youngs-literal-translation-1898	youngs-literal-translation	27	260	7957	186696	public_domain	true
-bibles.org	fra	a93a92589195411f-01	Bible J.N. Darby		fra-darby-translation-1885	fra-darby-translation	27	260	7954	186752	public_domain	true
-bibles.org	fra	c329f9f1debe32db-01	French Gospel of Matthew 1855 (de Sacy)		sacy-bible-1855	sacy-bible	1	28	1070	24199	public_domain	true
-bibles.org	fra	64138c65b3e295c2-01	Gospel of Matthew 1864 (Frainc-Comtois)		frainc-comtois-1864	frainc-comtois	1	28	1070	25577	public_domain	true
-bibles.org	fra	6f26e199139ea7f1-01	La Bible du Semeur (The Bible of the Sower)		bible-du-semeur-2015	bible-du-semeur	27	260	7945	201079	copyrighted	false
-bibles.org	fra	98ab666655da6ae4-01	New French current		bible-nouvelle-francais-courant-2019	bible-nouvelle-francais-courant	27	260	7944	201251	copyrighted	false
-bibles.org	fra	a0eead58359eebd2-01	Parole de Vie 2017		parole-de-vie-2017	parole-de-vie	27	260	7924	209888	copyrighted	false
-bibles.org	ita	41f25b97f468e10b-01	Diodati Bible 1885		diodati-bible-1885	diodati-bible	27	260	7957	168046	public_domain	true
-bibles.org	ita	547356f0e641742a-02	Italian Common Language Bible		interconfessionale-in-lingua-corrente-2014-3rd-edition	interconfessionale-in-lingua-corrente	27	260	7886	176811	copyrighted	false
-bibles.org	ita	547356f0e641742a-01	Italian Common Language Interconfessional Bible		interconfessionale-in-lingua-corrente-2014-3rd-edition	interconfessionale-in-lingua-corrente	27	260	7886	176811	copyrighted	false
-bibles.org	pol	fbb8b0e1943b417c-01	Biblica® Open Polish Living New Testament 2016		slowo-zycia-2016	slowo-zycia	27	260	7873	138325	open_license	true
-bibles.org	pol	2e3185bcb90f9381-01	Polish Living New Testament (The Word of Life)		slowo-zycia-2016	slowo-zycia	27	260	7873	138325	open_license	true
-bibles.org	pol	1c9761e0230da6e0-01	Updated Gdansk Bible		uwspolczesniona-biblia-gdanska-2017	uwspolczesniona-biblia-gdanska	27	260	7957	138326	open_license	true
-bibles.org	spa	6b7f504f1b6050c1-01	Biblica® Open Nueva Biblia Viva 2008		nueva-biblia-viva-2008	nueva-biblia-viva	27	260	7880	174466	copyrighted	false
-bibles.org	spa	0aaa4b88c30bcde2-01	Holy Bible: The Word of God for All		palabra-de-dios-para-todos-2015	palabra-de-dios-para-todos	27	260	7928	185353	copyrighted	false
-bibles.org	spa	e1592fe262f26754-01	New Living Bible		nueva-biblia-viva-2008	nueva-biblia-viva	27	260	7880	174467	copyrighted	false
-bibles.org	spa	abc55ec4a92a291d-01	Nueva Versión Internacional (Spanish New International Version) 2015		nueva-version-internacional-2015	nueva-version-internacional	27	260	7929	181130	copyrighted	false
-bibles.org	spa	01c25b8715dbb632-01	Nueva Versión Internacional 2022		nueva-version-internacional-2022	nueva-version-internacional	27	260	7940	169513	copyrighted	false
-bibles.org	spa	592420522e16049f-01	Reina Valera 1909		reina-valera-1909	reina-valera	27	260	7956	164216	public_domain	true
-bibles.org	spa	48acedcf8595c754-01	Spanish Bible, Palabla de Dios para ti		palabra-de-dios-para-ti-2020	palabra-de-dios-para-ti	27	260	7936	154224	open_license	true
-bibles.org	spa	48acedcf8595c754-02	Spanish NT + PP, Palabla de Dios para ti		palabra-de-dios-para-ti-2020	palabra-de-dios-para-ti	27	260	7936	154224	open_license	true
-bibles.org	spa	ff913c55498d2380-01	Spanish, Biblia Reina Valera 1960		reina-valera-1960	reina-valera	27	260	7958	164930	copyrighted	false
-bibles.org	spa	b32b9d1b64b4ef29-01	The Holy Bible in Simple Spanish		la-biblia-en-espanol-sencillo-2018	la-biblia-en-espanol-sencillo	27	260	7958	182376	open_license	true
-bibles.org	spa	482ddd53705278cc-01	The New Testament in Spanish, Free Bible Version		biblia-libre-1-1-beta	biblia-libre	27	260	7941	179186	open_license	true
-bibles.org	spa	3a58bb7dafa55959-01	Traducción en Lenguaje Actual		lenguaje-actual-2002	lenguaje-actual	27	260	7627	197756	copyrighted	false
-bibles.org	spa	3a58bb7dafa55959-02	Traducción en Lenguaje Actual Interconfesional		lenguaje-actual-2002-interconfesional	lenguaje-actual	27	260	7627	197756	copyrighted	false
-bibles.org	spa	482ddd53705278cc-02	Versión Biblia Libre		biblia-libre-1-1-beta	biblia-libre	27	260	7941	179186	open_license	true
-biblestudytools.com	eng	asv	American Standard Version		american-standard-version-1901	american-standard-version	27	260	7959	180067	public_domain	true
-biblestudytools.com	eng	bsb	Berean Standard Bible		berean-standard-bible-2016	berean-standard-bible	27	260	7941	175837	public_domain	true
-biblestudytools.com	eng	ceb	Common English Bible		common-english-bible-2011	common-english-bible	27	260	7942	179853	copyrighted	false
-biblestudytools.com	eng	ceba	Common English Bible w/ Apocrypha		common-english-bible-2011	common-english-bible	27	260	7942	179847	copyrighted	false
-biblestudytools.com	eng	rhe	Douay-Rheims Catholic Bible		douay-rheims-1899-american-edition	douay-rheims	27	260	7957	178826	public_domain	true
-biblestudytools.com	eng	esv	English Standard Version		english-standard-version-2025	english-standard-version	27	260	7941	181231	copyrighted	false
-biblestudytools.com	eng	gw	GOD'S WORD Translation		gods-word-translation-1995	gods-word-translation	27	260	7959	179937	copyrighted	false
-biblestudytools.com	eng	gnt	Good News Translation		good-news-1992-2nd-edition	good-news	27	260	7898	193123	copyrighted	false
-biblestudytools.com	eng	gnta	Good News Translation w/ Apocrypha		good-news-1992-2nd-edition	good-news	27	260	7898	193123	copyrighted	false
-biblestudytools.com	eng	hnv	Hebrew Names Version		world-english-bible-2020-messianic	world-english-bible	27	260	7959	175839	public_domain	true
-biblestudytools.com	eng	csb	Holman Christian Standard Bible		holman-christian-standard-bible-2004	holman-christian-standard-bible	27	260	7956	175376	copyrighted	false
-biblestudytools.com	eng	jub	Jubilee Bible 2000		jubilee-bible-2000	jubilee-bible	27	260	7957	183388	open_license	true
-biblestudytools.com	eng	kjv	King James Version		king-james-version-1769	king-james-version	27	260	7959	189168	public_domain	true
-biblestudytools.com	eng	kjva	King James Version w/ Apocrypha		king-james-version-1769	king-james-version	27	260	7959	189186	public_domain	true
-biblestudytools.com	eng	leb	Lexham English Bible		lexham-english-bible-2012	lexham-english-bible	27	260	7939	189706	open_license	true
-biblestudytools.com	eng	nas	New American Standard Bible		new-american-standard-bible-1995	new-american-standard-bible	27	260	7958	206861	copyrighted	false
-biblestudytools.com	eng	ncv	New Century Version		new-century-version-1991	new-century-version	27	260	7959	191549	copyrighted	false
-biblestudytools.com	eng	nirv	New International Reader's Version		new-international-readers-version-1998	new-international-readers-version	27	260	7941	201139	copyrighted	false
-biblestudytools.com	eng	niv	New International Version		new-international-version-2011	new-international-version	27	260	7941	179350	copyrighted	false
-biblestudytools.com	eng	nkjv	New King James Version		new-king-james-version-1979	new-king-james-version	27	260	7959	177928	copyrighted	false
-biblestudytools.com	eng	nlt	New Living Translation		new-living-translation-2013	new-living-translation	27	260	7959	186363	copyrighted	false
-biblestudytools.com	eng	nrs	New Revised Standard		new-revised-standard-version-1989	new-revised-standard-version	27	260	7959	176287	copyrighted	false
-biblestudytools.com	eng	nrsa	New Revised Standard w/ Apocrypha		new-revised-standard-version-1989	new-revised-standard-version	27	260	7959	176287	copyrighted	false
-biblestudytools.com	eng	rsv	Revised Standard Version		revised-standard-version-1971	revised-standard-version	27	260	7959	173306	copyrighted	false
-biblestudytools.com	eng	rsva	Revised Standard Version w/ Apocrypha		revised-standard-version-1971	revised-standard-version	27	260	7959	173306	copyrighted	false
-biblestudytools.com	eng	bbe	The Bible in Basic English		bible-in-basic-english-1965	bible-in-basic-english	27	260	7959	200864	public_domain	true
-biblestudytools.com	eng	cjb	The Complete Jewish Bible		complete-jewish-bible-1998	complete-jewish-bible	27	260	7952	183916	public_domain	true
-biblestudytools.com	eng	dby	The Darby Translation		eng-darby-translation-1884	eng-darby-translation	27	260	7959	179304	public_domain	true
-biblestudytools.com	eng	msg	The Message Bible		the-message-bible-1993-1st-edition	the-message-bible	27	260	7938	192246	copyrighted	false
-biblestudytools.com	eng	wbt	The Webster Bible		webster-bible-1833	webster-bible	27	260	7959	179981	public_domain	true
-biblestudytools.com	eng	tmb	Third Millennium Bible		third-millennium-bible-1998	third-millennium-bible	27	260	7959	181169	copyrighted	false
-biblestudytools.com	eng	tmba	Third Millennium Bible w/ Apocrypha		third-millennium-bible-1998	third-millennium-bible	27	260	7959	181169	copyrighted	false
-biblestudytools.com	eng	tyn	Tyndale		tyndale-bible-1534-antwerp	tyndale-bible	27	260	7956	181970	public_domain	true
-biblestudytools.com	eng	wnt	Weymouth New Testament		weymouth-new-testament-1903	weymouth-new-testament	27	260	7959	193531	public_domain	true
-biblestudytools.com	eng	web	World English Bible		world-english-bible-2020	world-english-bible	27	260	7959	175516	public_domain	true
-biblestudytools.com	eng	wyc	Wycliffe		wycliffe-bible-2001-modern-spelling	wycliffe-bible	27	260	7959	234823	copyrighted	false
-biblestudytools.com	eng	ylt	Young's Literal Translation		youngs-literal-translation-1898	youngs-literal-translation	27	260	7959	186767	public_domain	true
-bibliepolskie.pl	pol	BRZESKA.TRANS.	Biblia Brzeska - transliteracja [1563]		biblia-brzeska-1563	biblia-brzeska	27	260	7942	142376	public_domain	true
-bibliepolskie.pl	pol	GDAŃSKA.1881	Biblia Gdańska [1881?]		biblia-gdanska-1881	biblia-gdanska	27	260	7942	139827	public_domain	true
-bibliepolskie.pl	pol	WUJEK.1923	Biblia Jakuba Wujka [1923]		biblia-jakuba-wujka-1923	biblia-jakuba-wujka	27	260	7942	133320	public_domain	true
-bibliepolskie.pl	pol	KJV.POL.2025	Biblia Króla Jakuba [2025]		biblia-krola-jakuba-2025-1st-edition	biblia-krola-jakuba	27	260	7942	146164	open_license	true
-bibliepolskie.pl	pol	TYSIĄCL.WYD5	Biblia Tysiąclecia - wyd.5 [2000]		biblia-tysiaclecia-2000-5th-edition	biblia-tysiaclecia	27	260	7941	138431	copyrighted	false
-bibliepolskie.pl	pol	EIB.BIBLIA.2016.LIT	Biblia to jest Pismo Święte Starego i Nowego Przymierza - liter. [2016]		eib-nowe-przymierze-literary-2016	eib-nowe-przymierze-literary	27	260	7942	142163	copyrighted	false
-bibliepolskie.pl	pol	BRYTYJKA	Biblia warszawska (brytyjka) [1975]		biblia-warszawska-1975	biblia-warszawska	27	260	7942	139139	copyrighted	false
-bibliepolskie.pl	pol	WARSZ.PRASKA	Biblia warszawsko-praska [1997]		biblia-warszawsko-praska-1997	biblia-warszawsko-praska	27	260	7942	151261	copyrighted	false
-bibliepolskie.pl	pol	GRZYM.1937	Ewangelia Święta + Dzieje Apostolskie - ks. E.Grzymała [1937]		grzymala-1937-2nd-edition	grzymala	5	117	4772	80429	public_domain	true
-bibliepolskie.pl	pol	GRZYM.1936	Ewangelia Święta - ks. E.Grzymała [1936]		grzymala-1936-1st-edition	grzymala	4	89	3769	61310	public_domain	true
-bibliepolskie.pl	pol	SZCZEPAŃSKI	Ewangelie i Dzieje Apostolskie - ks. W. Szczepański [1917]		szczepanski-1917	szczepanski	5	117	4772	83310	public_domain	true
-bibliepolskie.pl	pol	DĄBR.WUL.1973	Ks. Eugeniusz Dąbrowski - Nowy Testament z Wulgaty [1973]		dabrowski-wulgata-1973-2nd-edition	dabrowski-wulgata	27	260	7942	136625	copyrighted	false
-bibliepolskie.pl	pol	DĄBR.GR.1961	Ks. Eugeniusz Dąbrowski - Nowy Testament z greckiego [1961]		dabrowski-greka-1961-2nd-edition	dabrowski-greka	27	260	7941	136678	copyrighted	false
-bibliepolskie.pl	pol	ŚLĄSKIE.TOW.BIB.	Nowa Biblia Gdańska [2012]		nowa-biblia-gdanska-2012	nowa-biblia-gdanska	27	260	7942	140287	copyrighted	false
-bibliepolskie.pl	pol	RAKOW.NT	Nowy Testament - Rakowski [1606]		rakowski-nt-1606	rakowski-nt	27	260	7941	137247	public_domain	true
-bibliepolskie.pl	pol	BUDNY.1574	Nowy Testament - Szymon Budny [1574]		szymon-budny-1574	szymon-budny	27	260	7929	127888	public_domain	true
-bibliepolskie.pl	pol	MARIAWICI	Przekład Mariawitów - Nowy Testament [1921]		mariawici-1921-1st-edition	mariawici	27	260	7942	142693	copyrighted	false
-bibliepolskie.pl	pol	TOR.PRZ.2023	Przekład toruński [2023]		przeklad-torunski-2023	przeklad-torunski	27	260	7942	143810	copyrighted	false
-bibliepolskie.pl	pol	SOŁOWEYCZYK.MAT	Sołoweyczyk - Ewangelia Mateusza [1879]		soloweyczyk-1879	soloweyczyk	1	28	1069	17349	public_domain	true
-bibliepolskie.pl	pol	GDAŃSKA.2017	Uwspółcześniona Biblia Gdańska [2017]		uwspolczesniona-biblia-gdanska-2017	uwspolczesniona-biblia-gdanska	27	260	7942	138141	open_license	true
-crossbible.com	eng	ASV	American Standard Version		american-standard-version-1901	american-standard-version	27	260	7942	179809	public_domain	true
-crossbible.com	eng	BSB	Berean Study Bible		berean-study-bible-2023	berean-study-bible	27	260	7943	171723	public_domain	true
-crossbible.com	eng	ESV-CE	English Standard Version – CE (ESV-CE)		english-standard-version-2018	english-standard-version	27	260	7942	175461	copyrighted	false
-crossbible.com	eng	KJV-1611	King James Version (1611)		king-james-version-1611	king-james-version	27	260	7958	180813	public_domain	true
-crossbible.com	eng	KJV-1769	King James Version (1769)		king-james-version-1769	king-james-version	27	260	7958	180351	public_domain	true
-crossbible.com	eng	NASB	New American Standard Bible (2020)		new-american-standard-bible-2020	new-american-standard-bible	27	260	7945	184334	copyrighted	false
-crossbible.com	eng	NETv1	New English Translation v1 (NETv1)		net-bible-2006-v1	net-bible	27	260	7942	180811	open_license	true
-crossbible.com	eng	NIV	New International Version		new-international-version-2011	new-international-version	27	260	7942	175921	copyrighted	false
-crossbible.com	eng	NRSVue	New Revised Standard Version, Updated Edition (NRSVue)		new-revised-standard-version-2021-updated-edition	new-revised-standard-version	27	260	7942	177003	copyrighted	false
-crossbible.com	eng	TYN	Tyndale Bible		tyndale-bible-1534-antwerp	tyndale-bible	27	260	7956	182009	public_domain	true
-crossbible.com	eng	WBT	Webster's Revision		webster-bible-1833	webster-bible	27	260	7958	179944	public_domain	true
-crossbible.com	eng	WNT	Weymouth New Testament		weymouth-new-testament-1903	weymouth-new-testament	27	260	7925	192504	public_domain	true
-crossbible.com	fra	LSG	Louis Segond		louis-segond-1910	louis-segond	27	260	7958	173768	public_domain	true
-crossbible.com	spa	RV-1909	Reina Valera 1909		reina-valera-1909	reina-valera	27	260	7957	164046	public_domain	true
-ebible.org	eng	engasvbt	ASV Byzantine Text		american-standard-version-2021	american-standard-version	27	260	7948	181590	public_domain	true
-ebible.org	eng	engBBE	Bible in Basic English		bible-in-basic-english-1965	bible-in-basic-english	27	260	7955	200874	public_domain	true
-ebible.org	eng	engDBY	Darby Translation		eng-darby-translation-1884	eng-darby-translation	27	260	7952	179263	public_domain	true
-ebible.org	eng	engDRA	Douay-Rheims 1899		douay-rheims-1899-american-edition	douay-rheims	27	260	7949	178920	public_domain	true
-ebible.org	eng	engbsb	English Berean Standard Bible		berean-standard-bible-2020	berean-standard-bible	27	260	7939	171708	public_domain	true
-ebible.org	eng	englsv	English LSV		literal-standard-version-2020	literal-standard-version	27	260	7957	181033	open_license	true
-ebible.org	eng	engemtv	English Majority Text Version		majority-text-version-2014	majority-text-version	27	260	7949	181245	open_license	true
-ebible.org	eng	engf35	Family 35 NT		family-35-nt-2016	family-35-nt	27	260	7948	177738	open_license	true
-ebible.org	eng	engfbv	Free Bible Version		free-bible-version-2018-pre-v4	free-bible-version	27	260	7940	176353	open_license	true
-ebible.org	eng	enggnv	Geneva Bible 1599		geneva-bible-eng-1599	geneva-bible-eng	27	260	7952	181921	public_domain	true
-ebible.org	eng	engkjvcpb	KJV Cambridge Paragraph		king-james-version-1873-cambridge-paragraph	king-james-version	27	260	7955	180535	public_domain	true
-ebible.org	eng	engnoy	Noyes Bible		noyes-bible-1869	noyes-bible	27	260	7936	178716	public_domain	true
-ebible.org	eng	engoebcw	Open English Bible (Commonwealth)		open-english-bible-2025-5-commonwealth	open-english-bible	27	260	7938	190627	public_domain	true
-ebible.org	eng	engoebus	Open English Bible (US)		open-english-bible-2025-5-us	open-english-bible	27	260	7938	190627	public_domain	true
-ebible.org	eng	engtcent	Text-Critical English NT		text-critical-english-nt-2022	text-critical-english-nt	27	260	7948	181381	open_license	true
-ebible.org	eng	engtnt	Tyndale NT		tyndale-bible-1534-antwerp	tyndale-bible	27	260	7952	181948	public_domain	true
-ebible.org	eng	engULB	Unlocked Literal Bible		unlocked-literal-bible-2017	unlocked-literal-bible	27	260	7941	182215	open_license	true
-ebible.org	eng	engwebster	Webster Bible		webster-bible-1833	webster-bible	27	260	7955	180544	public_domain	true
-ebible.org	eng	engwebp	World English Bible		world-english-bible-2020	world-english-bible	27	260	7948	174634	public_domain	true
-ebible.org	eng	engwebpb	World English Bible British Edition		world-english-bible-2020-british	world-english-bible	27	260	7948	174650	public_domain	true
-ebible.org	eng	engwebu	World English Bible Updated		world-english-bible-2022-updated	world-english-bible	27	260	7948	174634	public_domain	true
-ebible.org	eng	engwmb	World Messianic Bible		world-english-bible-2022-messianic	world-english-bible	27	260	7948	174849	public_domain	true
-ebible.org	eng	engwmbb	World Messianic Bible British Edition		world-english-bible-2022-messianic-british	world-english-bible	27	260	7948	174865	public_domain	true
-ebible.org	eng	engylt	Young's Literal Translation		youngs-literal-translation-1898	youngs-literal-translation	27	260	7955	186743	public_domain	true
-ebible.org	fra	frasbl	French Free Holy Bible for the World		sainte-bible-libre-2022	sainte-bible-libre	27	260	7948	181954	public_domain	true
-ebible.org	fra	fraLSG	French Louis Segond 1910 Bible		louis-segond-1910	louis-segond	27	260	7957	173184	public_domain	true
-ebible.org	fra	fra_fob	French Ostervald Bible		ostervald-1996	ostervald	27	260	7957	177635	public_domain	true
-ebible.org	fra	francl	French néo-Crampon Libre		neo-crampon-libre-2022	neo-crampon-libre	27	260	7953	185883	open_license	true
-ebible.org	ita	ita1885	Italian Diodati Bible		diodati-bible-1885	diodati-bible	27	260	7954	167885	public_domain	true
-ebible.org	ita	ita1927	Italian Riveduta Bible		riveduta-1927	riveduta	27	260	7955	163657	public_domain	true
-ebible.org	pol	polsz	Polish Słowo Życia, otwarty dostęp NT		slowo-zycia-2016	slowo-zycia	27	260	7956	139492	open_license	true
-ebible.org	pol	polubg	Polish Updated Gdansk Bible		uwspolczesniona-biblia-gdanska-2017	uwspolczesniona-biblia-gdanska	27	260	7955	138310	open_license	true
-ebible.org	spa	spabes	La Biblia en Español Sencillo		la-biblia-en-espanol-sencillo-2018	la-biblia-en-espanol-sencillo	27	260	7955	182438	open_license	true
-ebible.org	spa	spaRV1909	Reina Valera 1909		reina-valera-1909	reina-valera	27	260	7955	164205	public_domain	true
-ebible.org	spa	spapddpt	Spanish Bible (God's Word for You)		palabra-de-dios-para-ti-2020	palabra-de-dios-para-ti	27	260	7957	154230	open_license	true
-ebible.org	spa	spavbl	Spanish Free Bible Version		biblia-libre-2020	biblia-libre	27	260	7939	179155	open_license	true
-ebible.org	spa	spablm	Spanish Free Bible for the World		spanish-free-bible-for-the-world-2022	spanish-free-bible-for-the-world	27	260	7948	165373	public_domain	true
-jw.org	eng	nwt-eng	New World Translation (eng)		eng-new-world-translation-2025	eng-new-world-translation	27	260	7933	188437	copyrighted	false
-jw.org	fra	nwt-fra	New World Translation (fra)		fra-new-world-translation-2025	fra-new-world-translation	27	260	7933	196732	copyrighted	false
-jw.org	ita	nwt-ita	New World Translation (ita)		ita-new-world-translation-2025	ita-new-world-translation	27	260	7933	166889	copyrighted	false
-jw.org	pol	nwt-pol	New World Translation (pol)		pol-new-world-translation-2025	pol-new-world-translation	27	260	7933	147322	copyrighted	false
-jw.org	spa	nwt-spa	New World Translation (spa)		spa-new-world-translation-2025	spa-new-world-translation	27	260	7933	183284	copyrighted	false
-laparola.net	eng	asv	American Standard Version		american-standard-version-1901	american-standard-version	27	260	7957	179836	public_domain	true
-laparola.net	eng	bbe	Bible in Basic English		bible-in-basic-english-1941	bible-in-basic-english	27	260	7957	200857	public_domain	true
-laparola.net	eng	dr	Douay-Rheims		douay-rheims-1752-challoner-revision	douay-rheims	27	260	7922	178406	public_domain	true
-laparola.net	eng	eng_kjv	King James Version (with Apocrypha)		king-james-version-1769	king-james-version	27	260	7959	180453	public_domain	true
-laparola.net	eng	eng_kjv2006	King James Version (with definitions)		king-james-version-1769	king-james-version	27	260	7957	180382	public_domain	true
-laparola.net	eng	leb	Lexham English Bible		lexham-english-bible-2012	lexham-english-bible	27	260	7939	185968	open_license	true
-laparola.net	eng	lsv	Literal Standard Version		literal-standard-version-2020	literal-standard-version	27	260	7958	181064	open_license	true
-laparola.net	eng	web	World English Bible		world-english-bible-2020	world-english-bible	27	260	7957	175453	public_domain	true
-laparola.net	eng	eng_ylt	Young's Literal Translation		youngs-literal-translation-1898	youngs-literal-translation	27	260	7959	186843	public_domain	true
-laparola.net	fra	darbyfr	French Darby		fra-darby-translation-1885	fra-darby-translation	27	260	7957	178788	public_domain	true
-laparola.net	fra	louissegond	Louis Segond		louis-segond-1910	louis-segond	27	260	7958	174159	public_domain	true
-laparola.net	fra	ostervald	Ostervald		ostervald-1996	ostervald	27	260	7958	177599	public_domain	true
-laparola.net	ita	cei1974	C.E.I. (1974)		conferenza-episcopale-italiana-1974	conferenza-episcopale-italiana	27	260	7941	157519	public_domain	true
-laparola.net	ita	dio	Diodati		diodati-bible-1607	diodati-bible	27	260	7958	167875	public_domain	true
-laparola.net	ita	lpv	La Parola è Vita		la-parola-e-vita-2006	la-parola-e-vita	27	260	7943	186802	copyrighted	false
-laparola.net	ita	martini	Martini		martini-1781	martini	27	260	7952	163580	public_domain	true
-laparola.net	ita	nd	Nuova Diodati		nuova-diodati-1991	nuova-diodati	27	260	7958	165705	copyrighted	false
-laparola.net	ita	nr	Nuova Riveduta		nuova-riveduta-2006	nuova-riveduta	27	260	7958	161394	copyrighted	false
-laparola.net	ita	nr94	Nuova Riveduta (1994)		nuova-riveduta-1994	nuova-riveduta	27	260	7959	161054	copyrighted	false
-laparola.net	ita	ricciotti	Ricciotti		ricciotti-1940	ricciotti	27	260	7952	159966	copyrighted	false
-laparola.net	ita	luzzi	Riveduta (Luzzi)		riveduta-1924	riveduta	27	260	7941	163386	public_domain	true
-laparola.net	ita	r2	Riveduta 2020		riveduta-2020	riveduta	27	260	7959	162286	copyrighted	false
-laparola.net	ita	tintori	Tintori		tintori-1931	tintori	27	260	7952	156569	copyrighted	false
-laparola.net	spa	reinavalera	Reina Valera		reina-valera-1909	reina-valera	27	260	7955	164120	public_domain	true
-laparola.net	spa	sagradasescrituras	Sagradas Escrituras		sagradas-escrituras-1999	sagradas-escrituras	27	260	7957	166538	open_license	true
-obohu.cz	eng	T2001	2001 Translation - An American English Bible		2001-translation-2001	2001-translation	27	260	7928	185935	public_domain	true
-obohu.cz	eng	ASVS	American Standard Version (1901) - with Strong’s numbers		american-standard-version-1901	american-standard-version	27	260	7941	179868	public_domain	true
-obohu.cz	eng	ASV	American Standard Version (EN)		american-standard-version-1901	american-standard-version	27	260	7957	180389	public_domain	true
-obohu.cz	eng	THO	Charles Thomson - translation of LXX and NT (1808)		charles-thomson-1808	charles-thomson	27	260	7957	182290	public_domain	true
-obohu.cz	eng	CJB	Complete Jewish Bible (1998)		complete-jewish-bible-1998	complete-jewish-bible	27	260	7958	183612	public_domain	true
-obohu.cz	eng	DB	Darby Bible (EN)		eng-darby-translation-1884	eng-darby-translation	27	260	7957	179295	public_domain	true
-obohu.cz	eng	LAMSA	Dr George Lamsa Bible - Aramaic Eastern Peshitta translation		lamsa-bible-1933	lamsa-bible	27	260	7957	186181	copyrighted	false
-obohu.cz	eng	MURD	Dr James Murdock -  translation of the Western Peshitto (NT - 1852)		murdock-peshitta-1852	murdock-peshitta	27	260	7942	185783	public_domain	true
-obohu.cz	eng	ESV	English Standard Version (2007)		english-standard-version-2007	english-standard-version	27	260	7958	252538	copyrighted	false
-obohu.cz	eng	LITV	Green’s Literal Translation (1985) (EN)		greens-literal-translation-1985	greens-literal-translation	27	260	7957	179121	copyrighted	false
-obohu.cz	eng	IAV	Israeli Authorized Version (2001)		israeli-authorized-version-2001	israeli-authorized-version	27	260	7957	180446	copyrighted	false
-obohu.cz	eng	MOF	James Moffatt - New Testament (1913)		james-moffatt-new-testament-1913	james-moffatt-new-testament	27	260	7957	175304	public_domain	true
-obohu.cz	eng	ETHE	John Wesley Etheridge - translation of the Western Peshitta		john-wesley-etheridge-1849	john-wesley-etheridge	27	260	7940	184506	public_domain	true
-obohu.cz	eng	JESP	Julia Evelina Smith Parker (1876)		smiths-literal-translation-1876	smiths-literal-translation	27	260	7957	171491	public_domain	true
-obohu.cz	eng	KJ2	King James 2000 Bible		king-james-version-2000-2000	king-james-version-2000	27	260	7957	180281	copyrighted	false
-obohu.cz	eng	KJ3	King James 3 - The Literal Translation		greens-literal-translation-1985	greens-literal-translation	27	260	7951	181541	copyrighted	false
-obohu.cz	eng	KJPCE	King James Bible - Pure Cambridge Edition		king-james-version-1769	king-james-version	27	260	7957	180570	public_domain	true
-obohu.cz	eng	KJ	King James Bible - with Strong’s numbers (EN)		king-james-version-1769	king-james-version	27	260	7957	183475	public_domain	true
-obohu.cz	eng	LEB	Lexham English Bible		lexham-english-bible-2012	lexham-english-bible	27	260	7939	185703	open_license	true
-obohu.cz	eng	MIT	MIT - The Idiomatic Translation of the New Testament (2006)		mit-idiomatic-translation-of-the-new-testament-2006	mit-idiomatic-translation-of-the-new-testament	27	260	7935	179859	copyrighted	false
-obohu.cz	eng	NET	NET Bible		net-bible-2006-v1	net-bible	27	260	7958	179255	open_license	true
-obohu.cz	eng	NWTEN	New World Translation of the Holy Scriptures (2013)		eng-new-world-translation-2013	eng-new-world-translation	27	260	7957	188774	copyrighted	false
-obohu.cz	eng	ROT	The J.B. Rotherham Emphasized Bible (1902)		rotherham-emphasized-bible-1902	rotherham-emphasized-bible	27	260	7945	190803	public_domain	true
-obohu.cz	eng	RNKJ	The Restored Name King James Version		restored-name-king-james-version-2012	restored-name-king-james-version	27	260	7957	180595	open_license	true
-obohu.cz	eng	TS98	The Scriptures 1998		the-scriptures-1998	the-scriptures	27	260	7957	179525	copyrighted	false
-obohu.cz	eng	VW	VW-Edition Bible (2010)		vw-edition-bible-2010	vw-edition-bible	27	260	7957	178876	copyrighted	false
-obohu.cz	eng	WEBS	Webster Bible (1833) - with Strong’s numbers (EN)		webster-bible-1833	webster-bible	27	260	7957	181305	public_domain	true
-obohu.cz	eng	WEB	World English Bible (EN)		world-english-bible-2020	world-english-bible	27	260	7958	175213	public_domain	true
-obohu.cz	eng	YLT	Young’s Literal Translation (EN)		youngs-literal-translation-1898	youngs-literal-translation	27	260	7957	186776	public_domain	true
-obohu.cz	fra	FBAC	Augustin Crampon - French translation (1923)		bible-crampon-1923	bible-crampon	27	260	7956	180469	public_domain	true
-obohu.cz	fra	FBM	Bible Machaira (Jean leDuc - 2013)		bible-machaira-2013	bible-machaira	27	260	7959	181552	presumed_copyrighted	false
-obohu.cz	fra	BDP	Bible des Peuples - French translation (1994)		bible-des-peuples-1994	bible-des-peuples	27	260	7955	177734	copyrighted	false
-obohu.cz	fra	FBBB	Bovet Bonnet - French translation (1900)		bovet-bonnet-1900	bovet-bonnet	27	260	7957	185725	public_domain	true
-obohu.cz	fra	DBF	Darby Bible (FR)		fra-darby-translation-1885	fra-darby-translation	27	260	7957	178845	public_domain	true
-obohu.cz	fra	DM07	David Martin (1707) - French translation		bible-martin-1707	bible-martin	27	260	7951	182924	public_domain	true
-obohu.cz	fra	MART	David Martin (1744) - French translation		bible-martin-1744	bible-martin	27	260	7958	186034	public_domain	true
-obohu.cz	fra	KJF	French King James Bible (2006)		french-king-james-bible-2006	french-king-james-bible	27	259	7943	179714	open_license	true
-obohu.cz	fra	OST	J. F. Ostervald 1996 - revision 2008 (FR)		ostervald-godieu-levigilant-2008	ostervald-godieu-levigilant	27	260	7955	184249	copyrighted	false
-obohu.cz	fra	FBJ	Jerusalem Bible - French translation (1999)		fra-jerusalem-bible-1999	fra-jerusalem-bible	27	260	7939	171789	copyrighted	false
-obohu.cz	fra	FR	Louis Segond 1910 (FR)		louis-segond-1910	louis-segond	27	260	7957	173796	public_domain	true
-obohu.cz	fra	LSS	Louis Segond 1910 (FR) - with Strong’s numbers		louis-segond-1910	louis-segond	27	260	7956	176158	public_domain	true
-obohu.cz	fra	LCF	Louis-Claude Fillion - French translation (1904)		louis-claude-fillion-1904	louis-claude-fillion	27	260	7933	177208	public_domain	true
-obohu.cz	fra	PGR	Perret-Gentil & Rilliet - French translation (1861)		perret-gentil-rilliet-1861	perret-gentil-rilliet	27	260	7956	190008	public_domain	true
-obohu.cz	fra	PCB	Pirot-Clamer - French translation (1949)		pirot-clamer-1949	pirot-clamer	27	260	7957	178167	copyrighted	false
-obohu.cz	fra	FBS	Sacy Bible (Port-Royal) (FR - 1759)		sacy-bible-1759	sacy-bible	27	260	7890	191595	public_domain	true
-obohu.cz	fra	GENF	The Geneva Bible - French translation of the NT (1669)		geneva-bible-fra-1669	geneva-bible-fra	27	260	7957	177642	public_domain	true
-obohu.cz	ita	CEI	CEI 74 - Italian translation		conferenza-episcopale-italiana-1974	conferenza-episcopale-italiana	27	260	7952	186857	public_domain	true
-obohu.cz	ita	DIO	Italian Giovanni Diodati Bible (1649)		diodati-bible-1649	diodati-bible	27	260	7957	167878	public_domain	true
-obohu.cz	ita	IT	Italian Riveduta Bible 1927 (IT)		riveduta-1927	riveduta	27	260	7957	163684	public_domain	true
-obohu.cz	pol	AM	Andrzej Mazurkiewicz - New Testament (2019)		mazurkiewicz-2019-1st-edition	mazurkiewicz	27	260	7893	132541	copyrighted	false
-obohu.cz	pol	POL	Bible Gdańska 1632 (POL)		biblia-gdanska-1632	biblia-gdanska	27	260	7955	139987	public_domain	true
-obohu.cz	pol	POZ	Bible Poznańska (1975) (POL)		biblia-poznanska-1975	biblia-poznanska	27	260	7954	136560	copyrighted	false
-obohu.cz	pol	PBB	Biblia Brzeska		biblia-brzeska-1563	biblia-brzeska	27	260	7941	142114	public_domain	true
-obohu.cz	pol	PBT	Biblia Tysiąclecia		biblia-tysiaclecia-1980-3rd-edition	biblia-tysiaclecia	27	260	7956	138032	copyrighted	false
-obohu.cz	pol	PBW	Biblia Warszawska		biblia-warszawska-1975	biblia-warszawska	27	260	7957	139303	copyrighted	false
-obohu.cz	pol	PBWP	Biblia Warszawsko-Praska		biblia-warszawsko-praska-1997	biblia-warszawsko-praska	27	260	7955	151292	copyrighted	false
-obohu.cz	pol	NBG	Nowa Biblia Gdańska (POL)		nowa-biblia-gdanska-2012	nowa-biblia-gdanska	27	260	7956	140457	copyrighted	false
-obohu.cz	pol	UBG	Updated Bible Gdańska (2017)		uwspolczesniona-biblia-gdanska-2017	uwspolczesniona-biblia-gdanska	27	260	7957	138309	open_license	true
-obohu.cz	spa	LBLA	American Bible (ESP - 1997)		la-biblia-de-las-americas-1997	la-biblia-de-las-americas	27	260	7958	169602	copyrighted	false
-obohu.cz	spa	PRATT	H.B. Pratt (1929)		hb-pratt-1929	hb-pratt	27	260	7957	174159	public_domain	true
-obohu.cz	spa	SBJ	Jerusalem Bible - Spanish translation (1976)		spa-jerusalem-bible-1976	spa-jerusalem-bible	27	260	7941	163823	copyrighted	false
-obohu.cz	spa	SBJ1	Jerusalem Bible - Spanish translation (2001)		spa-jerusalem-bible-2001	spa-jerusalem-bible	27	260	7956	161923	copyrighted	false
-obohu.cz	spa	JUN	Jünemann Bible (ESP - 1992)		junemann-bible-1928	junemann-bible	27	259	7945	151897	public_domain	true
-obohu.cz	spa	BLA	Latin America Bible (1995)		la-biblia-latinoamericana-1995	la-biblia-latinoamericana	27	260	7956	171011	copyrighted	false
-obohu.cz	spa	NVI	NVI - New International Version (1999)		nueva-version-internacional-1999	nueva-version-internacional	27	260	7957	170369	copyrighted	false
-obohu.cz	spa	PESE	Peshitta (NT) - Spanish traducción		peshitta-espanol-2017	peshitta-espanol	27	260	7957	173556	copyrighted	false
-obohu.cz	spa	RV2	Reina Valera (1870)		reina-valera-1870	reina-valera	27	260	7957	168470	public_domain	true
-obohu.cz	spa	RV3	Reina Valera (1995)		reina-valera-1995	reina-valera	27	260	7958	163876	copyrighted	false
-obohu.cz	spa	RV1	Reina Valera (NT - 1858) (ESP)		reina-valera-1858	reina-valera	27	260	7956	165293	public_domain	true
-obohu.cz	spa	RVR	Reina Valera 1865 - revised version (2014)		reina-valera-revised-version-2014	reina-valera-revised-version	27	260	7957	170926	copyrighted	false
-obohu.cz	spa	RV	Reina Valera 1909 - with Strong number (ESP)		reina-valera-1909	reina-valera	27	260	7945	165038	public_domain	true
-obohu.cz	spa	RVG	Reina Valera Gómez (2004) (ESP)		reina-valera-gomez-2004	reina-valera-gomez	27	260	7957	165972	open_license	true
-obohu.cz	spa	RVA	Reina Valera updated (1989)		reina-valera-updated-1989	reina-valera-updated	27	260	7958	167478	copyrighted	false
-obohu.cz	spa	ESC	Sagradas Escrituras (1569) (ESP)		sagradas-escrituras-1999	sagradas-escrituras	27	260	7957	166665	open_license	true
+site	iso	instance_id	instance_name	instance_abbr	edition_id	work_id	num_books	num_chapters	num_verses	num_words	text_included
+bible.audio	eng	ESV	English standard Version		english-standard-version-2001	english-standard-version	27	260	7941	170852	false
+bible.audio	eng	KJV	King James		king-james-version-1769	king-james-version	27	260	7957	180372	true
+bible.audio	eng	NIV	New International Version		new-international-version-2011	new-international-version	27	260	7958	168276	false
+bible.audio	fra	CRA	Bible Crampon		bible-crampon-1923	bible-crampon	27	260	7950	181409	true
+bible.audio	fra	DBY	Bible Darby		fra-darby-translation-1885	fra-darby-translation	27	260	7954	185591	true
+bible.audio	fra	LSG	Bible Louis Segond 1910		louis-segond-1910	louis-segond	27	260	7957	179439	true
+bible.audio	fra	MAR	Bible Martin		bible-martin-1744	bible-martin	27	260	7958	190401	true
+bible.audio	fra	OST	Bible Ostervald		ostervald-1996	ostervald	27	260	7958	184291	true
+bible.audio	fra	S21	Bible Segond 21		segond-21-2007	segond-21	27	260	7957	180066	false
+bible.audio	fra	VIG	Bible Vigouroux		vigouroux-1900	vigouroux	27	260	7957	185721	true
+bible.audio	fra	LAU	Bible de Lausanne		lausanne-1872	lausanne	27	260	7957	181215	true
+bible.audio	fra	SAC	Bible de Sacy		sacy-bible-1759	sacy-bible	27	260	7950	201227	true
+bible.audio	fra	GBT	Bible de Tours		bible-de-tours-1866	bible-de-tours	27	260	7957	178010	true
+bible.audio	fra	SEM	Bible du Semeur		bible-du-semeur-1992	bible-du-semeur	27	260	7948	191310	false
+bible.audio	fra	BFC	Bible en français courant		bible-francais-courant-1997	bible-francais-courant	27	260	7958	191680	false
+bible.audio	fra	NEG	Nouvelle Edition de Genève		nouvelle-edition-de-geneve-1979	nouvelle-edition-de-geneve	27	260	7957	179343	false
+bible.audio	fra	PVI	Parole Vivante		parole-vivante-2013-2010	parole-vivante	27	259	7935	190771	false
+bible.audio	fra	PDV	Parole de vie		parole-de-vie-2000	parole-de-vie	27	260	7924	203340	false
+bible.audio	spa	RVR	Bible en espagnol  (RVR)		reina-valera-1960	reina-valera	27	260	7960	164932	false
+bible.com	eng	4253	A Faithful Version		faithful-version-2011	faithful-version	27	260	7958	189694	false
+bible.com	eng	12	American Standard Version		american-standard-version-1901	american-standard-version	27	260	7957	179847	true
+bible.com	eng	1588	Amplified Bible		amplified-bible-2015	amplified-bible	27	260	7958	229433	false
+bible.com	eng	8	Amplified Bible, Classic Edition		amplified-bible-1987-classic	amplified-bible	27	260	7956	242935	false
+bible.com	eng	3034	Berean Standard Bible		berean-standard-bible-2016	berean-standard-bible	27	260	7941	171804	true
+bible.com	eng	42	Catholic Public Domain Version		catholic-public-domain-version-2009	catholic-public-domain-version	27	260	7952	188687	true
+bible.com	eng	1713	Christian Standard Bible		christian-standard-bible-2017	christian-standard-bible	27	260	7942	173290	false
+bible.com	eng	4124	Christian Standard Bible Anglicised		christian-standard-bible-2024-anglicised	christian-standard-bible	27	260	7942	173415	false
+bible.com	eng	37	Common English Bible		common-english-bible-2011	common-english-bible	27	260	7939	177415	false
+bible.com	eng	1275	Complete Jewish Bible		complete-jewish-bible-1998	complete-jewish-bible	27	260	7943	183571	true
+bible.com	eng	392	Contemporary English Version		contemporary-english-version-2006-2nd-edition	contemporary-english-version	27	260	7855	180328	false
+bible.com	eng	294	Contemporary English Version (Anglicised) 2012		contemporary-english-version-2012-anglicised	contemporary-english-version	27	260	7855	181075	false
+bible.com	eng	303	Contemporary English Version Interconfessional Edition		contemporary-english-version-2006-2nd-edition-interconfessional	contemporary-english-version	27	260	7855	180328	false
+bible.com	eng	478	Darby's Translation 1890		eng-darby-translation-1890	eng-darby-translation	27	260	7957	179293	true
+bible.com	eng	55	Douay-Rheims Challoner Revision 1752 ✠		douay-rheims-1752	douay-rheims	27	260	7949	179006	true
+bible.com	eng	2079	EasyEnglish Bible 2024		easyenglish-bible-2024	easyenglish-bible	27	260	7942	263988	false
+bible.com	eng	3915	English Interlinear of the Orthodox Yiddish Brit Chadasha		english-interlinear-of-the-orthodox-yiddish-brit-chadasha-2024	english-interlinear-of-the-orthodox-yiddish-brit-chadasha	27	260	7957	205389	false
+bible.com	eng	59	English Standard Version 2016		english-standard-version-2016	english-standard-version	27	260	7941	175514	false
+bible.com	eng	4224	Evangelical Heritage Version		evangelical-heritage-version-2021	evangelical-heritage-version	27	260	7951	180601	false
+bible.com	eng	3633	First Nations Version		first-nations-version-2021	first-nations-version	27	260	7792	244552	false
+bible.com	eng	1932	Free Bible Version		free-bible-version-4-3	free-bible-version	27	260	7958	176476	true
+bible.com	eng	70	GOD'S WORD		gods-word-translation-1995	gods-word-translation	27	260	7943	180279	false
+bible.com	eng	2163	Geneva Bible		geneva-bible-eng-1599	geneva-bible-eng	27	260	7953	181932	true
+bible.com	eng	296	Good News Bible (British Verison) 2017		good-news-2017-british	good-news	27	260	7897	193311	false
+bible.com	eng	431	Good News Bible (British Version) Catholic Edition 2017		good-news-2017-british-catholic	good-news	27	260	7897	193311	false
+bible.com	eng	416	Good News Bible (British Version) with Deuterocanonical books 2017		good-news-2017-british	good-news	27	260	7897	193311	false
+bible.com	eng	68	Good News Translation		good-news-2012	good-news	27	260	7897	192563	false
+bible.com	eng	69	Good News Translation (US Version)		good-news-1992-2nd-edition-us	good-news	27	260	7897	192563	false
+bible.com	eng	72	Holman Christian Standard Bible		holman-christian-standard-bible-2009	holman-christian-standard-bible	27	260	7956	172725	false
+bible.com	eng	406	Holy Bible: Easy-to-Read Version		easy-to-read-version-2004	easy-to-read-version	27	260	7901	208793	false
+bible.com	eng	1359	International Children’s Bible		international-childrens-bible-2015	international-childrens-bible	27	260	7923	205289	false
+bible.com	eng	1077	Jubilee Bible		jubilee-bible-2000	jubilee-bible	27	260	7957	183842	true
+bible.com	eng	1	King James Version		king-james-version-1769	king-james-version	27	260	7957	180570	true
+bible.com	eng	546	King James Version with Apocrypha, American Edition		king-james-version-1962-american-edition	king-james-version	27	260	7957	180337	false
+bible.com	eng	547	King James Version, American Edition		king-james-version-1962-american-edition	king-james-version	27	260	7957	180337	false
+bible.com	eng	3345	Legacy Standard Bible		legacy-standard-bible-2021	legacy-standard-bible	27	260	7958	184502	false
+bible.com	eng	90	Lexham English Bible		lexham-english-bible-2010	lexham-english-bible	27	260	7939	185166	true
+bible.com	eng	2660	Literal Standard Version		literal-standard-version-2020	literal-standard-version	27	260	7959	181124	true
+bible.com	eng	1171	Modern English Version		modern-english-version-2024	modern-english-version	27	260	7957	174387	false
+bible.com	eng	463	New American Bible, revised edition		new-american-bible-revised-edition-1986	new-american-bible-revised-edition	27	260	7957	175381	false
+bible.com	eng	100	New American Standard Bible 1995		new-american-standard-bible-1995	new-american-standard-bible	27	260	7958	183650	false
+bible.com	eng	2692	New American Standard Bible 2020		new-american-standard-bible-2020	new-american-standard-bible	27	260	7945	185650	false
+bible.com	eng	105	New Century Version		new-century-version-2005	new-century-version	27	260	7937	191224	false
+bible.com	eng	107	New English Translation		net-bible-2006-v1	net-bible	27	260	7942	179600	true
+bible.com	eng	110	New International Reader’s Version 2014		new-international-readers-version-2014	new-international-readers-version	27	260	7942	200828	false
+bible.com	eng	113	New International Version (Anglicized) 2011		new-international-version-2011-anglicised	new-international-version	27	260	7958	176687	false
+bible.com	eng	111	New International Version 2011		new-international-version-2011	new-international-version	27	260	7958	176008	false
+bible.com	eng	114	New King James Version		new-king-james-version-1979	new-king-james-version	27	260	7957	177984	false
+bible.com	eng	116	New Living Translation		new-living-translation-2015	new-living-translation	27	260	7943	186312	false
+bible.com	eng	4249	New Living Translation Catholic Edition		new-living-translation-2016-catholic	new-living-translation	27	260	7943	186312	false
+bible.com	eng	2135	New Messianic Version Bible		new-messianic-version-bible-2018	new-messianic-version-bible	27	260	7955	198932	true
+bible.com	eng	2015	New Revised Standard Version		new-revised-standard-version-1989	new-revised-standard-version	27	260	7957	176298	false
+bible.com	eng	3523	New Revised Standard Version Updated Edition 2021		new-revised-standard-version-2021	new-revised-standard-version	27	260	7941	176569	false
+bible.com	eng	2530	Plain English Version (Aboriginal)		plain-english-version-2021	plain-english-version	21	192	5042	216996	true
+bible.com	eng	2753	Radiate New Testament		radiate-new-testament-2020	radiate-new-testament	27	260	7924	188932	false
+bible.com	eng	2020	Revised Standard Version		revised-standard-version-1971	revised-standard-version	27	260	7957	173269	false
+bible.com	eng	3548	Revised Standard Version		revised-standard-version-1971	revised-standard-version	27	260	7957	173269	false
+bible.com	eng	2017	Revised Standard Version Old Tradition 1952		revised-standard-version-1952	revised-standard-version	27	260	7957	173269	false
+bible.com	eng	477	Revised Version 1885		english-revised-version-1885	english-revised-version	27	260	7941	179868	true
+bible.com	eng	1922	Revised Version with Apocrypha 1885, 1895		english-revised-version-1885	english-revised-version	27	260	7941	179868	true
+bible.com	eng	1047	St Paul from the Trenches 1916		st-paul-from-the-trenches-1916	st-paul-from-the-trenches	3	33	630	24651	false
+bible.com	eng	31	The Books of the Bible NT		the-books-of-the-bible-2011	the-books-of-the-bible	25	208	5799	129313	false
+bible.com	eng	97	The Message		the-message-bible-2018	the-message-bible	27	260	3242	191850	false
+bible.com	eng	130	The Orthodox Jewish Bible		orthodox-jewish-bible-2023	orthodox-jewish-bible	27	260	7959	208836	true
+bible.com	eng	1849	The Passion Translation		the-passion-translation-2020	the-passion-translation	27	260	7763	216099	false
+bible.com	eng	316	The Scriptures 2009		the-scriptures-2009	the-scriptures	27	260	7957	179448	false
+bible.com	eng	3427	The Text-Critical English New Testament		byzantine-text-version-2022	byzantine-text-version	27	260	7953	181432	false
+bible.com	eng	314	Tree of Life Version		tree-of-life-version-2014	tree-of-life-version	27	260	7956	173871	false
+bible.com	eng	1204	World English Bible British Edition		world-english-bible-2020-british	world-english-bible	27	260	7957	178257	true
+bible.com	eng	206	World English Bible, American English Edition, without Strong's Numbers		world-english-bible-2020-american	world-english-bible	27	260	7957	174754	true
+bible.com	eng	1209	World Messianic Bible		world-english-bible-2020-messianic	world-english-bible	27	260	7957	178417	true
+bible.com	eng	1207	World Messianic Bible British Edition		world-english-bible-2020-messianic-british	world-english-bible	27	260	7957	178433	true
+bible.com	eng	2407	Wycliffe's Bible with Modern Spelling		wycliffe-bible-2001-modern-spelling	wycliffe-bible	27	260	7959	186535	false
+bible.com	eng	4108	Y'all Version Bible		yall-version-bible-2024	yall-version-bible	27	260	7959	173246	false
+bible.com	eng	821	Young's Literal Translation 1898		youngs-literal-translation-1898	youngs-literal-translation	27	260	7957	186696	true
+bible.com	fra	64	Bible J.N. Darby		fra-darby-translation-1885	fra-darby-translation	27	260	7957	186752	true
+bible.com	fra	93	Bible Segond 1910		louis-segond-1910	louis-segond	27	260	7959	173730	true
+bible.com	fra	504	Bible catholique Crampon 1923		bible-crampon-1923	bible-crampon	27	260	7950	176013	true
+bible.com	fra	3286	Explained Bible		explained-bible-2004	explained-bible	27	260	7941	272610	false
+bible.com	fra	2599	French Gospel of Matthew 1855 (de Sacy)		sacy-bible-1855	sacy-bible	1	28	1070	24199	true
+bible.com	fra	3447	French Model Translation		french-model-translation-2025	french-model-translation	12	142	5243	179301	false
+bible.com	fra	63	French common language		bible-francais-courant-1997	bible-francais-courant	27	260	7941	192459	false
+bible.com	fra	3547	Gospel of Matthew 1864 (Frainc-Comtois)		frainc-comtois-1864	frainc-comtois	1	28	1070	25577	true
+bible.com	fra	152	La Bible Segond 21		segond-21-2007	segond-21	27	260	7957	179129	false
+bible.com	fra	21	La Bible du Semeur (The Bible of the Sower)		bible-du-semeur-2015	bible-du-semeur	27	260	7945	201079	false
+bible.com	fra	62	Martin 1744		bible-martin-1744	bible-martin	27	260	7953	190331	true
+bible.com	fra	2367	New French current		bible-nouvelle-francais-courant-2019	bible-nouvelle-francais-courant	27	260	7944	201251	false
+bible.com	fra	104	Nouvelle Bible Segond		nouvelle-segond-2002	nouvelle-segond	27	260	7956	181867	false
+bible.com	fra	106	Nouvelle Edition de Genève 1979		geneva-bible-fra-1979	geneva-bible-fra	27	260	7957	173266	false
+bible.com	fra	2053	Nouvelle Segond révisée		nouvelle-segond-revisee-1978	nouvelle-segond-revisee	27	260	7957	177778	false
+bible.com	fra	131	Ostervald		ostervald-1744	ostervald	27	260	7953	185294	true
+bible.com	fra	133	Parole de Vie 2017		parole-de-vie-2017	parole-de-vie	27	260	7924	210130	false
+bible.com	fra	3877	Segond NEG 1979		geneva-bible-fra-1979	geneva-bible-fra	27	260	7957	173656	false
+bible.com	fra	4410	Simple French Bible 2023		simple-french-bible-2023	simple-french-bible	27	260	7934	272477	false
+bible.com	ita	54	Diodati Bible 1885		diodati-bible-1885	diodati-bible	27	260	7957	168046	true
+bible.com	ita	1197	Italian Common Language Bible		interconfessionale-in-lingua-corrente-2014-3rd-edition	interconfessionale-in-lingua-corrente	27	260	7886	176809	false
+bible.com	ita	1196	Italian Common Language Interconfessional Bible		interconfessionale-in-lingua-corrente-2014-3rd-edition	interconfessionale-in-lingua-corrente	27	260	7886	176809	false
+bible.com	ita	3368	Italian Riveduta 2020 Bible		riveduta-2020	riveduta	27	260	7958	162595	false
+bible.com	ita	123	Nuova Riveduta 1994		nuova-riveduta-1994	nuova-riveduta	27	260	7959	161761	false
+bible.com	ita	122	Nuova Riveduta 2006		nuova-riveduta-2006	nuova-riveduta	27	260	7958	161621	false
+bible.com	ita	141	Versione Diodati Riveduta		nuova-riveduta-1994	nuova-riveduta	27	260	7940	163389	false
+bible.com	pol	3881	BIBLIA to jest Pismo Święte Starego i Nowego Przymierza		eib-nowe-przymierze-literal-2019	eib-nowe-przymierze-literal	27	260	7957	138106	false
+bible.com	pol	132	Biblia Gdańska		biblia-gdanska-1632	biblia-gdanska	27	260	7953	139988	true
+bible.com	pol	3551	Good News About The Rescue In Christ. New Dynamic Translation of New Testament		nowy-przeklad-dynamiczny-2021	nowy-przeklad-dynamiczny	27	260	7958	193265	false
+bible.com	pol	319	Nowa Biblia Gdańska		nowa-biblia-gdanska-2012	nowa-biblia-gdanska	27	260	7956	140440	false
+bible.com	pol	2095	Polish Bible 2018		eib-nowe-przymierze-literary-2016	eib-nowe-przymierze-literary	27	260	7956	142039	false
+bible.com	pol	137	Polish Living New Testament (The Word of Life)		slowo-zycia-2016	slowo-zycia	27	260	7915	139435	true
+bible.com	pol	3490	The Warsaw Bible 1975		biblia-warszawska-1975	biblia-warszawska	27	260	7956	139380	false
+bible.com	pol	138	Updated Gdansk Bible		uwspolczesniona-biblia-gdanska-2017	uwspolczesniona-biblia-gdanska	27	260	7957	138326	true
+bible.com	spa	52	Biblia Dios Habla Hoy		dios-habla-hoy-1994	dios-habla-hoy	27	260	7912	182176	false
+bible.com	spa	1718	Biblia Reina Valera 1909		reina-valera-1909	reina-valera	27	260	7956	164216	true
+bible.com	spa	1076	Biblia del Jubileo		biblia-del-jubileo-2000	biblia-del-jubileo	27	260	7957	167405	false
+bible.com	spa	1715	Biblia del Oso 1573		biblia-del-oso-1569	biblia-del-oso	27	260	7954	162443	true
+bible.com	spa	411	Dios Habla Hoy Bible		dios-habla-hoy-1994	dios-habla-hoy	27	260	7912	182176	false
+bible.com	spa	1845	Dios Habla Hoy DK		dios-habla-hoy-1994	dios-habla-hoy	27	260	7912	182178	false
+bible.com	spa	1846	Dios habla Hoy Estándar		dios-habla-hoy-1996	dios-habla-hoy	27	260	7912	182165	false
+bible.com	spa	4278	Dios habla hoy 4ta. edición. Estándar.		dios-habla-hoy-2023-4th-edition	dios-habla-hoy	27	260	7926	182153	false
+bible.com	spa	197	Holy Bible: The Word of God for All		palabra-de-dios-para-todos-2015	palabra-de-dios-para-todos	27	260	7943	185353	false
+bible.com	spa	222	La Biblia Hispanoamericana (Traducción Interconfesional, versión hispanoamericana)		la-biblia-hispanoamericana-interconfesional-2011	la-biblia-hispanoamericana-interconfesional	27	260	7953	180076	false
+bible.com	spa	89	La Biblia de las Américas		la-biblia-de-las-americas-1997	la-biblia-de-las-americas	27	260	7958	170235	false
+bible.com	spa	28	La Palabra (Latin American edition)		la-palabra-2010-3rd-edition-hispanoamericana	la-palabra	27	260	7953	178239	false
+bible.com	spa	753	New Living Bible		nueva-biblia-viva-2008	nueva-biblia-viva	27	260	7880	174467	false
+bible.com	spa	103	Nueva Biblia de las Américas		nueva-biblia-de-las-americas-2005	nueva-biblia-de-las-americas	27	260	7958	170840	false
+bible.com	spa	127	Nueva Traducción Viviente		nueva-traduccion-viviente-2010	nueva-traduccion-viviente	27	260	7943	189232	false
+bible.com	spa	2664	Nueva Versión Internacional (Spanish New International Version) 2015		nueva-version-internacional-2015	nueva-version-internacional	27	260	7958	169585	false
+bible.com	spa	128	Nueva Versión Internacional 2022		nueva-version-internacional-2022	nueva-version-internacional	27	260	7958	169585	false
+bible.com	spa	150	Reina Valera 1995		reina-valera-1995	reina-valera	27	260	7958	165587	false
+bible.com	spa	1782	Reina Valera Actualizada		reina-valera-actualizada-2015	reina-valera-actualizada	27	260	7959	167837	false
+bible.com	spa	146	Reina Valera Contemporánea		reina-valera-contemporanea-2009	reina-valera-contemporanea	27	260	7958	173719	false
+bible.com	spa	147	Reina-Valera Antigua		reina-valera-antigua-1602	reina-valera-antigua	27	260	7957	164120	true
+bible.com	spa	3539	Segun el Texto Bizantino 2005		segun-el-texto-bizantino-2005	segun-el-texto-bizantino	27	260	7955	164946	false
+bible.com	spa	3365	Spanish Bible, Palabla de Dios para ti		palabra-de-dios-para-ti-2020	palabra-de-dios-para-ti	27	260	7936	154223	true
+bible.com	spa	149	Spanish, Biblia Reina Valera 1960		reina-valera-1960	reina-valera	27	260	7958	164930	false
+bible.com	spa	4013	Traducción Contemporánea de la Biblia  - NT + Abdías		traduccion-contemporanea-de-la-biblia-2022	traduccion-contemporanea-de-la-biblia	27	260	7957	192976	false
+bible.com	spa	176	Traducción en Lenguaje Actual		lenguaje-actual-2002	lenguaje-actual	27	260	7627	197756	false
+bible.com	spa	178	Traducción en Lenguaje Actual Interconfesional		lenguaje-actual-2002-interconfesional	lenguaje-actual	27	260	7627	197755	false
+bible.com	spa	3291	Versión Biblia Libre		biblia-libre-1-1-beta	biblia-libre	27	260	7957	179166	true
+bible.is	eng	AUSWBT	English - Aboriginal Translators Version		plain-english-version-2021	plain-english-version	15	93	2219	102389	true
+bible.is	eng	ENGREV	English - Revised Version 1885		english-revised-version-1885	english-revised-version	27	260	7957	179866	true
+bible.is	eng	ENGTLV	English - Tree of Life Version		tree-of-life-version-2014	tree-of-life-version	27	260	7957	173669	false
+bible.is	eng	ENGWM1	English - World Messianic Version		world-english-bible-2020-messianic	world-english-bible	27	260	7957	175013	true
+bible.is	eng	ENGWMV	English - Wycliffe Modern		wycliffe-bible-2001-modern-spelling	wycliffe-bible	27	260	7959	178071	false
+bible.is	eng	EN1ESV	English Standard Version® - Hear the Word Audio Bible		english-standard-version-2007	english-standard-version	27	260	7941	174763	false
+bible.is	eng	ENGNAS	New American Standard Bible (NASB)		new-american-standard-bible-1995	new-american-standard-bible	27	260	7958	182368	false
+bible.is	eng	ENGNLT	New Living Translation®, Holy Sanctuary version		new-living-translation-2015	new-living-translation	27	260	7943	186207	false
+bible.is	eng	ENGWWH	World English Bible - Winfred Henson		world-english-bible-2020	world-english-bible	27	260	7958	175124	true
+bible.is	eng	ENGASV	American Standard Bible		american-standard-version-1901	american-standard-version	27	260	7957	179865	true
+bible.is	eng	ENGCEV	Contemporary English Version®		contemporary-english-version-1991	contemporary-english-version	27	260	7850	181067	false
+bible.is	eng	ENGESV	English Standard Version®		english-standard-version-2007	english-standard-version	27	260	7941	175470	false
+bible.is	eng	ENGEVD	English Version for the Deaf		easy-to-read-version-1987	easy-to-read-version	27	260	7942	218577	false
+bible.is	eng	ENGKJV	King James Version		king-james-version-1769	king-james-version	27	260	7957	180384	true
+bible.is	eng	ENGNAB	New American Bible, revised edition (NABRE)		new-american-bible-revised-edition-1968	new-american-bible-revised-edition	16	118	2999	65429	false
+bible.is	eng	ENGNIV	Holy Bible, New International Version®		new-international-version-1984	new-international-version	27	260	7941	175209	false
+bible.is	eng	ENGNKJV	New King James Version		new-king-james-version-1979	new-king-james-version	27	260	7957	177982	false
+bible.is	eng	ENGWEB	World English Bible		world-english-bible-2020	world-english-bible	27	260	7958	175124	true
+bible.is	fra	FRADBY	French - 1885 Darby		fra-darby-translation-1885	fra-darby-translation	27	260	7955	178843	true
+bible.is	fra	FRNTLS	French - 1910 Louis Segond (Tresorsonore recording)		louis-segond-1910	louis-segond	27	260	7959	173117	true
+bible.is	fra	FRABIB	French - La Bible Du Semeur (Biblica Audio)		bible-du-semeur-2015	bible-du-semeur	27	260	7945	201310	false
+bible.is	fra	FRNO96	French - Ostervald Version		ostervald-1996	ostervald	27	260	7958	177599	true
+bible.is	fra	FRAPDF	French - Parole de Vie		parole-de-vie-2000	parole-de-vie	27	256	7840	197974	false
+bible.is	fra	FRAPDVA	Parole de Vie - African		parole-de-vie-2000	parole-de-vie	27	260	7934	200287	false
+bible.is	fra	FRADPI	Parole de Vie - African (Davar Audio)		parole-de-vie-2000	parole-de-vie	27	260	7924	209652	false
+bible.is	fra	FRAPDVC	Parole de Vie - Canadian		parole-de-vie-2000	parole-de-vie	27	260	7953	199909	false
+bible.is	ita	ITAR27	Italian Riveduta 1927		riveduta-1927	riveduta	27	260	7957	163669	true
+bible.is	pol	POLPBG	1632 Polish Biblia Gdanska		biblia-gdanska-1632	biblia-gdanska	27	260	7953	139986	true
+bible.is	pol	POLNCV	New Covenant Translation		eib-nowe-przymierze-literary-2011	eib-nowe-przymierze-literary	27	260	7955	142630	false
+bible.is	spa	SPNR02	1602 Reina-Valera Antigua		reina-valera-antigua-1602	reina-valera-antigua	27	260	7957	164123	true
+bible.is	spa	SPABDA	Biblia de América		biblia-de-america-2010	biblia-de-america	27	260	7941	167790	false
+bible.is	spa	SPADHH	Dios Habla Hoy		dios-habla-hoy-1996-3rd-edition	dios-habla-hoy	27	260	7912	182189	false
+bible.is	spa	SPNLBV	La Biblia		biblia-de-la-casa-de-la-biblia-2006	biblia-de-la-casa-de-la-biblia	27	260	7940	167355	false
+bible.is	spa	SPNBLA	La Biblia de las Americas		la-biblia-de-las-americas-1997	la-biblia-de-las-americas	27	260	7958	169674	false
+bible.is	spa	SPNLPS	La Palabra - Spain		la-palabra-2010-3rd-edition-espana	la-palabra	27	260	7954	173136	false
+bible.is	spa	SPANVI	La Santa Biblia, Nueva Versión Internacional ™, NVI ™		nueva-version-internacional-1999	nueva-version-internacional	27	260	7941	170326	false
+bible.is	spa	SPNNVI	La Santa Biblia, Nueva Versión Internacional®		nueva-version-internacional-1999	nueva-version-internacional	27	260	7941	170326	false
+bible.is	spa	SPANTV	La Santa Bíblia, Nueva Traducción Viviente		nueva-traduccion-viviente-2010	nueva-traduccion-viviente	27	260	7943	189059	false
+bible.is	spa	SPNTLA	Lenguaje Actual		lenguaje-actual-2002	lenguaje-actual	24	125	3799	97820	false
+bible.is	spa	SPNDLH	Nueva Biblia Latinoamericana de Hoy		nueva-biblia-latinoamericana-de-hoy-2005	nueva-biblia-latinoamericana-de-hoy	27	260	7958	171929	false
+bible.is	spa	SPAR95	Reina Valera 1995		reina-valera-1995	reina-valera	27	260	7958	163553	false
+bible.is	spa	SPAR60	Reina-Valera 1960 Biblia		reina-valera-1960	reina-valera	27	260	7958	164596	false
+bible.is	spa	SPAERV	The Word of God for All - 2000 World Bible Translation Center		palabra-de-dios-para-todos-2000	palabra-de-dios-para-todos	27	260	7953	185076	false
+bible.is	spa	SPAWTC	The Word of God for All 2014		palabra-de-dios-para-todos-2014	palabra-de-dios-para-todos	27	260	7938	185037	false
+biblegateway.com	eng	1599-Geneva-Bible-GNV	1599 Geneva Bible (GNV)		geneva-bible-eng-1599	geneva-bible-eng	27	260	7952	182238	true
+biblegateway.com	eng	21st-Century-King-James-Version-KJ21-Bible	21st Century King James Version (KJ21)		21st-century-king-james-version-1994	21st-century-king-james-version	27	260	7951	181071	false
+biblegateway.com	eng	American-Standard-Version-ASV-Bible	American Standard Version (ASV)		american-standard-version-1901	american-standard-version	27	260	7941	180147	true
+biblegateway.com	eng	Amplified-Bible-AMP	Amplified Bible (AMP)		amplified-bible-2015	amplified-bible	27	260	7958	226470	false
+biblegateway.com	eng	Amplified-Bible-Classic-Edition-AMPC	Amplified Bible, Classic Edition (AMPC)		amplified-bible-1987-classic	amplified-bible	27	260	7956	240864	false
+biblegateway.com	eng	Authorized-King-James-Version-AKJV-Bible	Authorized (King James) Version (AKJV)		king-james-version-1769	king-james-version	27	260	7957	181010	true
+biblegateway.com	eng	BRG-Bible	BRG Bible (BRG)		king-james-version-1769	king-james-version	27	260	7957	181145	true
+biblegateway.com	eng	Christian-Standard-Bible-CSB	Christian Standard Bible (CSB)		christian-standard-bible-2017	christian-standard-bible	27	260	7942	171501	false
+biblegateway.com	eng	Christian-Standard-Bible-Anglicised-CSBA-Bible	Christian Standard Bible Anglicised (CSBA)		christian-standard-bible-2024-anglicised	christian-standard-bible	27	260	7942	172983	false
+biblegateway.com	eng	Common-English-Bible-CEB	Common English Bible (CEB)		common-english-bible-2011	common-english-bible	27	260	7939	175614	false
+biblegateway.com	eng	Complete-Jewish-Bible-CJB	Complete Jewish Bible (CJB)		complete-jewish-bible-1998	complete-jewish-bible	27	260	7958	184773	true
+biblegateway.com	eng	Contemporary-English-Version-CEV-Bible	Contemporary English Version (CEV)		contemporary-english-version-1991	contemporary-english-version	27	260	7857	181457	false
+biblegateway.com	eng	Darby-Translation-Bible	Darby Translation (DARBY)		eng-darby-translation-1884	eng-darby-translation	27	260	7954	179231	true
+biblegateway.com	eng	Disciples-Literal-New-Testament-DLNT	Disciples’ Literal New Testament (DLNT)		disciples-literal-new-testament-2011	disciples-literal-new-testament	27	260	7958	185160	false
+biblegateway.com	eng	Douay-Rheims-1899-American-Edition-DRA-Bible	Douay-Rheims 1899 American Edition (DRA)		douay-rheims-1899-american-edition	douay-rheims	27	260	7949	179000	true
+biblegateway.com	eng	Easy-to-Read-Version-ERV-Bible	Easy-to-Read Version (ERV)		easy-to-read-version-2004	easy-to-read-version	27	260	7901	208533	false
+biblegateway.com	eng	EasyEnglish-Bible-EASY	EasyEnglish Bible (EASY)		easyenglish-bible-2018	easyenglish-bible	27	260	7941	265645	false
+biblegateway.com	eng	English-Standard-Version-ESV-Bible	English Standard Version (ESV)		english-standard-version-2025	english-standard-version	27	260	7941	175546	false
+biblegateway.com	eng	English-Standard-Version-Anglicised-ESV-Bible	English Standard Version Anglicised (ESVUK)		english-standard-version-2002-anglicised	english-standard-version	27	260	7941	175620	false
+biblegateway.com	eng	Evangelical-Heritage-Version-EHV-Bible	Evangelical Heritage Version (EHV)		evangelical-heritage-version-2017	evangelical-heritage-version	27	260	7951	180606	false
+biblegateway.com	eng	Expanded-Bible-EXB	Expanded Bible (EXB)		expanded-bible-2011	expanded-bible	27	260	7923	287653	false
+biblegateway.com	eng	GODS-WORD-Translation-GW-Bible	GOD’S WORD Translation (GW)		gods-word-translation-1995	gods-word-translation	27	260	7943	180582	false
+biblegateway.com	eng	Good-News-Translation-GNT-Bible	Good News Translation (GNT)		good-news-1992-2nd-edition	good-news	27	260	7916	192566	false
+biblegateway.com	eng	Holman-Christian-Standard-Bible-HCSB	Holman Christian Standard Bible (HCSB)		holman-christian-standard-bible-2009	holman-christian-standard-bible	27	260	7956	171380	false
+biblegateway.com	eng	International-Childrens-Bible-ICB	International Children’s Bible (ICB)		international-childrens-bible-2015	international-childrens-bible	27	260	7923	203186	false
+biblegateway.com	eng	International-Standard-Version-ISV-Bible	International Standard Version (ISV)		international-standard-version-2014-v2	international-standard-version	27	260	7953	179118	false
+biblegateway.com	eng	JB-Phillips-New-Testament	J.B. Phillips New Testament (PHILLIPS)		jb-phillips-new-testament-1958	jb-phillips-new-testament	27	260	3223	196956	false
+biblegateway.com	eng	Jubilee-Bible-2000-JUB	Jubilee Bible 2000 (JUB)		jubilee-bible-2000	jubilee-bible	27	260	7957	184411	true
+biblegateway.com	eng	King-James-Version-KJV-Bible	King James Version (KJV)		king-james-version-1769	king-james-version	27	260	7957	180402	true
+biblegateway.com	eng	Legacy-Standard-Bible-LSB-Bible	Legacy Standard Bible (LSB)		legacy-standard-bible-2021	legacy-standard-bible	27	260	7958	185318	false
+biblegateway.com	eng	Lexham-English-Bible-LEB	Lexham English Bible (LEB)		lexham-english-bible-2012	lexham-english-bible	27	260	7939	186673	true
+biblegateway.com	eng	The-Living-Bible-TLB	Living Bible (TLB)		living-bible-1971	living-bible	27	260	7590	196405	false
+biblegateway.com	eng	Modern-English-Version-MEV-Bible	Modern English Version (MEV)		modern-english-version-2014	modern-english-version	27	260	7957	174332	false
+biblegateway.com	eng	Mounce-Reverse-Interlinear-New-Testament	Mounce Reverse Interlinear New Testament (MOUNCE)		mounce-reverse-interlinear-new-testament-2011	mounce-reverse-interlinear-new-testament	27	260	7940	217383	false
+biblegateway.com	eng	Names-of-God-NOG-Bible	Names of God Bible (NOG)		names-of-god-bible-2011	names-of-god-bible	27	260	7943	180570	false
+biblegateway.com	eng	New-American-Bible-Revised-Edition-NABRE-Bible	New American Bible (Revised Edition) (NABRE)		new-american-bible-revised-edition-1968	new-american-bible-revised-edition	27	260	7958	172489	false
+biblegateway.com	eng	New-American-Standard-Bible-NASB	New American Standard Bible (NASB)		new-american-standard-bible-2020	new-american-standard-bible	27	260	7945	186953	false
+biblegateway.com	eng	New-American-Standard-Bible-NASB1995	New American Standard Bible 1995 (NASB1995)		new-american-standard-bible-1995	new-american-standard-bible	27	260	7958	184525	false
+biblegateway.com	eng	New-Catholic-Bible-NCB-Bible	New Catholic Bible (NCB)		new-catholic-bible-2015	new-catholic-bible	27	260	7941	182524	false
+biblegateway.com	eng	New-Century-Version-NCV-Bible	New Century Version (NCV)		new-century-version-1983	new-century-version	27	260	7939	191170	false
+biblegateway.com	eng	New-English-Translation-NET-Bible	New English Translation (NET Bible)		net-bible-2017-v2	net-bible	27	260	7943	179459	true
+biblegateway.com	eng	New-International-Readers-Version-NIRV-Bible	New International Reader's Version (NIRV)		new-international-readers-version-2014	new-international-readers-version	27	260	7942	200480	false
+biblegateway.com	eng	New-International-Version-NIV-Bible	New International Version (NIV)		new-international-version-2011	new-international-version	27	260	7942	176087	false
+biblegateway.com	eng	New-International-Version-UK-NIVUK-Bible	New International Version - UK (NIVUK)		new-international-version-1984-anglicised	new-international-version	27	260	7941	176784	false
+biblegateway.com	eng	New-King-James-Version-NKJV-Bible	New King James Version (NKJV)		new-king-james-version-1979	new-king-james-version	27	260	7957	178097	false
+biblegateway.com	eng	New-Life-Version-NLV-Bible	New Life Version (NLV)		new-life-version-1969	new-life-version	27	260	7957	204236	false
+biblegateway.com	eng	New-Living-Translation-NLT-Bible	New Living Translation (NLT)		new-living-translation-2015	new-living-translation	27	260	7943	186417	false
+biblegateway.com	eng	New-Matthew-Bible-NMB	New Matthew Bible (NMB)		new-matthew-bible-2016	new-matthew-bible	27	260	7955	189775	false
+biblegateway.com	eng	New-Revised-Standard-Version-Catholic-Edition-NRSVCE-Bible	New Revised Standard Version Catholic Edition (NRSVCE)		new-revised-standard-version-1991-catholic	new-revised-standard-version	27	260	7940	176251	false
+biblegateway.com	eng	New-Revised-Standard-Version-Updated-Edition-NRSVue-Bible	New Revised Standard Version Updated Edition (NRSVUE)		new-revised-standard-version-2021-updated-edition	new-revised-standard-version	27	260	7941	176615	false
+biblegateway.com	eng	New-Revised-Standard-Version-Anglicised-NRSVA-Bible	New Revised Standard Version, Anglicised (NRSVA)		new-revised-standard-version-1995-anglicised	new-revised-standard-version	27	260	7940	176282	false
+biblegateway.com	eng	New-Revised-Standard-Version-Anglicised-Catholic-Edition-NRSVACE-Bible	New Revised Standard Version, Anglicised Catholic Edition (NRSVACE)		new-revised-standard-version-1989-anglicised-catholic	new-revised-standard-version	27	260	7940	176282	false
+biblegateway.com	eng	New-Testament-for-Everyone-NTFE	New Testament for Everyone (NTFE)		nt-wright-new-testament-for-everyone-2023-3rd-edition	nt-wright-new-testament-for-everyone	27	260	7943	184149	false
+biblegateway.com	eng	Orthodox-Jewish-Bible-OJB	Orthodox Jewish Bible (OJB)		orthodox-jewish-bible-2002	orthodox-jewish-bible	27	260	7959	224064	true
+biblegateway.com	eng	Revised-Geneva-Translation-RGT-Bible	Revised Geneva Translation (RGT)		revised-geneva-translation-2024	revised-geneva-translation	27	260	7953	180059	false
+biblegateway.com	eng	Revised-Standard-Version-RSV-Bible	Revised Standard Version (RSV)		revised-standard-version-1971	revised-standard-version	27	260	7934	173200	false
+biblegateway.com	eng	Revised-Standard-Version-Catholic-Edition-RSVCE-Bible	Revised Standard Version Catholic Edition (RSVCE)		revised-standard-version-1971-catholic	revised-standard-version	27	260	7939	173339	false
+biblegateway.com	eng	Message-MSG-Bible	The Message (MSG)		the-message-bible-1993	the-message-bible	27	260	3469	191948	false
+biblegateway.com	eng	The-Voice-Bible	The Voice (VOICE)		the-voice-bible-2011	the-voice-bible	27	260	7773	215376	false
+biblegateway.com	eng	Tree-of-Life-Version-TLV-Bible	Tree of Life Version (TLV)		tree-of-life-version-2014	tree-of-life-version	27	260	7951	174613	false
+biblegateway.com	eng	World-English-Bible-WEB	World English Bible (WEB)		world-english-bible-2020	world-english-bible	27	260	7957	174762	true
+biblegateway.com	eng	Worldwide-English-New-Testament-WE	Worldwide English (New Testament) (WE)		worldwide-english-new-testament-1996	worldwide-english-new-testament	27	260	7840	205536	false
+biblegateway.com	eng	Wycliffe-Bible-WYC	Wycliffe Bible (WYC)		wycliffe-bible-2001-modern-spelling	wycliffe-bible	27	260	7956	224495	false
+biblegateway.com	eng	Youngs-Literal-Translation-YLT-Bible	Young's Literal Translation (YLT)		youngs-literal-translation-1898	youngs-literal-translation	27	260	7957	186761	true
+biblegateway.com	fra	La-Bible-du-Semeur-BDS	La Bible du Semeur (BDS)		bible-du-semeur-2015	bible-du-semeur	27	260	7945	203090	false
+biblegateway.com	fra	Louis-Segond-LSG	Louis Segond (LSG)		louis-segond-1910	louis-segond	27	260	7957	174165	true
+biblegateway.com	fra	Nouvelle-Edition-de-Geneve-NEG1979-Bible	Nouvelle Edition de Genève – NEG1979 (NEG1979)		geneva-bible-fra-1979	geneva-bible-fra	27	260	7957	174359	false
+biblegateway.com	fra	Segond-21-SG21-Bible	Segond 21 (SG21)		segond-21-2007	segond-21	27	260	7957	179526	false
+biblegateway.com	ita	Conferenza-Episcopale-Italiana-CEI	Conferenza Episcopale Italiana (CEI)		conferenza-episcopale-italiana-1974	conferenza-episcopale-italiana	27	260	7952	158826	true
+biblegateway.com	ita	La-Bibbia-della-Gioia-BDG	La Bibbia della Gioia (BDG)		la-bibbia-della-gioia-2005	la-bibbia-della-gioia	27	260	7588	187350	false
+biblegateway.com	ita	La-Nuova-Diodati-LND	La Nuova Diodati (LND)		nuova-diodati-1991	nuova-diodati	27	260	7957	165684	false
+biblegateway.com	ita	Nuova-Riveduta-1994-NR1994	Nuova Riveduta 1994 (NR1994)		nuova-riveduta-1994	nuova-riveduta	27	260	7957	162067	false
+biblegateway.com	ita	Nuova-Riveduta-2006-NR2006	Nuova Riveduta 2006 (NR2006)		nuova-riveduta-2006	nuova-riveduta	27	260	7958	164152	false
+biblegateway.com	pol	Nowe-Przymierze	Nowe Przymierze (NP)		eib-nowe-przymierze-literary-2011	eib-nowe-przymierze-literary	27	260	7954	142485	false
+biblegateway.com	pol	Słowo-Życia-SZ	Słowo Życia (SZ-PL)		slowo-zycia-2016	slowo-zycia	27	260	7916	139460	true
+biblegateway.com	pol	Updated-Gdańsk-Bible-UBG	Updated Gdańsk Bible (UBG)		uwspolczesniona-biblia-gdanska-2017	uwspolczesniona-biblia-gdanska	27	260	7957	138776	true
+biblegateway.com	spa	Jubilee-Bible-2000-Spanish-JBS	Biblia del Jubileo (JBS)		biblia-del-jubileo-2000	biblia-del-jubileo	27	260	7957	167614	false
+biblegateway.com	spa	Dios-Habla-Hoy-DHH-Biblia	Dios Habla Hoy (DHH)		dios-habla-hoy-1994	dios-habla-hoy	27	260	7912	182164	false
+biblegateway.com	spa	La-Biblia-de-las-Américas-LBLA	La Biblia de las Américas (LBLA)		la-biblia-de-las-americas-1986	la-biblia-de-las-americas	27	260	7958	180169	false
+biblegateway.com	spa	Biblia-La-Palabra-España-BLP	La Palabra (España) (BLP)		la-palabra-2010-3rd-edition-espana	la-palabra	27	260	7953	179640	false
+biblegateway.com	spa	Biblia-La-Palabra-Hispanoamérica-BLPH	La Palabra (Hispanoamérica) (BLPH)		la-palabra-2010-3rd-edition-hispanoamericana	la-palabra	27	260	7953	180267	false
+biblegateway.com	spa	Nueva-Biblia-Viva-NBV	Nueva Biblia Viva (NBV)		nueva-biblia-viva-2008	nueva-biblia-viva	27	260	7880	174525	false
+biblegateway.com	spa	Nueva-Biblia-de-las-Américas-NBLA	Nueva Biblia de las Américas (NBLA)		nueva-biblia-de-las-americas-2005	nueva-biblia-de-las-americas	27	260	7958	180342	false
+biblegateway.com	spa	Nueva-Traduccion-Viviente-Biblia-NTV	Nueva Traducción Viviente (NTV)		nueva-traduccion-viviente-2010	nueva-traduccion-viviente	27	260	7943	188975	false
+biblegateway.com	spa	Nueva-Version-Internacional-Castilian-Biblia-CST	Nueva Versión Internacional (Castilian) (CST)		nueva-version-internacional-2018	nueva-version-internacional	27	260	7934	169568	false
+biblegateway.com	spa	Nueva-Version-Internacional-Biblia-NVI	Nueva Versión Internacional (NVI)		nueva-version-internacional-2015	nueva-version-internacional	27	260	7958	169801	false
+biblegateway.com	spa	Palabra-de-Dios-para-Todos-Biblia-PDT	Palabra de Dios para Todos (PDT)		palabra-de-dios-para-todos-2015	palabra-de-dios-para-todos	27	260	7948	186379	false
+biblegateway.com	spa	Reina-Valera-Actualizada-RVA2015-Biblia	Reina Valera Actualizada (RVA-2015)		reina-valera-actualizada-2015	reina-valera-actualizada	27	260	7959	168372	false
+biblegateway.com	spa	Reina-Valera-Contemporanea-Biblia-RVC	Reina Valera Contemporánea (RVC)		reina-valera-contemporanea-2009	reina-valera-contemporanea	27	260	7958	173681	false
+biblegateway.com	spa	Reina-Valera-Revisada-RVR	Reina Valera Revisada (RVR1977)		reina-valera-revisada-1977	reina-valera-revisada	27	260	7957	168599	false
+biblegateway.com	spa	Reina-Valera-1960-RVR1960-Biblia	Reina-Valera 1960 (RVR1960)		reina-valera-1960	reina-valera	27	260	7958	165901	false
+biblegateway.com	spa	Reina-Valera-1995-RVR1995-Biblia	Reina-Valera 1995 (RVR1995)		reina-valera-1995	reina-valera	27	260	7958	163551	false
+biblegateway.com	spa	Reina-Valera-Antigua-RVA-Biblia	Reina-Valera Antigua (RVA)		reina-valera-antigua-1602	reina-valera-antigua	27	260	7956	164095	true
+biblegateway.com	spa	Spanish-Blue-Red-Gold-Letter-Edition-SRV-BRG	Spanish Blue Red and Gold Letter Edition (SRV-BRG)		reina-valera-1909	reina-valera	27	260	7957	164181	true
+biblegateway.com	spa	Traducción-en-lenguaje-actual-TLA-Biblia	Traducción en lenguaje actual (TLA)		lenguaje-actual-2002	lenguaje-actual	27	260	7655	197738	false
+biblehub.com	eng	afv	A Faithful Version		faithful-version-2011	faithful-version	27	260	7956	189902	false
+biblehub.com	eng	akjv	American King James Version		american-king-james-version-1999	american-king-james-version	27	260	7913	179634	true
+biblehub.com	eng	asv	American Standard Version		american-standard-version-1901	american-standard-version	27	260	7913	179053	true
+biblehub.com	eng	amp	Amplified Bible		amplified-bible-2015	amplified-bible	27	260	7941	263412	false
+biblehub.com	eng	anderson	Anderson New Testament		anderson-new-testament-1865	anderson-new-testament	27	260	7957	187311	true
+biblehub.com	eng	aramaic-plain-english	Aramaic Bible in Plain English		aramaic-plain-english-2013-8th-edition	aramaic-plain-english	27	260	7957	191459	false
+biblehub.com	eng	blb	Berean Literal Bible		berean-literal-bible-2016	berean-literal-bible	27	260	7941	182047	true
+biblehub.com	eng	bsb	Berean Study Bible		berean-standard-bible-2025	berean-standard-bible	27	260	7941	191314	true
+biblehub.com	eng	bishops	Bishops' Bible of 1568		bishops-bible-1568	bishops-bible	27	260	7957	187828	true
+biblehub.com	eng	cpdv	Catholic Public Domain Version		catholic-public-domain-version-2009	catholic-public-domain-version	27	260	7957	194672	true
+biblehub.com	eng	csb	Christian Standard Bible		christian-standard-bible-2017	christian-standard-bible	27	260	7941	251701	false
+biblehub.com	eng	cev	Contemporary English Version		contemporary-english-version-2006-2nd-edition	contemporary-english-version	27	260	7854	180341	false
+biblehub.com	eng	coverdale	Coverdale Bible of 1535		coverdale-bible-1535	coverdale-bible	27	260	7957	188519	true
+biblehub.com	eng	dbt	Darby Bible Translation		eng-darby-translation-1884	eng-darby-translation	27	260	7913	178333	true
+biblehub.com	eng	drb	Douay-Rheims Bible		douay-rheims-1752-challoner-revision	douay-rheims	27	260	7913	178091	true
+biblehub.com	eng	erv	English Revised Version		english-revised-version-1885	english-revised-version	27	260	7913	178894	true
+biblehub.com	eng	esv	English Standard Version		english-standard-version-2016	english-standard-version	27	260	7940	175503	false
+biblehub.com	eng	gwt	GOD'S WORD® Translation		gods-word-translation-1995	gods-word-translation	27	260	7957	179968	false
+biblehub.com	eng	geneva	Geneva Bible of 1587		geneva-bible-eng-1587	geneva-bible-eng	27	260	7957	187812	true
+biblehub.com	eng	godbey	Godbey New Testament		godbey-new-testament-1902	godbey-new-testament	27	260	7954	182369	true
+biblehub.com	eng	gnt	Good News Translation		good-news-1992-2nd-edition	good-news	27	260	7896	195372	false
+biblehub.com	eng	haweis	Haweis New Testament		haweis-new-testament-1795	haweis-new-testament	27	260	7957	188100	true
+biblehub.com	eng	hcsb	Holman Christian Standard Bible		holman-christian-standard-bible-2009	holman-christian-standard-bible	27	260	7956	210948	false
+biblehub.com	eng	isv	International Standard Version		international-standard-version-1-2-1	international-standard-version	27	260	7957	185680	false
+biblehub.com	eng	kj2000	King James 2000 Bible		king-james-version-2000-2000	king-james-version-2000	27	260	7957	180292	false
+biblehub.com	eng	kjv	King James Bible		king-james-version-1769	king-james-version	27	260	7913	180195	true
+biblehub.com	eng	lamsa	Lamsa Bible		lamsa-bible-1933	lamsa-bible	27	260	7957	186136	false
+biblehub.com	eng	let	Literal Emphasis Translation		literal-emphasis-translation-2015	literal-emphasis-translation	27	260	7957	213398	true
+biblehub.com	eng	lsv	Literal Standard Version		literal-standard-version-2020	literal-standard-version	27	260	7957	181064	true
+biblehub.com	eng	mace	Mace New Testament		mace-new-testament-1729	mace-new-testament	27	260	7957	183391	true
+biblehub.com	eng	nasb77	NASB 1977		new-american-standard-bible-1977	new-american-standard-bible	27	260	7957	185530	false
+biblehub.com	eng	nasb	NASB 1995		new-american-standard-bible-1995	new-american-standard-bible	27	260	7957	185732	false
+biblehub.com	eng	net	NET Bible		net-bible-2006-v1	net-bible	27	260	7957	182624	true
+biblehub.com	eng	nasb_	New American Standard Bible		new-american-standard-bible-2020	new-american-standard-bible	27	260	7941	233520	false
+biblehub.com	eng	nheb	New Heart English Bible		new-heart-english-bible-2025	new-heart-english-bible	27	260	7949	175987	true
+biblehub.com	eng	niv	New International Version		new-international-version-2011	new-international-version	27	260	7941	176057	false
+biblehub.com	eng	nkjv	New King James Version		new-king-james-version-1979	new-king-james-version	27	260	7940	183972	false
+biblehub.com	eng	nlt	New Living Translation		new-living-translation-2015	new-living-translation	27	260	7940	188060	false
+biblehub.com	eng	slt	Smith's Literal Translation		smiths-literal-translation-1876	smiths-literal-translation	27	260	7957	177389	true
+biblehub.com	eng	tyndale	Tyndale Bible of 1526		tyndale-bible-1526-worms	tyndale-bible	27	260	7957	187992	true
+biblehub.com	eng	wbt	Webster's Bible Translation		webster-bible-1833	webster-bible	27	260	7913	178974	true
+biblehub.com	eng	wey	Weymouth New Testament		weymouth-new-testament-1903	weymouth-new-testament	27	260	7913	191640	true
+biblehub.com	eng	web	World English Bible		world-english-bible-1997	world-english-bible	27	260	7913	173793	true
+biblehub.com	eng	worrell	Worrell New Testament		worrell-new-testament-1904	worrell-new-testament	27	260	7957	182991	true
+biblehub.com	eng	worsley	Worsley New Testament		worsley-new-testament-1770	worsley-new-testament	27	260	7957	185123	true
+biblehub.com	eng	ylt	Young's Literal Translation		youngs-literal-translation-1898	youngs-literal-translation	27	260	7913	185740	true
+bibles.org	eng	685d1470fe4d5c3b-01	American Standard Version (Byzantine Text with Apocrypha)		american-standard-version-2021	american-standard-version	22	177	5202	116607	true
+bibles.org	eng	a81b73293d3080c9-01	Amplified Bible		amplified-bible-2015	amplified-bible	27	260	7947	229121	false
+bibles.org	eng	bba9f40183526463-01	Berean Standard Bible		berean-standard-bible-2016	berean-standard-bible	27	260	7941	171804	true
+bibles.org	eng	55212e3cf5d04d49-01	Cambridge Paragraph Bible of the KJV		king-james-version-1873-cambridge-paragraph	king-james-version	27	260	7957	180595	true
+bibles.org	eng	555fef9a6cb31151-01	Contemporary English Version		contemporary-english-version-2006-2nd-edition	contemporary-english-version	27	260	7855	180328	false
+bibles.org	eng	108aa0495c0f45fb-01	Contemporary English Version (Anglicised) 2012		contemporary-english-version-2012-anglicised	contemporary-english-version	27	260	7855	181075	false
+bibles.org	eng	555fef9a6cb31151-02	Contemporary English Version Interconfessional Edition		contemporary-english-version-2006-2nd-edition-interconfessional	contemporary-english-version	27	260	7855	180328	false
+bibles.org	eng	555fef9a6cb31151-03	Contemporary English Version Old tradition		contemporary-english-version-2006-2nd-edition-old-tradition	contemporary-english-version	27	260	7855	180328	false
+bibles.org	eng	179568874c45066f-01	Douay-Rheims American 1899		douay-rheims-1899-american-edition	douay-rheims	27	260	7951	178978	true
+bibles.org	eng	26eb483046b561dc-01	Douay-Rheims Challoner Revision 1752 ✠		douay-rheims-1752-challoner-revision	douay-rheims	27	260	7949	179006	true
+bibles.org	eng	55ec700d9e0d77ea-01	English Majority Text Version		english-majority-text-version-2014	english-majority-text-version	27	260	7954	181686	true
+bibles.org	eng	f421fe261da7624f-01	English Standard Version Revision 2016		english-standard-version-2016	english-standard-version	27	260	7941	175498	false
+bibles.org	eng	65eec8e0b60e656b-01	Free Bible Version		free-bible-version-4-1	free-bible-version	27	260	7937	176359	true
+bibles.org	eng	0f6d909d7b736d4f-01	Free Bible Version		free-bible-version-2018-pre-v4	free-bible-version	27	260	7941	176298	true
+bibles.org	eng	c315fa9f71d4af3a-01	Geneva Bible		geneva-bible-eng-1599	geneva-bible-eng	27	260	7953	181932	true
+bibles.org	eng	de08848bef5aa286-02	Good News Bible (British Verison) 2017		good-news-2017-british	good-news	27	260	7897	193312	false
+bibles.org	eng	de08848bef5aa286-03	Good News Bible (British Version) Catholic Edition 2017		good-news-2017-british-catholic	good-news	27	260	7897	193312	false
+bibles.org	eng	de08848bef5aa286-01	Good News Bible (British Version) with Deuterocanonical books 2017		good-news-2017-british	good-news	27	260	7897	193312	false
+bibles.org	eng	61fd76eafa1577c2-02	Good News Translation		good-news-1992-2nd-edition	good-news	27	260	7897	192564	false
+bibles.org	eng	61fd76eafa1577c2-01	Good News Translation (US Version)		good-news-1992-2nd-edition-us	good-news	27	260	7897	192564	false
+bibles.org	eng	de4e12af7f28f599-01	King James (Authorised) Version		king-james-version-1769	king-james-version	27	260	7957	180815	true
+bibles.org	eng	de4e12af7f28f599-02	King James (Authorised) Version		king-james-version-1769	king-james-version	27	260	7957	180815	true
+bibles.org	eng	5cccfa61df57262f-01	King James Version  (Bible Society Paragraphed Edition 1954)		king-james-version-1954-bible-society-paragraphed	king-james-version	27	260	7957	180382	false
+bibles.org	eng	a6aee10bb058511c-01	King James Version with Apocrypha, American Edition		king-james-version-1962-american-edition	king-james-version	27	260	7957	180337	false
+bibles.org	eng	a6aee10bb058511c-02	King James Version, American Edition		king-james-version-1962-american-edition	king-james-version	27	260	7957	180337	false
+bibles.org	eng	01b29f4b342acc35-01	Literal Standard Version		literal-standard-version-2020	literal-standard-version	27	260	7959	181124	true
+bibles.org	eng	99e22db6104f0498-01	Matthew1-22, 1525 (William Tyndale) Cologne Fragment		tyndale-bible-1525-cologne-fragment	tyndale-bible	1	22	739	16878	true
+bibles.org	eng	5b888a42e2d9a89d-01	New International Reader’s Version 2014		new-international-readers-version-2014	new-international-readers-version	27	260	7896	198004	false
+bibles.org	eng	3e2eb613d45e131e-01	New International Version (Anglicized) 2011		new-international-version-2011-anglicised	new-international-version	27	260	7896	175175	false
+bibles.org	eng	78a9f6124f344018-01	New International Version 2011		new-international-version-2011	new-international-version	27	260	7847	173484	false
+bibles.org	eng	d6e14a625393b4da-01	New Living Translation		new-living-translation-2015	new-living-translation	27	260	7942	186287	false
+bibles.org	eng	1fd99b0d5841e19b-01	New Revised Standard Version		new-revised-standard-version-1989	new-revised-standard-version	27	260	7941	176110	false
+bibles.org	eng	1fd99b0d5841e19b-02	New Revised Standard Version		new-revised-standard-version-1989	new-revised-standard-version	27	260	7941	176110	false
+bibles.org	eng	4eede3e748e0a2c3-03	New Revised Standard Version (Anglicised) 1989		new-revised-standard-version-1989-anglicised	new-revised-standard-version	27	260	7941	176144	false
+bibles.org	eng	4eede3e748e0a2c3-02	New Revised Standard Version Catholic Edition (Anglicised) 1989		new-revised-standard-version-1989-anglicised-catholic	new-revised-standard-version	27	260	7941	176144	false
+bibles.org	eng	1fd99b0d5841e19b-03	New Revised Standard Version Old Tradition		new-revised-standard-version-1989-old-tradition	new-revised-standard-version	27	260	7941	176110	false
+bibles.org	eng	4eede3e748e0a2c3-01	New Revised Standard Version with Extended Apocrypha (Anglicised) 1989		new-revised-standard-version-1989-anglicised	new-revised-standard-version	27	260	7941	176144	false
+bibles.org	eng	4b64f7d0cdec0e42-01	Revised Standard Version		revised-standard-version-1971	revised-standard-version	27	260	7935	173269	false
+bibles.org	eng	4b64f7d0cdec0e42-02	Revised Standard Version		revised-standard-version-1971	revised-standard-version	27	260	7935	173269	false
+bibles.org	eng	4b64f7d0cdec0e42-03	Revised Standard Version Old Tradition 1952		revised-standard-version-1946-old-tradition	revised-standard-version	27	260	7935	173269	false
+bibles.org	eng	0a8314e257586058-01	Revised Standard Version UK 1977		revised-standard-version-1977-uk	revised-standard-version	27	260	7935	173521	false
+bibles.org	eng	40072c4a5aba4022-01	Revised Version 1885		english-revised-version-1885	english-revised-version	27	260	7941	179867	true
+bibles.org	eng	9bb76cd3e5a7f9b4-01	Revised Version with Apocrypha 1885, 1895		english-revised-version-1885	english-revised-version	27	260	7941	179868	true
+bibles.org	eng	2f0fd81d7b85b923-01	The English New Testament According to Family 35		family-35-nt-2016	family-35-nt	10	162	5884	129550	true
+bibles.org	eng	a9fc3d9729b6a6a0-01	The Gospel of St Matthew 1-22 (William Tyndale) Cologne Fragment - Modern Spelling		tyndale-bible-2025-cologne-fragment-modern-spelling	tyndale-bible	1	22	740	16645	true
+bibles.org	eng	06125adad2d5898a-01	The Holy Bible, American Standard Version		american-standard-version-1901	american-standard-version	27	260	7932	179258	true
+bibles.org	eng	92df985750968ce9-01	The New Testament 1526 (William Tyndale) Worms Edition		tyndale-bible-1526-worms	tyndale-bible	27	260	7946	181773	true
+bibles.org	eng	c89622d31b60c444-02	The Orthodox Jewish Bible		orthodox-jewish-bible-2011	orthodox-jewish-bible	27	260	7959	208836	true
+bibles.org	eng	32339cf2f720ff8e-01	The Text-Critical English New Testament		text-critical-english-nt-2022	text-critical-english-nt	27	260	7953	181547	true
+bibles.org	eng	b5674f77348ad856-01	The Translator's Translation:  New Testament 1973		translator-translation-1973	translator-translation	27	260	7924	180290	false
+bibles.org	eng	4524cdb7a7098420-01	The Trench Epistles GWC 1915		trench-epistles-gwc-1915	trench-epistles-gwc	3	33	630	24689	true
+bibles.org	eng	9c907df84d849b86-01	The newe Testament 1534 (William Tyndale) Antwerp Revised Edition - original spelling		tyndale-bible-1534-antwerp-original-spelling	tyndale-bible	27	260	7954	182215	true
+bibles.org	eng	66c22495370cdfc0-01	Translation for Translators		translation-for-translators-2017	translation-for-translators	27	260	7851	313110	true
+bibles.org	eng	0bc8836afa7427fa-01	Translation for Translators		translation-for-translators-2017	translation-for-translators	27	260	7860	315405	true
+bibles.org	eng	fad27c00e7c042a2-01	Who? 2018		who-bible-2018	who-bible	27	260	7667	169240	false
+bibles.org	eng	9879dbb7cfe39e4d-01	World English Bible		world-english-bible-2020	world-english-bible	27	260	7953	174750	true
+bibles.org	eng	9879dbb7cfe39e4d-02	World English Bible		world-english-bible-2020	world-english-bible	27	260	7953	174750	true
+bibles.org	eng	9879dbb7cfe39e4d-03	World English Bible		world-english-bible-2020	world-english-bible	27	260	7953	174750	true
+bibles.org	eng	9879dbb7cfe39e4d-04	World English Bible		world-english-bible-2020	world-english-bible	27	260	7953	174750	true
+bibles.org	eng	7142879509583d59-01	World English Bible British Edition		world-english-bible-2020-british	world-english-bible	27	260	7953	174806	true
+bibles.org	eng	7142879509583d59-02	World English Bible British Edition		world-english-bible-2020-british	world-english-bible	27	260	7953	174806	true
+bibles.org	eng	7142879509583d59-03	World English Bible British Edition		world-english-bible-2020-british	world-english-bible	27	260	7953	174806	true
+bibles.org	eng	7142879509583d59-04	World English Bible British Edition		world-english-bible-2020-british	world-english-bible	27	260	7953	174806	true
+bibles.org	eng	72f4e6dc683324df-01	World English Bible Updated		world-english-bible-2020-updated	world-english-bible	27	260	7953	174753	true
+bibles.org	eng	72f4e6dc683324df-02	World English Bible Updated		world-english-bible-2020-updated	world-english-bible	27	260	7953	174753	true
+bibles.org	eng	72f4e6dc683324df-03	World English Bible Updated		world-english-bible-2020-updated	world-english-bible	27	260	7953	174753	true
+bibles.org	eng	32664dc3288a28df-01	World English Bible, American English Edition, without Strong's Numbers		world-english-bible-2020-american	world-english-bible	27	260	7953	174753	true
+bibles.org	eng	32664dc3288a28df-02	World English Bible, American English Edition, without Strong's Numbers		world-english-bible-2020-american	world-english-bible	27	260	7953	174753	true
+bibles.org	eng	32664dc3288a28df-03	World English Bible, American English Edition, without Strong's Numbers		world-english-bible-2020-american	world-english-bible	27	260	7953	174749	true
+bibles.org	eng	f72b840c855f362c-04	World Messianic Bible		world-english-bible-2020-messianic	world-english-bible	27	260	7953	178416	true
+bibles.org	eng	04da588535d2f823-04	World Messianic Bible British Edition		world-english-bible-2020-messianic-british	world-english-bible	27	260	7953	178432	true
+bibles.org	eng	7a29e1242c9ee60d-01	Young's Literal Translation 1898		youngs-literal-translation-1898	youngs-literal-translation	27	260	7957	186696	true
+bibles.org	fra	a93a92589195411f-01	Bible J.N. Darby		fra-darby-translation-1885	fra-darby-translation	27	260	7954	186752	true
+bibles.org	fra	c329f9f1debe32db-01	French Gospel of Matthew 1855 (de Sacy)		sacy-bible-1855	sacy-bible	1	28	1070	24199	true
+bibles.org	fra	64138c65b3e295c2-01	Gospel of Matthew 1864 (Frainc-Comtois)		frainc-comtois-1864	frainc-comtois	1	28	1070	25577	true
+bibles.org	fra	6f26e199139ea7f1-01	La Bible du Semeur (The Bible of the Sower)		bible-du-semeur-2015	bible-du-semeur	27	260	7945	201079	false
+bibles.org	fra	98ab666655da6ae4-01	New French current		bible-nouvelle-francais-courant-2019	bible-nouvelle-francais-courant	27	260	7944	201251	false
+bibles.org	fra	a0eead58359eebd2-01	Parole de Vie 2017		parole-de-vie-2017	parole-de-vie	27	260	7924	209888	false
+bibles.org	ita	41f25b97f468e10b-01	Diodati Bible 1885		diodati-bible-1885	diodati-bible	27	260	7957	168046	true
+bibles.org	ita	547356f0e641742a-02	Italian Common Language Bible		interconfessionale-in-lingua-corrente-2014-3rd-edition	interconfessionale-in-lingua-corrente	27	260	7886	176811	false
+bibles.org	ita	547356f0e641742a-01	Italian Common Language Interconfessional Bible		interconfessionale-in-lingua-corrente-2014-3rd-edition	interconfessionale-in-lingua-corrente	27	260	7886	176811	false
+bibles.org	pol	fbb8b0e1943b417c-01	Biblica® Open Polish Living New Testament 2016		slowo-zycia-2016	slowo-zycia	27	260	7873	138325	true
+bibles.org	pol	2e3185bcb90f9381-01	Polish Living New Testament (The Word of Life)		slowo-zycia-2016	slowo-zycia	27	260	7873	138325	true
+bibles.org	pol	1c9761e0230da6e0-01	Updated Gdansk Bible		uwspolczesniona-biblia-gdanska-2017	uwspolczesniona-biblia-gdanska	27	260	7957	138326	true
+bibles.org	spa	6b7f504f1b6050c1-01	Biblica® Open Nueva Biblia Viva 2008		nueva-biblia-viva-2008	nueva-biblia-viva	27	260	7880	174466	false
+bibles.org	spa	0aaa4b88c30bcde2-01	Holy Bible: The Word of God for All		palabra-de-dios-para-todos-2015	palabra-de-dios-para-todos	27	260	7928	185353	false
+bibles.org	spa	e1592fe262f26754-01	New Living Bible		nueva-biblia-viva-2008	nueva-biblia-viva	27	260	7880	174467	false
+bibles.org	spa	abc55ec4a92a291d-01	Nueva Versión Internacional (Spanish New International Version) 2015		nueva-version-internacional-2015	nueva-version-internacional	27	260	7929	181130	false
+bibles.org	spa	01c25b8715dbb632-01	Nueva Versión Internacional 2022		nueva-version-internacional-2022	nueva-version-internacional	27	260	7940	169513	false
+bibles.org	spa	592420522e16049f-01	Reina Valera 1909		reina-valera-1909	reina-valera	27	260	7956	164216	true
+bibles.org	spa	48acedcf8595c754-01	Spanish Bible, Palabla de Dios para ti		palabra-de-dios-para-ti-2020	palabra-de-dios-para-ti	27	260	7936	154224	true
+bibles.org	spa	48acedcf8595c754-02	Spanish NT + PP, Palabla de Dios para ti		palabra-de-dios-para-ti-2020	palabra-de-dios-para-ti	27	260	7936	154224	true
+bibles.org	spa	ff913c55498d2380-01	Spanish, Biblia Reina Valera 1960		reina-valera-1960	reina-valera	27	260	7958	164930	false
+bibles.org	spa	b32b9d1b64b4ef29-01	The Holy Bible in Simple Spanish		la-biblia-en-espanol-sencillo-2018	la-biblia-en-espanol-sencillo	27	260	7958	182376	true
+bibles.org	spa	482ddd53705278cc-01	The New Testament in Spanish, Free Bible Version		biblia-libre-1-1-beta	biblia-libre	27	260	7941	179186	true
+bibles.org	spa	3a58bb7dafa55959-01	Traducción en Lenguaje Actual		lenguaje-actual-2002	lenguaje-actual	27	260	7627	197756	false
+bibles.org	spa	3a58bb7dafa55959-02	Traducción en Lenguaje Actual Interconfesional		lenguaje-actual-2002-interconfesional	lenguaje-actual	27	260	7627	197756	false
+bibles.org	spa	482ddd53705278cc-02	Versión Biblia Libre		biblia-libre-1-1-beta	biblia-libre	27	260	7941	179186	true
+biblestudytools.com	eng	asv	American Standard Version		american-standard-version-1901	american-standard-version	27	260	7959	180067	true
+biblestudytools.com	eng	bsb	Berean Standard Bible		berean-standard-bible-2016	berean-standard-bible	27	260	7941	175837	true
+biblestudytools.com	eng	ceb	Common English Bible		common-english-bible-2011	common-english-bible	27	260	7942	179853	false
+biblestudytools.com	eng	ceba	Common English Bible w/ Apocrypha		common-english-bible-2011	common-english-bible	27	260	7942	179847	false
+biblestudytools.com	eng	rhe	Douay-Rheims Catholic Bible		douay-rheims-1899-american-edition	douay-rheims	27	260	7957	178826	true
+biblestudytools.com	eng	esv	English Standard Version		english-standard-version-2025	english-standard-version	27	260	7941	181231	false
+biblestudytools.com	eng	gw	GOD'S WORD Translation		gods-word-translation-1995	gods-word-translation	27	260	7959	179937	false
+biblestudytools.com	eng	gnt	Good News Translation		good-news-1992-2nd-edition	good-news	27	260	7898	193123	false
+biblestudytools.com	eng	gnta	Good News Translation w/ Apocrypha		good-news-1992-2nd-edition	good-news	27	260	7898	193123	false
+biblestudytools.com	eng	hnv	Hebrew Names Version		world-english-bible-2020-messianic	world-english-bible	27	260	7959	175839	true
+biblestudytools.com	eng	csb	Holman Christian Standard Bible		holman-christian-standard-bible-2004	holman-christian-standard-bible	27	260	7956	175376	false
+biblestudytools.com	eng	jub	Jubilee Bible 2000		jubilee-bible-2000	jubilee-bible	27	260	7957	183388	true
+biblestudytools.com	eng	kjv	King James Version		king-james-version-1769	king-james-version	27	260	7959	189168	true
+biblestudytools.com	eng	kjva	King James Version w/ Apocrypha		king-james-version-1769	king-james-version	27	260	7959	189186	true
+biblestudytools.com	eng	leb	Lexham English Bible		lexham-english-bible-2012	lexham-english-bible	27	260	7939	189706	true
+biblestudytools.com	eng	nas	New American Standard Bible		new-american-standard-bible-1995	new-american-standard-bible	27	260	7958	206861	false
+biblestudytools.com	eng	ncv	New Century Version		new-century-version-1991	new-century-version	27	260	7959	191549	false
+biblestudytools.com	eng	nirv	New International Reader's Version		new-international-readers-version-1998	new-international-readers-version	27	260	7941	201139	false
+biblestudytools.com	eng	niv	New International Version		new-international-version-2011	new-international-version	27	260	7941	179350	false
+biblestudytools.com	eng	nkjv	New King James Version		new-king-james-version-1979	new-king-james-version	27	260	7959	177928	false
+biblestudytools.com	eng	nlt	New Living Translation		new-living-translation-2013	new-living-translation	27	260	7959	186363	false
+biblestudytools.com	eng	nrs	New Revised Standard		new-revised-standard-version-1989	new-revised-standard-version	27	260	7959	176287	false
+biblestudytools.com	eng	nrsa	New Revised Standard w/ Apocrypha		new-revised-standard-version-1989	new-revised-standard-version	27	260	7959	176287	false
+biblestudytools.com	eng	rsv	Revised Standard Version		revised-standard-version-1971	revised-standard-version	27	260	7959	173306	false
+biblestudytools.com	eng	rsva	Revised Standard Version w/ Apocrypha		revised-standard-version-1971	revised-standard-version	27	260	7959	173306	false
+biblestudytools.com	eng	bbe	The Bible in Basic English		bible-in-basic-english-1965	bible-in-basic-english	27	260	7959	200864	true
+biblestudytools.com	eng	cjb	The Complete Jewish Bible		complete-jewish-bible-1998	complete-jewish-bible	27	260	7952	183916	true
+biblestudytools.com	eng	dby	The Darby Translation		eng-darby-translation-1884	eng-darby-translation	27	260	7959	179304	true
+biblestudytools.com	eng	msg	The Message Bible		the-message-bible-1993-1st-edition	the-message-bible	27	260	7938	192246	false
+biblestudytools.com	eng	wbt	The Webster Bible		webster-bible-1833	webster-bible	27	260	7959	179981	true
+biblestudytools.com	eng	tmb	Third Millennium Bible		third-millennium-bible-1998	third-millennium-bible	27	260	7959	181169	false
+biblestudytools.com	eng	tmba	Third Millennium Bible w/ Apocrypha		third-millennium-bible-1998	third-millennium-bible	27	260	7959	181169	false
+biblestudytools.com	eng	tyn	Tyndale		tyndale-bible-1534-antwerp	tyndale-bible	27	260	7956	181970	true
+biblestudytools.com	eng	wnt	Weymouth New Testament		weymouth-new-testament-1903	weymouth-new-testament	27	260	7959	193531	true
+biblestudytools.com	eng	web	World English Bible		world-english-bible-2020	world-english-bible	27	260	7959	175516	true
+biblestudytools.com	eng	wyc	Wycliffe		wycliffe-bible-2001-modern-spelling	wycliffe-bible	27	260	7959	234823	false
+biblestudytools.com	eng	ylt	Young's Literal Translation		youngs-literal-translation-1898	youngs-literal-translation	27	260	7959	186767	true
+bibliepolskie.pl	pol	BRZESKA.TRANS.	Biblia Brzeska - transliteracja [1563]		biblia-brzeska-1563	biblia-brzeska	27	260	7942	142376	true
+bibliepolskie.pl	pol	GDAŃSKA.1881	Biblia Gdańska [1881?]		biblia-gdanska-1881	biblia-gdanska	27	260	7942	139827	true
+bibliepolskie.pl	pol	WUJEK.1923	Biblia Jakuba Wujka [1923]		biblia-jakuba-wujka-1923	biblia-jakuba-wujka	27	260	7942	133320	true
+bibliepolskie.pl	pol	KJV.POL.2025	Biblia Króla Jakuba [2025]		biblia-krola-jakuba-2025-1st-edition	biblia-krola-jakuba	27	260	7942	146164	true
+bibliepolskie.pl	pol	TYSIĄCL.WYD5	Biblia Tysiąclecia - wyd.5 [2000]		biblia-tysiaclecia-2000-5th-edition	biblia-tysiaclecia	27	260	7941	138431	false
+bibliepolskie.pl	pol	EIB.BIBLIA.2016.LIT	Biblia to jest Pismo Święte Starego i Nowego Przymierza - liter. [2016]		eib-nowe-przymierze-literary-2016	eib-nowe-przymierze-literary	27	260	7942	142163	false
+bibliepolskie.pl	pol	BRYTYJKA	Biblia warszawska (brytyjka) [1975]		biblia-warszawska-1975	biblia-warszawska	27	260	7942	139139	false
+bibliepolskie.pl	pol	WARSZ.PRASKA	Biblia warszawsko-praska [1997]		biblia-warszawsko-praska-1997	biblia-warszawsko-praska	27	260	7942	151261	false
+bibliepolskie.pl	pol	GRZYM.1937	Ewangelia Święta + Dzieje Apostolskie - ks. E.Grzymała [1937]		grzymala-1937-2nd-edition	grzymala	5	117	4772	80429	true
+bibliepolskie.pl	pol	GRZYM.1936	Ewangelia Święta - ks. E.Grzymała [1936]		grzymala-1936-1st-edition	grzymala	4	89	3769	61310	true
+bibliepolskie.pl	pol	SZCZEPAŃSKI	Ewangelie i Dzieje Apostolskie - ks. W. Szczepański [1917]		szczepanski-1917	szczepanski	5	117	4772	83310	true
+bibliepolskie.pl	pol	DĄBR.WUL.1973	Ks. Eugeniusz Dąbrowski - Nowy Testament z Wulgaty [1973]		dabrowski-wulgata-1973-2nd-edition	dabrowski-wulgata	27	260	7942	136625	false
+bibliepolskie.pl	pol	DĄBR.GR.1961	Ks. Eugeniusz Dąbrowski - Nowy Testament z greckiego [1961]		dabrowski-greka-1961-2nd-edition	dabrowski-greka	27	260	7941	136678	false
+bibliepolskie.pl	pol	ŚLĄSKIE.TOW.BIB.	Nowa Biblia Gdańska [2012]		nowa-biblia-gdanska-2012	nowa-biblia-gdanska	27	260	7942	140287	false
+bibliepolskie.pl	pol	RAKOW.NT	Nowy Testament - Rakowski [1606]		rakowski-nt-1606	rakowski-nt	27	260	7941	137247	true
+bibliepolskie.pl	pol	BUDNY.1574	Nowy Testament - Szymon Budny [1574]		szymon-budny-1574	szymon-budny	27	260	7929	127888	true
+bibliepolskie.pl	pol	MARIAWICI	Przekład Mariawitów - Nowy Testament [1921]		mariawici-1921-1st-edition	mariawici	27	260	7942	142693	false
+bibliepolskie.pl	pol	TOR.PRZ.2023	Przekład toruński [2023]		przeklad-torunski-2023	przeklad-torunski	27	260	7942	143810	false
+bibliepolskie.pl	pol	SOŁOWEYCZYK.MAT	Sołoweyczyk - Ewangelia Mateusza [1879]		soloweyczyk-1879	soloweyczyk	1	28	1069	17349	true
+bibliepolskie.pl	pol	GDAŃSKA.2017	Uwspółcześniona Biblia Gdańska [2017]		uwspolczesniona-biblia-gdanska-2017	uwspolczesniona-biblia-gdanska	27	260	7942	138141	true
+crossbible.com	eng	ASV	American Standard Version		american-standard-version-1901	american-standard-version	27	260	7942	179809	true
+crossbible.com	eng	BSB	Berean Study Bible		berean-study-bible-2023	berean-study-bible	27	260	7943	171723	true
+crossbible.com	eng	ESV-CE	English Standard Version – CE (ESV-CE)		english-standard-version-2018	english-standard-version	27	260	7942	175461	false
+crossbible.com	eng	KJV-1611	King James Version (1611)		king-james-version-1611	king-james-version	27	260	7958	180813	true
+crossbible.com	eng	KJV-1769	King James Version (1769)		king-james-version-1769	king-james-version	27	260	7958	180351	true
+crossbible.com	eng	NASB	New American Standard Bible (2020)		new-american-standard-bible-2020	new-american-standard-bible	27	260	7945	184334	false
+crossbible.com	eng	NETv1	New English Translation v1 (NETv1)		net-bible-2006-v1	net-bible	27	260	7942	180811	true
+crossbible.com	eng	NIV	New International Version		new-international-version-2011	new-international-version	27	260	7942	175921	false
+crossbible.com	eng	NRSVue	New Revised Standard Version, Updated Edition (NRSVue)		new-revised-standard-version-2021-updated-edition	new-revised-standard-version	27	260	7942	177003	false
+crossbible.com	eng	TYN	Tyndale Bible		tyndale-bible-1534-antwerp	tyndale-bible	27	260	7956	182009	true
+crossbible.com	eng	WBT	Webster's Revision		webster-bible-1833	webster-bible	27	260	7958	179944	true
+crossbible.com	eng	WNT	Weymouth New Testament		weymouth-new-testament-1903	weymouth-new-testament	27	260	7925	192504	true
+crossbible.com	fra	LSG	Louis Segond		louis-segond-1910	louis-segond	27	260	7958	173768	true
+crossbible.com	spa	RV-1909	Reina Valera 1909		reina-valera-1909	reina-valera	27	260	7957	164046	true
+ebible.org	eng	engasvbt	ASV Byzantine Text		american-standard-version-2021	american-standard-version	27	260	7948	181590	true
+ebible.org	eng	engBBE	Bible in Basic English		bible-in-basic-english-1965	bible-in-basic-english	27	260	7955	200874	true
+ebible.org	eng	engDBY	Darby Translation		eng-darby-translation-1884	eng-darby-translation	27	260	7952	179263	true
+ebible.org	eng	engDRA	Douay-Rheims 1899		douay-rheims-1899-american-edition	douay-rheims	27	260	7949	178920	true
+ebible.org	eng	engbsb	English Berean Standard Bible		berean-standard-bible-2020	berean-standard-bible	27	260	7939	171708	true
+ebible.org	eng	englsv	English LSV		literal-standard-version-2020	literal-standard-version	27	260	7957	181033	true
+ebible.org	eng	engemtv	English Majority Text Version		majority-text-version-2014	majority-text-version	27	260	7949	181245	true
+ebible.org	eng	engf35	Family 35 NT		family-35-nt-2016	family-35-nt	27	260	7948	177738	true
+ebible.org	eng	engfbv	Free Bible Version		free-bible-version-2018-pre-v4	free-bible-version	27	260	7940	176353	true
+ebible.org	eng	enggnv	Geneva Bible 1599		geneva-bible-eng-1599	geneva-bible-eng	27	260	7952	181921	true
+ebible.org	eng	engkjvcpb	KJV Cambridge Paragraph		king-james-version-1873-cambridge-paragraph	king-james-version	27	260	7955	180535	true
+ebible.org	eng	engnoy	Noyes Bible		noyes-bible-1869	noyes-bible	27	260	7936	178716	true
+ebible.org	eng	engoebcw	Open English Bible (Commonwealth)		open-english-bible-2025-5-commonwealth	open-english-bible	27	260	7938	190627	true
+ebible.org	eng	engoebus	Open English Bible (US)		open-english-bible-2025-5-us	open-english-bible	27	260	7938	190627	true
+ebible.org	eng	engtcent	Text-Critical English NT		text-critical-english-nt-2022	text-critical-english-nt	27	260	7948	181381	true
+ebible.org	eng	engtnt	Tyndale NT		tyndale-bible-1534-antwerp	tyndale-bible	27	260	7952	181948	true
+ebible.org	eng	engULB	Unlocked Literal Bible		unlocked-literal-bible-2017	unlocked-literal-bible	27	260	7941	182215	true
+ebible.org	eng	engwebster	Webster Bible		webster-bible-1833	webster-bible	27	260	7955	180544	true
+ebible.org	eng	engwebp	World English Bible		world-english-bible-2020	world-english-bible	27	260	7948	174634	true
+ebible.org	eng	engwebpb	World English Bible British Edition		world-english-bible-2020-british	world-english-bible	27	260	7948	174650	true
+ebible.org	eng	engwebu	World English Bible Updated		world-english-bible-2022-updated	world-english-bible	27	260	7948	174634	true
+ebible.org	eng	engwmb	World Messianic Bible		world-english-bible-2022-messianic	world-english-bible	27	260	7948	174849	true
+ebible.org	eng	engwmbb	World Messianic Bible British Edition		world-english-bible-2022-messianic-british	world-english-bible	27	260	7948	174865	true
+ebible.org	eng	engylt	Young's Literal Translation		youngs-literal-translation-1898	youngs-literal-translation	27	260	7955	186743	true
+ebible.org	fra	frasbl	French Free Holy Bible for the World		sainte-bible-libre-2022	sainte-bible-libre	27	260	7948	181954	true
+ebible.org	fra	fraLSG	French Louis Segond 1910 Bible		louis-segond-1910	louis-segond	27	260	7957	173184	true
+ebible.org	fra	fra_fob	French Ostervald Bible		ostervald-1996	ostervald	27	260	7957	177635	true
+ebible.org	fra	francl	French néo-Crampon Libre		neo-crampon-libre-2022	neo-crampon-libre	27	260	7953	185883	true
+ebible.org	ita	ita1885	Italian Diodati Bible		diodati-bible-1885	diodati-bible	27	260	7954	167885	true
+ebible.org	ita	ita1927	Italian Riveduta Bible		riveduta-1927	riveduta	27	260	7955	163657	true
+ebible.org	pol	polsz	Polish Słowo Życia, otwarty dostęp NT		slowo-zycia-2016	slowo-zycia	27	260	7956	139492	true
+ebible.org	pol	polubg	Polish Updated Gdansk Bible		uwspolczesniona-biblia-gdanska-2017	uwspolczesniona-biblia-gdanska	27	260	7955	138310	true
+ebible.org	spa	spabes	La Biblia en Español Sencillo		la-biblia-en-espanol-sencillo-2018	la-biblia-en-espanol-sencillo	27	260	7955	182438	true
+ebible.org	spa	spaRV1909	Reina Valera 1909		reina-valera-1909	reina-valera	27	260	7955	164205	true
+ebible.org	spa	spapddpt	Spanish Bible (God's Word for You)		palabra-de-dios-para-ti-2020	palabra-de-dios-para-ti	27	260	7957	154230	true
+ebible.org	spa	spavbl	Spanish Free Bible Version		biblia-libre-2020	biblia-libre	27	260	7939	179155	true
+ebible.org	spa	spablm	Spanish Free Bible for the World		spanish-free-bible-for-the-world-2022	spanish-free-bible-for-the-world	27	260	7948	165373	true
+jw.org	eng	nwt-eng	New World Translation (eng)		eng-new-world-translation-2025	eng-new-world-translation	27	260	7933	188437	false
+jw.org	fra	nwt-fra	New World Translation (fra)		fra-new-world-translation-2025	fra-new-world-translation	27	260	7933	196732	false
+jw.org	ita	nwt-ita	New World Translation (ita)		ita-new-world-translation-2025	ita-new-world-translation	27	260	7933	166889	false
+jw.org	pol	nwt-pol	New World Translation (pol)		pol-new-world-translation-2025	pol-new-world-translation	27	260	7933	147322	false
+jw.org	spa	nwt-spa	New World Translation (spa)		spa-new-world-translation-2025	spa-new-world-translation	27	260	7933	183284	false
+laparola.net	eng	asv	American Standard Version		american-standard-version-1901	american-standard-version	27	260	7957	179836	true
+laparola.net	eng	bbe	Bible in Basic English		bible-in-basic-english-1941	bible-in-basic-english	27	260	7957	200857	true
+laparola.net	eng	dr	Douay-Rheims		douay-rheims-1752-challoner-revision	douay-rheims	27	260	7922	178406	true
+laparola.net	eng	eng_kjv	King James Version (with Apocrypha)		king-james-version-1769	king-james-version	27	260	7959	180453	true
+laparola.net	eng	eng_kjv2006	King James Version (with definitions)		king-james-version-1769	king-james-version	27	260	7957	180382	true
+laparola.net	eng	leb	Lexham English Bible		lexham-english-bible-2012	lexham-english-bible	27	260	7939	185968	true
+laparola.net	eng	lsv	Literal Standard Version		literal-standard-version-2020	literal-standard-version	27	260	7958	181064	true
+laparola.net	eng	web	World English Bible		world-english-bible-2020	world-english-bible	27	260	7957	175453	true
+laparola.net	eng	eng_ylt	Young's Literal Translation		youngs-literal-translation-1898	youngs-literal-translation	27	260	7959	186843	true
+laparola.net	fra	darbyfr	French Darby		fra-darby-translation-1885	fra-darby-translation	27	260	7957	178788	true
+laparola.net	fra	louissegond	Louis Segond		louis-segond-1910	louis-segond	27	260	7958	174159	true
+laparola.net	fra	ostervald	Ostervald		ostervald-1996	ostervald	27	260	7958	177599	true
+laparola.net	ita	cei1974	C.E.I. (1974)		conferenza-episcopale-italiana-1974	conferenza-episcopale-italiana	27	260	7941	157519	true
+laparola.net	ita	dio	Diodati		diodati-bible-1607	diodati-bible	27	260	7958	167875	true
+laparola.net	ita	lpv	La Parola è Vita		la-parola-e-vita-2006	la-parola-e-vita	27	260	7943	186802	false
+laparola.net	ita	martini	Martini		martini-1781	martini	27	260	7952	163580	true
+laparola.net	ita	nd	Nuova Diodati		nuova-diodati-1991	nuova-diodati	27	260	7958	165705	false
+laparola.net	ita	nr	Nuova Riveduta		nuova-riveduta-2006	nuova-riveduta	27	260	7958	161394	false
+laparola.net	ita	nr94	Nuova Riveduta (1994)		nuova-riveduta-1994	nuova-riveduta	27	260	7959	161054	false
+laparola.net	ita	ricciotti	Ricciotti		ricciotti-1940	ricciotti	27	260	7952	159966	false
+laparola.net	ita	luzzi	Riveduta (Luzzi)		riveduta-1924	riveduta	27	260	7941	163386	true
+laparola.net	ita	r2	Riveduta 2020		riveduta-2020	riveduta	27	260	7959	162286	false
+laparola.net	ita	tintori	Tintori		tintori-1931	tintori	27	260	7952	156569	false
+laparola.net	spa	reinavalera	Reina Valera		reina-valera-1909	reina-valera	27	260	7955	164120	true
+laparola.net	spa	sagradasescrituras	Sagradas Escrituras		sagradas-escrituras-1999	sagradas-escrituras	27	260	7957	166538	true
+obohu.cz	eng	T2001	2001 Translation - An American English Bible		2001-translation-2001	2001-translation	27	260	7928	185935	true
+obohu.cz	eng	ASVS	American Standard Version (1901) - with Strong’s numbers		american-standard-version-1901	american-standard-version	27	260	7941	179868	true
+obohu.cz	eng	ASV	American Standard Version (EN)		american-standard-version-1901	american-standard-version	27	260	7957	180389	true
+obohu.cz	eng	THO	Charles Thomson - translation of LXX and NT (1808)		charles-thomson-1808	charles-thomson	27	260	7957	182290	true
+obohu.cz	eng	CJB	Complete Jewish Bible (1998)		complete-jewish-bible-1998	complete-jewish-bible	27	260	7958	183612	true
+obohu.cz	eng	DB	Darby Bible (EN)		eng-darby-translation-1884	eng-darby-translation	27	260	7957	179295	true
+obohu.cz	eng	LAMSA	Dr George Lamsa Bible - Aramaic Eastern Peshitta translation		lamsa-bible-1933	lamsa-bible	27	260	7957	186181	false
+obohu.cz	eng	MURD	Dr James Murdock -  translation of the Western Peshitto (NT - 1852)		murdock-peshitta-1852	murdock-peshitta	27	260	7942	185783	true
+obohu.cz	eng	ESV	English Standard Version (2007)		english-standard-version-2007	english-standard-version	27	260	7958	252538	false
+obohu.cz	eng	LITV	Green’s Literal Translation (1985) (EN)		greens-literal-translation-1985	greens-literal-translation	27	260	7957	179121	false
+obohu.cz	eng	IAV	Israeli Authorized Version (2001)		israeli-authorized-version-2001	israeli-authorized-version	27	260	7957	180446	false
+obohu.cz	eng	MOF	James Moffatt - New Testament (1913)		james-moffatt-new-testament-1913	james-moffatt-new-testament	27	260	7957	175304	true
+obohu.cz	eng	ETHE	John Wesley Etheridge - translation of the Western Peshitta		john-wesley-etheridge-1849	john-wesley-etheridge	27	260	7940	184506	true
+obohu.cz	eng	JESP	Julia Evelina Smith Parker (1876)		smiths-literal-translation-1876	smiths-literal-translation	27	260	7957	171491	true
+obohu.cz	eng	KJ2	King James 2000 Bible		king-james-version-2000-2000	king-james-version-2000	27	260	7957	180281	false
+obohu.cz	eng	KJ3	King James 3 - The Literal Translation		greens-literal-translation-1985	greens-literal-translation	27	260	7951	181541	false
+obohu.cz	eng	KJPCE	King James Bible - Pure Cambridge Edition		king-james-version-1769	king-james-version	27	260	7957	180570	true
+obohu.cz	eng	KJ	King James Bible - with Strong’s numbers (EN)		king-james-version-1769	king-james-version	27	260	7957	183475	true
+obohu.cz	eng	LEB	Lexham English Bible		lexham-english-bible-2012	lexham-english-bible	27	260	7939	185703	true
+obohu.cz	eng	MIT	MIT - The Idiomatic Translation of the New Testament (2006)		mit-idiomatic-translation-of-the-new-testament-2006	mit-idiomatic-translation-of-the-new-testament	27	260	7935	179859	false
+obohu.cz	eng	NET	NET Bible		net-bible-2006-v1	net-bible	27	260	7958	179255	true
+obohu.cz	eng	NWTEN	New World Translation of the Holy Scriptures (2013)		eng-new-world-translation-2013	eng-new-world-translation	27	260	7957	188774	false
+obohu.cz	eng	ROT	The J.B. Rotherham Emphasized Bible (1902)		rotherham-emphasized-bible-1902	rotherham-emphasized-bible	27	260	7945	190803	true
+obohu.cz	eng	RNKJ	The Restored Name King James Version		restored-name-king-james-version-2012	restored-name-king-james-version	27	260	7957	180595	true
+obohu.cz	eng	TS98	The Scriptures 1998		the-scriptures-1998	the-scriptures	27	260	7957	179525	false
+obohu.cz	eng	VW	VW-Edition Bible (2010)		vw-edition-bible-2010	vw-edition-bible	27	260	7957	178876	false
+obohu.cz	eng	WEBS	Webster Bible (1833) - with Strong’s numbers (EN)		webster-bible-1833	webster-bible	27	260	7957	181305	true
+obohu.cz	eng	WEB	World English Bible (EN)		world-english-bible-2020	world-english-bible	27	260	7958	175213	true
+obohu.cz	eng	YLT	Young’s Literal Translation (EN)		youngs-literal-translation-1898	youngs-literal-translation	27	260	7957	186776	true
+obohu.cz	fra	FBAC	Augustin Crampon - French translation (1923)		bible-crampon-1923	bible-crampon	27	260	7956	180469	true
+obohu.cz	fra	FBM	Bible Machaira (Jean leDuc - 2013)		bible-machaira-2013	bible-machaira	27	260	7959	181552	false
+obohu.cz	fra	BDP	Bible des Peuples - French translation (1994)		bible-des-peuples-1994	bible-des-peuples	27	260	7955	177734	false
+obohu.cz	fra	FBBB	Bovet Bonnet - French translation (1900)		bovet-bonnet-1900	bovet-bonnet	27	260	7957	185725	true
+obohu.cz	fra	DBF	Darby Bible (FR)		fra-darby-translation-1885	fra-darby-translation	27	260	7957	178845	true
+obohu.cz	fra	DM07	David Martin (1707) - French translation		bible-martin-1707	bible-martin	27	260	7951	182924	true
+obohu.cz	fra	MART	David Martin (1744) - French translation		bible-martin-1744	bible-martin	27	260	7958	186034	true
+obohu.cz	fra	KJF	French King James Bible (2006)		french-king-james-bible-2006	french-king-james-bible	27	259	7943	179714	true
+obohu.cz	fra	OST	J. F. Ostervald 1996 - revision 2008 (FR)		ostervald-godieu-levigilant-2008	ostervald-godieu-levigilant	27	260	7955	184249	false
+obohu.cz	fra	FBJ	Jerusalem Bible - French translation (1999)		fra-jerusalem-bible-1999	fra-jerusalem-bible	27	260	7939	171789	false
+obohu.cz	fra	FR	Louis Segond 1910 (FR)		louis-segond-1910	louis-segond	27	260	7957	173796	true
+obohu.cz	fra	LSS	Louis Segond 1910 (FR) - with Strong’s numbers		louis-segond-1910	louis-segond	27	260	7956	176158	true
+obohu.cz	fra	LCF	Louis-Claude Fillion - French translation (1904)		louis-claude-fillion-1904	louis-claude-fillion	27	260	7933	177208	true
+obohu.cz	fra	PGR	Perret-Gentil & Rilliet - French translation (1861)		perret-gentil-rilliet-1861	perret-gentil-rilliet	27	260	7956	190008	true
+obohu.cz	fra	PCB	Pirot-Clamer - French translation (1949)		pirot-clamer-1949	pirot-clamer	27	260	7957	178167	false
+obohu.cz	fra	FBS	Sacy Bible (Port-Royal) (FR - 1759)		sacy-bible-1759	sacy-bible	27	260	7890	191595	true
+obohu.cz	fra	GENF	The Geneva Bible - French translation of the NT (1669)		geneva-bible-fra-1669	geneva-bible-fra	27	260	7957	177642	true
+obohu.cz	ita	CEI	CEI 74 - Italian translation		conferenza-episcopale-italiana-1974	conferenza-episcopale-italiana	27	260	7952	186857	true
+obohu.cz	ita	DIO	Italian Giovanni Diodati Bible (1649)		diodati-bible-1649	diodati-bible	27	260	7957	167878	true
+obohu.cz	ita	IT	Italian Riveduta Bible 1927 (IT)		riveduta-1927	riveduta	27	260	7957	163684	true
+obohu.cz	pol	AM	Andrzej Mazurkiewicz - New Testament (2019)		mazurkiewicz-2019-1st-edition	mazurkiewicz	27	260	7893	132541	false
+obohu.cz	pol	POL	Bible Gdańska 1632 (POL)		biblia-gdanska-1632	biblia-gdanska	27	260	7955	139987	true
+obohu.cz	pol	POZ	Bible Poznańska (1975) (POL)		biblia-poznanska-1975	biblia-poznanska	27	260	7954	136560	false
+obohu.cz	pol	PBB	Biblia Brzeska		biblia-brzeska-1563	biblia-brzeska	27	260	7941	142114	true
+obohu.cz	pol	PBT	Biblia Tysiąclecia		biblia-tysiaclecia-1980-3rd-edition	biblia-tysiaclecia	27	260	7956	138032	false
+obohu.cz	pol	PBW	Biblia Warszawska		biblia-warszawska-1975	biblia-warszawska	27	260	7957	139303	false
+obohu.cz	pol	PBWP	Biblia Warszawsko-Praska		biblia-warszawsko-praska-1997	biblia-warszawsko-praska	27	260	7955	151292	false
+obohu.cz	pol	NBG	Nowa Biblia Gdańska (POL)		nowa-biblia-gdanska-2012	nowa-biblia-gdanska	27	260	7956	140457	false
+obohu.cz	pol	UBG	Updated Bible Gdańska (2017)		uwspolczesniona-biblia-gdanska-2017	uwspolczesniona-biblia-gdanska	27	260	7957	138309	true
+obohu.cz	spa	LBLA	American Bible (ESP - 1997)		la-biblia-de-las-americas-1997	la-biblia-de-las-americas	27	260	7958	169602	false
+obohu.cz	spa	PRATT	H.B. Pratt (1929)		hb-pratt-1929	hb-pratt	27	260	7957	174159	true
+obohu.cz	spa	SBJ	Jerusalem Bible - Spanish translation (1976)		spa-jerusalem-bible-1976	spa-jerusalem-bible	27	260	7941	163823	false
+obohu.cz	spa	SBJ1	Jerusalem Bible - Spanish translation (2001)		spa-jerusalem-bible-2001	spa-jerusalem-bible	27	260	7956	161923	false
+obohu.cz	spa	JUN	Jünemann Bible (ESP - 1992)		junemann-bible-1928	junemann-bible	27	259	7945	151897	true
+obohu.cz	spa	BLA	Latin America Bible (1995)		la-biblia-latinoamericana-1995	la-biblia-latinoamericana	27	260	7956	171011	false
+obohu.cz	spa	NVI	NVI - New International Version (1999)		nueva-version-internacional-1999	nueva-version-internacional	27	260	7957	170369	false
+obohu.cz	spa	PESE	Peshitta (NT) - Spanish traducción		peshitta-espanol-2017	peshitta-espanol	27	260	7957	173556	false
+obohu.cz	spa	RV2	Reina Valera (1870)		reina-valera-1870	reina-valera	27	260	7957	168470	true
+obohu.cz	spa	RV3	Reina Valera (1995)		reina-valera-1995	reina-valera	27	260	7958	163876	false
+obohu.cz	spa	RV1	Reina Valera (NT - 1858) (ESP)		reina-valera-1858	reina-valera	27	260	7956	165293	true
+obohu.cz	spa	RVR	Reina Valera 1865 - revised version (2014)		reina-valera-revised-version-2014	reina-valera-revised-version	27	260	7957	170926	false
+obohu.cz	spa	RV	Reina Valera 1909 - with Strong number (ESP)		reina-valera-1909	reina-valera	27	260	7945	165038	true
+obohu.cz	spa	RVG	Reina Valera Gómez (2004) (ESP)		reina-valera-gomez-2004	reina-valera-gomez	27	260	7957	165972	true
+obohu.cz	spa	RVA	Reina Valera updated (1989)		reina-valera-updated-1989	reina-valera-updated	27	260	7958	167478	false
+obohu.cz	spa	ESC	Sagradas Escrituras (1569) (ESP)		sagradas-escrituras-1999	sagradas-escrituras	27	260	7957	166665	true
