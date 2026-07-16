@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-07-06T15:22:02.275961+00:00",
+  "exported_at": "2026-07-06T22:26:42.153885+00:00",
   "total_translations": 651,
   "translations_per_language": {
     "eng": 390,
@@ -42,18 +42,32 @@
     }
   },
   "copyright_breakdown_by_language": {
-    "ita": {
+    "eng": {
       "public_domain": {
-        "count": 13,
-        "percentage": 39.4
+        "count": 152,
+        "percentage": 39.0
       },
       "open_license": {
-        "count": 0,
-        "percentage": 0.0
+        "count": 39,
+        "percentage": 10.0
       },
       "copyrighted": {
-        "count": 20,
-        "percentage": 60.6
+        "count": 199,
+        "percentage": 51.0
+      }
+    },
+    "fra": {
+      "public_domain": {
+        "count": 41,
+        "percentage": 52.6
+      },
+      "open_license": {
+        "count": 2,
+        "percentage": 2.6
+      },
+      "copyrighted": {
+        "count": 35,
+        "percentage": 44.9
       }
     },
     "spa": {
@@ -84,32 +98,18 @@
         "percentage": 47.9
       }
     },
-    "eng": {
+    "ita": {
       "public_domain": {
-        "count": 152,
-        "percentage": 39.0
+        "count": 13,
+        "percentage": 39.4
       },
       "open_license": {
-        "count": 39,
-        "percentage": 10.0
+        "count": 0,
+        "percentage": 0.0
       },
       "copyrighted": {
-        "count": 199,
-        "percentage": 51.0
-      }
-    },
-    "fra": {
-      "public_domain": {
-        "count": 41,
-        "percentage": 52.6
-      },
-      "open_license": {
-        "count": 2,
-        "percentage": 2.6
-      },
-      "copyrighted": {
-        "count": 35,
-        "percentage": 44.9
+        "count": 20,
+        "percentage": 60.6
       }
     }
   },

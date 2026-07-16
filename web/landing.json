@@ -1,0 +1,2744 @@
+{
+  "beeswarm": {
+    "points": [
+      {
+        "copyrighted": false,
+        "edition_id": "tyndale-bible-1525-cologne-fragment",
+        "iso": "eng",
+        "name": "Matthew1-22, 1525 (William Tyndale) Cologne Fragment",
+        "work_id": "tyndale-bible",
+        "year": 1525
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "tyndale-bible-1526-worms",
+        "iso": "eng",
+        "name": "Tyndale Bible of 1526",
+        "work_id": "tyndale-bible",
+        "year": 1526
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "tyndale-bible-1534-antwerp",
+        "iso": "eng",
+        "name": "Tyndale",
+        "work_id": "tyndale-bible",
+        "year": 1534
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "tyndale-bible-1534-antwerp-original-spelling",
+        "iso": "eng",
+        "name": "The newe Testament 1534 (William Tyndale) Antwerp Revised Edition - original spelling",
+        "work_id": "tyndale-bible",
+        "year": 1534
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "coverdale-bible-1535",
+        "iso": "eng",
+        "name": "Coverdale Bible of 1535",
+        "work_id": "coverdale-bible",
+        "year": 1535
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "biblia-brzeska-1563",
+        "iso": "pol",
+        "name": "Biblia Brzeska - transliteracja [1563]",
+        "work_id": "biblia-brzeska",
+        "year": 1563
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "bishops-bible-1568",
+        "iso": "eng",
+        "name": "Bishops' Bible of 1568",
+        "work_id": "bishops-bible",
+        "year": 1568
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "biblia-del-oso-1569",
+        "iso": "spa",
+        "name": "Biblia del Oso 1573",
+        "work_id": "biblia-del-oso",
+        "year": 1569
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "szymon-budny-1574",
+        "iso": "pol",
+        "name": "Nowy Testament - Szymon Budny [1574]",
+        "work_id": "szymon-budny",
+        "year": 1574
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "geneva-bible-eng-1587",
+        "iso": "eng",
+        "name": "Geneva Bible of 1587",
+        "work_id": "geneva-bible-eng",
+        "year": 1587
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "geneva-bible-eng-1599",
+        "iso": "eng",
+        "name": "Geneva Bible",
+        "work_id": "geneva-bible-eng",
+        "year": 1599
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "reina-valera-antigua-1602",
+        "iso": "spa",
+        "name": "Reina-Valera Antigua",
+        "work_id": "reina-valera-antigua",
+        "year": 1602
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "rakowski-nt-1606",
+        "iso": "pol",
+        "name": "Nowy Testament - Rakowski [1606]",
+        "work_id": "rakowski-nt",
+        "year": 1606
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "diodati-bible-1607",
+        "iso": "ita",
+        "name": "Diodati",
+        "work_id": "diodati-bible",
+        "year": 1607
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "king-james-version-1611",
+        "iso": "eng",
+        "name": "King James Version (1611)",
+        "work_id": "king-james-version",
+        "year": 1611
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "biblia-gdanska-1632",
+        "iso": "pol",
+        "name": "Biblia Gda\u0144ska",
+        "work_id": "biblia-gdanska",
+        "year": 1632
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "diodati-bible-1649",
+        "iso": "ita",
+        "name": "Italian Giovanni Diodati Bible (1649)",
+        "work_id": "diodati-bible",
+        "year": 1649
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "geneva-bible-fra-1669",
+        "iso": "fra",
+        "name": "The Geneva Bible - French translation of the NT (1669)",
+        "work_id": "geneva-bible-fra",
+        "year": 1669
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "bible-martin-1707",
+        "iso": "fra",
+        "name": "David Martin (1707) - French translation",
+        "work_id": "bible-martin",
+        "year": 1707
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "mace-new-testament-1729",
+        "iso": "eng",
+        "name": "Mace New Testament",
+        "work_id": "mace-new-testament",
+        "year": 1729
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "bible-martin-1744",
+        "iso": "fra",
+        "name": "Bible Martin",
+        "work_id": "bible-martin",
+        "year": 1744
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "ostervald-1744",
+        "iso": "fra",
+        "name": "Ostervald",
+        "work_id": "ostervald",
+        "year": 1744
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "douay-rheims-1752",
+        "iso": "eng",
+        "name": "Douay-Rheims Challoner Revision 1752 \u2720",
+        "work_id": "douay-rheims",
+        "year": 1752
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "douay-rheims-1752-challoner-revision",
+        "iso": "eng",
+        "name": "Douay-Rheims Bible",
+        "work_id": "douay-rheims",
+        "year": 1752
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "sacy-bible-1759",
+        "iso": "fra",
+        "name": "Bible de Sacy",
+        "work_id": "sacy-bible",
+        "year": 1759
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "king-james-version-1769",
+        "iso": "eng",
+        "name": "King James",
+        "work_id": "king-james-version",
+        "year": 1769
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "worsley-new-testament-1770",
+        "iso": "eng",
+        "name": "Worsley New Testament",
+        "work_id": "worsley-new-testament",
+        "year": 1770
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "martini-1781",
+        "iso": "ita",
+        "name": "Martini",
+        "work_id": "martini",
+        "year": 1781
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "haweis-new-testament-1795",
+        "iso": "eng",
+        "name": "Haweis New Testament",
+        "work_id": "haweis-new-testament",
+        "year": 1795
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "charles-thomson-1808",
+        "iso": "eng",
+        "name": "Charles Thomson - translation of LXX and NT (1808)",
+        "work_id": "charles-thomson",
+        "year": 1808
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "webster-bible-1833",
+        "iso": "eng",
+        "name": "Webster's Bible Translation",
+        "work_id": "webster-bible",
+        "year": 1833
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "john-wesley-etheridge-1849",
+        "iso": "eng",
+        "name": "John Wesley Etheridge - translation of the Western Peshitta",
+        "work_id": "john-wesley-etheridge",
+        "year": 1849
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "murdock-peshitta-1852",
+        "iso": "eng",
+        "name": "Dr James Murdock -  translation of the Western Peshitto (NT - 1852)",
+        "work_id": "murdock-peshitta",
+        "year": 1852
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "sacy-bible-1855",
+        "iso": "fra",
+        "name": "French Gospel of Matthew 1855 (de Sacy)",
+        "work_id": "sacy-bible",
+        "year": 1855
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "reina-valera-1858",
+        "iso": "spa",
+        "name": "Reina Valera (NT - 1858) (ESP)",
+        "work_id": "reina-valera",
+        "year": 1858
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "perret-gentil-rilliet-1861",
+        "iso": "fra",
+        "name": "Perret-Gentil & Rilliet - French translation (1861)",
+        "work_id": "perret-gentil-rilliet",
+        "year": 1861
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "frainc-comtois-1864",
+        "iso": "fra",
+        "name": "Gospel of Matthew 1864 (Frainc-Comtois)",
+        "work_id": "frainc-comtois",
+        "year": 1864
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "anderson-new-testament-1865",
+        "iso": "eng",
+        "name": "Anderson New Testament",
+        "work_id": "anderson-new-testament",
+        "year": 1865
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "bible-de-tours-1866",
+        "iso": "fra",
+        "name": "Bible de Tours",
+        "work_id": "bible-de-tours",
+        "year": 1866
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "noyes-bible-1869",
+        "iso": "eng",
+        "name": "Noyes Bible",
+        "work_id": "noyes-bible",
+        "year": 1869
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "reina-valera-1870",
+        "iso": "spa",
+        "name": "Reina Valera (1870)",
+        "work_id": "reina-valera",
+        "year": 1870
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "lausanne-1872",
+        "iso": "fra",
+        "name": "Bible de Lausanne",
+        "work_id": "lausanne",
+        "year": 1872
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "king-james-version-1873-cambridge-paragraph",
+        "iso": "eng",
+        "name": "Cambridge Paragraph Bible of the KJV",
+        "work_id": "king-james-version",
+        "year": 1873
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "smiths-literal-translation-1876",
+        "iso": "eng",
+        "name": "Smith's Literal Translation",
+        "work_id": "smiths-literal-translation",
+        "year": 1876
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "soloweyczyk-1879",
+        "iso": "pol",
+        "name": "So\u0142oweyczyk - Ewangelia Mateusza [1879]",
+        "work_id": "soloweyczyk",
+        "year": 1879
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "biblia-gdanska-1881",
+        "iso": "pol",
+        "name": "Biblia Gda\u0144ska [1881?]",
+        "work_id": "biblia-gdanska",
+        "year": 1881
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "eng-darby-translation-1884",
+        "iso": "eng",
+        "name": "Darby Translation (DARBY)",
+        "work_id": "eng-darby-translation",
+        "year": 1884
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "english-revised-version-1885",
+        "iso": "eng",
+        "name": "Revised Version with Apocrypha 1885, 1895",
+        "work_id": "english-revised-version",
+        "year": 1885
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "fra-darby-translation-1885",
+        "iso": "fra",
+        "name": "Bible Darby",
+        "work_id": "fra-darby-translation",
+        "year": 1885
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "diodati-bible-1885",
+        "iso": "ita",
+        "name": "Diodati Bible 1885",
+        "work_id": "diodati-bible",
+        "year": 1885
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "eng-darby-translation-1890",
+        "iso": "eng",
+        "name": "Darby's Translation 1890",
+        "work_id": "eng-darby-translation",
+        "year": 1890
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "youngs-literal-translation-1898",
+        "iso": "eng",
+        "name": "Young's Literal Translation 1898",
+        "work_id": "youngs-literal-translation",
+        "year": 1898
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "douay-rheims-1899-american-edition",
+        "iso": "eng",
+        "name": "Douay-Rheims 1899 American Edition (DRA)",
+        "work_id": "douay-rheims",
+        "year": 1899
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "bovet-bonnet-1900",
+        "iso": "fra",
+        "name": "Bovet Bonnet - French translation (1900)",
+        "work_id": "bovet-bonnet",
+        "year": 1900
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "vigouroux-1900",
+        "iso": "fra",
+        "name": "Bible Vigouroux",
+        "work_id": "vigouroux",
+        "year": 1900
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "american-standard-version-1901",
+        "iso": "eng",
+        "name": "American Standard Version",
+        "work_id": "american-standard-version",
+        "year": 1901
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "godbey-new-testament-1902",
+        "iso": "eng",
+        "name": "Godbey New Testament",
+        "work_id": "godbey-new-testament",
+        "year": 1902
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "rotherham-emphasized-bible-1902",
+        "iso": "eng",
+        "name": "The J.B. Rotherham Emphasized Bible (1902)",
+        "work_id": "rotherham-emphasized-bible",
+        "year": 1902
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "weymouth-new-testament-1903",
+        "iso": "eng",
+        "name": "Weymouth New Testament",
+        "work_id": "weymouth-new-testament",
+        "year": 1903
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "worrell-new-testament-1904",
+        "iso": "eng",
+        "name": "Worrell New Testament",
+        "work_id": "worrell-new-testament",
+        "year": 1904
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "louis-claude-fillion-1904",
+        "iso": "fra",
+        "name": "Louis-Claude Fillion - French translation (1904)",
+        "work_id": "louis-claude-fillion",
+        "year": 1904
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "reina-valera-1909",
+        "iso": "spa",
+        "name": "Biblia Reina Valera 1909",
+        "work_id": "reina-valera",
+        "year": 1909
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "louis-segond-1910",
+        "iso": "fra",
+        "name": "Bible Louis Segond 1910",
+        "work_id": "louis-segond",
+        "year": 1910
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "james-moffatt-new-testament-1913",
+        "iso": "eng",
+        "name": "James Moffatt - New Testament (1913)",
+        "work_id": "james-moffatt-new-testament",
+        "year": 1913
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "trench-epistles-gwc-1915",
+        "iso": "eng",
+        "name": "The Trench Epistles GWC 1915",
+        "work_id": "trench-epistles-gwc",
+        "year": 1915
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "st-paul-from-the-trenches-1916",
+        "iso": "eng",
+        "name": "St Paul from the Trenches 1916",
+        "work_id": "st-paul-from-the-trenches",
+        "year": 1916
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "szczepanski-1917",
+        "iso": "pol",
+        "name": "Ewangelie i Dzieje Apostolskie - ks. W. Szczepa\u0144ski [1917]",
+        "work_id": "szczepanski",
+        "year": 1917
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "mariawici-1921-1st-edition",
+        "iso": "pol",
+        "name": "Przek\u0142ad Mariawit\u00f3w - Nowy Testament [1921]",
+        "work_id": "mariawici",
+        "year": 1921
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "bible-crampon-1923",
+        "iso": "fra",
+        "name": "Bible Crampon",
+        "work_id": "bible-crampon",
+        "year": 1923
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "biblia-jakuba-wujka-1923",
+        "iso": "pol",
+        "name": "Biblia Jakuba Wujka [1923]",
+        "work_id": "biblia-jakuba-wujka",
+        "year": 1923
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "riveduta-1924",
+        "iso": "ita",
+        "name": "Riveduta (Luzzi)",
+        "work_id": "riveduta",
+        "year": 1924
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "riveduta-1927",
+        "iso": "ita",
+        "name": "Italian Riveduta 1927",
+        "work_id": "riveduta",
+        "year": 1927
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "junemann-bible-1928",
+        "iso": "spa",
+        "name": "J\u00fcnemann Bible (ESP - 1992)",
+        "work_id": "junemann-bible",
+        "year": 1928
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "hb-pratt-1929",
+        "iso": "spa",
+        "name": "H.B. Pratt (1929)",
+        "work_id": "hb-pratt",
+        "year": 1929
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "tintori-1931",
+        "iso": "ita",
+        "name": "Tintori",
+        "work_id": "tintori",
+        "year": 1931
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "lamsa-bible-1933",
+        "iso": "eng",
+        "name": "Lamsa Bible",
+        "work_id": "lamsa-bible",
+        "year": 1933
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "grzymala-1936-1st-edition",
+        "iso": "pol",
+        "name": "Ewangelia \u015awi\u0119ta - ks. E.Grzyma\u0142a [1936]",
+        "work_id": "grzymala",
+        "year": 1936
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "grzymala-1937-2nd-edition",
+        "iso": "pol",
+        "name": "Ewangelia \u015awi\u0119ta + Dzieje Apostolskie - ks. E.Grzyma\u0142a [1937]",
+        "work_id": "grzymala",
+        "year": 1937
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "ricciotti-1940",
+        "iso": "ita",
+        "name": "Ricciotti",
+        "work_id": "ricciotti",
+        "year": 1940
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "bible-in-basic-english-1941",
+        "iso": "eng",
+        "name": "Bible in Basic English",
+        "work_id": "bible-in-basic-english",
+        "year": 1941
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "revised-standard-version-1946-old-tradition",
+        "iso": "eng",
+        "name": "Revised Standard Version Old Tradition 1952",
+        "work_id": "revised-standard-version",
+        "year": 1946
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "pirot-clamer-1949",
+        "iso": "fra",
+        "name": "Pirot-Clamer - French translation (1949)",
+        "work_id": "pirot-clamer",
+        "year": 1949
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "revised-standard-version-1952",
+        "iso": "eng",
+        "name": "Revised Standard Version Old Tradition 1952",
+        "work_id": "revised-standard-version",
+        "year": 1952
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "king-james-version-1954-bible-society-paragraphed",
+        "iso": "eng",
+        "name": "King James Version  (Bible Society Paragraphed Edition 1954)",
+        "work_id": "king-james-version",
+        "year": 1954
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "jb-phillips-new-testament-1958",
+        "iso": "eng",
+        "name": "J.B. Phillips New Testament (PHILLIPS)",
+        "work_id": "jb-phillips-new-testament",
+        "year": 1958
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "reina-valera-1960",
+        "iso": "spa",
+        "name": "Bible en espagnol  (RVR)",
+        "work_id": "reina-valera",
+        "year": 1960
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "dabrowski-greka-1961-2nd-edition",
+        "iso": "pol",
+        "name": "Ks. Eugeniusz D\u0105browski - Nowy Testament z greckiego [1961]",
+        "work_id": "dabrowski-greka",
+        "year": 1961
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "king-james-version-1962-american-edition",
+        "iso": "eng",
+        "name": "King James Version with Apocrypha, American Edition",
+        "work_id": "king-james-version",
+        "year": 1962
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "bible-in-basic-english-1965",
+        "iso": "eng",
+        "name": "The Bible in Basic English",
+        "work_id": "bible-in-basic-english",
+        "year": 1965
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "new-american-bible-revised-edition-1968",
+        "iso": "eng",
+        "name": "New American Bible, revised edition (NABRE)",
+        "work_id": "new-american-bible-revised-edition",
+        "year": 1968
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "new-life-version-1969",
+        "iso": "eng",
+        "name": "New Life Version (NLV)",
+        "work_id": "new-life-version",
+        "year": 1969
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "living-bible-1971",
+        "iso": "eng",
+        "name": "Living Bible (TLB)",
+        "work_id": "living-bible",
+        "year": 1971
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "revised-standard-version-1971",
+        "iso": "eng",
+        "name": "Revised Standard Version",
+        "work_id": "revised-standard-version",
+        "year": 1971
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "revised-standard-version-1971-catholic",
+        "iso": "eng",
+        "name": "Revised Standard Version Catholic Edition (RSVCE)",
+        "work_id": "revised-standard-version",
+        "year": 1971
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "translator-translation-1973",
+        "iso": "eng",
+        "name": "The Translator's Translation:  New Testament 1973",
+        "work_id": "translator-translation",
+        "year": 1973
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "dabrowski-wulgata-1973-2nd-edition",
+        "iso": "pol",
+        "name": "Ks. Eugeniusz D\u0105browski - Nowy Testament z Wulgaty [1973]",
+        "work_id": "dabrowski-wulgata",
+        "year": 1973
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "conferenza-episcopale-italiana-1974",
+        "iso": "ita",
+        "name": "Conferenza Episcopale Italiana (CEI)",
+        "work_id": "conferenza-episcopale-italiana",
+        "year": 1974
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "biblia-poznanska-1975",
+        "iso": "pol",
+        "name": "Bible Pozna\u0144ska (1975) (POL)",
+        "work_id": "biblia-poznanska",
+        "year": 1975
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "biblia-warszawska-1975",
+        "iso": "pol",
+        "name": "The Warsaw Bible 1975",
+        "work_id": "biblia-warszawska",
+        "year": 1975
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "spa-jerusalem-bible-1976",
+        "iso": "spa",
+        "name": "Jerusalem Bible - Spanish translation (1976)",
+        "work_id": "spa-jerusalem-bible",
+        "year": 1976
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "new-american-standard-bible-1977",
+        "iso": "eng",
+        "name": "NASB 1977",
+        "work_id": "new-american-standard-bible",
+        "year": 1977
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "revised-standard-version-1977-uk",
+        "iso": "eng",
+        "name": "Revised Standard Version UK 1977",
+        "work_id": "revised-standard-version",
+        "year": 1977
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "reina-valera-revisada-1977",
+        "iso": "spa",
+        "name": "Reina Valera Revisada (RVR1977)",
+        "work_id": "reina-valera-revisada",
+        "year": 1977
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "nouvelle-segond-revisee-1978",
+        "iso": "fra",
+        "name": "Nouvelle Segond r\u00e9vis\u00e9e",
+        "work_id": "nouvelle-segond-revisee",
+        "year": 1978
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "new-king-james-version-1979",
+        "iso": "eng",
+        "name": "New King James Version",
+        "work_id": "new-king-james-version",
+        "year": 1979
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "geneva-bible-fra-1979",
+        "iso": "fra",
+        "name": "Nouvelle Edition de Gen\u00e8ve 1979",
+        "work_id": "geneva-bible-fra",
+        "year": 1979
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "nouvelle-edition-de-geneve-1979",
+        "iso": "fra",
+        "name": "Nouvelle Edition de Gen\u00e8ve",
+        "work_id": "nouvelle-edition-de-geneve",
+        "year": 1979
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "biblia-tysiaclecia-1980-3rd-edition",
+        "iso": "pol",
+        "name": "Biblia Tysi\u0105clecia",
+        "work_id": "biblia-tysiaclecia",
+        "year": 1980
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "new-century-version-1983",
+        "iso": "eng",
+        "name": "New Century Version (NCV)",
+        "work_id": "new-century-version",
+        "year": 1983
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "new-international-version-1984",
+        "iso": "eng",
+        "name": "Holy Bible, New International Version\u00ae",
+        "work_id": "new-international-version",
+        "year": 1984
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "new-international-version-1984-anglicised",
+        "iso": "eng",
+        "name": "New International Version - UK (NIVUK)",
+        "work_id": "new-international-version",
+        "year": 1984
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "greens-literal-translation-1985",
+        "iso": "eng",
+        "name": "King James 3 - The Literal Translation",
+        "work_id": "greens-literal-translation",
+        "year": 1985
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "new-american-bible-revised-edition-1986",
+        "iso": "eng",
+        "name": "New American Bible, revised edition",
+        "work_id": "new-american-bible-revised-edition",
+        "year": 1986
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "la-biblia-de-las-americas-1986",
+        "iso": "spa",
+        "name": "La Biblia de las Am\u00e9ricas (LBLA)",
+        "work_id": "la-biblia-de-las-americas",
+        "year": 1986
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "amplified-bible-1987-classic",
+        "iso": "eng",
+        "name": "Amplified Bible, Classic Edition",
+        "work_id": "amplified-bible",
+        "year": 1987
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "easy-to-read-version-1987",
+        "iso": "eng",
+        "name": "English Version for the Deaf",
+        "work_id": "easy-to-read-version",
+        "year": 1987
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "new-revised-standard-version-1989",
+        "iso": "eng",
+        "name": "New Revised Standard Version",
+        "work_id": "new-revised-standard-version",
+        "year": 1989
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "new-revised-standard-version-1989-anglicised",
+        "iso": "eng",
+        "name": "New Revised Standard Version with Extended Apocrypha (Anglicised) 1989",
+        "work_id": "new-revised-standard-version",
+        "year": 1989
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "new-revised-standard-version-1989-anglicised-catholic",
+        "iso": "eng",
+        "name": "New Revised Standard Version, Anglicised Catholic Edition (NRSVACE)",
+        "work_id": "new-revised-standard-version",
+        "year": 1989
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "new-revised-standard-version-1989-old-tradition",
+        "iso": "eng",
+        "name": "New Revised Standard Version Old Tradition",
+        "work_id": "new-revised-standard-version",
+        "year": 1989
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "reina-valera-updated-1989",
+        "iso": "spa",
+        "name": "Reina Valera updated (1989)",
+        "work_id": "reina-valera-updated",
+        "year": 1989
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "contemporary-english-version-1991",
+        "iso": "eng",
+        "name": "Contemporary English Version\u00ae",
+        "work_id": "contemporary-english-version",
+        "year": 1991
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "new-century-version-1991",
+        "iso": "eng",
+        "name": "New Century Version",
+        "work_id": "new-century-version",
+        "year": 1991
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "new-revised-standard-version-1991-catholic",
+        "iso": "eng",
+        "name": "New Revised Standard Version Catholic Edition (NRSVCE)",
+        "work_id": "new-revised-standard-version",
+        "year": 1991
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "nuova-diodati-1991",
+        "iso": "ita",
+        "name": "La Nuova Diodati (LND)",
+        "work_id": "nuova-diodati",
+        "year": 1991
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "good-news-1992-2nd-edition",
+        "iso": "eng",
+        "name": "Good News Translation (GNT)",
+        "work_id": "good-news",
+        "year": 1992
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "good-news-1992-2nd-edition-us",
+        "iso": "eng",
+        "name": "Good News Translation (US Version)",
+        "work_id": "good-news",
+        "year": 1992
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "bible-du-semeur-1992",
+        "iso": "fra",
+        "name": "Bible du Semeur",
+        "work_id": "bible-du-semeur",
+        "year": 1992
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "the-message-bible-1993",
+        "iso": "eng",
+        "name": "The Message (MSG)",
+        "work_id": "the-message-bible",
+        "year": 1993
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "the-message-bible-1993-1st-edition",
+        "iso": "eng",
+        "name": "The Message Bible",
+        "work_id": "the-message-bible",
+        "year": 1993
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "21st-century-king-james-version-1994",
+        "iso": "eng",
+        "name": "21st Century King James Version (KJ21)",
+        "work_id": "21st-century-king-james-version",
+        "year": 1994
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "bible-des-peuples-1994",
+        "iso": "fra",
+        "name": "Bible des Peuples - French translation (1994)",
+        "work_id": "bible-des-peuples",
+        "year": 1994
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "nuova-riveduta-1994",
+        "iso": "ita",
+        "name": "Nuova Riveduta 1994",
+        "work_id": "nuova-riveduta",
+        "year": 1994
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "dios-habla-hoy-1994",
+        "iso": "spa",
+        "name": "Dios Habla Hoy DK",
+        "work_id": "dios-habla-hoy",
+        "year": 1994
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "gods-word-translation-1995",
+        "iso": "eng",
+        "name": "GOD'S WORD",
+        "work_id": "gods-word-translation",
+        "year": 1995
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "new-american-standard-bible-1995",
+        "iso": "eng",
+        "name": "New American Standard Bible 1995",
+        "work_id": "new-american-standard-bible",
+        "year": 1995
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "new-revised-standard-version-1995-anglicised",
+        "iso": "eng",
+        "name": "New Revised Standard Version, Anglicised (NRSVA)",
+        "work_id": "new-revised-standard-version",
+        "year": 1995
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "la-biblia-latinoamericana-1995",
+        "iso": "spa",
+        "name": "Latin America Bible (1995)",
+        "work_id": "la-biblia-latinoamericana",
+        "year": 1995
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "reina-valera-1995",
+        "iso": "spa",
+        "name": "Reina Valera 1995",
+        "work_id": "reina-valera",
+        "year": 1995
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "worldwide-english-new-testament-1996",
+        "iso": "eng",
+        "name": "Worldwide English (New Testament) (WE)",
+        "work_id": "worldwide-english-new-testament",
+        "year": 1996
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "ostervald-1996",
+        "iso": "fra",
+        "name": "Bible Ostervald",
+        "work_id": "ostervald",
+        "year": 1996
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "dios-habla-hoy-1996",
+        "iso": "spa",
+        "name": "Dios habla Hoy Est\u00e1ndar",
+        "work_id": "dios-habla-hoy",
+        "year": 1996
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "dios-habla-hoy-1996-3rd-edition",
+        "iso": "spa",
+        "name": "Dios Habla Hoy",
+        "work_id": "dios-habla-hoy",
+        "year": 1996
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "world-english-bible-1997",
+        "iso": "eng",
+        "name": "World English Bible",
+        "work_id": "world-english-bible",
+        "year": 1997
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "bible-francais-courant-1997",
+        "iso": "fra",
+        "name": "Bible en fran\u00e7ais courant",
+        "work_id": "bible-francais-courant",
+        "year": 1997
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "biblia-warszawsko-praska-1997",
+        "iso": "pol",
+        "name": "Biblia warszawsko-praska [1997]",
+        "work_id": "biblia-warszawsko-praska",
+        "year": 1997
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "la-biblia-de-las-americas-1997",
+        "iso": "spa",
+        "name": "La Biblia de las Am\u00e9ricas",
+        "work_id": "la-biblia-de-las-americas",
+        "year": 1997
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "complete-jewish-bible-1998",
+        "iso": "eng",
+        "name": "Complete Jewish Bible",
+        "work_id": "complete-jewish-bible",
+        "year": 1998
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "new-international-readers-version-1998",
+        "iso": "eng",
+        "name": "New International Reader's Version",
+        "work_id": "new-international-readers-version",
+        "year": 1998
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "the-scriptures-1998",
+        "iso": "eng",
+        "name": "The Scriptures 1998",
+        "work_id": "the-scriptures",
+        "year": 1998
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "third-millennium-bible-1998",
+        "iso": "eng",
+        "name": "Third Millennium Bible",
+        "work_id": "third-millennium-bible",
+        "year": 1998
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "american-king-james-version-1999",
+        "iso": "eng",
+        "name": "American King James Version",
+        "work_id": "american-king-james-version",
+        "year": 1999
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "fra-jerusalem-bible-1999",
+        "iso": "fra",
+        "name": "Jerusalem Bible - French translation (1999)",
+        "work_id": "fra-jerusalem-bible",
+        "year": 1999
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "nueva-version-internacional-1999",
+        "iso": "spa",
+        "name": "La Santa Biblia, Nueva Versi\u00f3n Internacional \u2122, NVI \u2122",
+        "work_id": "nueva-version-internacional",
+        "year": 1999
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "sagradas-escrituras-1999",
+        "iso": "spa",
+        "name": "Sagradas Escrituras",
+        "work_id": "sagradas-escrituras",
+        "year": 1999
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "jubilee-bible-2000",
+        "iso": "eng",
+        "name": "Jubilee Bible",
+        "work_id": "jubilee-bible",
+        "year": 2000
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "king-james-version-2000-2000",
+        "iso": "eng",
+        "name": "King James 2000 Bible",
+        "work_id": "king-james-version-2000",
+        "year": 2000
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "parole-de-vie-2000",
+        "iso": "fra",
+        "name": "Parole de vie",
+        "work_id": "parole-de-vie",
+        "year": 2000
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "biblia-tysiaclecia-2000-5th-edition",
+        "iso": "pol",
+        "name": "Biblia Tysi\u0105clecia - wyd.5 [2000]",
+        "work_id": "biblia-tysiaclecia",
+        "year": 2000
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "biblia-del-jubileo-2000",
+        "iso": "spa",
+        "name": "Biblia del Jubileo",
+        "work_id": "biblia-del-jubileo",
+        "year": 2000
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "palabra-de-dios-para-todos-2000",
+        "iso": "spa",
+        "name": "The Word of God for All - 2000 World Bible Translation Center",
+        "work_id": "palabra-de-dios-para-todos",
+        "year": 2000
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "2001-translation-2001",
+        "iso": "eng",
+        "name": "2001 Translation - An American English Bible",
+        "work_id": "2001-translation",
+        "year": 2001
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "english-standard-version-2001",
+        "iso": "eng",
+        "name": "English standard Version",
+        "work_id": "english-standard-version",
+        "year": 2001
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "israeli-authorized-version-2001",
+        "iso": "eng",
+        "name": "Israeli Authorized Version (2001)",
+        "work_id": "israeli-authorized-version",
+        "year": 2001
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "wycliffe-bible-2001-modern-spelling",
+        "iso": "eng",
+        "name": "Wycliffe's Bible with Modern Spelling",
+        "work_id": "wycliffe-bible",
+        "year": 2001
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "spa-jerusalem-bible-2001",
+        "iso": "spa",
+        "name": "Jerusalem Bible - Spanish translation (2001)",
+        "work_id": "spa-jerusalem-bible",
+        "year": 2001
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "english-standard-version-2002-anglicised",
+        "iso": "eng",
+        "name": "English Standard Version Anglicised (ESVUK)",
+        "work_id": "english-standard-version",
+        "year": 2002
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "orthodox-jewish-bible-2002",
+        "iso": "eng",
+        "name": "Orthodox Jewish Bible (OJB)",
+        "work_id": "orthodox-jewish-bible",
+        "year": 2002
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "nouvelle-segond-2002",
+        "iso": "fra",
+        "name": "Nouvelle Bible Segond",
+        "work_id": "nouvelle-segond",
+        "year": 2002
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "lenguaje-actual-2002",
+        "iso": "spa",
+        "name": "Traducci\u00f3n en Lenguaje Actual",
+        "work_id": "lenguaje-actual",
+        "year": 2002
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "lenguaje-actual-2002-interconfesional",
+        "iso": "spa",
+        "name": "Traducci\u00f3n en Lenguaje Actual Interconfesional",
+        "work_id": "lenguaje-actual",
+        "year": 2002
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "easy-to-read-version-2004",
+        "iso": "eng",
+        "name": "Holy Bible: Easy-to-Read Version",
+        "work_id": "easy-to-read-version",
+        "year": 2004
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "holman-christian-standard-bible-2004",
+        "iso": "eng",
+        "name": "Holman Christian Standard Bible",
+        "work_id": "holman-christian-standard-bible",
+        "year": 2004
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "explained-bible-2004",
+        "iso": "fra",
+        "name": "Explained Bible",
+        "work_id": "explained-bible",
+        "year": 2004
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "reina-valera-gomez-2004",
+        "iso": "spa",
+        "name": "Reina Valera G\u00f3mez (2004) (ESP)",
+        "work_id": "reina-valera-gomez",
+        "year": 2004
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "new-century-version-2005",
+        "iso": "eng",
+        "name": "New Century Version",
+        "work_id": "new-century-version",
+        "year": 2005
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "la-bibbia-della-gioia-2005",
+        "iso": "ita",
+        "name": "La Bibbia della Gioia (BDG)",
+        "work_id": "la-bibbia-della-gioia",
+        "year": 2005
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "nueva-biblia-de-las-americas-2005",
+        "iso": "spa",
+        "name": "Nueva Biblia de las Am\u00e9ricas",
+        "work_id": "nueva-biblia-de-las-americas",
+        "year": 2005
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "nueva-biblia-latinoamericana-de-hoy-2005",
+        "iso": "spa",
+        "name": "Nueva Biblia Latinoamericana de Hoy",
+        "work_id": "nueva-biblia-latinoamericana-de-hoy",
+        "year": 2005
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "segun-el-texto-bizantino-2005",
+        "iso": "spa",
+        "name": "Segun el Texto Bizantino 2005",
+        "work_id": "segun-el-texto-bizantino",
+        "year": 2005
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "contemporary-english-version-2006-2nd-edition",
+        "iso": "eng",
+        "name": "Contemporary English Version",
+        "work_id": "contemporary-english-version",
+        "year": 2006
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "contemporary-english-version-2006-2nd-edition-interconfessional",
+        "iso": "eng",
+        "name": "Contemporary English Version Interconfessional Edition",
+        "work_id": "contemporary-english-version",
+        "year": 2006
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "contemporary-english-version-2006-2nd-edition-old-tradition",
+        "iso": "eng",
+        "name": "Contemporary English Version Old tradition",
+        "work_id": "contemporary-english-version",
+        "year": 2006
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "mit-idiomatic-translation-of-the-new-testament-2006",
+        "iso": "eng",
+        "name": "MIT - The Idiomatic Translation of the New Testament (2006)",
+        "work_id": "mit-idiomatic-translation-of-the-new-testament",
+        "year": 2006
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "net-bible-2006-v1",
+        "iso": "eng",
+        "name": "New English Translation",
+        "work_id": "net-bible",
+        "year": 2006
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "french-king-james-bible-2006",
+        "iso": "fra",
+        "name": "French King James Bible (2006)",
+        "work_id": "french-king-james-bible",
+        "year": 2006
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "la-parola-e-vita-2006",
+        "iso": "ita",
+        "name": "La Parola \u00e8 Vita",
+        "work_id": "la-parola-e-vita",
+        "year": 2006
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "nuova-riveduta-2006",
+        "iso": "ita",
+        "name": "Nuova Riveduta 2006",
+        "work_id": "nuova-riveduta",
+        "year": 2006
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "biblia-de-la-casa-de-la-biblia-2006",
+        "iso": "spa",
+        "name": "La Biblia",
+        "work_id": "biblia-de-la-casa-de-la-biblia",
+        "year": 2006
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "english-standard-version-2007",
+        "iso": "eng",
+        "name": "English Standard Version\u00ae - Hear the Word Audio Bible",
+        "work_id": "english-standard-version",
+        "year": 2007
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "segond-21-2007",
+        "iso": "fra",
+        "name": "Bible Segond 21",
+        "work_id": "segond-21",
+        "year": 2007
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "ostervald-godieu-levigilant-2008",
+        "iso": "fra",
+        "name": "J. F. Ostervald 1996 - revision 2008 (FR)",
+        "work_id": "ostervald-godieu-levigilant",
+        "year": 2008
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "nueva-biblia-viva-2008",
+        "iso": "spa",
+        "name": "New Living Bible",
+        "work_id": "nueva-biblia-viva",
+        "year": 2008
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "catholic-public-domain-version-2009",
+        "iso": "eng",
+        "name": "Catholic Public Domain Version",
+        "work_id": "catholic-public-domain-version",
+        "year": 2009
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "holman-christian-standard-bible-2009",
+        "iso": "eng",
+        "name": "Holman Christian Standard Bible",
+        "work_id": "holman-christian-standard-bible",
+        "year": 2009
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "the-scriptures-2009",
+        "iso": "eng",
+        "name": "The Scriptures 2009",
+        "work_id": "the-scriptures",
+        "year": 2009
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "reina-valera-contemporanea-2009",
+        "iso": "spa",
+        "name": "Reina Valera Contempor\u00e1nea",
+        "work_id": "reina-valera-contemporanea",
+        "year": 2009
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "lexham-english-bible-2010",
+        "iso": "eng",
+        "name": "Lexham English Bible",
+        "work_id": "lexham-english-bible",
+        "year": 2010
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "vw-edition-bible-2010",
+        "iso": "eng",
+        "name": "VW-Edition Bible (2010)",
+        "work_id": "vw-edition-bible",
+        "year": 2010
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "biblia-de-america-2010",
+        "iso": "spa",
+        "name": "Biblia de Am\u00e9rica",
+        "work_id": "biblia-de-america",
+        "year": 2010
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "la-palabra-2010-3rd-edition-espana",
+        "iso": "spa",
+        "name": "La Palabra - Spain",
+        "work_id": "la-palabra",
+        "year": 2010
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "la-palabra-2010-3rd-edition-hispanoamericana",
+        "iso": "spa",
+        "name": "La Palabra (Latin American edition)",
+        "work_id": "la-palabra",
+        "year": 2010
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "nueva-traduccion-viviente-2010",
+        "iso": "spa",
+        "name": "Nueva Traducci\u00f3n Viviente",
+        "work_id": "nueva-traduccion-viviente",
+        "year": 2010
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "common-english-bible-2011",
+        "iso": "eng",
+        "name": "Common English Bible",
+        "work_id": "common-english-bible",
+        "year": 2011
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "disciples-literal-new-testament-2011",
+        "iso": "eng",
+        "name": "Disciples\u2019 Literal New Testament (DLNT)",
+        "work_id": "disciples-literal-new-testament",
+        "year": 2011
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "expanded-bible-2011",
+        "iso": "eng",
+        "name": "Expanded Bible (EXB)",
+        "work_id": "expanded-bible",
+        "year": 2011
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "faithful-version-2011",
+        "iso": "eng",
+        "name": "A Faithful Version",
+        "work_id": "faithful-version",
+        "year": 2011
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "mounce-reverse-interlinear-new-testament-2011",
+        "iso": "eng",
+        "name": "Mounce Reverse Interlinear New Testament (MOUNCE)",
+        "work_id": "mounce-reverse-interlinear-new-testament",
+        "year": 2011
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "names-of-god-bible-2011",
+        "iso": "eng",
+        "name": "Names of God Bible (NOG)",
+        "work_id": "names-of-god-bible",
+        "year": 2011
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "new-international-version-2011",
+        "iso": "eng",
+        "name": "New International Version",
+        "work_id": "new-international-version",
+        "year": 2011
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "new-international-version-2011-anglicised",
+        "iso": "eng",
+        "name": "New International Version (Anglicized) 2011",
+        "work_id": "new-international-version",
+        "year": 2011
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "orthodox-jewish-bible-2011",
+        "iso": "eng",
+        "name": "The Orthodox Jewish Bible",
+        "work_id": "orthodox-jewish-bible",
+        "year": 2011
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "the-books-of-the-bible-2011",
+        "iso": "eng",
+        "name": "The Books of the Bible NT",
+        "work_id": "the-books-of-the-bible",
+        "year": 2011
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "the-voice-bible-2011",
+        "iso": "eng",
+        "name": "The Voice (VOICE)",
+        "work_id": "the-voice-bible",
+        "year": 2011
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "eib-nowe-przymierze-literary-2011",
+        "iso": "pol",
+        "name": "New Covenant Translation",
+        "work_id": "eib-nowe-przymierze-literary",
+        "year": 2011
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "la-biblia-hispanoamericana-interconfesional-2011",
+        "iso": "spa",
+        "name": "La Biblia Hispanoamericana (Traducci\u00f3n Interconfesional, versi\u00f3n hispanoamericana)",
+        "work_id": "la-biblia-hispanoamericana-interconfesional",
+        "year": 2011
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "contemporary-english-version-2012-anglicised",
+        "iso": "eng",
+        "name": "Contemporary English Version (Anglicised) 2012",
+        "work_id": "contemporary-english-version",
+        "year": 2012
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "good-news-2012",
+        "iso": "eng",
+        "name": "Good News Translation",
+        "work_id": "good-news",
+        "year": 2012
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "international-standard-version-1-2-1",
+        "iso": "eng",
+        "name": "International Standard Version",
+        "work_id": "international-standard-version",
+        "year": 2012
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "lexham-english-bible-2012",
+        "iso": "eng",
+        "name": "Lexham English Bible (LEB)",
+        "work_id": "lexham-english-bible",
+        "year": 2012
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "restored-name-king-james-version-2012",
+        "iso": "eng",
+        "name": "The Restored Name King James Version",
+        "work_id": "restored-name-king-james-version",
+        "year": 2012
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "nowa-biblia-gdanska-2012",
+        "iso": "pol",
+        "name": "Nowa Biblia Gda\u0144ska",
+        "work_id": "nowa-biblia-gdanska",
+        "year": 2012
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "aramaic-plain-english-2013-8th-edition",
+        "iso": "eng",
+        "name": "Aramaic Bible in Plain English",
+        "work_id": "aramaic-plain-english",
+        "year": 2013
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "eng-new-world-translation-2013",
+        "iso": "eng",
+        "name": "New World Translation of the Holy Scriptures (2013)",
+        "work_id": "eng-new-world-translation",
+        "year": 2013
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "new-living-translation-2013",
+        "iso": "eng",
+        "name": "New Living Translation",
+        "work_id": "new-living-translation",
+        "year": 2013
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "bible-machaira-2013",
+        "iso": "fra",
+        "name": "Bible Machaira (Jean leDuc - 2013)",
+        "work_id": "bible-machaira",
+        "year": 2013
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "parole-vivante-2013-2010",
+        "iso": "fra",
+        "name": "Parole Vivante",
+        "work_id": "parole-vivante",
+        "year": 2013
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "english-majority-text-version-2014",
+        "iso": "eng",
+        "name": "English Majority Text Version",
+        "work_id": "english-majority-text-version",
+        "year": 2014
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "international-standard-version-2014-v2",
+        "iso": "eng",
+        "name": "International Standard Version (ISV)",
+        "work_id": "international-standard-version",
+        "year": 2014
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "majority-text-version-2014",
+        "iso": "eng",
+        "name": "English Majority Text Version",
+        "work_id": "majority-text-version",
+        "year": 2014
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "modern-english-version-2014",
+        "iso": "eng",
+        "name": "Modern English Version (MEV)",
+        "work_id": "modern-english-version",
+        "year": 2014
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "new-international-readers-version-2014",
+        "iso": "eng",
+        "name": "New International Reader\u2019s Version 2014",
+        "work_id": "new-international-readers-version",
+        "year": 2014
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "tree-of-life-version-2014",
+        "iso": "eng",
+        "name": "Tree of Life Version",
+        "work_id": "tree-of-life-version",
+        "year": 2014
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "interconfessionale-in-lingua-corrente-2014-3rd-edition",
+        "iso": "ita",
+        "name": "Italian Common Language Interconfessional Bible",
+        "work_id": "interconfessionale-in-lingua-corrente",
+        "year": 2014
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "palabra-de-dios-para-todos-2014",
+        "iso": "spa",
+        "name": "The Word of God for All 2014",
+        "work_id": "palabra-de-dios-para-todos",
+        "year": 2014
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "reina-valera-revised-version-2014",
+        "iso": "spa",
+        "name": "Reina Valera 1865 - revised version (2014)",
+        "work_id": "reina-valera-revised-version",
+        "year": 2014
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "amplified-bible-2015",
+        "iso": "eng",
+        "name": "Amplified Bible",
+        "work_id": "amplified-bible",
+        "year": 2015
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "international-childrens-bible-2015",
+        "iso": "eng",
+        "name": "International Children\u2019s Bible",
+        "work_id": "international-childrens-bible",
+        "year": 2015
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "literal-emphasis-translation-2015",
+        "iso": "eng",
+        "name": "Literal Emphasis Translation",
+        "work_id": "literal-emphasis-translation",
+        "year": 2015
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "new-catholic-bible-2015",
+        "iso": "eng",
+        "name": "New Catholic Bible (NCB)",
+        "work_id": "new-catholic-bible",
+        "year": 2015
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "new-living-translation-2015",
+        "iso": "eng",
+        "name": "New Living Translation",
+        "work_id": "new-living-translation",
+        "year": 2015
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "bible-du-semeur-2015",
+        "iso": "fra",
+        "name": "La Bible du Semeur (The Bible of the Sower)",
+        "work_id": "bible-du-semeur",
+        "year": 2015
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "nueva-version-internacional-2015",
+        "iso": "spa",
+        "name": "Nueva Versi\u00f3n Internacional (Spanish New International Version) 2015",
+        "work_id": "nueva-version-internacional",
+        "year": 2015
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "palabra-de-dios-para-todos-2015",
+        "iso": "spa",
+        "name": "Holy Bible: The Word of God for All",
+        "work_id": "palabra-de-dios-para-todos",
+        "year": 2015
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "reina-valera-actualizada-2015",
+        "iso": "spa",
+        "name": "Reina Valera Actualizada",
+        "work_id": "reina-valera-actualizada",
+        "year": 2015
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "berean-literal-bible-2016",
+        "iso": "eng",
+        "name": "Berean Literal Bible",
+        "work_id": "berean-literal-bible",
+        "year": 2016
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "berean-standard-bible-2016",
+        "iso": "eng",
+        "name": "Berean Standard Bible",
+        "work_id": "berean-standard-bible",
+        "year": 2016
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "english-standard-version-2016",
+        "iso": "eng",
+        "name": "English Standard Version 2016",
+        "work_id": "english-standard-version",
+        "year": 2016
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "family-35-nt-2016",
+        "iso": "eng",
+        "name": "The English New Testament According to Family 35",
+        "work_id": "family-35-nt",
+        "year": 2016
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "new-living-translation-2016-catholic",
+        "iso": "eng",
+        "name": "New Living Translation Catholic Edition",
+        "work_id": "new-living-translation",
+        "year": 2016
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "new-matthew-bible-2016",
+        "iso": "eng",
+        "name": "New Matthew Bible (NMB)",
+        "work_id": "new-matthew-bible",
+        "year": 2016
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "eib-nowe-przymierze-literary-2016",
+        "iso": "pol",
+        "name": "Polish Bible 2018",
+        "work_id": "eib-nowe-przymierze-literary",
+        "year": 2016
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "slowo-zycia-2016",
+        "iso": "pol",
+        "name": "Polish Living New Testament (The Word of Life)",
+        "work_id": "slowo-zycia",
+        "year": 2016
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "christian-standard-bible-2017",
+        "iso": "eng",
+        "name": "Christian Standard Bible",
+        "work_id": "christian-standard-bible",
+        "year": 2017
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "evangelical-heritage-version-2017",
+        "iso": "eng",
+        "name": "Evangelical Heritage Version (EHV)",
+        "work_id": "evangelical-heritage-version",
+        "year": 2017
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "good-news-2017-british",
+        "iso": "eng",
+        "name": "Good News Bible (British Verison) 2017",
+        "work_id": "good-news",
+        "year": 2017
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "good-news-2017-british-catholic",
+        "iso": "eng",
+        "name": "Good News Bible (British Version) Catholic Edition 2017",
+        "work_id": "good-news",
+        "year": 2017
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "net-bible-2017-v2",
+        "iso": "eng",
+        "name": "New English Translation (NET Bible)",
+        "work_id": "net-bible",
+        "year": 2017
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "translation-for-translators-2017",
+        "iso": "eng",
+        "name": "Translation for Translators",
+        "work_id": "translation-for-translators",
+        "year": 2017
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "unlocked-literal-bible-2017",
+        "iso": "eng",
+        "name": "Unlocked Literal Bible",
+        "work_id": "unlocked-literal-bible",
+        "year": 2017
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "parole-de-vie-2017",
+        "iso": "fra",
+        "name": "Parole de Vie 2017",
+        "work_id": "parole-de-vie",
+        "year": 2017
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "uwspolczesniona-biblia-gdanska-2017",
+        "iso": "pol",
+        "name": "Updated Gdansk Bible",
+        "work_id": "uwspolczesniona-biblia-gdanska",
+        "year": 2017
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "peshitta-espanol-2017",
+        "iso": "spa",
+        "name": "Peshitta (NT) - Spanish traducci\u00f3n",
+        "work_id": "peshitta-espanol",
+        "year": 2017
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "easyenglish-bible-2018",
+        "iso": "eng",
+        "name": "EasyEnglish Bible (EASY)",
+        "work_id": "easyenglish-bible",
+        "year": 2018
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "english-standard-version-2018",
+        "iso": "eng",
+        "name": "English Standard Version \u2013 CE (ESV-CE)",
+        "work_id": "english-standard-version",
+        "year": 2018
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "free-bible-version-2018-pre-v4",
+        "iso": "eng",
+        "name": "Free Bible Version",
+        "work_id": "free-bible-version",
+        "year": 2018
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "new-messianic-version-bible-2018",
+        "iso": "eng",
+        "name": "New Messianic Version Bible",
+        "work_id": "new-messianic-version-bible",
+        "year": 2018
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "the-message-bible-2018",
+        "iso": "eng",
+        "name": "The Message",
+        "work_id": "the-message-bible",
+        "year": 2018
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "who-bible-2018",
+        "iso": "eng",
+        "name": "Who? 2018",
+        "work_id": "who-bible",
+        "year": 2018
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "biblia-libre-2020",
+        "iso": "spa",
+        "name": "Spanish Free Bible Version",
+        "work_id": "biblia-libre",
+        "year": 2018
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "la-biblia-en-espanol-sencillo-2018",
+        "iso": "spa",
+        "name": "The Holy Bible in Simple Spanish",
+        "work_id": "la-biblia-en-espanol-sencillo",
+        "year": 2018
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "nueva-version-internacional-2018",
+        "iso": "spa",
+        "name": "Nueva Versi\u00f3n Internacional (Castilian) (CST)",
+        "work_id": "nueva-version-internacional",
+        "year": 2018
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "bible-nouvelle-francais-courant-2019",
+        "iso": "fra",
+        "name": "New French current",
+        "work_id": "bible-nouvelle-francais-courant",
+        "year": 2019
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "eib-nowe-przymierze-literal-2019",
+        "iso": "pol",
+        "name": "BIBLIA to jest Pismo \u015awi\u0119te Starego i Nowego Przymierza",
+        "work_id": "eib-nowe-przymierze-literal",
+        "year": 2019
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "mazurkiewicz-2019-1st-edition",
+        "iso": "pol",
+        "name": "Andrzej Mazurkiewicz - New Testament (2019)",
+        "work_id": "mazurkiewicz",
+        "year": 2019
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "berean-standard-bible-2020",
+        "iso": "eng",
+        "name": "English Berean Standard Bible",
+        "work_id": "berean-standard-bible",
+        "year": 2020
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "literal-standard-version-2020",
+        "iso": "eng",
+        "name": "Literal Standard Version",
+        "work_id": "literal-standard-version",
+        "year": 2020
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "new-american-standard-bible-2020",
+        "iso": "eng",
+        "name": "New American Standard Bible 2020",
+        "work_id": "new-american-standard-bible",
+        "year": 2020
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "radiate-new-testament-2020",
+        "iso": "eng",
+        "name": "Radiate New Testament",
+        "work_id": "radiate-new-testament",
+        "year": 2020
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "the-passion-translation-2020",
+        "iso": "eng",
+        "name": "The Passion Translation",
+        "work_id": "the-passion-translation",
+        "year": 2020
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "world-english-bible-2020",
+        "iso": "eng",
+        "name": "World English Bible",
+        "work_id": "world-english-bible",
+        "year": 2020
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "world-english-bible-2020-american",
+        "iso": "eng",
+        "name": "World English Bible, American English Edition, without Strong's Numbers",
+        "work_id": "world-english-bible",
+        "year": 2020
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "world-english-bible-2020-british",
+        "iso": "eng",
+        "name": "World English Bible British Edition",
+        "work_id": "world-english-bible",
+        "year": 2020
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "world-english-bible-2020-messianic",
+        "iso": "eng",
+        "name": "World Messianic Bible",
+        "work_id": "world-english-bible",
+        "year": 2020
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "world-english-bible-2020-messianic-british",
+        "iso": "eng",
+        "name": "World Messianic Bible British Edition",
+        "work_id": "world-english-bible",
+        "year": 2020
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "world-english-bible-2020-updated",
+        "iso": "eng",
+        "name": "World English Bible Updated",
+        "work_id": "world-english-bible",
+        "year": 2020
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "riveduta-2020",
+        "iso": "ita",
+        "name": "Italian Riveduta 2020 Bible",
+        "work_id": "riveduta",
+        "year": 2020
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "palabra-de-dios-para-ti-2020",
+        "iso": "spa",
+        "name": "Spanish Bible, Palabla de Dios para ti",
+        "work_id": "palabra-de-dios-para-ti",
+        "year": 2020
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "american-standard-version-2021",
+        "iso": "eng",
+        "name": "American Standard Version (Byzantine Text with Apocrypha)",
+        "work_id": "american-standard-version",
+        "year": 2021
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "evangelical-heritage-version-2021",
+        "iso": "eng",
+        "name": "Evangelical Heritage Version",
+        "work_id": "evangelical-heritage-version",
+        "year": 2021
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "first-nations-version-2021",
+        "iso": "eng",
+        "name": "First Nations Version",
+        "work_id": "first-nations-version",
+        "year": 2021
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "legacy-standard-bible-2021",
+        "iso": "eng",
+        "name": "Legacy Standard Bible",
+        "work_id": "legacy-standard-bible",
+        "year": 2021
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "new-revised-standard-version-2021",
+        "iso": "eng",
+        "name": "New Revised Standard Version Updated Edition 2021",
+        "work_id": "new-revised-standard-version",
+        "year": 2021
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "new-revised-standard-version-2021-updated-edition",
+        "iso": "eng",
+        "name": "New Revised Standard Version Updated Edition (NRSVUE)",
+        "work_id": "new-revised-standard-version",
+        "year": 2021
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "plain-english-version-2021",
+        "iso": "eng",
+        "name": "Plain English Version (Aboriginal)",
+        "work_id": "plain-english-version",
+        "year": 2021
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "nowy-przeklad-dynamiczny-2021",
+        "iso": "pol",
+        "name": "Good News About The Rescue In Christ. New Dynamic Translation of New Testament",
+        "work_id": "nowy-przeklad-dynamiczny",
+        "year": 2021
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "byzantine-text-version-2022",
+        "iso": "eng",
+        "name": "The Text-Critical English New Testament",
+        "work_id": "byzantine-text-version",
+        "year": 2022
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "text-critical-english-nt-2022",
+        "iso": "eng",
+        "name": "The Text-Critical English New Testament",
+        "work_id": "text-critical-english-nt",
+        "year": 2022
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "world-english-bible-2022-messianic",
+        "iso": "eng",
+        "name": "World Messianic Bible",
+        "work_id": "world-english-bible",
+        "year": 2022
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "world-english-bible-2022-messianic-british",
+        "iso": "eng",
+        "name": "World Messianic Bible British Edition",
+        "work_id": "world-english-bible",
+        "year": 2022
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "world-english-bible-2022-updated",
+        "iso": "eng",
+        "name": "World English Bible Updated",
+        "work_id": "world-english-bible",
+        "year": 2022
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "neo-crampon-libre-2022",
+        "iso": "fra",
+        "name": "French n\u00e9o-Crampon Libre",
+        "work_id": "neo-crampon-libre",
+        "year": 2022
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "sainte-bible-libre-2022",
+        "iso": "fra",
+        "name": "French Free Holy Bible for the World",
+        "work_id": "sainte-bible-libre",
+        "year": 2022
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "biblia-libre-1-1-beta",
+        "iso": "spa",
+        "name": "Versi\u00f3n Biblia Libre",
+        "work_id": "biblia-libre",
+        "year": 2022
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "nueva-version-internacional-2022",
+        "iso": "spa",
+        "name": "Nueva Versi\u00f3n Internacional 2022",
+        "work_id": "nueva-version-internacional",
+        "year": 2022
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "spanish-free-bible-for-the-world-2022",
+        "iso": "spa",
+        "name": "Spanish Free Bible for the World",
+        "work_id": "spanish-free-bible-for-the-world",
+        "year": 2022
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "traduccion-contemporanea-de-la-biblia-2022",
+        "iso": "spa",
+        "name": "Traducci\u00f3n Contempor\u00e1nea de la Biblia  - NT + Abd\u00edas",
+        "work_id": "traduccion-contemporanea-de-la-biblia",
+        "year": 2022
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "berean-study-bible-2023",
+        "iso": "eng",
+        "name": "Berean Study Bible",
+        "work_id": "berean-study-bible",
+        "year": 2023
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "nt-wright-new-testament-for-everyone-2023-3rd-edition",
+        "iso": "eng",
+        "name": "New Testament for Everyone (NTFE)",
+        "work_id": "nt-wright-new-testament-for-everyone",
+        "year": 2023
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "orthodox-jewish-bible-2023",
+        "iso": "eng",
+        "name": "The Orthodox Jewish Bible",
+        "work_id": "orthodox-jewish-bible",
+        "year": 2023
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "simple-french-bible-2023",
+        "iso": "fra",
+        "name": "Simple French Bible 2023",
+        "work_id": "simple-french-bible",
+        "year": 2023
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "przeklad-torunski-2023",
+        "iso": "pol",
+        "name": "Przek\u0142ad toru\u0144ski [2023]",
+        "work_id": "przeklad-torunski",
+        "year": 2023
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "dios-habla-hoy-2023-4th-edition",
+        "iso": "spa",
+        "name": "Dios habla hoy 4ta. edici\u00f3n. Est\u00e1ndar.",
+        "work_id": "dios-habla-hoy",
+        "year": 2023
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "christian-standard-bible-2024-anglicised",
+        "iso": "eng",
+        "name": "Christian Standard Bible Anglicised",
+        "work_id": "christian-standard-bible",
+        "year": 2024
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "easyenglish-bible-2024",
+        "iso": "eng",
+        "name": "EasyEnglish Bible 2024",
+        "work_id": "easyenglish-bible",
+        "year": 2024
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "english-interlinear-of-the-orthodox-yiddish-brit-chadasha-2024",
+        "iso": "eng",
+        "name": "English Interlinear of the Orthodox Yiddish Brit Chadasha",
+        "work_id": "english-interlinear-of-the-orthodox-yiddish-brit-chadasha",
+        "year": 2024
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "modern-english-version-2024",
+        "iso": "eng",
+        "name": "Modern English Version",
+        "work_id": "modern-english-version",
+        "year": 2024
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "revised-geneva-translation-2024",
+        "iso": "eng",
+        "name": "Revised Geneva Translation (RGT)",
+        "work_id": "revised-geneva-translation",
+        "year": 2024
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "yall-version-bible-2024",
+        "iso": "eng",
+        "name": "Y'all Version Bible",
+        "work_id": "yall-version-bible",
+        "year": 2024
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "berean-standard-bible-2025",
+        "iso": "eng",
+        "name": "Berean Study Bible",
+        "work_id": "berean-standard-bible",
+        "year": 2025
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "eng-new-world-translation-2025",
+        "iso": "eng",
+        "name": "New World Translation (eng)",
+        "work_id": "eng-new-world-translation",
+        "year": 2025
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "english-standard-version-2025",
+        "iso": "eng",
+        "name": "English Standard Version (ESV)",
+        "work_id": "english-standard-version",
+        "year": 2025
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "free-bible-version-4-1",
+        "iso": "eng",
+        "name": "Free Bible Version",
+        "work_id": "free-bible-version",
+        "year": 2025
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "free-bible-version-4-3",
+        "iso": "eng",
+        "name": "Free Bible Version",
+        "work_id": "free-bible-version",
+        "year": 2025
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "new-heart-english-bible-2025",
+        "iso": "eng",
+        "name": "New Heart English Bible",
+        "work_id": "new-heart-english-bible",
+        "year": 2025
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "open-english-bible-2025-5-commonwealth",
+        "iso": "eng",
+        "name": "Open English Bible (Commonwealth)",
+        "work_id": "open-english-bible",
+        "year": 2025
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "open-english-bible-2025-5-us",
+        "iso": "eng",
+        "name": "Open English Bible (US)",
+        "work_id": "open-english-bible",
+        "year": 2025
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "tyndale-bible-2025-cologne-fragment-modern-spelling",
+        "iso": "eng",
+        "name": "The Gospel of St Matthew 1-22 (William Tyndale) Cologne Fragment - Modern Spelling",
+        "work_id": "tyndale-bible",
+        "year": 2025
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "fra-new-world-translation-2025",
+        "iso": "fra",
+        "name": "New World Translation (fra)",
+        "work_id": "fra-new-world-translation",
+        "year": 2025
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "french-model-translation-2025",
+        "iso": "fra",
+        "name": "French Model Translation",
+        "work_id": "french-model-translation",
+        "year": 2025
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "ita-new-world-translation-2025",
+        "iso": "ita",
+        "name": "New World Translation (ita)",
+        "work_id": "ita-new-world-translation",
+        "year": 2025
+      },
+      {
+        "copyrighted": false,
+        "edition_id": "biblia-krola-jakuba-2025-1st-edition",
+        "iso": "pol",
+        "name": "Biblia Kr\u00f3la Jakuba [2025]",
+        "work_id": "biblia-krola-jakuba",
+        "year": 2025
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "pol-new-world-translation-2025",
+        "iso": "pol",
+        "name": "New World Translation (pol)",
+        "work_id": "pol-new-world-translation",
+        "year": 2025
+      },
+      {
+        "copyrighted": true,
+        "edition_id": "spa-new-world-translation-2025",
+        "iso": "spa",
+        "name": "New World Translation (spa)",
+        "work_id": "spa-new-world-translation",
+        "year": 2025
+      }
+    ],
+    "tallies": {
+      "eng": 194,
+      "fra": 41,
+      "ita": 17,
+      "pol": 29,
+      "spa": 53
+    }
+  },
+  "provenance": {
+    "source_hashes": {
+      "editions.tsv": "a71760f2d33fff9968ae1bd111f6b872fdef8c098790c4715ee68007498c7188",
+      "instances.tsv": "87bd83ae9a0f40aa36ef5744fd4c0e87de34e264d10fbd0882c90729f704845b",
+      "manifest.json": "40e2d5f55e7f00a4a72ec580bdcd01b4c30156e021ff7bb9ee100a31261c2f9d",
+      "web/index.tsv": "c931f039b13e37d7e2bc20a150173cefa36a5de4afef903b2b7f30fa3cfcff73",
+      "works.tsv": "a827bdb8787d091bc0181ccca03ddbaba9486dfd43d9cc1f17351887eda6a82f"
+    }
+  },
+  "schema_version": 1,
+  "stats": {
+    "copyrightByLang": {
+      "eng": {
+        "copyrighted": 111,
+        "open_license": 22,
+        "public_domain": 61,
+        "total": 194
+      },
+      "fra": {
+        "copyrighted": 21,
+        "open_license": 2,
+        "public_domain": 18,
+        "total": 41
+      },
+      "ita": {
+        "copyrighted": 10,
+        "open_license": 0,
+        "public_domain": 7,
+        "total": 17
+      },
+      "pol": {
+        "copyrighted": 16,
+        "open_license": 3,
+        "public_domain": 10,
+        "total": 29
+      },
+      "spa": {
+        "copyrighted": 39,
+        "open_license": 6,
+        "public_domain": 8,
+        "total": 53
+      }
+    },
+    "editionHist": {
+      "1": 165,
+      "2": 35,
+      "3": 11,
+      "4": 3,
+      "5": 6,
+      "6+": 3
+    },
+    "multiEditionEditions": 169,
+    "multiEditionWorks": 58,
+    "pctMultiEditions": 51,
+    "pctMultiWorks": 26,
+    "totalEditions": 334,
+    "totalInstances": 651,
+    "totalWorks": 223
+  }
+}
