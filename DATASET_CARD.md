@@ -39,11 +39,11 @@ configs:
 
 # Targum -- A Multilingual New Testament Translation Corpus
 
-**Links:** 📄 [LREC 2026 paper](https://aclanthology.org/2026.lrec-main.564/) · 🗂️ [GitHub mirror](https://github.com/mrapacz/targum-corpus) · 🌐 [Online viewer](https://targum.mrapacz.com/)
+**Links:** 📄 [LREC 2026 paper](https://aclanthology.org/2026.lrec-main.564/) · 🗂️ [GitHub mirror](https://github.com/mrapacz/targum-corpus) · 🌐 [Online viewer](https://targum.net/)
 
 **Targum** is a multilingual New Testament translation corpus with unprecedented depth in five European languages: English, French, Italian, Polish, and Spanish. It contains **651** translations (**334** unique) collected from **13** source libraries and spanning **1525–2025**.
 
-This dataset contains the **public release subset**: **302** translations distributed under public domain or open licenses. The remaining 349 copyrighted translations are not distributed but are available to researchers upon request.
+This dataset contains the **public release subset**: **301** translations distributed under public domain or open licenses. The remaining 350 copyrighted translations are not distributed but are available to researchers upon request.
 
 Named after the ancient Aramaic translations of the Hebrew Bible (תרגום, "translation"), the corpus prioritizes vertical depth over linguistic breadth, making it possible to computationally analyze a wide spectrum of historical periods and confessional traditions within each language.
 
@@ -60,13 +60,13 @@ The metadata tables (`works`, `editions`, `instances`, `book_coverage`) are expo
 | Language | Code | Total | Unique | Public subset |
 |---|---|---:|---:|---:|
 | English | `eng` | 390 | 194 | 191 |
-| French | `fra` | 78 | 41 | 44 |
+| French | `fra` | 78 | 41 | 43 |
 | Spanish | `spa` | 102 | 53 | 29 |
 | Polish | `pol` | 48 | 29 | 25 |
 | Italian | `ita` | 33 | 17 | 13 |
-| **Total** | | **651** | **334** | **302** |
+| **Total** | | **651** | **334** | **301** |
 
-"Total" is the number of translation instances collected across all 13 source libraries (the same translation may appear on multiple sites). "Unique" is the number of distinct translation editions after deduplication. "Public subset" is the number of instances distributed in this dataset under public domain (237) or open licenses (65).
+"Total" is the number of translation instances collected across all 13 source libraries (the same translation may appear on multiple sites). "Unique" is the number of distinct translation editions after deduplication. "Public subset" is the number of instances distributed in this dataset under public domain (235) or open licenses (66).
 
 ## Structure
 
@@ -80,6 +80,7 @@ editions.tsv            # one row per edition, with copyright + provenance
 instances.tsv           # one row per per-site instance, FK to editions
 book_coverage.tsv       # which books each instance covers
 manifest.json           # summary statistics
+web/passages/           # gzip-compressed language-by-chapter viewer shards
 
 # Same tables are also available as .json (lists preserved as arrays).
 ```
@@ -99,12 +100,9 @@ Pre-computed text embeddings are available for all translations, produced by sev
 
 | Model | Granularity | Files | Size |
 |---|---|---:|---:|
-| `Qwen/Qwen3-Embedding-0.6B` | verse | 656 | ~7.7 GB |
-| `Qwen/Qwen3-Embedding-8B` | chapter | 656 | ~1007.1 MB |
-| `Qwen/Qwen3-Embedding-8B` | verse | 656 | ~74.5 GB |
-| `nvidia/llama-embed-nemotron-8b` | chapter | 656 | ~1007.5 MB |
-| `sentence-transformers/LaBSE` | chapter | 656 | ~1.1 GB |
-| `sentence-transformers/LaBSE` | verse | 656 | ~22.8 GB |
+| `Qwen/Qwen3-Embedding-0.6B` | chapter | 656 | ~269.6 MB |
+| `Qwen/Qwen3-Embedding-0.6B` | verse | 5 | ~61.4 MB |
+| `Qwen/Qwen3-Embedding-8B` | chapter | 656 | ~2.4 GB |
 
 Embeddings are stored as Hive-partitioned Parquet files:
 

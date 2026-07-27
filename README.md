@@ -1,10 +1,10 @@
 # Targum -- A Multilingual New Testament Translation Corpus
 
-**Links:** 📄 [LREC 2026 paper](https://aclanthology.org/2026.lrec-main.564/) · 🤗 [HuggingFace dataset](https://huggingface.co/datasets/mrapacz/targum-corpus) · 🌐 [Online viewer](https://targum.mrapacz.com/) · 🧪 [SIGHUM companion code](https://github.com/mrapacz/sighum-interlinear-vector-baselines)
+**Links:** 📄 [LREC 2026 paper](https://aclanthology.org/2026.lrec-main.564/) · 🤗 [HuggingFace dataset](https://huggingface.co/datasets/mrapacz/targum-corpus) · 🌐 [Online viewer](https://targum.net/) · 🧪 [SIGHUM companion code](https://github.com/mrapacz/sighum-interlinear-vector-baselines)
 
 **Targum** is a multilingual New Testament translation corpus with unprecedented depth in five European languages: English, French, Italian, Polish, and Spanish. It contains **651** translations (**334** unique) collected from **13** source libraries and spanning **1525–2025**.
 
-This repository contains the **public release subset**: **302** translations distributed under public domain or open licenses.
+This repository contains the **public release subset**: **301** translations distributed under public domain or open licenses.
 
 Named after the ancient Aramaic translations of the Hebrew Bible (תרגום, "translation"), the corpus prioritizes vertical depth over linguistic breadth, making it possible to computationally analyze a wide spectrum of historical periods and confessional traditions within each language.
 
@@ -19,13 +19,13 @@ scores** (~5 GB).
 | Language | Code | Total | Unique | Public subset |
 |---|---|---:|---:|---:|
 | English | `eng` | 390 | 194 | 191 |
-| French | `fra` | 78 | 41 | 44 |
+| French | `fra` | 78 | 41 | 43 |
 | Spanish | `spa` | 102 | 53 | 29 |
 | Polish | `pol` | 48 | 29 | 25 |
 | Italian | `ita` | 33 | 17 | 13 |
-| **Total** | | **651** | **334** | **302** |
+| **Total** | | **651** | **334** | **301** |
 
-"Total" is the number of translation instances collected across all 13 source libraries (the same translation may appear on multiple sites). "Unique" is the number of distinct translation editions after deduplication. "Public subset" is the number of instances distributed in this repository under public domain (237) or open licenses (65).
+"Total" is the number of translation instances collected across all 13 source libraries (the same translation may appear on multiple sites). "Unique" is the number of distinct translation editions after deduplication. "Public subset" is the number of instances distributed in this repository under public domain (235) or open licenses (66).
 
 ## Structure
 
@@ -39,6 +39,12 @@ editions.tsv         # one row per edition, with copyright + provenance
 instances.tsv        # one row per per-site instance, FK to editions
 book_coverage.tsv    # which books each instance covers
 manifest.json        # summary statistics
+web/
+  index.tsv           # denormalized viewer metadata
+  landing.json        # precomputed landing-page data
+  passages/
+    {iso}/{BOOK}/{chapter}.jsonl.gz  # compact Compare passage shards
+    manifest.json     # shard schema, provenance, and hashes
 
 # Same tables are also available as .json (lists preserved as arrays).
 ```
@@ -52,18 +58,19 @@ Each JSONL file contains one verse per line:
 
 `book` uses USFM 3-letter New Testament codes: `MAT MRK LUK JHN ACT ROM 1CO 2CO GAL EPH PHP COL 1TH 2TH 1TI 2TI TIT PHM HEB JAS 1PE 2PE 1JN 2JN 3JN JUD REV`.
 
+The derived `web/passages/` files group all available sources for one language
+and chapter. They power the online Compare view without downloading a complete
+New Testament file for every selected translation.
+
 ## Embeddings
 
 Pre-computed text embeddings are available for all translations, produced by several encoder models at chapter and/or verse granularity:
 
 | Model | Granularity | Files | Size |
 |---|---|---:|---:|
-| `Qwen/Qwen3-Embedding-0.6B` | verse | 656 | ~7.7 GB |
-| `Qwen/Qwen3-Embedding-8B` | chapter | 656 | ~1007.1 MB |
-| `Qwen/Qwen3-Embedding-8B` | verse | 656 | ~74.5 GB |
-| `nvidia/llama-embed-nemotron-8b` | chapter | 656 | ~1007.5 MB |
-| `sentence-transformers/LaBSE` | chapter | 656 | ~1.1 GB |
-| `sentence-transformers/LaBSE` | verse | 656 | ~22.8 GB |
+| `Qwen/Qwen3-Embedding-0.6B` | chapter | 656 | ~269.6 MB |
+| `Qwen/Qwen3-Embedding-0.6B` | verse | 5 | ~61.4 MB |
+| `Qwen/Qwen3-Embedding-8B` | chapter | 656 | ~2.4 GB |
 
 Embeddings are stored as Hive-partitioned Parquet files under `embeddings/` on [HuggingFace](https://huggingface.co/datasets/mrapacz/targum-corpus):
 
@@ -145,7 +152,7 @@ ds = load_dataset("mrapacz/targum-corpus", data_files="corpora/ebible.org/eng/en
 
 Translations were collected from 13 libraries: bible.audio, bible.com, bible.is, biblegateway.com, biblehub.com, bibles.org, biblestudytools.com, bibliepolskie.pl, crossbible.com, ebible.org, jw.org, laparola.net, obohu.cz.
 
-Only public domain and open-license translations are included in this release. The remaining 349 copyrighted translations are available to researchers upon reasonable request for noncommercial research purposes.
+Only public domain and open-license translations are included in this release. The remaining 350 copyrighted translations are available to researchers upon reasonable request for noncommercial research purposes.
 
 ## Citation
 
