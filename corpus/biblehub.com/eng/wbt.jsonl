@@ -307,6 +307,12 @@
 {"book": "MAT", "chapter": 10, "verse": "34", "text": "Think not that I am come to send peace on earth: I came not to send peace, but a sword."}
 {"book": "MAT", "chapter": 10, "verse": "35", "text": "For I am come to set a man at variance against his father, and the daughter against her mother, and the daughter-in-law against her mother-in-law."}
 {"book": "MAT", "chapter": 10, "verse": "36", "text": "And a man's foes will be they of his own household."}
+{"book": "MAT", "chapter": 10, "verse": "37", "text": "He that loveth father or mother more than me, is not worthy of me: and he that loveth son or daughter more than me, is not worthy of me."}
+{"book": "MAT", "chapter": 10, "verse": "38", "text": "And he that taketh not his cross, and followeth me, is not worthy of me."}
+{"book": "MAT", "chapter": 10, "verse": "39", "text": "He that findeth his life shall lose it: and he that loseth his life for my sake, shall find it."}
+{"book": "MAT", "chapter": 10, "verse": "40", "text": "He that receiveth you, receiveth me, and he that receiveth me, receiveth him that sent me."}
+{"book": "MAT", "chapter": 10, "verse": "41", "text": "He that receiveth a prophet in the name of a prophet, shall receive a prophet's reward; and he that receiveth a righteous man in the name of a righteous man, shall receive a righteous man's reward."}
+{"book": "MAT", "chapter": 10, "verse": "42", "text": "And whoever shall give to drink to one of these little ones, a cup of cold water only, in the name of a disciple, verily, I say to you, he shall in no wise lose his reward."}
 {"book": "MAT", "chapter": 11, "verse": "1", "text": "And it came to pass when Jesus had made an end of commanding his twelve disciples, he departed thence to teach and to preach in their cities."}
 {"book": "MAT", "chapter": 11, "verse": "2", "text": "Now when John had heard in the prison the works of Christ, he sent two of his disciples,"}
 {"book": "MAT", "chapter": 11, "verse": "3", "text": "And said to him, Art thou he that should come, or do we look for another?"}
@@ -420,6 +426,31 @@
 {"book": "MAT", "chapter": 13, "verse": "31", "text": "Another parable he proposed to them, saying, The kingdom of heaven is like a grain of mustard-seed, which a man took, and sowed in his field:"}
 {"book": "MAT", "chapter": 13, "verse": "32", "text": "Which indeed is the least of all seeds: but when it is grown, it is the greatest among herbs, and becometh a tree, so that the birds of the air come and lodge on its branches."}
 {"book": "MAT", "chapter": 13, "verse": "33", "text": "Another parable he spoke to them; The kingdom of heaven is like leaven, which a woman took, and hid in three measures of meal, till the whole was leavened."}
+{"book": "MAT", "chapter": 13, "verse": "34", "text": "All these things Jesus spoke to the multitude in parables; and without a parable he spoke not to them:"}
+{"book": "MAT", "chapter": 13, "verse": "35", "text": "That it might be fulfilled which was spoken by the prophet, saying, I will open my mouth in parables; I will utter things which have been kept secret from the foundation of the world."}
+{"book": "MAT", "chapter": 13, "verse": "36", "text": "Then Jesus sent the multitude away, and went into the house: and his disciples came to him, saying, Declare to us the parable of the tares of the field."}
+{"book": "MAT", "chapter": 13, "verse": "37", "text": "He answered and said to them, He that soweth the good seed is the Son of man;"}
+{"book": "MAT", "chapter": 13, "verse": "38", "text": "The field is the world; the good seed are the children of the kingdom; but the tares are the children of the wicked one;"}
+{"book": "MAT", "chapter": 13, "verse": "39", "text": "The enemy that sowed them is the devil; the harvest is the end of the world; and the reapers are the angels."}
+{"book": "MAT", "chapter": 13, "verse": "40", "text": "As therefore the tares are gathered and burned in the fire; so shall it be in the end of this world."}
+{"book": "MAT", "chapter": 13, "verse": "41", "text": "The Son of man shall send forth his angels, and they shall gather out of his kingdom all things that offend, and them who do iniquity;"}
+{"book": "MAT", "chapter": 13, "verse": "42", "text": "And shall cast them into a furnace of fire: there shall be wailing and gnashing of teeth."}
+{"book": "MAT", "chapter": 13, "verse": "43", "text": "Then shall the righteous shine as the sun in the kingdom of their Father. Who hath ears to hear, let him hear."}
+{"book": "MAT", "chapter": 13, "verse": "44", "text": "Again, the kingdom of heaven is like treasure hid in a field; which, when a man hath found, he hideth, and for joy thereof goeth and selleth all that he hath, and buyeth that field."}
+{"book": "MAT", "chapter": 13, "verse": "45", "text": "Again, the kingdom of heaven is like a merchant seeking goodly pearls:"}
+{"book": "MAT", "chapter": 13, "verse": "46", "text": "Who, when he had found one pearl of great price, went and sold all that he had, and bought it."}
+{"book": "MAT", "chapter": 13, "verse": "47", "text": "Again, the kingdom of heaven is like a net, that was cast into the sea, and gathered of every kind:"}
+{"book": "MAT", "chapter": 13, "verse": "48", "text": "Which, when it was full, they drew to the shore, and sat down, and gathered the good into vessels, but cast away the bad."}
+{"book": "MAT", "chapter": 13, "verse": "49", "text": "So shall it be at the end of the world: the angels shall come forth, and sever the wicked from among the just,"}
+{"book": "MAT", "chapter": 13, "verse": "50", "text": "And shall cast them into the furnace of fire: there shall be wailing and gnashing of teeth."}
+{"book": "MAT", "chapter": 13, "verse": "51", "text": "Jesus saith to them, Have ye understood all these things? They say to him, Yes, Lord."}
+{"book": "MAT", "chapter": 13, "verse": "52", "text": "Then said he to them, Therefore every scribe who is instructed to the kingdom of heaven, is like a man that is a householder, who bringeth forth out of his treasure things new and old."}
+{"book": "MAT", "chapter": 13, "verse": "53", "text": "And it came to pass, that when Jesus had finished these parables, he departed thence."}
+{"book": "MAT", "chapter": 13, "verse": "54", "text": "And when he had come into his own country, he taught them in their synagogue, so that they were astonished, and said, Whence hath this man this wisdom, and these mighty works?"}
+{"book": "MAT", "chapter": 13, "verse": "55", "text": "Is not this the carpenter's son? is not his mother called Mary? and his brethren, James, and Joses, and Simon, and Judas?"}
+{"book": "MAT", "chapter": 13, "verse": "56", "text": "And his sisters, are they not all with us? Whence then hath this man all these things?"}
+{"book": "MAT", "chapter": 13, "verse": "57", "text": "And they were offended in him. But Jesus said to them, A prophet is not without honor, save in his own country, and in his own house."}
+{"book": "MAT", "chapter": 13, "verse": "58", "text": "And he did not many mighty works there, because of their unbelief."}
 {"book": "MAT", "chapter": 14, "verse": "1", "text": "At that time Herod the Tetrarch heard of the fame of Jesus,"}
 {"book": "MAT", "chapter": 14, "verse": "2", "text": "And said to his servants, This is John the Baptist; he hath risen from the dead; and therefore mighty works do show forth themselves in him."}
 {"book": "MAT", "chapter": 14, "verse": "3", "text": "For Herod had laid hold on John, and bound him, and put him in prison for the sake of Herodias, his brother Philip's wife."}
@@ -4402,6 +4433,7 @@
 {"book": "ACT", "chapter": 18, "verse": "20", "text": "When they desired him to tarry longer time with them, he consented not:"}
 {"book": "ACT", "chapter": 18, "verse": "21", "text": "But bade them farewell, saying, I must by all means keep this feast that cometh in Jerusalem: but I will return to you, if God will. And he sailed from Ephesus."}
 {"book": "ACT", "chapter": 18, "verse": "22", "text": "And when he had landed at Cesarea, and gone up and saluted the church, he went down to Antioch."}
+{"book": "ACT", "chapter": 18, "verse": "23", "text": "And after he had spent some time there, he departed and went over all the country of Galatia and Phrygia in order, strengthening all the disciples."}
 {"book": "ACT", "chapter": 18, "verse": "24", "text": "And a certain Jew named Apollos, born at Alexandria, an eloquent man, and mighty in the scriptures, came to Ephesus."}
 {"book": "ACT", "chapter": 18, "verse": "25", "text": "This man was instructed in the way of the Lord: and being fervent in the spirit, he spoke and taught diligently the things of the Lord, knowing only the baptism of John."}
 {"book": "ACT", "chapter": 18, "verse": "26", "text": "And he began to speak boldly in the synagogue: Whom, when Aquila and Priscilla had heard, they took him to them, and expounded to him the way of God more perfectly."}
@@ -5080,6 +5112,14 @@
 {"book": "ROM", "chapter": 12, "verse": "11", "text": "Not slothful in business; fervent in spirit; serving the Lord;"}
 {"book": "ROM", "chapter": 12, "verse": "12", "text": "Rejoicing in hope; patient in tribulation; continuing earnest in prayer;"}
 {"book": "ROM", "chapter": 12, "verse": "13", "text": "Distributing to the necessity of saints; given to hospitality."}
+{"book": "ROM", "chapter": 12, "verse": "14", "text": "Bless them who persecute you; bless, and curse not."}
+{"book": "ROM", "chapter": 12, "verse": "15", "text": "Rejoice with them that rejoice, and weep with them that weep."}
+{"book": "ROM", "chapter": 12, "verse": "16", "text": "Be of the same mind one towards another. Mind not high things, but condescend to men of low estate. Be not wise in your own conceits."}
+{"book": "ROM", "chapter": 12, "verse": "17", "text": "Recompense to no man evil for evil. Provide things honest in the sight of all men."}
+{"book": "ROM", "chapter": 12, "verse": "18", "text": "If it is possible, as much as lieth in you, live peaceably with all men."}
+{"book": "ROM", "chapter": 12, "verse": "19", "text": "Dearly beloved, avenge not yourselves, but rather give place to wrath: for it is written, Vengeance is mine; I will repay, saith the Lord."}
+{"book": "ROM", "chapter": 12, "verse": "20", "text": "Therefore if thy enemy hungereth, feed him; if he thirsteth, give him drink: for in so doing thou shalt heap coals of fire on his head."}
+{"book": "ROM", "chapter": 12, "verse": "21", "text": "Be not overcome by evil, but overcome evil with good."}
 {"book": "ROM", "chapter": 13, "verse": "1", "text": "Let every soul be subject to the higher powers. For there is no power but from God: the powers that are, are ordained by God."}
 {"book": "ROM", "chapter": 13, "verse": "2", "text": "Whoever therefore resisteth the power, resisteth the ordinance of God: and they that resist shall receive to themselves damnation."}
 {"book": "ROM", "chapter": 13, "verse": "3", "text": "For rulers are not a terror to good works, but to the evil. Wilt thou then not be afraid of the power; do that which is good, and thou shalt have praise from the same:"}
@@ -7209,6 +7249,10 @@
 {"book": "1PE", "chapter": 1, "verse": "19", "text": "But with the precious blood of Christ, as of a lamb without blemish and without spot:"}
 {"book": "1PE", "chapter": 1, "verse": "20", "text": "Who verily was fore-ordained before the foundation of the world, but was manifested in these last times for you,"}
 {"book": "1PE", "chapter": 1, "verse": "21", "text": "Who by him do believe in God, that raised him from the dead, and gave him glory; that your faith and hope might be in God."}
+{"book": "1PE", "chapter": 1, "verse": "22", "text": "Seeing ye have purified your souls in obeying the truth through the Spirit to unfeigned love of the brethren, see that ye love one another with a pure heart fervently:"}
+{"book": "1PE", "chapter": 1, "verse": "23", "text": "Being born again, not of corruptible seed, but of incorruptible, by the word of God, which liveth and abideth for ever."}
+{"book": "1PE", "chapter": 1, "verse": "24", "text": "For all flesh is as grass, and all the glory of man as the flower of grass. The grass withereth, and its flower falleth away:"}
+{"book": "1PE", "chapter": 1, "verse": "25", "text": "But the word of the Lord endureth for ever. And this is the word which by the gospel is preached to you."}
 {"book": "1PE", "chapter": 2, "verse": "1", "text": "Wherefore, laying aside all malice, and all guile, and hypocrisies, and envies, and all evil-speakings,"}
 {"book": "1PE", "chapter": 2, "verse": "2", "text": "As new-born babes, desire the pure milk of the word, that ye may grow thereby:"}
 {"book": "1PE", "chapter": 2, "verse": "3", "text": "If indeed ye have tasted that the Lord is gracious."}

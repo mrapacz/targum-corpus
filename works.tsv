@@ -1,6 +1,8 @@
 work_id	display_name
 2001-translation	2001 Translation
 21st-century-king-james-version	21st Century King James Version
+african-international-new-testament-explanatory-paraphrase	African International New Testament Explanatory Paraphrase
+african-international-new-testament-literal-translation	African International New Testament Literal Translation
 american-king-james-version	American King James Version
 american-standard-version	American Standard Version
 amplified-bible	Amplified Bible
@@ -8,7 +10,6 @@ anderson-new-testament	Anderson New Testament
 aramaic-plain-english	Aramaic Bible in Plain English
 berean-literal-bible	Berean Literal Bible
 berean-standard-bible	Berean Standard Bible
-berean-study-bible	Berean Standard Bible
 bible-crampon	Traduction Crampon
 bible-de-tours	Grande Bible de Tours
 bible-des-peuples	Bible des Peuples
@@ -21,19 +22,21 @@ bible-nouvelle-francais-courant	Nouvelle Bible en français courant
 biblia-brzeska	Biblia Brzeska
 biblia-de-america	Biblia de América
 biblia-de-la-casa-de-la-biblia	La Biblia (La Casa de la Biblia)
-biblia-del-jubileo	Biblia del Jubileo
 biblia-del-oso	Biblia del Oso
+biblia-ekumeniczna	Biblia Ekumeniczna
 biblia-gdanska	Biblia Gdańska
 biblia-jakuba-wujka	Biblia Wujka
 biblia-krola-jakuba	Biblia Króla Jakuba
 biblia-libre	Versión Biblia Libre
+biblia-lubelska	Biblia Lubelska
+biblia-mesjanska	Biblia Mesjańska
+biblia-paulistow	Biblia Paulistów
 biblia-poznanska	Biblia Poznańska
 biblia-tysiaclecia	Biblia Tysiąclecia
 biblia-warszawska	Biblia Warszawska
 biblia-warszawsko-praska	Biblia warszawsko-praska
 bishops-bible	Bishops' Bible
 bovet-bonnet	Bible Bovet-Bonnet
-byzantine-text-version	The Text-Critical English New Testament
 catholic-public-domain-version	Catholic Public Domain Version
 charles-thomson	Thomson's Translation
 christian-standard-bible	Christian Standard Bible
@@ -52,6 +55,7 @@ easy-to-read-version	Easy-to-Read Version
 easyenglish-bible	EasyEnglish Bible
 eib-nowe-przymierze-literal	Stare i Nowe Przymierze (przekład dosłowny)
 eib-nowe-przymierze-literary	Stare i Nowe Przymierze (przekład literacki)
+ekumeniczny-przeklad-przyjaciol	Ekumeniczny Przekład Przyjaciół
 eng-darby-translation	Darby Translation
 eng-new-world-translation	New World Translation
 english-interlinear-of-the-orthodox-yiddish-brit-chadasha	English Interlinear of the Orthodox Yiddish Brit Chadasha
@@ -69,10 +73,12 @@ fra-jerusalem-bible	Bible de Jérusalem
 fra-new-world-translation	Traduction du monde nouveau
 frainc-comtois	Évangile de Matthieu (frainc-comtois)
 free-bible-version	Free Bible Version
+french-juxtalinear-new-testament	French Juxtalinear New Testament
 french-king-james-bible	Bible King James Française
 french-model-translation	Traduction Française de Modèle
 geneva-bible-eng	Geneva Bible
-geneva-bible-fra	Nouvelle Édition de Genève
+geneva-bible-fra	Bible de Genève
+glaire-bible	Bible Glaire
 godbey-new-testament	Godbey New Testament
 gods-word-translation	GOD'S WORD Translation
 good-news	Good News Translation
@@ -93,7 +99,6 @@ jubilee-bible	Jubilee Bible 2000
 junemann-bible	Biblia de Jünemann
 king-james-version-2000	King James 2000 Bible
 king-james-version	King James Version
-la-bibbia-della-gioia	La Bibbia della Gioia
 la-biblia-de-las-americas	La Biblia de las Américas
 la-biblia-en-espanol-sencillo	La Biblia en Español Sencillo
 la-biblia-hispanoamericana-interconfesional	Biblia Interconfesional Hispanoamericana
@@ -111,6 +116,7 @@ living-bible	Living Bible
 louis-claude-fillion	Bible Fillion
 louis-segond	Louis Segond
 mace-new-testament	Mace New Testament
+majority-standard-bible	Majority Standard Bible
 majority-text-version	English Majority Text Version
 mariawici	Przekład Mariawitów (Nowy Testament)
 martini	Bibbia Martini
@@ -140,13 +146,16 @@ nouvelle-segond-revisee	Nouvelle Version Segond Révisée
 nouvelle-segond	Nouvelle Bible Segond
 nowa-biblia-gdanska	Nowa Biblia Gdańska
 nowy-przeklad-dynamiczny	Nowy Przekład Dynamiczny
+nowy-testament-popowskiego	Nowy Testament Popowskiego
 noyes-bible	Noyes Bible
 nt-wright-new-testament-for-everyone	The New Testament for Everyone
 nueva-biblia-de-las-americas	Nueva Biblia de las Américas
 nueva-biblia-latinoamericana-de-hoy	Nueva Biblia Latinoamericana de Hoy
 nueva-biblia-viva	Nueva Biblia Viva
 nueva-traduccion-viviente	Nueva Traducción Viviente
+nueva-version-internacional-simplificada	Nueva Versión Internacional Simplificada
 nueva-version-internacional	Nueva Versión Internacional
+nuevo-testamento-segun-el-texto-bizantino	Nuevo Testamento: Según el Texto Bizantino
 nuova-diodati	La Nuova Diodati
 nuova-riveduta	Nuova Riveduta
 open-english-bible	Open English Bible
@@ -166,15 +175,14 @@ przeklad-torunski	Przekład toruński
 radiate-new-testament	Radiate New Testament
 rakowski-nt	Nowy Testament rakowski
 reina-valera-actualizada	Reina Valera Actualizada
-reina-valera-antigua	Reina-Valera Antigua
 reina-valera-contemporanea	Reina Valera Contemporánea
 reina-valera-gomez	Reina Valera Gómez
 reina-valera-revisada	Reina Valera Revisada
 reina-valera-revised-version	Reina-Valera 1865
-reina-valera-updated	Reina Valera Actualizada 1989
 reina-valera	Reina-Valera
 restored-name-king-james-version	Restored Name King James Version
 revised-geneva-translation	Revised Geneva Translation
+revised-new-jerusalem-bible	Revised New Jerusalem Bible
 revised-standard-version	Revised Standard Version
 ricciotti	Bibbia Ricciotti
 riveduta	Riveduta
@@ -183,11 +191,9 @@ sacy-bible	Bible de Sacy
 sagradas-escrituras	Sagradas Escrituras
 sainte-bible-libre	Sainte Bible libre pour le monde
 segond-21	Bible Segond 21
-segun-el-texto-bizantino	Según el Texto Bizantino
 simple-french-bible	Bible en français simple
 slowo-zycia	Słowo Życia
 smiths-literal-translation	Smith's Literal Translation
-soloweyczyk	Eliasz Sołoweyczyk (Ewangelia świętego Mateusza)
 spa-jerusalem-bible	Biblia de Jerusalén
 spa-new-world-translation	Traducción del Nuevo Mundo
 spanish-free-bible-for-the-world	Santa Biblia libre para el mundo
@@ -210,7 +216,7 @@ trench-epistles-gwc	The Trench Epistles GWC
 tyndale-bible	Tyndale Bible
 unlocked-literal-bible	Unlocked Literal Bible
 uwspolczesniona-biblia-gdanska	Uwspółcześniona Biblia Gdańska
-vigouroux	Bible Vigouroux
+valera-1602-purificada	Valera 1602 Purificada
 vw-edition-bible	VW-Edition Bible
 webster-bible	Webster's Bible
 weymouth-new-testament	Weymouth New Testament
@@ -220,5 +226,6 @@ worldwide-english-new-testament	Worldwide English (New Testament)
 worrell-new-testament	Worrell New Testament
 worsley-new-testament	Worsley New Testament
 wycliffe-bible	Wycliffe's Bible
+yahwehs-word	YAHWEH'S WORD
 yall-version-bible	Y'all Version Bible
 youngs-literal-translation	Young's Literal Translation

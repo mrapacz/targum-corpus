@@ -8,6 +8,14 @@
     "display_name": "21st Century King James Version"
   },
   {
+    "work_id": "african-international-new-testament-explanatory-paraphrase",
+    "display_name": "African International New Testament Explanatory Paraphrase"
+  },
+  {
+    "work_id": "african-international-new-testament-literal-translation",
+    "display_name": "African International New Testament Literal Translation"
+  },
+  {
     "work_id": "american-king-james-version",
     "display_name": "American King James Version"
   },
@@ -33,10 +41,6 @@
   },
   {
     "work_id": "berean-standard-bible",
-    "display_name": "Berean Standard Bible"
-  },
-  {
-    "work_id": "berean-study-bible",
     "display_name": "Berean Standard Bible"
   },
   {
@@ -88,12 +92,12 @@
     "display_name": "La Biblia (La Casa de la Biblia)"
   },
   {
-    "work_id": "biblia-del-jubileo",
-    "display_name": "Biblia del Jubileo"
-  },
-  {
     "work_id": "biblia-del-oso",
     "display_name": "Biblia del Oso"
+  },
+  {
+    "work_id": "biblia-ekumeniczna",
+    "display_name": "Biblia Ekumeniczna"
   },
   {
     "work_id": "biblia-gdanska",
@@ -110,6 +114,18 @@
   {
     "work_id": "biblia-libre",
     "display_name": "Versión Biblia Libre"
+  },
+  {
+    "work_id": "biblia-lubelska",
+    "display_name": "Biblia Lubelska"
+  },
+  {
+    "work_id": "biblia-mesjanska",
+    "display_name": "Biblia Mesjańska"
+  },
+  {
+    "work_id": "biblia-paulistow",
+    "display_name": "Biblia Paulistów"
   },
   {
     "work_id": "biblia-poznanska",
@@ -134,10 +150,6 @@
   {
     "work_id": "bovet-bonnet",
     "display_name": "Bible Bovet-Bonnet"
-  },
-  {
-    "work_id": "byzantine-text-version",
-    "display_name": "The Text-Critical English New Testament"
   },
   {
     "work_id": "catholic-public-domain-version",
@@ -212,6 +224,10 @@
     "display_name": "Stare i Nowe Przymierze (przekład literacki)"
   },
   {
+    "work_id": "ekumeniczny-przeklad-przyjaciol",
+    "display_name": "Ekumeniczny Przekład Przyjaciół"
+  },
+  {
     "work_id": "eng-darby-translation",
     "display_name": "Darby Translation"
   },
@@ -280,6 +296,10 @@
     "display_name": "Free Bible Version"
   },
   {
+    "work_id": "french-juxtalinear-new-testament",
+    "display_name": "French Juxtalinear New Testament"
+  },
+  {
     "work_id": "french-king-james-bible",
     "display_name": "Bible King James Française"
   },
@@ -293,7 +313,11 @@
   },
   {
     "work_id": "geneva-bible-fra",
-    "display_name": "Nouvelle Édition de Genève"
+    "display_name": "Bible de Genève"
+  },
+  {
+    "work_id": "glaire-bible",
+    "display_name": "Bible Glaire"
   },
   {
     "work_id": "godbey-new-testament",
@@ -376,10 +400,6 @@
     "display_name": "King James Version"
   },
   {
-    "work_id": "la-bibbia-della-gioia",
-    "display_name": "La Bibbia della Gioia"
-  },
-  {
     "work_id": "la-biblia-de-las-americas",
     "display_name": "La Biblia de las Américas"
   },
@@ -446,6 +466,10 @@
   {
     "work_id": "mace-new-testament",
     "display_name": "Mace New Testament"
+  },
+  {
+    "work_id": "majority-standard-bible",
+    "display_name": "Majority Standard Bible"
   },
   {
     "work_id": "majority-text-version",
@@ -564,6 +588,10 @@
     "display_name": "Nowy Przekład Dynamiczny"
   },
   {
+    "work_id": "nowy-testament-popowskiego",
+    "display_name": "Nowy Testament Popowskiego"
+  },
+  {
     "work_id": "noyes-bible",
     "display_name": "Noyes Bible"
   },
@@ -588,8 +616,16 @@
     "display_name": "Nueva Traducción Viviente"
   },
   {
+    "work_id": "nueva-version-internacional-simplificada",
+    "display_name": "Nueva Versión Internacional Simplificada"
+  },
+  {
     "work_id": "nueva-version-internacional",
     "display_name": "Nueva Versión Internacional"
+  },
+  {
+    "work_id": "nuevo-testamento-segun-el-texto-bizantino",
+    "display_name": "Nuevo Testamento: Según el Texto Bizantino"
   },
   {
     "work_id": "nuova-diodati",
@@ -668,10 +704,6 @@
     "display_name": "Reina Valera Actualizada"
   },
   {
-    "work_id": "reina-valera-antigua",
-    "display_name": "Reina-Valera Antigua"
-  },
-  {
     "work_id": "reina-valera-contemporanea",
     "display_name": "Reina Valera Contemporánea"
   },
@@ -688,10 +720,6 @@
     "display_name": "Reina-Valera 1865"
   },
   {
-    "work_id": "reina-valera-updated",
-    "display_name": "Reina Valera Actualizada 1989"
-  },
-  {
     "work_id": "reina-valera",
     "display_name": "Reina-Valera"
   },
@@ -702,6 +730,10 @@
   {
     "work_id": "revised-geneva-translation",
     "display_name": "Revised Geneva Translation"
+  },
+  {
+    "work_id": "revised-new-jerusalem-bible",
+    "display_name": "Revised New Jerusalem Bible"
   },
   {
     "work_id": "revised-standard-version",
@@ -736,10 +768,6 @@
     "display_name": "Bible Segond 21"
   },
   {
-    "work_id": "segun-el-texto-bizantino",
-    "display_name": "Según el Texto Bizantino"
-  },
-  {
     "work_id": "simple-french-bible",
     "display_name": "Bible en français simple"
   },
@@ -750,10 +778,6 @@
   {
     "work_id": "smiths-literal-translation",
     "display_name": "Smith's Literal Translation"
-  },
-  {
-    "work_id": "soloweyczyk",
-    "display_name": "Eliasz Sołoweyczyk (Ewangelia świętego Mateusza)"
   },
   {
     "work_id": "spa-jerusalem-bible",
@@ -844,8 +868,8 @@
     "display_name": "Uwspółcześniona Biblia Gdańska"
   },
   {
-    "work_id": "vigouroux",
-    "display_name": "Bible Vigouroux"
+    "work_id": "valera-1602-purificada",
+    "display_name": "Valera 1602 Purificada"
   },
   {
     "work_id": "vw-edition-bible",
@@ -882,6 +906,10 @@
   {
     "work_id": "wycliffe-bible",
     "display_name": "Wycliffe's Bible"
+  },
+  {
+    "work_id": "yahwehs-word",
+    "display_name": "YAHWEH'S WORD"
   },
   {
     "work_id": "yall-version-bible",

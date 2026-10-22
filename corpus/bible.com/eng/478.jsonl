@@ -17,10 +17,10 @@
 {"book": "MAT", "chapter": 1, "verse": "17", "text": "All the generations, therefore, from Abraham to David were fourteen generations; and from David until the carrying away of Babylon, fourteen generations; and from the carrying away of Babylon unto the Christ, fourteen generations."}
 {"book": "MAT", "chapter": 1, "verse": "18", "text": "Now the birth of Jesus Christ was thus: His mother, Mary, that is, having been betrothed to Joseph, before they came together, she was found to be with child of the Holy Spirit."}
 {"book": "MAT", "chapter": 1, "verse": "19", "text": "But Joseph, her husband, being a righteous man, and unwilling to expose her publicly, purposed to have put her away secretly;"}
-{"book": "MAT", "chapter": 1, "verse": "20", "text": "but while he pondered on these things, behold, an angel of the Lord appeared to him in a dream, saying, Joseph, son of David, fear not to take to thee Mary, thy wife, for that which is begotten in her is of the Holy Spirit."}
+{"book": "MAT", "chapter": 1, "verse": "20", "text": "but while he pondered on these things, behold, an angel of the Lord appeared to him in a dream, saying, Joseph, son of David, fear not to take to thee Mary, thy wife, for that which is begotten in her is of theHoly Spirit."}
 {"book": "MAT", "chapter": 1, "verse": "21", "text": "And she shall bring forth a son, and thou shalt call his name Jesus, for he shall save his people from their sins."}
 {"book": "MAT", "chapter": 1, "verse": "22", "text": "Now all this came to pass that that might be fulfilled which was spoken by the Lord, through the prophet, saying,"}
-{"book": "MAT", "chapter": 1, "verse": "23", "text": "Behold, the virgin shall be with child, and shall bring forth a son, and they shall call his name Emmanuel, which is, being interpreted, ‘God with us.’"}
+{"book": "MAT", "chapter": 1, "verse": "23", "text": "Behold, the virgin shall be with child, and shall bring forth a son, and they shall call his name Emmanuel, which is, being interpreted, 'God with us.'"}
 {"book": "MAT", "chapter": 1, "verse": "24", "text": "But Joseph, having awoke up from his sleep, did as the angel of the Lord had enjoined him, and took to him his wife,"}
 {"book": "MAT", "chapter": 1, "verse": "25", "text": "and knew her not until she had brought forth her firstborn son: and he called his name Jesus."}
 {"book": "MAT", "chapter": 2, "verse": "1", "text": "Now Jesus having been born in Bethlehem of Judaea, in the days of Herod the king, behold magi from the east arrived at Jerusalem, saying,"}
@@ -44,7 +44,7 @@
 {"book": "MAT", "chapter": 2, "verse": "19", "text": "But Herod having died, behold, an angel of the Lord appears in a dream to Joseph in Egypt, saying,"}
 {"book": "MAT", "chapter": 2, "verse": "20", "text": "Arise, take to thee the little child and its mother, and go into the land of Israel: for they who sought the life of the little child are dead."}
 {"book": "MAT", "chapter": 2, "verse": "21", "text": "And he arose and took to him the little child and its mother, and came into the land of Israel;"}
-{"book": "MAT", "chapter": 2, "verse": "22", "text": "but having heard that ‘Archelaus reigns over Judaea, instead of Herod his father,’ he was afraid to go there; and having been divinely instructed in a dream, he went away into the parts of Galilee,"}
+{"book": "MAT", "chapter": 2, "verse": "22", "text": "but having heard that 'Archelaus reigns over Judaea, instead of Herod his father,' he was afraid to go there; and having been divinely instructed in a dream, he went away into the parts of Galilee,"}
 {"book": "MAT", "chapter": 2, "verse": "23", "text": "and came and dwelt in a town called Nazareth; so that that should be fulfilled which was spoken through the prophets, He shall be called a Nazaraene."}
 {"book": "MAT", "chapter": 3, "verse": "1", "text": "Now in those days comes John the baptist, preaching in the wilderness of Judaea,"}
 {"book": "MAT", "chapter": 3, "verse": "2", "text": "and saying, Repent, for the kingdom of the heavens has drawn nigh."}
@@ -469,7 +469,7 @@
 {"book": "MAT", "chapter": 14, "verse": "16", "text": "But Jesus said to them, They have no need to go: give ye them to eat."}
 {"book": "MAT", "chapter": 14, "verse": "17", "text": "But they say to him, We have not here save five loaves and two fishes."}
 {"book": "MAT", "chapter": 14, "verse": "18", "text": "And he said, Bring them here to me."}
-{"book": "MAT", "chapter": 14, "verse": "19", "text": "And having commanded the crowds to recline upon the grass, having taken the five loaves and the two fishes, he looked up to heaven, and blessed: and having broken the loaves, he gave them to the disciples, and the disciples gave them to the crowds."}
+{"book": "MAT", "chapter": 14, "verse": "19", "text": "And having commanded the crowds to recline upon the grass, having taken the five loaves and the two fishes, he looked up to heaven, and blessed: and having broken the loaves, he gave themto the disciples, and the disciples gave them to the crowds."}
 {"book": "MAT", "chapter": 14, "verse": "20", "text": "And all ate and were filled, and they took up what was over and above of fragments twelve hand-baskets full."}
 {"book": "MAT", "chapter": 14, "verse": "21", "text": "But those that had eaten were about five thousand men, besides women and children."}
 {"book": "MAT", "chapter": 14, "verse": "22", "text": "And immediately he compelled the disciples to go on board ship, and to go on before him to the other side, until he should have dismissed the crowds."}
@@ -785,7 +785,6 @@
 {"book": "MAT", "chapter": 23, "verse": "11", "text": "But the greatest of you shall be your servant."}
 {"book": "MAT", "chapter": 23, "verse": "12", "text": "And whoever shall exalt himself shall be humbled, and whoever shall humble himself shall be exalted."}
 {"book": "MAT", "chapter": 23, "verse": "13", "text": "But woe unto you, scribes and Pharisees, hypocrites, for ye shut up the kingdom of the heavens before men; for ye do not enter, nor do ye suffer those that are entering to go in."}
-{"book": "MAT", "chapter": 23, "verse": "14", "text": ""}
 {"book": "MAT", "chapter": 23, "verse": "15", "text": "Woe to you, scribes and Pharisees, hypocrites, for ye compass the sea and the dry land to make one proselyte, and when he is become such, ye make him twofold more the son of hell than yourselves."}
 {"book": "MAT", "chapter": 23, "verse": "16", "text": "Woe to you, blind guides, who say, Whosoever shall swear by the temple, it is nothing; but whosoever shall swear by the gold of the temple, he is a debtor."}
 {"book": "MAT", "chapter": 23, "verse": "17", "text": "Fools and blind, for which is greater, the gold, or the temple which sanctifies the gold?"}
@@ -1274,7 +1273,7 @@
 {"book": "MRK", "chapter": 6, "verse": "11", "text": "And whatsoever place shall not receive you nor hear you, departing thence, shake off the dust which is under your feet for a testimony to them."}
 {"book": "MRK", "chapter": 6, "verse": "12", "text": "And they went forth and preached that they should repent;"}
 {"book": "MRK", "chapter": 6, "verse": "13", "text": "and they cast out many demons, and anointed with oil many infirm, and healed them."}
-{"book": "MRK", "chapter": 6, "verse": "14", "text": "And Herod the king heard of him(for his name had become public), and said, John the baptist is risen from among the dead, and on this account works of power are wrought by him."}
+{"book": "MRK", "chapter": 6, "verse": "14", "text": "And Herod the king heard of him (for his name had become public), and said, John the baptist is risen from among the dead, and on this account works of power are wrought by him."}
 {"book": "MRK", "chapter": 6, "verse": "15", "text": "And others said, It is Elias; and others said, It is a prophet, as one of the prophets."}
 {"book": "MRK", "chapter": 6, "verse": "16", "text": "But Herod when he heard it said, John whom I beheaded, he it is; he is risen from among the dead."}
 {"book": "MRK", "chapter": 6, "verse": "17", "text": "For the same Herod had sent and seized John, and had bound him in prison on account of Herodias, the wife of Philip his brother, because he had married her."}
@@ -1324,7 +1323,7 @@
 {"book": "MRK", "chapter": 7, "verse": "5", "text": "then the Pharisees and the scribes ask him, Why do thy disciples not walk according to what has been delivered by the ancients, but eat the bread with defiled hands?"}
 {"book": "MRK", "chapter": 7, "verse": "6", "text": "But he answering said to them, Well did Esaias prophesy concerning you hypocrites, as it is written, This people honour me with their lips, but their heart is far away from me."}
 {"book": "MRK", "chapter": 7, "verse": "7", "text": "But in vain do they worship me, teaching as their teachings commandments of men."}
-{"book": "MRK", "chapter": 7, "verse": "8", "text": "For, leaving the commandment of God, ye hold what is delivered by men to keep— washings of vessels and cups, and many other such like things ye do."}
+{"book": "MRK", "chapter": 7, "verse": "8", "text": "For, leaving the commandment of God, ye hold what is delivered by men to keep — washings of vessels and cups, and many other such like things ye do."}
 {"book": "MRK", "chapter": 7, "verse": "9", "text": "And he said to them, Well do ye set aside the commandment of God, that ye may observe what is delivered by yourselves to keep."}
 {"book": "MRK", "chapter": 7, "verse": "10", "text": "For Moses said, Honour thy father and thy mother; and, he who speaks ill of father or mother, let him surely die."}
 {"book": "MRK", "chapter": 7, "verse": "11", "text": "But ye say, If a man say to his father or his mother, It is corban (that is, gift), whatsoever thou mightest have profit from me by..."}
@@ -1414,7 +1413,7 @@
 {"book": "MRK", "chapter": 9, "verse": "20", "text": "And they brought him to him. And seeing him the spirit immediately tore him; and falling upon the earth he rolled foaming."}
 {"book": "MRK", "chapter": 9, "verse": "21", "text": "And he asked his father, How long a time is it that it has been like this with him? And he said, From childhood;"}
 {"book": "MRK", "chapter": 9, "verse": "22", "text": "and often it has cast him both into fire and into waters that it might destroy him: but if thou couldst do anything, be moved with pity on us, and help us."}
-{"book": "MRK", "chapter": 9, "verse": "23", "text": "And Jesus said to him, The ‘if thou couldst’ is if thou couldst believe: all things are possible to him that believes."}
+{"book": "MRK", "chapter": 9, "verse": "23", "text": "And Jesus said to him, The 'if thou couldst' is if thou couldst believe: all things are possible to him that believes."}
 {"book": "MRK", "chapter": 9, "verse": "24", "text": "And immediately the father of the young child crying out said with tears, I believe, help mine unbelief."}
 {"book": "MRK", "chapter": 9, "verse": "25", "text": "But Jesus, seeing that the crowd was running up together, rebuked the unclean spirit, saying to him, Thou dumb and deaf spirit, I command thee, come out of him, and enter no more into him."}
 {"book": "MRK", "chapter": 9, "verse": "26", "text": "And having cried out and torn him much, he came out; and he became as if dead, so that the most said, He is dead."}
@@ -1788,7 +1787,7 @@
 {"book": "LUK", "chapter": 1, "verse": "39", "text": "And Mary, rising up in those days, went into the hill country with haste, to a city of Judah,"}
 {"book": "LUK", "chapter": 1, "verse": "40", "text": "and entered into the house of Zacharias, and saluted Elizabeth."}
 {"book": "LUK", "chapter": 1, "verse": "41", "text": "And it came to pass, as Elizabeth heard the salutation of Mary, the babe leaped in her womb; and Elizabeth was filled with the Holy Spirit,"}
-{"book": "LUK", "chapter": 1, "verse": "42", "text": "and cried out with a loud voice and said, Blessed art thou amongst women, and blessed the fruit of thy womb."}
+{"book": "LUK", "chapter": 1, "verse": "42", "text": "and cried out with a loud voice and said, Blessed artthou amongst women, and blessed the fruit of thy womb."}
 {"book": "LUK", "chapter": 1, "verse": "43", "text": "And whence is this to me, that the mother of my Lord should come to me?"}
 {"book": "LUK", "chapter": 1, "verse": "44", "text": "For behold, as the voice of thy salutation sounded in my ears, the babe leaped with joy in my womb."}
 {"book": "LUK", "chapter": 1, "verse": "45", "text": "And blessed is she that has believed, for there shall be a fulfilment of the things spoken to her from the Lord."}
@@ -1934,7 +1933,7 @@
 {"book": "LUK", "chapter": 4, "verse": "15", "text": "and he taught in their synagogues, being glorified of all."}
 {"book": "LUK", "chapter": 4, "verse": "16", "text": "And he came to Nazareth, where he was brought up; and he entered, according to his custom, into the synagogue on the sabbath day, and stood up to read."}
 {"book": "LUK", "chapter": 4, "verse": "17", "text": "And the book of the prophet Esaias was given to him; and having unrolled the book he found the place where it was written,"}
-{"book": "LUK", "chapter": 4, "verse": "18", "text": "The Spirit of the Lord is upon me, because he has anointed me to preach glad tidings to the poor; he has sent me to preach to captives deliverance, and to the blind sight, to send forth the crushed delivered,"}
+{"book": "LUK", "chapter": 4, "verse": "18", "text": "The Spirit of the Lord is upon me, because he has anointed me to preach glad tidings to the poor; he has sent me to preach to captives deliverance, and to theblind sight, to send forth the crushed delivered,"}
 {"book": "LUK", "chapter": 4, "verse": "19", "text": "to preach the acceptable year of the Lord."}
 {"book": "LUK", "chapter": 4, "verse": "20", "text": "And having rolled up the book, when he had delivered it up to the attendant, he sat down; and the eyes of all in the synagogue were fixed upon him."}
 {"book": "LUK", "chapter": 4, "verse": "21", "text": "And he began to say to them, To-day this scripture is fulfilled in your ears."}
@@ -2360,7 +2359,7 @@
 {"book": "LUK", "chapter": 12, "verse": "45", "text": "But if that bondman should say in his heart, My lord delays to come, and begin to beat the menservants and the maidservants, and to eat and to drink and to be drunken,"}
 {"book": "LUK", "chapter": 12, "verse": "46", "text": "the lord of that bondman shall come in a day when he does not expect it, and in an hour he knows not of, and shall cut him in two and appoint his portion with the unbelievers."}
 {"book": "LUK", "chapter": 12, "verse": "47", "text": "But that bondman who knew his own lord's will, and had not prepared himself nor done his will, shall be beaten with many stripes;"}
-{"book": "LUK", "chapter": 12, "verse": "48", "text": "but he who knew it not, and did things worthy of stripes, shall be beaten with few. And to every one to whom much has been given, much shall be required from him; and to whom men have committed much, they will ask from him the more."}
+{"book": "LUK", "chapter": 12, "verse": "48", "text": "but he who knew it not, and did things worthy of stripes, shall be beaten with few. And to every one to whom much has been given, much shall be required from him; and to whom menhave committed much, they will ask from him the more."}
 {"book": "LUK", "chapter": 12, "verse": "49", "text": "I have come to cast a fire on the earth; and what will I if already it has been kindled?"}
 {"book": "LUK", "chapter": 12, "verse": "50", "text": "But I have a baptism to be baptised with, and how am I straitened until it shall have been accomplished!"}
 {"book": "LUK", "chapter": 12, "verse": "51", "text": "Think ye that I have come to give peace in the earth? Nay, I say to you, but rather division:"}
@@ -3758,7 +3757,7 @@
 {"book": "JHN", "chapter": 21, "verse": "4", "text": "And early morn already breaking, Jesus stood on the shore; the disciples however did not know that it was Jesus."}
 {"book": "JHN", "chapter": 21, "verse": "5", "text": "Jesus therefore says to them, Children, have ye anything to eat? They answered him, No."}
 {"book": "JHN", "chapter": 21, "verse": "6", "text": "And he said to them, Cast the net at the right side of the ship and ye will find. They cast therefore, and they could no longer draw it, from the multitude of fishes."}
-{"book": "JHN", "chapter": 21, "verse": "7", "text": "That disciple therefore whom Jesus loved says to Peter, It is the Lord. Simon Peter therefore, having heard that it was the Lord, girded his overcoat on him(for he was naked), and cast himself into the sea;"}
+{"book": "JHN", "chapter": 21, "verse": "7", "text": "That disciple therefore whom Jesus loved says to Peter, It is the Lord. Simon Peter therefore, having heard that it was the Lord, girded his overcoat on him (for he was naked), and cast himself into the sea;"}
 {"book": "JHN", "chapter": 21, "verse": "8", "text": "and the other disciples came in the small boat, for they were not far from the land, but somewhere about two hundred cubits, dragging the net of fishes."}
 {"book": "JHN", "chapter": 21, "verse": "9", "text": "When therefore they went out on the land, they see a fire of coals there, and fish laid on it, and bread."}
 {"book": "JHN", "chapter": 21, "verse": "10", "text": "Jesus says to them, Bring of the fishes which ye have now taken."}
@@ -4066,7 +4065,6 @@
 {"book": "ACT", "chapter": 8, "verse": "34", "text": "And the eunuch answering Philip said, I pray thee, concerning whom does the prophet say this? of himself or of some other?"}
 {"book": "ACT", "chapter": 8, "verse": "35", "text": "And Philip, opening his mouth and beginning from that scripture, announced the glad tidings of Jesus to him."}
 {"book": "ACT", "chapter": 8, "verse": "36", "text": "And as they went along the way, they came upon a certain water, and the eunuch says, Behold water; what hinders my being baptised?"}
-{"book": "ACT", "chapter": 8, "verse": "37", "text": ""}
 {"book": "ACT", "chapter": 8, "verse": "38", "text": "And he commanded the chariot to stop. And they went down both to the water, both Philip and the eunuch, and he baptised him."}
 {"book": "ACT", "chapter": 8, "verse": "39", "text": "But when they came up out of the water the Spirit of the Lord caught away Philip, and the eunuch saw him no longer, for he went on his way rejoicing."}
 {"book": "ACT", "chapter": 8, "verse": "40", "text": "And Philip was found at Azotus, and passing through he announced the glad tidings to all the cities till he came to Caesarea."}
@@ -4086,7 +4084,7 @@
 {"book": "ACT", "chapter": 9, "verse": "14", "text": "and here he has authority from the chief priests to bind all who call upon thy name."}
 {"book": "ACT", "chapter": 9, "verse": "15", "text": "And the Lord said to him, Go, for this man is an elect vessel to me, to bear my name before both nations and kings and the sons of Israel:"}
 {"book": "ACT", "chapter": 9, "verse": "16", "text": "for I will shew to him how much he must suffer for my name."}
-{"book": "ACT", "chapter": 9, "verse": "17", "text": "And Ananias went and entered into the house; and laying his hands upon him he said, Saul, brother, the Lord has sent me, Jesus that appeared to thee in the way in which thou camest, that thou mightest see, and be filled with the Holy Spirit."}
+{"book": "ACT", "chapter": 9, "verse": "17", "text": "And Ananias went and entered into the house; and laying his hands upon him he said, Saul, brother, the Lord has sent me, Jesus that appeared to thee in the way in which thou camest, that thou mightest see, and be filled with theHoly Spirit."}
 {"book": "ACT", "chapter": 9, "verse": "18", "text": "And straightway there fell from his eyes as it were scales, and he saw, and rising up was baptised;"}
 {"book": "ACT", "chapter": 9, "verse": "19", "text": "and, having received food, got strength. And he was with the disciples who were in Damascus certain days."}
 {"book": "ACT", "chapter": 9, "verse": "20", "text": "And straightway in the synagogues he preached Jesus that he is the Son of God."}
@@ -4148,7 +4146,7 @@
 {"book": "ACT", "chapter": 10, "verse": "33", "text": "Immediately therefore I sent to thee, and thou hast well done in coming. Now therefore we are all present before God to hear all things that are commanded thee of God."}
 {"book": "ACT", "chapter": 10, "verse": "34", "text": "And Peter opening his mouth said, Of a truth I perceive that God is no respecter of persons,"}
 {"book": "ACT", "chapter": 10, "verse": "35", "text": "but in every nation he that fears him and works righteousness is acceptable to him."}
-{"book": "ACT", "chapter": 10, "verse": "36", "text": "The word which he sent to the sons of Israel, preaching peace by Jesus Christ, ( he is Lord of all things,)"}
+{"book": "ACT", "chapter": 10, "verse": "36", "text": "The word which he sent to the sons of Israel, preaching peace by Jesus Christ, (he is Lord of all things,)"}
 {"book": "ACT", "chapter": 10, "verse": "37", "text": "ye know; the testimony which has spread through the whole of Judaea, beginning from Galilee after the baptism which John preached —"}
 {"book": "ACT", "chapter": 10, "verse": "38", "text": "Jesus who was of Nazareth: how God anointed him with the Holy Spirit and with power; who went through all quarters doing good, and healing all that were under the power of the devil, because God was with him."}
 {"book": "ACT", "chapter": 10, "verse": "39", "text": "We also are witnesses of all things which he did both in the country of the Jews and in Jerusalem; whom they also slew, having hanged him on a cross."}
@@ -4329,7 +4327,6 @@
 {"book": "ACT", "chapter": 15, "verse": "31", "text": "And having read it, they rejoiced at the consolation."}
 {"book": "ACT", "chapter": 15, "verse": "32", "text": "And Judas and Silas, being themselves also prophets, exhorted the brethren with much discourse, and strengthened them."}
 {"book": "ACT", "chapter": 15, "verse": "33", "text": "And having passed some time there, they were let go in peace from the brethren to those who sent them."}
-{"book": "ACT", "chapter": 15, "verse": "34", "text": ""}
 {"book": "ACT", "chapter": 15, "verse": "35", "text": "And Paul and Barnabas stayed in Antioch, teaching and announcing the glad tidings, with many others also, of the word of the Lord."}
 {"book": "ACT", "chapter": 15, "verse": "36", "text": "But after certain days Paul said to Barnabas, Let us return now and visit the brethren in every city where we have announced the word of the Lord, and see how they are getting on."}
 {"book": "ACT", "chapter": 15, "verse": "37", "text": "And Barnabas proposed to take with them John also, called Mark;"}
@@ -4425,7 +4422,7 @@
 {"book": "ACT", "chapter": 18, "verse": "12", "text": "But when Gallio was proconsul of Achaia, the Jews with one consent rose against Paul and led him to the judgment-seat,"}
 {"book": "ACT", "chapter": 18, "verse": "13", "text": "saying, This man persuades men to worship God contrary to the law."}
 {"book": "ACT", "chapter": 18, "verse": "14", "text": "But as Paul was going to open his mouth, Gallio said to the Jews, If indeed it was some wrong or wicked criminality, O Jews, of reason I should have borne with you;"}
-{"book": "ACT", "chapter": 18, "verse": "15", "text": "but if it be questions about words, and names, and the law that ye have, see to it yourselves; for I do not intend to be judge of these things."}
+{"book": "ACT", "chapter": 18, "verse": "15", "text": "but if it be questions about words, and names, and the law that ye have, see to it yourselves; forI do not intend to be judge of these things."}
 {"book": "ACT", "chapter": 18, "verse": "16", "text": "And he drove them from the judgment-seat."}
 {"book": "ACT", "chapter": 18, "verse": "17", "text": "And having all laid hold on Sosthenes the ruler of the synagogue, they beat him before the judgment-seat. And Gallio troubled himself about none of these things."}
 {"book": "ACT", "chapter": 18, "verse": "18", "text": "And Paul, having yet stayed there many days, took leave of the brethren and sailed thence to Syria, and with him Priscilla and Aquila, having shorn his head in Cenchrea, for he had a vow;"}
@@ -4508,7 +4505,7 @@
 {"book": "ACT", "chapter": 20, "verse": "26", "text": "Wherefore I witness to you this day, that I am clean from the blood of all,"}
 {"book": "ACT", "chapter": 20, "verse": "27", "text": "for I have not shrunk from announcing to you all the counsel of God."}
 {"book": "ACT", "chapter": 20, "verse": "28", "text": "Take heed therefore to yourselves, and to all the flock, wherein the Holy Spirit has set you as overseers, to shepherd the assembly of God, which he has purchased with the blood of his own."}
-{"book": "ACT", "chapter": 20, "verse": "29", "text": "For I know this, that there will come in amongst you after my departure grievous wolves, not sparing the flock;"}
+{"book": "ACT", "chapter": 20, "verse": "29", "text": "ForI know this, that there will come in amongst you after my departure grievous wolves, not sparing the flock;"}
 {"book": "ACT", "chapter": 20, "verse": "30", "text": "and from among your own selves shall rise up men speaking perverted things to draw away the disciples after them."}
 {"book": "ACT", "chapter": 20, "verse": "31", "text": "Wherefore watch, remembering that for three years, night and day, I ceased not admonishing each one of you with tears."}
 {"book": "ACT", "chapter": 20, "verse": "32", "text": "And now I commit you to God, and to the word of his grace, which is able to build you up and give to you an inheritance among all the sanctified."}
@@ -4915,7 +4912,7 @@
 {"book": "ROM", "chapter": 5, "verse": "12", "text": "For this cause, even as by one man sin entered into the world, and by sin death; and thus death passed upon all men, for that all have sinned:"}
 {"book": "ROM", "chapter": 5, "verse": "13", "text": "(for until law sin was in the world; but sin is not put to account when there is no law;"}
 {"book": "ROM", "chapter": 5, "verse": "14", "text": "but death reigned from Adam until Moses, even upon those who had not sinned in the likeness of Adam's transgression, who is the figure of him to come."}
-{"book": "ROM", "chapter": 5, "verse": "15", "text": "But shall not the act of favour be as the offence? For if by the offence of one the many have died, much rather has the grace of God, and the free gift in grace, which is by the one man Jesus Christ, abounded unto the many."}
+{"book": "ROM", "chapter": 5, "verse": "15", "text": "But shall not the act of favour be as the offence? For if by the offence of one the many have died, much rather has the grace of God, and the free gift in grace, which isby the one man Jesus Christ, abounded unto the many."}
 {"book": "ROM", "chapter": 5, "verse": "16", "text": "And shall not as by one that has sinned be the gift? For the judgment was of one to condemnation, but the act of favour, of many offences unto justification."}
 {"book": "ROM", "chapter": 5, "verse": "17", "text": "For if by the offence of the one death reigned by the one, much rather shall those who receive the abundance of grace, and of the free gift of righteousness, reign in life by the one Jesus Christ:)"}
 {"book": "ROM", "chapter": 5, "verse": "18", "text": "so then as it was by one offence towards all men to condemnation, so by one righteousness towards all men for justification of life."}
@@ -5084,7 +5081,7 @@
 {"book": "ROM", "chapter": 11, "verse": "19", "text": "Thou wilt say then, The branches have been broken out in order that I might be grafted in."}
 {"book": "ROM", "chapter": 11, "verse": "20", "text": "Right: they have been broken out through unbelief, and thou standest through faith. Be not high-minded, but fear:"}
 {"book": "ROM", "chapter": 11, "verse": "21", "text": "if God indeed has not spared the natural branches; lest it might be he spare not thee either."}
-{"book": "ROM", "chapter": 11, "verse": "22", "text": "Behold then the goodness and severity of God: upon them who have fallen, severity; upon thee goodness of God, if thou shalt abide in goodness, since otherwise thou also wilt be cut away."}
+{"book": "ROM", "chapter": 11, "verse": "22", "text": "Behold then the goodness and severity of God: upon them who have fallen, severity; upon thee goodness of God, if thou shalt abide in goodness, since otherwisethou also wilt be cut away."}
 {"book": "ROM", "chapter": 11, "verse": "23", "text": "And they too, if they abide not in unbelief, shall be grafted in; for God is able again to graft them in."}
 {"book": "ROM", "chapter": 11, "verse": "24", "text": "For if thou hast been cut out of the olive tree wild by nature, and, contrary to nature, hast been grafted into the good olive tree, how much rather shall they, who are according to nature be grafted into their own olive tree?"}
 {"book": "ROM", "chapter": 11, "verse": "25", "text": "For I do not wish you to be ignorant, brethren, of this mystery, that ye may not be wise in your own conceits, that blindness in part is happened to Israel, until the fulness of the nations be come in;"}
@@ -5291,8 +5288,8 @@
 {"book": "1CO", "chapter": 4, "verse": "2", "text": "Here, further, it is sought in stewards, that a man be found faithful."}
 {"book": "1CO", "chapter": 4, "verse": "3", "text": "But for me it is the very smallest matter that I be examined of you or of man's day. Nor do I even examine myself."}
 {"book": "1CO", "chapter": 4, "verse": "4", "text": "For I am conscious of nothing in myself; but I am not justified by this: but he that examines me is the Lord."}
-{"book": "1CO", "chapter": 4, "verse": "5", "text": "So that do not judge anything before the time, until the Lord shall come, who shall also both bring to light the hidden things of darkness, and shall make manifest the counsels of hearts; and then shall each have his praise from God."}
-{"book": "1CO", "chapter": 4, "verse": "6", "text": "Now these things, brethren, I have transferred, in their application, to myself and Apollos, for your sakes, that ye may learn in us the lesson of not letting your thoughts go above what is written, that ye may not be puffed up one for such a one against another."}
+{"book": "1CO", "chapter": 4, "verse": "5", "text": "So that do not judge anything before the time, until the Lord shall come, who shall also both bring to light the hidden things of darkness, and shall make manifest the counsels of hearts; and then shall each have hispraise from God."}
+{"book": "1CO", "chapter": 4, "verse": "6", "text": "Now these things, brethren, I have transferred, in their application, to myself and Apollos, for your sakes, that ye may learn in us the lesson of not letting your thoughts goabove what is written, that ye may not be puffed up one for such a one against another."}
 {"book": "1CO", "chapter": 4, "verse": "7", "text": "For who makes thee to differ? and what hast thou which thou hast not received? but if also thou hast received, why boastest thou as not receiving?"}
 {"book": "1CO", "chapter": 4, "verse": "8", "text": "Already ye are filled; already ye have been enriched; ye have reigned without us; and I would that ye reigned, that we also might reign with you."}
 {"book": "1CO", "chapter": 4, "verse": "9", "text": "For I think that God has set us the apostles for the last, as appointed to death. For we have become a spectacle to the world, both to angels and men."}
@@ -5433,7 +5430,7 @@
 {"book": "1CO", "chapter": 10, "verse": "10", "text": "Neither murmur ye, as some of them murmured, and perished by the destroyer."}
 {"book": "1CO", "chapter": 10, "verse": "11", "text": "Now all these things happened to them as types, and have been written for our admonition, upon whom the ends of the ages are come."}
 {"book": "1CO", "chapter": 10, "verse": "12", "text": "So that let him that thinks that he stands take heed lest he fall."}
-{"book": "1CO", "chapter": 10, "verse": "13", "text": "No temptation has taken you but such as is according to man's nature; and God is faithful, who will not suffer you to be tempted above what ye are able to bear, but will with the temptation make the issue also, so that ye should be able to bear it."}
+{"book": "1CO", "chapter": 10, "verse": "13", "text": "No temptation has taken you but such as is according to man's nature; and God is faithful, who will not suffer you to be tempted above what ye are able to bear, but will with the temptation make the issue also, so that yeshould be able to bear it."}
 {"book": "1CO", "chapter": 10, "verse": "14", "text": "Wherefore, my beloved, flee from idolatry."}
 {"book": "1CO", "chapter": 10, "verse": "15", "text": "I speak as to intelligent persons: do ye judge what I say."}
 {"book": "1CO", "chapter": 10, "verse": "16", "text": "The cup of blessing which we bless, is it not the communion of the blood of the Christ? The bread which we break, is it not the communion of the body of the Christ?"}
@@ -5868,7 +5865,7 @@
 {"book": "2CO", "chapter": 11, "verse": "23", "text": "Are they ministers of Christ? (I speak as being beside myself) I above measure so; in labours exceedingly abundant, in stripes to excess, in prisons exceedingly abundant, in deaths oft."}
 {"book": "2CO", "chapter": 11, "verse": "24", "text": "From the Jews five times have I received forty stripes, save one."}
 {"book": "2CO", "chapter": 11, "verse": "25", "text": "Thrice have I been scourged, once I have been stoned, three times I have suffered shipwreck, a night and day I passed in the deep:"}
-{"book": "2CO", "chapter": 11, "verse": "26", "text": "in journeyings often, in perils of rivers, in perils of robbers, in perils from my own race, in perils from the nations, in perils in the city, in perils in the desert, in perils on the sea, in perils among false brethren;"}
+{"book": "2CO", "chapter": 11, "verse": "26", "text": "in journeyings often, in perils of rivers, in perils of robbers, in perils from my own race, in perils from the nations, in perils in the city, in perils in thedesert, in perils on the sea, in perils among false brethren;"}
 {"book": "2CO", "chapter": 11, "verse": "27", "text": "in labour and toil, in watchings often, in hunger and thirst, in fastings often, in cold and nakedness."}
 {"book": "2CO", "chapter": 11, "verse": "28", "text": "Besides those things that are without, the crowd of cares pressing on me daily, the burden of all the assemblies."}
 {"book": "2CO", "chapter": 11, "verse": "29", "text": "Who is weak, and I am not weak? Who is stumbled, and I burn not?"}
@@ -5943,7 +5940,7 @@
 {"book": "GAL", "chapter": 2, "verse": "6", "text": "But from those who were conspicuous as being somewhat — whatsoever they were, it makes no difference to me: God does not accept man's person; for to me those who were conspicuous communicated nothing;"}
 {"book": "GAL", "chapter": 2, "verse": "7", "text": "but, on the contrary, seeing that the glad tidings of the uncircumcision were confided to me, even as to Peter that of the circumcision,"}
 {"book": "GAL", "chapter": 2, "verse": "8", "text": "(for he that wrought in Peter for the apostleship of the circumcision wrought also in me towards the Gentiles,)"}
-{"book": "GAL", "chapter": 2, "verse": "9", "text": "and recognising the grace given to me, James and Cephas and John, who were conspicuous as being pillars, gave to me and Barnabas the right hands of fellowship, that we should go to the nations, and they to the circumcision;"}
+{"book": "GAL", "chapter": 2, "verse": "9", "text": "and recognising the grace given to me, James and Cephas and John, who were conspicuous as being pillars, gave to me and Barnabas the right hands of fellowship, that we should goto the nations, and they to the circumcision;"}
 {"book": "GAL", "chapter": 2, "verse": "10", "text": "only that we should remember the poor, which same thing also I was diligent to do."}
 {"book": "GAL", "chapter": 2, "verse": "11", "text": "But when Peter came to Antioch, I withstood him to the face, because he was to be condemned:"}
 {"book": "GAL", "chapter": 2, "verse": "12", "text": "for before that certain came from James, he ate with those of the nations; but when they came, he drew back and separated himself, fearing those of the circumcision;"}
@@ -6303,7 +6300,7 @@
 {"book": "PHP", "chapter": 4, "verse": "5", "text": "Let your gentleness be known of all men. The Lord is near."}
 {"book": "PHP", "chapter": 4, "verse": "6", "text": "Be careful about nothing; but in everything, by prayer and supplication with thanksgiving, let your requests be made known to God;"}
 {"book": "PHP", "chapter": 4, "verse": "7", "text": "and the peace of God, which surpasses every understanding, shall guard your hearts and your thoughts by Christ Jesus."}
-{"book": "PHP", "chapter": 4, "verse": "8", "text": "For the rest, brethren, whatsoever things are true, whatsoever things are noble, whatsoever things are just, whatsoever things are pure, whatsoever things are amiable, whatsoever things are of good report; if there be any virtue and if any praise, think on these things."}
+{"book": "PHP", "chapter": 4, "verse": "8", "text": "For the rest, brethren, whatsoever things are true, whatsoever things are noble, whatsoever things are just, whatsoever things are pure, whatsoever things are amiable, whatsoever things areof good report; if there be any virtue and if any praise, think on these things."}
 {"book": "PHP", "chapter": 4, "verse": "9", "text": "What ye have both learned, and received, and heard, and seen in me, these things do; and the God of peace shall be with you."}
 {"book": "PHP", "chapter": 4, "verse": "10", "text": "But I rejoiced in the Lord greatly, that now however at length ye have revived your thinking of me, though surely ye did also think of me, but lacked opportunity."}
 {"book": "PHP", "chapter": 4, "verse": "11", "text": "Not that I speak as regards privation, for as to me I have learnt in those circumstances in which I am, to be satisfied in myself."}
@@ -6341,7 +6338,7 @@
 {"book": "COL", "chapter": 1, "verse": "20", "text": "and by him to reconcile all things to itself, having made peace by the blood of his cross — by him, whether the things on the earth or the things in the heavens."}
 {"book": "COL", "chapter": 1, "verse": "21", "text": "And you, who once were alienated and enemies in mind by wicked works, yet now has it reconciled"}
 {"book": "COL", "chapter": 1, "verse": "22", "text": "in the body of his flesh through death; to present you holy and unblamable and irreproachable before it,"}
-{"book": "COL", "chapter": 1, "verse": "23", "text": "if indeed ye abide in the faith founded and firm, and not moved away from the hope of the glad tidings, which ye have heard, which have been proclaimed in the whole creation which is under heaven, of which I Paul became minister."}
+{"book": "COL", "chapter": 1, "verse": "23", "text": "if indeed ye abide in the faith founded and firm, and not moved away from the hope of the glad tidings, which ye have heard, which have been proclaimed in the whole creation which isunder heaven, of which I Paul became minister."}
 {"book": "COL", "chapter": 1, "verse": "24", "text": "Now, I rejoice in sufferings for you, and I fill up that which is behind of the tribulations of Christ in my flesh, for his body, which is the assembly;"}
 {"book": "COL", "chapter": 1, "verse": "25", "text": "of which I became minister, according to the dispensation of God which is given me towards you to complete the word of God,"}
 {"book": "COL", "chapter": 1, "verse": "26", "text": "the mystery which has been hidden from ages and from generations, but has now been made manifest to his saints;"}
@@ -6383,7 +6380,7 @@
 {"book": "COL", "chapter": 3, "verse": "10", "text": "and having put on the new, renewed into full knowledge according to the image of him that has created him;"}
 {"book": "COL", "chapter": 3, "verse": "11", "text": "wherein there is not Greek and Jew, circumcision and uncircumcision, barbarian, Scythian, bondman, freeman; but Christ is everything, and in all."}
 {"book": "COL", "chapter": 3, "verse": "12", "text": "Put on therefore, as the elect of God, holy and beloved, bowels of compassion, kindness, lowliness, meekness, longsuffering;"}
-{"book": "COL", "chapter": 3, "verse": "13", "text": "forbearing one another, and forgiving one another, if any should have a complaint against any; even as the Christ has forgiven you, so also do ye."}
+{"book": "COL", "chapter": 3, "verse": "13", "text": "forbearing one another, and forgiving one another, if any should have a complaint against any; even as the Christ has forgiven you, so also doye."}
 {"book": "COL", "chapter": 3, "verse": "14", "text": "And to all these add love, which is the bond of perfectness."}
 {"book": "COL", "chapter": 3, "verse": "15", "text": "And let the peace of Christ preside in your hearts, to which also ye have been called in one body, and be thankful."}
 {"book": "COL", "chapter": 3, "verse": "16", "text": "Let the word of the Christ dwell in you richly, in all wisdom teaching and admonishing one another, in psalms, hymns, spiritual songs, singing with grace in your hearts to God."}
@@ -6679,7 +6676,7 @@
 {"book": "2TI", "chapter": 1, "verse": "14", "text": "Keep, by the Holy Spirit which dwells in us, the good deposit entrusted."}
 {"book": "2TI", "chapter": 1, "verse": "15", "text": "Thou knowest this, that all who are in Asia, of whom is Phygellus and Hermogenes, have turned away from me."}
 {"book": "2TI", "chapter": 1, "verse": "16", "text": "The Lord grant mercy to the house of Onesiphorus, for he has often refreshed me, and has not been ashamed of my chain;"}
-{"book": "2TI", "chapter": 1, "verse": "17", "text": "but being in Rome sought me out very diligently, and found me—"}
+{"book": "2TI", "chapter": 1, "verse": "17", "text": "but being in Rome sought me out very diligently, and found me —"}
 {"book": "2TI", "chapter": 1, "verse": "18", "text": "the Lord grant to him to find mercy from the Lord in that day — and how much service he rendered in Ephesus thou knowest best."}
 {"book": "2TI", "chapter": 2, "verse": "1", "text": "Thou therefore, my child, be strong in the grace which is in Christ Jesus."}
 {"book": "2TI", "chapter": 2, "verse": "2", "text": "And the things thou hast heard of me in the presence of many witnesses, these entrust to faithful men, such as shall be competent to instruct others also."}
@@ -6874,12 +6871,12 @@
 {"book": "HEB", "chapter": 4, "verse": "4", "text": "For he has said somewhere of the seventh day thus, And God rested on the seventh day from all his works:"}
 {"book": "HEB", "chapter": 4, "verse": "5", "text": "and in this again, If they shall enter into my rest."}
 {"book": "HEB", "chapter": 4, "verse": "6", "text": "Seeing therefore it remains that some enter into it, and those who first received the glad tidings did not enter in on account of not hearkening to the word,"}
-{"book": "HEB", "chapter": 4, "verse": "7", "text": "again he determines a certain day, saying, in David, ‘To-day,’ after so long a time; (according as it has been said before), To-day, if ye will hear his voice, harden not your hearts."}
+{"book": "HEB", "chapter": 4, "verse": "7", "text": "again he determines a certain day, saying, in David, 'To-day,' after so long a time; (according as it has been said before), To-day, if ye will hear his voice, harden not your hearts."}
 {"book": "HEB", "chapter": 4, "verse": "8", "text": "For if Jesus had brought them into rest, he would not have spoken afterwards about another day."}
 {"book": "HEB", "chapter": 4, "verse": "9", "text": "There remains then a sabbatism to the people of God."}
 {"book": "HEB", "chapter": 4, "verse": "10", "text": "For he that has entered into his rest, he also has rested from his works, as God did from his own."}
 {"book": "HEB", "chapter": 4, "verse": "11", "text": "Let us therefore use diligence to enter into that rest, that no one may fall after the same example of not hearkening to the word."}
-{"book": "HEB", "chapter": 4, "verse": "12", "text": "For the word of God is living and operative, and sharper than any two-edged sword, and penetrating to the division of soul and spirit, both of joints and marrow, and a discerner of the thoughts and intents of the heart."}
+{"book": "HEB", "chapter": 4, "verse": "12", "text": "For the word of God is living and operative, and sharper than any two-edged sword, and penetrating to the division of soul and spirit, both of joints and marrow, and a discerner of the thoughts and intents of theheart."}
 {"book": "HEB", "chapter": 4, "verse": "13", "text": "And there is not a creature unapparent before him; but all things are naked and laid bare to his eyes, with whom we have to do."}
 {"book": "HEB", "chapter": 4, "verse": "14", "text": "Having therefore a great high priest who has passed through the heavens, Jesus the Son of God, let us hold fast the confession."}
 {"book": "HEB", "chapter": 4, "verse": "15", "text": "For we have not a high priest not able to sympathise with our infirmities, but tempted in all things in like manner, sin apart."}
@@ -6954,7 +6951,7 @@
 {"book": "HEB", "chapter": 8, "verse": "6", "text": "But now he has got a more excellent ministry, by so much as he is mediator of a better covenant, which is established on the footing of better promises."}
 {"book": "HEB", "chapter": 8, "verse": "7", "text": "For if that first was faultless, place had not been sought for a second."}
 {"book": "HEB", "chapter": 8, "verse": "8", "text": "For finding fault, he says to them, Behold, days come, saith the Lord, and I will consummate a new covenant as regards the house of Israel, and as regards the house of Juda;"}
-{"book": "HEB", "chapter": 8, "verse": "9", "text": "not according to the covenant which I made to their fathers in the day of my taking their hand to lead them out of the land of Egypt; because they did not continue in my covenant, and I did not regard them, saith the Lord."}
+{"book": "HEB", "chapter": 8, "verse": "9", "text": "not according to the covenant which I made to their fathers in the day of my taking their hand to lead them out of the land of Egypt; because they did not continue in my covenant, and I did not regard them, saith theLord."}
 {"book": "HEB", "chapter": 8, "verse": "10", "text": "Because this is the covenant that I will covenant to the house of Israel after those days, saith the Lord: Giving my laws into their mind, I will write them also upon their hearts; and I will be to them for God, and they shall be to me for people."}
 {"book": "HEB", "chapter": 8, "verse": "11", "text": "And they shall not teach each his fellow-citizen, and each his brother, saying, Know the Lord; because all shall know me in themselves, from the little one among them unto the great among them."}
 {"book": "HEB", "chapter": 8, "verse": "12", "text": "Because I will be merciful to their unrighteousnesses, and their sins and their lawlessnesses I will never remember any more."}
@@ -7152,8 +7149,8 @@
 {"book": "JAS", "chapter": 2, "verse": "3", "text": "and ye look upon him who wears the splendid apparel, and say, Do thou sit here well, and say to the poor, Do thou stand there, or sit here under my footstool:"}
 {"book": "JAS", "chapter": 2, "verse": "4", "text": "have ye not made a difference among yourselves, and become judges having evil thoughts?"}
 {"book": "JAS", "chapter": 2, "verse": "5", "text": "Hear, my beloved brethren: Has not God chosen the poor as to the world, rich in faith, and heirs of the kingdom, which he has promised to them that love him?"}
-{"book": "JAS", "chapter": 2, "verse": "6", "text": "But ye have despised the poor man. Do not the rich oppress you, and do not they drag you before the tribunals?"}
-{"book": "JAS", "chapter": 2, "verse": "7", "text": "And do not they blaspheme the excellent name which has been called upon you?"}
+{"book": "JAS", "chapter": 2, "verse": "6", "text": "But ye have despised the poor man. Do not the rich oppress you, and do notthey drag you before the tribunals?"}
+{"book": "JAS", "chapter": 2, "verse": "7", "text": "And do notthey blaspheme the excellent name which has been called upon you?"}
 {"book": "JAS", "chapter": 2, "verse": "8", "text": "If indeed ye keep the royal law according to the scripture, Thou shalt love thy neighbour as thyself, ye do well."}
 {"book": "JAS", "chapter": 2, "verse": "9", "text": "But if ye have respect of persons, ye commit sin, being convicted by the law as transgressors."}
 {"book": "JAS", "chapter": 2, "verse": "10", "text": "For whoever shall keep the whole law and shall offend in one point, he has come under the guilt of breaking all."}
@@ -7201,10 +7198,10 @@
 {"book": "JAS", "chapter": 4, "verse": "8", "text": "Draw near to God, and he will draw near to you. Cleanse your hands, sinners, and purify your hearts, ye double-minded."}
 {"book": "JAS", "chapter": 4, "verse": "9", "text": "Be wretched, and mourn, and weep: let your laughter be turned to mourning, and your joy to heaviness."}
 {"book": "JAS", "chapter": 4, "verse": "10", "text": "Humble yourselves before the Lord, and he shall exalt you."}
-{"book": "JAS", "chapter": 4, "verse": "11", "text": "Speak not against one another, brethren. He that speaks against his brother, or judges his brother, speaks against the law and judges the law. But if thou judgest the law, thou art not doer of the law, but judge."}
+{"book": "JAS", "chapter": 4, "verse": "11", "text": "Speak not against one another, brethren. He that speaks against his brother, or judges his brother, speaks against the law and judges the law. But if thou judgest the law, thou art not doer of thelaw, but judge."}
 {"book": "JAS", "chapter": 4, "verse": "12", "text": "One is the lawgiver and judge, who is able to save and to destroy: but who art thou who judgest thy neighbour?"}
 {"book": "JAS", "chapter": 4, "verse": "13", "text": "Go to now, ye who say, To-day or to-morrow will we go into such a city and spend a year there, and traffic and make gain,"}
-{"book": "JAS", "chapter": 4, "verse": "14", "text": "ye who do not know what will be on the morrow, ( for what is your life? It is even a vapour, appearing for a little while, and then disappearing,)"}
+{"book": "JAS", "chapter": 4, "verse": "14", "text": "ye who do not know what will be on the morrow, (for what is your life? It is even a vapour, appearing for a little while, and then disappearing,)"}
 {"book": "JAS", "chapter": 4, "verse": "15", "text": "instead of your saying, If the Lord should so will and we should live, we will also do this or that."}
 {"book": "JAS", "chapter": 4, "verse": "16", "text": "But now ye glory in your vauntings: all such glorying is evil."}
 {"book": "JAS", "chapter": 4, "verse": "17", "text": "To him therefore who knows how to do good, and does it not, to him it is sin."}
@@ -7239,7 +7236,7 @@
 {"book": "1PE", "chapter": 1, "verse": "9", "text": "receiving the end of your faith, the salvation of your souls."}
 {"book": "1PE", "chapter": 1, "verse": "10", "text": "Concerning which salvation prophets, who have prophesied of the grace towards you, sought out and searched out;"}
 {"book": "1PE", "chapter": 1, "verse": "11", "text": "searching what, or what manner of time, the Spirit of Christ which was in them pointed out, testifying before of the sufferings which belonged to Christ, and the glories after these."}
-{"book": "1PE", "chapter": 1, "verse": "12", "text": "To whom it was revealed, that not to themselves but to you they ministered those things, which have now been announced to you by those who have declared to you the glad tidings by the Holy Spirit, sent from heaven, which angels desire to look into."}
+{"book": "1PE", "chapter": 1, "verse": "12", "text": "To whom it was revealed, that not to themselves but to you they ministered those things, which have now been announced to you by those who have declared to you the glad tidings by theHoly Spirit, sent from heaven, which angels desire to look into."}
 {"book": "1PE", "chapter": 1, "verse": "13", "text": "Wherefore, having girded up the loins of your mind, be sober and hope with perfect stedfastness in the grace which will be brought to you at the revelation of Jesus Christ;"}
 {"book": "1PE", "chapter": 1, "verse": "14", "text": "as children of obedience, not conformed to your former lusts in your ignorance;"}
 {"book": "1PE", "chapter": 1, "verse": "15", "text": "but as he who has called you is holy, be ye also holy in all your conversation;"}
@@ -7264,7 +7261,7 @@
 {"book": "1PE", "chapter": 2, "verse": "9", "text": "But ye are a chosen race, a kingly priesthood, a holy nation, a people for a possession, that ye might set forth the excellencies of him who has called you out of darkness to his wonderful light;"}
 {"book": "1PE", "chapter": 2, "verse": "10", "text": "who once were not a people, but now God's people; who were not enjoying mercy, but now have found mercy."}
 {"book": "1PE", "chapter": 2, "verse": "11", "text": "Beloved, I exhort you, as strangers and sojourners, to abstain from fleshly lusts, which war against the soul;"}
-{"book": "1PE", "chapter": 2, "verse": "12", "text": "having your conversation honest among the Gentiles, that as to that in which they speak against you as evildoers, they may through your good works, themselves witnessing them, glorify God in the day of visitation."}
+{"book": "1PE", "chapter": 2, "verse": "12", "text": "having your conversation honest among the Gentiles, that as to that in which they speak against you as evildoers, they may through your good works, themselves witnessing them, glorify God in theday of visitation."}
 {"book": "1PE", "chapter": 2, "verse": "13", "text": "Be in subjection therefore to every human institution for the Lord's sake; whether to the king as supreme,"}
 {"book": "1PE", "chapter": 2, "verse": "14", "text": "or to rulers as sent by him, for vengeance on evildoers, and praise to them that do well."}
 {"book": "1PE", "chapter": 2, "verse": "15", "text": "Because so is the will of God, that by well-doing ye put to silence the ignorance of senseless men;"}
@@ -7284,7 +7281,7 @@
 {"book": "1PE", "chapter": 3, "verse": "4", "text": "but the hidden man of the heart, in the incorruptible ornament of a meek and quiet spirit, which in the sight of God is of great price."}
 {"book": "1PE", "chapter": 3, "verse": "5", "text": "For thus also the holy women who have hoped in God heretofore adorned themselves, being subject to their own husbands;"}
 {"book": "1PE", "chapter": 3, "verse": "6", "text": "as Sarah obeyed Abraham, calling him lord; whose children ye have become, doing good, and not fearing with any kind of consternation."}
-{"book": "1PE", "chapter": 3, "verse": "7", "text": "Ye husbands likewise, dwell with them according to knowledge, as with a weaker, even the female, vessel, giving them honour, as also fellow-heirs of the grace of life, that your prayers be not hindered."}
+{"book": "1PE", "chapter": 3, "verse": "7", "text": "Ye husbands likewise, dwell with them according to knowledge, as with a weaker, even the female, vessel, giving them honour, as also fellow-heirs of thegrace of life, that your prayers be not hindered."}
 {"book": "1PE", "chapter": 3, "verse": "8", "text": "Finally, be all of one mind, sympathising, full of brotherly love, tender hearted, humble minded;"}
 {"book": "1PE", "chapter": 3, "verse": "9", "text": "not rendering evil for evil, or railing for railing; but on the contrary, blessing others, because ye have been called to this, that ye should inherit blessing."}
 {"book": "1PE", "chapter": 3, "verse": "10", "text": "For he that will love life and see good days, let him cause his tongue to cease from evil and his lips that they speak no guile."}

@@ -785,7 +785,6 @@
 {"book": "MAT", "chapter": 23, "verse": "11", "text": "Mais le plus grand de vous sera votre serviteur."}
 {"book": "MAT", "chapter": 23, "verse": "12", "text": "Et quiconque s'élèvera sera abaissé; et quiconque s'abaissera sera élevé."}
 {"book": "MAT", "chapter": 23, "verse": "13", "text": "Mais malheur à vous, scribes et pharisiens hypocrites! car vous fermez le royaume des cieux devant les hommes; car vous n'entrez pas vous-mêmes, ni ne permettez à ceux qui entrent, d'entrer."}
-{"book": "MAT", "chapter": 23, "verse": "14", "text": ""}
 {"book": "MAT", "chapter": 23, "verse": "15", "text": "Malheur à vous, scribes et pharisiens hypocrites! car vous parcourez la mer et la terre pour faire un prosélyte; et quand il l'est devenu, vous le rendez fils de la géhenne deux fois plus que vous."}
 {"book": "MAT", "chapter": 23, "verse": "16", "text": "Malheur à vous, guides aveugles, qui dites: Quiconque aura juré par le temple, ce n'est rien; mais quiconque aura juré par l'or du temple, est obligé."}
 {"book": "MAT", "chapter": 23, "verse": "17", "text": "Fous et aveugles! car lequel est le plus grand, ou l'or, ou le temple qui sanctifie l'or?"}
@@ -1441,7 +1440,8 @@
 {"book": "MRK", "chapter": 9, "verse": "47", "text": "Et si ton oeil est pour toi une occasion de chute, arrache-le: il vaut mieux pour toi d'entrer dans le royaume de Dieu, n'ayant qu'un oeil, que d'avoir deux yeux et d'être jeté dans la géhenne de feu,"}
 {"book": "MRK", "chapter": 9, "verse": "48", "text": "là où leur ver ne meurt pas et où le feu ne s'éteint pas."}
 {"book": "MRK", "chapter": 9, "verse": "49", "text": "Car chacun sera salé de feu; et tout sacrifice sera salé de sel."}
-{"book": "MRK", "chapter": 9, "verse": "50", "text": "Le sel est bon; mais si le sel devint insipide, avec quoi lui donnerez-vous de la saveur? (9-51) Ayez du sel en vous-mêmes, et soyez en paix entre vous."}
+{"book": "MRK", "chapter": 9, "verse": "50", "text": "Le sel est bon; mais si le sel devint insipide, avec quoi lui donnerez-vous de la saveur?"}
+{"book": "MRK", "chapter": 9, "verse": "51", "text": "Ayez du sel en vous-mêmes, et soyez en paix entre vous."}
 {"book": "MRK", "chapter": 10, "verse": "1", "text": "Et de là, se levant, il vient vers les confins de la Judée, et au delà du Jourdain; et des foules se rassemblent encore auprès de lui; et il les enseignait encore, comme il avait accoutumé."}
 {"book": "MRK", "chapter": 10, "verse": "2", "text": "Et des pharisiens vinrent à lui, et, pour l'éprouver, lui demandèrent: Est-il permis à un homme de répudier sa femme?"}
 {"book": "MRK", "chapter": 10, "verse": "3", "text": "Et lui, répondant, leur dit: Qu'est-ce que Moïse vous a commandé?"}
@@ -2935,20 +2935,21 @@
 {"book": "JHN", "chapter": 1, "verse": "35", "text": "Le lendemain encore, Jean se tint là, et deux de ses disciples;"}
 {"book": "JHN", "chapter": 1, "verse": "36", "text": "et regardant Jésus qui marchait, il dit: Voilà l'agneau de Dieu!"}
 {"book": "JHN", "chapter": 1, "verse": "37", "text": "Et les deux disciples l'entendirent parler, et ils suivirent Jésus."}
-{"book": "JHN", "chapter": 1, "verse": "38", "text": "Et Jésus se retournant, et voyant qu'ils le suivaient, (1-39) leur dit: Que cherchez-vous? Et il lui dirent: Rabbi (ce qui, interprété, signifie maître), où demeures-tu?"}
-{"book": "JHN", "chapter": 1, "verse": "39", "text": "(1:40) Il leur dit: Venez et voyez. Ils allèrent donc, et virent où il demeurait; et ils demeurèrent auprès de lui ce jour-là: c'était environ la dixième heure."}
-{"book": "JHN", "chapter": 1, "verse": "40", "text": "(1:41) André, le frère de Simon Pierre, était l'un des deux qui avaient ouï parler de lui à Jean, et qui l'avaient suivi."}
-{"book": "JHN", "chapter": 1, "verse": "41", "text": "(1:42) Celui-ci trouve d'abord son propre frère Simon, et lui dit: Nous avons trouvé le Messie (ce qui, interprété, est Christ)."}
-{"book": "JHN", "chapter": 1, "verse": "42", "text": "(1:43) Et il le mena à Jésus. Jésus, l'ayant regardé, dit: Tu es Simon, le fils de Jonas; tu seras appelé Céphas (qui est interprété Pierre)."}
-{"book": "JHN", "chapter": 1, "verse": "43", "text": "(1:44) Le lendemain, il voulut s'en aller en Galilée. Et Jésus trouve Philippe, et lui dit: Suis-moi."}
-{"book": "JHN", "chapter": 1, "verse": "44", "text": "(1:45) Or Philippe était de Bethsaïda, de la ville d'André et de Pierre."}
-{"book": "JHN", "chapter": 1, "verse": "45", "text": "(1:46) Philippe trouve Nathanaël et lui dit: Nous avons trouvé celui duquel Moïse a écrit dans la loi et duquel les prophètes ont écrit, Jésus, le fils de Joseph, qui est de Nazareth."}
-{"book": "JHN", "chapter": 1, "verse": "46", "text": "(1:47) Et Nathanaël lui dit: Peut-il venir quelque chose de bon de Nazareth? Philippe lui dit: Viens et vois."}
-{"book": "JHN", "chapter": 1, "verse": "47", "text": "(1:48) Jésus vit Nathanaël venir vers lui, et il dit de lui: Voici un vrai Israélite, en qui il n'y a pas de fraude."}
-{"book": "JHN", "chapter": 1, "verse": "48", "text": "(1:49) Nathanaël lui dit: D'où me connais-tu? Jésus répondit et lui dit: Avant que Philippe t'eût appelé, quand tu étais sous le figuier, je te voyais."}
-{"book": "JHN", "chapter": 1, "verse": "49", "text": "(1:50) Nathanaël répondit et lui dit: Rabbi, tu es le Fils de Dieu; tu es le roi d'Israël."}
-{"book": "JHN", "chapter": 1, "verse": "50", "text": "(1:51) Jésus répondit et lui dit: Parce que je t'ai dit que je te voyais sous le figuier, tu crois? tu verras de plus grandes choses que celles-ci."}
-{"book": "JHN", "chapter": 1, "verse": "51", "text": "(1:52) Et il lui dit: En vérité, en vérité, je vous dis: Désormais vous verrez le ciel ouvert, et les anges de Dieu montant et descendant sur le fils de l'homme."}
+{"book": "JHN", "chapter": 1, "verse": "38", "text": "Et Jésus se retournant, et voyant qu'ils le suivaient,"}
+{"book": "JHN", "chapter": 1, "verse": "39", "text": "leur dit: Que cherchez-vous? Et il lui dirent: Rabbi (ce qui, interprété, signifie maître), où demeures-tu?"}
+{"book": "JHN", "chapter": 1, "verse": "40", "text": "Il leur dit: Venez et voyez. Ils allèrent donc, et virent où il demeurait; et ils demeurèrent auprès de lui ce jour-là: c'était environ la dixième heure."}
+{"book": "JHN", "chapter": 1, "verse": "41", "text": "André, le frère de Simon Pierre, était l'un des deux qui avaient ouï parler de lui à Jean, et qui l'avaient suivi."}
+{"book": "JHN", "chapter": 1, "verse": "42", "text": "Celui-ci trouve d'abord son propre frère Simon, et lui dit: Nous avons trouvé le Messie (ce qui, interprété, est Christ)."}
+{"book": "JHN", "chapter": 1, "verse": "43", "text": "Et il le mena à Jésus. Jésus, l'ayant regardé, dit: Tu es Simon, le fils de Jonas; tu seras appelé Céphas (qui est interprété Pierre)."}
+{"book": "JHN", "chapter": 1, "verse": "44", "text": "Le lendemain, il voulut s'en aller en Galilée. Et Jésus trouve Philippe, et lui dit: Suis-moi."}
+{"book": "JHN", "chapter": 1, "verse": "45", "text": "Or Philippe était de Bethsaïda, de la ville d'André et de Pierre."}
+{"book": "JHN", "chapter": 1, "verse": "46", "text": "Philippe trouve Nathanaël et lui dit: Nous avons trouvé celui duquel Moïse a écrit dans la loi et duquel les prophètes ont écrit, Jésus, le fils de Joseph, qui est de Nazareth."}
+{"book": "JHN", "chapter": 1, "verse": "47", "text": "Et Nathanaël lui dit: Peut-il venir quelque chose de bon de Nazareth? Philippe lui dit: Viens et vois."}
+{"book": "JHN", "chapter": 1, "verse": "48", "text": "Jésus vit Nathanaël venir vers lui, et il dit de lui: Voici un vrai Israélite, en qui il n'y a pas de fraude."}
+{"book": "JHN", "chapter": 1, "verse": "49", "text": "Nathanaël lui dit: D'où me connais-tu? Jésus répondit et lui dit: Avant que Philippe t'eût appelé, quand tu étais sous le figuier, je te voyais."}
+{"book": "JHN", "chapter": 1, "verse": "50", "text": "Nathanaël répondit et lui dit: Rabbi, tu es le Fils de Dieu; tu es le roi d'Israël."}
+{"book": "JHN", "chapter": 1, "verse": "51", "text": "Jésus répondit et lui dit: Parce que je t'ai dit que je te voyais sous le figuier, tu crois? tu verras de plus grandes choses que celles-ci."}
+{"book": "JHN", "chapter": 1, "verse": "52", "text": "Et il lui dit: En vérité, en vérité, je vous dis: Désormais vous verrez le ciel ouvert, et les anges de Dieu montant et descendant sur le fils de l'homme."}
 {"book": "JHN", "chapter": 2, "verse": "1", "text": "Et le troisième jour, il y eut une noce à Cana de Galilée, et la mère de Jésus était là."}
 {"book": "JHN", "chapter": 2, "verse": "2", "text": "Et Jésus fut aussi convié à la noce, ainsi que ses disciples."}
 {"book": "JHN", "chapter": 2, "verse": "3", "text": "Et le vin étant venu à manquer, la mère de Jésus lui dit: Ils n'ont pas de vin."}
@@ -4066,7 +4067,6 @@
 {"book": "ACT", "chapter": 8, "verse": "34", "text": "Et l'eunuque, répondant, dit à Philippe: Je te prie, de qui le prophète dit-il cela? De lui-même, ou de quelque autre?"}
 {"book": "ACT", "chapter": 8, "verse": "35", "text": "Et Philippe, ouvrant sa bouche et commençant par cette écriture, lui annonça Jésus."}
 {"book": "ACT", "chapter": 8, "verse": "36", "text": "Et comme ils continuaient leur chemin, ils arrivèrent à une eau, et l'eunuque dit: Voici de l'eau, qu'est-ce qui m'empêche d'être baptisé?"}
-{"book": "ACT", "chapter": 8, "verse": "37", "text": ""}
 {"book": "ACT", "chapter": 8, "verse": "38", "text": "Et il donna l'ordre qu'on arrêtât le char, et ils descendirent tous deux à l'eau, et Philippe et l'eunuque; et Philippe le baptisa."}
 {"book": "ACT", "chapter": 8, "verse": "39", "text": "Et, quand ils furent remontés hors de l'eau, l'Esprit du Seigneur enleva Philippe, et l'eunuque ne le vit plus, car il continua son chemin tout joyeux;"}
 {"book": "ACT", "chapter": 8, "verse": "40", "text": "mais Philippe fut trouvé à Azot; et en passant au travers du pays, il évangélisa toutes les villes, jusqu'à ce qu'il fut arrivé à Césarée."}
@@ -4329,7 +4329,6 @@
 {"book": "ACT", "chapter": 15, "verse": "31", "text": "Et l'ayant lue, ils se réjouirent de la consolation."}
 {"book": "ACT", "chapter": 15, "verse": "32", "text": "Et Judas et Silas qui eux aussi étaient prophètes, exhortèrent les frères par plusieurs discours et les fortifièrent."}
 {"book": "ACT", "chapter": 15, "verse": "33", "text": "Et après avoir séjourné là quelque temps, ils furent renvoyés en paix par les frères vers ceux qui les avaient envoyés."}
-{"book": "ACT", "chapter": 15, "verse": "34", "text": ""}
 {"book": "ACT", "chapter": 15, "verse": "35", "text": "Et Paul et Barnabas séjournèrent à Antioche, enseignant et annonçant, avec plusieurs autres aussi, la parole du Seigneur."}
 {"book": "ACT", "chapter": 15, "verse": "36", "text": "Et quelques jours après, Paul dit à Barnabas: Retournons maintenant visiter les frères par toutes les villes où nous avons annoncé la parole du Seigneur, pour voir comment ils vont."}
 {"book": "ACT", "chapter": 15, "verse": "37", "text": "Et Barnabas se proposait de prendre avec eux Jean aussi, appelé Marc."}
@@ -5433,7 +5432,7 @@
 {"book": "1CO", "chapter": 10, "verse": "10", "text": "Ne murmurez pas non plus, comme quelques-uns d'eux ont murmuré et ont péri par le destructeur."}
 {"book": "1CO", "chapter": 10, "verse": "11", "text": "Or toutes ces choses leur arrivèrent comme types, et elles ont été écrites pour nous servir d'avertissement, à nous que les fins des siècles ont atteints."}
 {"book": "1CO", "chapter": 10, "verse": "12", "text": "Ainsi, que celui qui croit être debout, prenne garde qu'il ne tombe."}
-{"book": "1CO", "chapter": 10, "verse": "13", "text": "Aucune tentation ne vous est survenue qui n'ait été une tentation humaine; et Dieu est fidèle, qui ne permettra pas que vous soyez tentés au delà de ce que vous pouvez supporter , mais avec la tentation il fera aussi l'issue, afin que vous puissiez la supporter."}
+{"book": "1CO", "chapter": 10, "verse": "13", "text": "Aucune tentation ne vous est survenue qui n'ait été une tentation humaine; et Dieu est fidèle, qui ne permettra pas que vous soyez tentés au delà de ce que vous pouvez supporter, mais avec la tentation il fera aussi l'issue, afin que vous puissiez la supporter."}
 {"book": "1CO", "chapter": 10, "verse": "14", "text": "C'est pourquoi, mes bien-aimés, fuyez l'idolâtrie."}
 {"book": "1CO", "chapter": 10, "verse": "15", "text": "Je parle comme à des personnes intelligentes: jugez vous-mêmes de ce que je dis."}
 {"book": "1CO", "chapter": 10, "verse": "16", "text": "La coupe de bénédiction que nous bénissons, n'est-elle pas la communion du sang de Christ? Le pain que nous rompons, n'est-il pas la communion du corps du Christ?"}
@@ -7525,7 +7524,8 @@
 {"book": "3JN", "chapter": 1, "verse": "11", "text": "Bien-aimé, n'imite pas le mal, mais le bien. Celui qui fait le bien est de Dieu; celui qui fait le mal n'a pas vu Dieu."}
 {"book": "3JN", "chapter": 1, "verse": "12", "text": "Démétrius a le témoignage de tous et de la vérité elle-même; et nous aussi, nous lui rendons témoignage: et tu sais que notre témoignage est vrai."}
 {"book": "3JN", "chapter": 1, "verse": "13", "text": "J'avais beaucoup de choses à t'écrire, mais je ne veux pas t'écrire avec l'encre et la plume,"}
-{"book": "3JN", "chapter": 1, "verse": "14", "text": "mais j'espère te voir bientôt et nous parlerons bouche à bouche. Paix te soit. (1:15) Les amis te saluent. Salue les amis, chacun par son nom."}
+{"book": "3JN", "chapter": 1, "verse": "14", "text": "mais j'espère te voir bientôt et nous parlerons bouche à bouche. Paix te soit."}
+{"book": "3JN", "chapter": 1, "verse": "15", "text": "Les amis te saluent. Salue les amis, chacun par son nom."}
 {"book": "JUD", "chapter": 1, "verse": "1", "text": "Jude, esclave de Jésus Christ et frère de Jacques, aux appelés, bien-aimés en Dieu le Père, et conservés en Jésus Christ:"}
 {"book": "JUD", "chapter": 1, "verse": "2", "text": "Que la miséricorde, et la paix, et l'amour vous soient multipliés!"}
 {"book": "JUD", "chapter": 1, "verse": "3", "text": "Bien-aimés, quand j'usais de toute diligence pour vous écrire de notre commun salut, je me suis trouvé dans la nécessité de vous écrire afin de vous exhorter à combattre pour la foi qui a été une fois enseignée aux saints;"}
@@ -7762,7 +7762,8 @@
 {"book": "REV", "chapter": 12, "verse": "15", "text": "Et le serpent lança de sa bouche de l'eau, comme un fleuve, après la femme, afin de la faire emporter par le fleuve;"}
 {"book": "REV", "chapter": 12, "verse": "16", "text": "et la terre vint en aide à la femme, et la terre ouvrit sa bouche et engloutit le fleuve que le dragon avait lancé de sa bouche."}
 {"book": "REV", "chapter": 12, "verse": "17", "text": "Et le dragon fut irrité contre la femme, et s'en alla faire la guerre contre le résidu de la semence de la femme, ceux qui gardent les commandements de Dieu et qui ont le témoignage de Jésus."}
-{"book": "REV", "chapter": 13, "verse": "1", "text": "(12:18) Et je me tins sur le sable de la mer; (13:1) et je vis monter de la mer une bête qui avait dix cornes et sept têtes, et sur ses cornes dix diadèmes, et sur ses têtes des noms de blasphème."}
+{"book": "REV", "chapter": 12, "verse": "18", "text": "Et je me tins sur le sable de la mer;"}
+{"book": "REV", "chapter": 13, "verse": "1", "text": "et je vis monter de la mer une bête qui avait dix cornes et sept têtes, et sur ses cornes dix diadèmes, et sur ses têtes des noms de blasphème."}
 {"book": "REV", "chapter": 13, "verse": "2", "text": "Et la bête que je vis était semblable à un léopard, et ses pieds comme ceux d'un ours, et sa bouche comme la bouche d'un lion; et le dragon lui donna sa puissance et son trône, et un grand pouvoir."}
 {"book": "REV", "chapter": 13, "verse": "3", "text": "Et je vis l'une de ses têtes comme frappée à mort; et sa plaie mortelle avait été guérie; et la terre tout entière était dans l'admiration de la bête."}
 {"book": "REV", "chapter": 13, "verse": "4", "text": "Et ils rendirent hommage au dragon, parce qu'il avait donné le pouvoir à la bête; et ils rendirent hommage à la bête, disant: Qui est semblable à la bête, et qui peut combattre contre elle?"}

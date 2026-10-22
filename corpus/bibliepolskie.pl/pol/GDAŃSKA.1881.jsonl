@@ -491,8 +491,8 @@
 {"book": "MAT", "chapter": 15, "verse": "2", "text": "Czemu uczniowie twoi przestępują ustawę starszych? albowiem nie umywają rąk swych, gdy mają jeść chleb."}
 {"book": "MAT", "chapter": 15, "verse": "3", "text": "A on odpowiadając, rzekł im: Czemuż i wy przestępujecie przykazanie Boże dla ustawy waszej?"}
 {"book": "MAT", "chapter": 15, "verse": "4", "text": "Albowiem Bóg przykazał, mówiąc: Czcij ojca twego i matkę; i kto by złorzeczył ojcu albo matce, śmiercią niechaj umrze."}
-{"book": "MAT", "chapter": 15, "verse": "5", "text": "(15:5a) Ale wy powiadacie: Kto by rzekł ojcu albo matce: Dar, którykolwiek jest ode mnie, tobie pożyteczny będzie;"}
-{"book": "MAT", "chapter": 15, "verse": "6", "text": "(15:5b) a nie uczciłby ojca swego albo matki swojej, bez winy będzie. (15:6) I wzruszyliście przykazania Boże dla ustawy waszej."}
+{"book": "MAT", "chapter": 15, "verse": "5", "text": "Ale wy powiadacie: Kto by rzekł ojcu albo matce: Dar, którykolwiek jest ode mnie, tobie pożyteczny będzie; a nie uczciłby ojca swego albo matki swojej, bez winy będzie."}
+{"book": "MAT", "chapter": 15, "verse": "6", "text": "I wzruszyliście przykazania Boże dla ustawy waszej."}
 {"book": "MAT", "chapter": 15, "verse": "7", "text": "Obłudnicy! dobrze o was prorokował Izajasz, mówiąc:"}
 {"book": "MAT", "chapter": 15, "verse": "8", "text": "Lud ten przybliża się do mnie usty swemi, i wargami czci mię; ale serce ich daleko jest ode mnie."}
 {"book": "MAT", "chapter": 15, "verse": "9", "text": "Lecz próżno mię czczą, nauczając nauk, które są przykazania ludzkie."}
@@ -574,6 +574,7 @@
 {"book": "MAT", "chapter": 17, "verse": "18", "text": "I zgromił onego dyjabła Jezus; i wyszedł od niego, i uzdrowiony jest on młodzieniec od onejże godziny."}
 {"book": "MAT", "chapter": 17, "verse": "19", "text": "Tedy przystąpiwszy uczniowie do Jezusa osobno, rzekli mu: Czemużeśmy go my wygnać nie mogli?"}
 {"book": "MAT", "chapter": 17, "verse": "20", "text": "Lecz Jezus rzekł do nich: Dla niedowiarstwa waszego; zaprawdę bowiem powiadam wam: Jeźlibyście, mając wiarę jako ziarno gorczyczne, rzekli tej górze: Przenieś się stąd na ono miejsce, tedy się przeniesie, a nic niemożebnego wam nie będzie."}
+{"book": "MAT", "chapter": 17, "verse": "21", "text": "Ale ten rodzaj nie wychodzi, tylko przez modlitwę i przez post."}
 {"book": "MAT", "chapter": 17, "verse": "22", "text": "A gdy przebywali w Galilei, rzekł do nich Jezus: Syn człowieczy będzie wydany w ręce ludzkie;"}
 {"book": "MAT", "chapter": 17, "verse": "23", "text": "I zabiją go, ale trzeciego dnia zmartwychwstanie. I zasmucili się bardzo."}
 {"book": "MAT", "chapter": 17, "verse": "24", "text": "A gdy przyszli do Kapernaum, przystąpili do Piotra ci, którzy podatek wybierali, i rzekli: Izali nauczyciel wasz nie daje podatku?"}
@@ -590,6 +591,7 @@
 {"book": "MAT", "chapter": 18, "verse": "8", "text": "Przetoż jeźli ręka twoja albo noga twoja gorszy cię, odetnij ją i zarzuć od siebie; lepiej jest tobie wnijść do żywota chromym albo ułomnym, niżeli dwie ręce albo dwie nogi mając, wrzuconym być do ognia wiecznego."}
 {"book": "MAT", "chapter": 18, "verse": "9", "text": "A jeźli cię oko twoje gorszy, wyłup je i zarzuć od siebie; lepiej jest tobie jednookim wnijść do żywota, niżeli oba oczy mając, być wrzuconym do ognia piekielnego."}
 {"book": "MAT", "chapter": 18, "verse": "10", "text": "Patrzajcież, abyście nie gardzili żadnym z tych maluczkich; albowiem wam powiadam, iż Aniołowie ich w niebiesiech zawsze patrzą na oblicze Ojca mojego, który jest w niebiesiech."}
+{"book": "MAT", "chapter": 18, "verse": "11", "text": "Przyszedł bowiem Syn człowieczy, aby zbawił to, co było zginęło."}
 {"book": "MAT", "chapter": 18, "verse": "12", "text": "Co się wam zda? Gdyby który człowiek miał sto owiec, a zabłąkałaby się jedna z nich, azaż nie zostawia onych dziewięćdziesięciu i dziewięciu, a poszedłszy na góry, nie szuka zbłąkanej?"}
 {"book": "MAT", "chapter": 18, "verse": "13", "text": "A jeźli mu się zdarzy, znaleźć ją, zaprawdę powiadam wam, że się z niej bardziej raduje, niż z onych dziewięćdziesięciu i dziewięciu nie zbłąkanych."}
 {"book": "MAT", "chapter": 18, "verse": "14", "text": "Tak nie jest wola Ojca waszego, który jest w niebiesiech, aby zginął jeden z tych maluczkich."}
@@ -1038,7 +1040,7 @@
 {"book": "MAT", "chapter": 27, "verse": "55", "text": "A było tam wiele niewiast z daleka się przypatrujących, które były przyszły za Jezusem od Galilei, posługując mu;"}
 {"book": "MAT", "chapter": 27, "verse": "56", "text": "Między któremi była Maryja Magdalena, i Maryja, matka Jakóbowa i Jozesowa, i matka synów Zebedeuszowych."}
 {"book": "MAT", "chapter": 27, "verse": "57", "text": "A gdy był wieczór, przyszedł człowiek bogaty z Arymatyi, imieniem Józef, który też był uczniem Jezusowym."}
-{"book": "MAT", "chapter": 27, "verse": "58", "text": "Ten przyszedłszy do Piłata, prosił o ciało Jezusowe.Tedy Piłat rozkazał, aby mu było ono ciało oddane;"}
+{"book": "MAT", "chapter": 27, "verse": "58", "text": "Ten przyszedłszy do Piłata, prosił o ciało Jezusowe. Tedy Piłat rozkazał, aby mu było ono ciało oddane;"}
 {"book": "MAT", "chapter": 27, "verse": "59", "text": "A Józef wziąwszy ono ciało, uwinął je w czyste prześcieradło;"}
 {"book": "MAT", "chapter": 27, "verse": "60", "text": "I położył je w nowym grobie swoim, który był w opoce wykował; a przywaliwszy do drzwi grobowych kamień wielki, odszedł."}
 {"book": "MAT", "chapter": 27, "verse": "61", "text": "A była tam Maryja Magdalena, i druga Maryja, które siedziały przeciwko grobowi."}
@@ -1330,6 +1332,7 @@
 {"book": "MRK", "chapter": 7, "verse": "13", "text": "Wniwecz obracając słowo Boże ustawą waszą, którąście ustawili; i wiele innych rzeczy tym podobnych czynicie."}
 {"book": "MRK", "chapter": 7, "verse": "14", "text": "A zwoławszy wszystkiego ludu, mówił im: Słuchajcie mię wszyscy, a zrozumiejcie!"}
 {"book": "MRK", "chapter": 7, "verse": "15", "text": "Nie masz nic z rzeczy zewnętrznych, które wchodzą w człowieka, co by go mogło pokalać; ale to, co pochodzi z niego, to jest, co pokala człowieka."}
+{"book": "MRK", "chapter": 7, "verse": "16", "text": "Jeźli kto ma uszy ku słuchaniu, niechaj słucha!"}
 {"book": "MRK", "chapter": 7, "verse": "17", "text": "A gdy wszedł w dom od onego ludu, pytali go uczniowie jego o to podobieństwo."}
 {"book": "MRK", "chapter": 7, "verse": "18", "text": "Tedy im rzekł: Także i wy bezrozumni jesteście? Azaż nie rozumiecie, iż wszystko, co zewnątrz wchodzi w człowieka, nie może go pokalać?"}
 {"book": "MRK", "chapter": 7, "verse": "19", "text": "Albowiem nie wchodzi w serce jego, ale w brzuch, i do wychodu wychodzi, czyszcząc wszystkie pokarmy."}
@@ -1432,7 +1435,9 @@
 {"book": "MRK", "chapter": 9, "verse": "41", "text": "Albowiem kto by was napoił kubkiem wody w imieniu mojem, dlatego iż jesteście Chrystusowi, zaprawdę powiadam wam, nie straci zapłaty swojej."}
 {"book": "MRK", "chapter": 9, "verse": "42", "text": "A kto by zgorszył jednego z tych małych, którzy w mię wierzą, daleko by mu lepiej było, aby był zawieszony kamień młyński u szyi jego, i w morze był wrzucony."}
 {"book": "MRK", "chapter": 9, "verse": "43", "text": "A jeźliby cię gorszyła ręka twoja, odetnij ją; bo lepiej jest tobie ułomnym wnijść do żywota, niżeli dwie ręce mając, iść do piekła w on ogień nieugaszony,"}
+{"book": "MRK", "chapter": 9, "verse": "44", "text": "Gdzie robak ich nie umiera, a ogień nie gaśnie."}
 {"book": "MRK", "chapter": 9, "verse": "45", "text": "A jeźliby cię noga twoja gorszyła, odetnij ją; bo lepiej tobie chromym wnijść do żywota, niżeli dwie nogi mając, być wrzuconym do piekła, w ogień nieugaszony,"}
+{"book": "MRK", "chapter": 9, "verse": "46", "text": "Gdzie robak ich nie umiera, a ogień nie gaśnie."}
 {"book": "MRK", "chapter": 9, "verse": "47", "text": "A jeźliby cię oko twoje gorszyło, wyłup je; bo lepiej tobie jednookim wnijść do królestwa Bożego, niżeli dwoje oczu mając, wrzuconym być do ognia piekielnego."}
 {"book": "MRK", "chapter": 9, "verse": "48", "text": "Gdzie robak ich nie umiera, a ogień nie gaśnie."}
 {"book": "MRK", "chapter": 9, "verse": "49", "text": "Albowiem każdy człowiek ogniem osolony będzie, i każda ofiara solą osolona będzie."}
@@ -1514,6 +1519,7 @@
 {"book": "MRK", "chapter": 11, "verse": "23", "text": "Bo zaprawdę powiadam wam, iż ktobykolwiek rzekł tej górze: Podnieś się, a rzuć się w morze, a nie wątpiłby w sercu swojem, leczby wierzył, że się stanie, co mówi, stanie się mu, cokolwiek rzecze."}
 {"book": "MRK", "chapter": 11, "verse": "24", "text": "Przetoż powiadam wam: O cokolwiekbyście, modląc się, prosili, wierzcie, że weźmiecie, a stanie się wam."}
 {"book": "MRK", "chapter": 11, "verse": "25", "text": "A gdy stoicie modląc się, odpuśćcież, jeźli co przeciw komu macie, aby i Ojciec wasz, który jest w niebiesiech, odpuścił wam upadki wasze."}
+{"book": "MRK", "chapter": 11, "verse": "26", "text": "Bo jeźli wy nie odpuścicie, i Ojciec wasz, który jest w niebiesiech, nie odpuści wam upadków waszych."}
 {"book": "MRK", "chapter": 11, "verse": "27", "text": "I przyszli znowu do Jeruzalemu. A gdy się on przechodził po kościele, przystąpili do niego przedniejsi kapłani i nauczeni w Piśmie i starsi;"}
 {"book": "MRK", "chapter": 11, "verse": "28", "text": "I mówili do niego: Którąż to mocą czynisz? a kto ci dał tę moc, abyś to czynił?"}
 {"book": "MRK", "chapter": 11, "verse": "29", "text": "Tedy Jezus odpowiadając, rzekł im: Spytam was i ja o jednę rzecz; odpowiedzcież mi, a powiem, którą mocą to czynię."}
@@ -1701,6 +1707,7 @@
 {"book": "MRK", "chapter": 15, "verse": "25", "text": "A była trzecia godzina, gdy go ukrzyżowali."}
 {"book": "MRK", "chapter": 15, "verse": "26", "text": "Był też napis winy jego napisany: Król żydowski."}
 {"book": "MRK", "chapter": 15, "verse": "27", "text": "Ukrzyżowali też z nim dwóch zbójców; jednego po prawicy, a drugiego po lewicy jego."}
+{"book": "MRK", "chapter": 15, "verse": "28", "text": "I wypełniło się Pismo, które mówi: Z złoczyńcami jest policzony."}
 {"book": "MRK", "chapter": 15, "verse": "29", "text": "A ci, którzy mimo chodzili, bluźnili go, chwiejąc głowami swemi a mówiąc: Ehej! który rozwalasz kościół, a we trzech dniach budujesz go!"}
 {"book": "MRK", "chapter": 15, "verse": "30", "text": "Ratuj samego siebie, a zstąp z krzyża!"}
 {"book": "MRK", "chapter": 15, "verse": "31", "text": "Także też i przedniejsi kapłani naśmiewając się, jedni do drugich z nauczonymi w Piśmie mówili: Innych ratował, a siebie samego ratować nie może;"}
@@ -2533,6 +2540,7 @@
 {"book": "LUK", "chapter": 17, "verse": "33", "text": "Ktobykolwiek chciał zachować duszę swoję, straci ją; a kto by ją kolwiek stracił, ożywi ją."}
 {"book": "LUK", "chapter": 17, "verse": "34", "text": "Powiadam wam: Onej nocy będą dwaj na jednem łożu; jeden wzięty będzie, a drugi zostawiony."}
 {"book": "LUK", "chapter": 17, "verse": "35", "text": "Dwie będą mleć z sobą; jedna wzięta będzie, a druga zostawiona."}
+{"book": "LUK", "chapter": 17, "verse": "36", "text": "Dwaj będą na roli; jeden będzie wzięty, a drugi zostawiony."}
 {"book": "LUK", "chapter": 17, "verse": "37", "text": "A odpowiadając rzekli mu: Gdzież Panie? A on im rzekł: Gdzie będzie ścierw, tam się zgromadzą i orły."}
 {"book": "LUK", "chapter": 18, "verse": "1", "text": "I powiedział im jeszcze podobieństwo do tego zmierzające, iż się zawsze potrzeba modlić, a nie ustawać,"}
 {"book": "LUK", "chapter": 18, "verse": "2", "text": "Mówiąc: Był niektóry sędzia w jednem mieście, który się Boga nie bał, i człowieka się nie wstydził."}
@@ -2797,6 +2805,7 @@
 {"book": "LUK", "chapter": 23, "verse": "14", "text": "Rzekł do nich: Oddaliście mi tego człowieka, jakoby lud odwracał: a oto ja przed wami pytając go, żadnej winy nie znalazłem w tym człowieku z tego, co nań skarżycie;"}
 {"book": "LUK", "chapter": 23, "verse": "15", "text": "Ale ani Herod, bom was odesłał do niego, a oto nic mu się godnego śmierci nie stało;"}
 {"book": "LUK", "chapter": 23, "verse": "16", "text": "Przetoż skarawszy wypuszczę go."}
+{"book": "LUK", "chapter": 23, "verse": "17", "text": "A musiał im Piłat wypuszczać jednego na święto."}
 {"book": "LUK", "chapter": 23, "verse": "18", "text": "Tedy zawołało społem wszystko mnóstwo, mówiąc: Strać tego a wypuść nam Barabbasza!"}
 {"book": "LUK", "chapter": 23, "verse": "19", "text": "Który był dla niejakiego rozruchu w mieście uczynionego, i dla mężobójstwa wsadzony do więzienia."}
 {"book": "LUK", "chapter": 23, "verse": "20", "text": "Tedy Piłat znowu mówił, chcąc wypuścić Jezusa."}
@@ -3058,6 +3067,7 @@
 {"book": "JHN", "chapter": 5, "verse": "1", "text": "Było potem święto żydowskie, i wstąpił Jezus do Jeruzalemu."}
 {"book": "JHN", "chapter": 5, "verse": "2", "text": "A była w Jeruzalemie przy owczej bramie sadzawka, którą zowią po żydowsku Betesda, mająca pięć ganków."}
 {"book": "JHN", "chapter": 5, "verse": "3", "text": "W tych leżało mnóstwo wielkie niedołężnych, ślepych, chromych, wyschłych, którzy czekali poruszenia wody."}
+{"book": "JHN", "chapter": 5, "verse": "4", "text": "Albowiem Anioł czasu pewnego zstępował w sadzawkę i poruszał wodę; a tak, kto pierwszy wstąpił po wzruszeniu wody, stawał się zdrowym, jakąbykolwiek chorobą zdjęty był."}
 {"book": "JHN", "chapter": 5, "verse": "5", "text": "A był tam niektóry człowiek trzydzieści i ośm lat chorobą złożony."}
 {"book": "JHN", "chapter": 5, "verse": "6", "text": "Tego gdy Jezus ujrzał leżącego, a poznawszy, że już przez długi czas chorował, rzekł mu: Chcesz być zdrów?"}
 {"book": "JHN", "chapter": 5, "verse": "7", "text": "Odpowiedział mu on chory: Panie! nie ma człowieka, który by mię, gdy bywa poruszona woda, wrzucił do sadzawki; ale gdy ja idę, inszy przede mną wstępuje."}
@@ -4056,6 +4066,7 @@
 {"book": "ACT", "chapter": 8, "verse": "34", "text": "A odpowiadając rzezaniec Filipowi, rzekł: Proszę cię, o kim to prorok mówi? Sam o sobie, czyli o kim innym?"}
 {"book": "ACT", "chapter": 8, "verse": "35", "text": "Tedy otworzywszy Filip usta swe, a począwszy od tego Pisma, opowiadał mu Jezusa."}
 {"book": "ACT", "chapter": 8, "verse": "36", "text": "A gdy jechali drogą, przyjechali nad jednę wodę. Tedy rzekł rzezaniec: Otóż woda! Cóż na przeszkodzie, abym nie miał być ochrzczony?"}
+{"book": "ACT", "chapter": 8, "verse": "37", "text": "I rzekł Filip: Jeźliż wierzysz z całego serca, wolnoć. A on odpowiedziawszy, rzekł: Wierzę, iż Jezus Chrystus jest Syn Boży."}
 {"book": "ACT", "chapter": 8, "verse": "38", "text": "I kazał stanąć wozowi; i zstąpili obadwaj w wodę, Filip i rzezaniec, i ochrzcił go."}
 {"book": "ACT", "chapter": 8, "verse": "39", "text": "A gdy wystąpili z wody, porwał Filipa Duch Pański i nie widział go więcej rzezaniec, ale jechał drogą swoją, radując się."}
 {"book": "ACT", "chapter": 8, "verse": "40", "text": "A Filip aż w Azocie jest znaleziony, a chodząc kazał Ewangieliję po wszystkich miastach, aż przyszedł do Cezaryi."}
@@ -4086,8 +4097,8 @@
 {"book": "ACT", "chapter": 9, "verse": "25", "text": "Lecz uczniowie wziąwszy go w nocy, spuścili go po powrozie przez mur w koszu."}
 {"book": "ACT", "chapter": 9, "verse": "26", "text": "A gdy przyszedł Saul do Jeruzalemu, kusił się przyłączyć do uczniów; ale się go wszyscy bali, nie wierząc, aby był uczniem."}
 {"book": "ACT", "chapter": 9, "verse": "27", "text": "Lecz Barnabasz wziąwszy go, przywiódł go do Apostołów i powiadał im, jako w drodze widział Pana, a iż mówił do niego, i jako w Damaszku bezpiecznie mówił w imieniu Jezusowem."}
-{"book": "ACT", "chapter": 9, "verse": "28", "text": "(9:28) I mieszkał z nimi w Jeruzalemie. (9:29a) A bezpiecznie sobie poczynając w imieniu Pana Jezusowem,"}
-{"book": "ACT", "chapter": 9, "verse": "29", "text": "(9:29b) mówił i gadał z Grekami; a oni się starali, jako by go zabić."}
+{"book": "ACT", "chapter": 9, "verse": "28", "text": "I mieszkał z nimi w Jeruzalemie."}
+{"book": "ACT", "chapter": 9, "verse": "29", "text": "A bezpiecznie sobie poczynając w imieniu Pana Jezusowem, mówił i gadał z Grekami; a oni się starali, jako by go zabić."}
 {"book": "ACT", "chapter": 9, "verse": "30", "text": "O czem dowiedziawszy się bracia, odprowadzili go do Cezaryi i odesłali go do Tarsu."}
 {"book": "ACT", "chapter": 9, "verse": "31", "text": "A tak zbory po wszystkiej Judzkiej ziemi i Galilei, i Samaryi miały pokój, budując się i chodząc w bojaźni Pańskiej, a przez pociechę Ducha Świętego rozmnażały się."}
 {"book": "ACT", "chapter": 9, "verse": "32", "text": "I stało się, gdy Piotr obchodził wszystkie, przyszedł też do świętych, którzy mieszkali w Liddzie."}
@@ -4236,8 +4247,8 @@
 {"book": "ACT", "chapter": 13, "verse": "29", "text": "A gdy wykonali wszystko, co o nim było napisane, zdjąwszy go z drzewa, włożyli go do grobu."}
 {"book": "ACT", "chapter": 13, "verse": "30", "text": "Ale go Bóg wzbudził od umarłych."}
 {"book": "ACT", "chapter": 13, "verse": "31", "text": "Który widziany jest przez wiele dni od tych, którzy z nim pospołu przyszli z Galilei do Jeruzalemu, którzy są świadkami jego przed ludem."}
-{"book": "ACT", "chapter": 13, "verse": "32", "text": "(13:32a) I my wam opowiadamy tę obietnicę, która się ojcom stała,"}
-{"book": "ACT", "chapter": 13, "verse": "33", "text": "(13:32b) iż ją Bóg wypełnił nam, dziatkom ich, wzbudziwszy Jezusa. (13:33) Jako też w Psalmie wtórym napisane jest: Syn mój jesteś ty, jam ciebie dziś spłodził."}
+{"book": "ACT", "chapter": 13, "verse": "32", "text": "I my wam opowiadamy tę obietnicę, która się ojcom stała, iż ją Bóg wypełnił nam, dziatkom ich, wzbudziwszy Jezusa."}
+{"book": "ACT", "chapter": 13, "verse": "33", "text": "Jako też w Psalmie wtórym napisane jest: Syn mój jesteś ty, jam ciebie dziś spłodził."}
 {"book": "ACT", "chapter": 13, "verse": "34", "text": "A iż go wzbudził od umarłych, aby się więcej nie wrócił do skażenia, tak powiedział: Dam wam święte dobrodziejstwa Dawidowe wierne."}
 {"book": "ACT", "chapter": 13, "verse": "35", "text": "Przeto i indziej powiada: Nie dasz Świętemu twemu widzieć skażenia."}
 {"book": "ACT", "chapter": 13, "verse": "36", "text": "Albowiemci Dawid za wieku swego usłużywszy woli Bożej, zasnął i przyłączony jest do ojców swoich, a widział skażenie."}
@@ -4318,6 +4329,7 @@
 {"book": "ACT", "chapter": 15, "verse": "31", "text": "A przeczytawszy, radowali się z onej pociechy."}
 {"book": "ACT", "chapter": 15, "verse": "32", "text": "A Judas i Sylas, będąc i oni prorokami, długiemi słowy napominali braci i utwierdzali je."}
 {"book": "ACT", "chapter": 15, "verse": "33", "text": "A zamieszkawszy tam do czasu, odprawieni są z pokojem od braci do Apostołów."}
+{"book": "ACT", "chapter": 15, "verse": "34", "text": "Lecz Syli zdało się tam zostać."}
 {"book": "ACT", "chapter": 15, "verse": "35", "text": "Także Paweł i Barnabasz zamieszkali w Antyjochyi, nauczając i opowiadając z wieloma innymi słowo Pańskie."}
 {"book": "ACT", "chapter": 15, "verse": "36", "text": "A po kilku dniach rzekł Paweł do Barnabasza: Wróciwszy się, nawiedźmy braci naszych po wszystkich miastach, w którycheśmy opowiadali słowo Pańskie, jakoli się mają."}
 {"book": "ACT", "chapter": 15, "verse": "37", "text": "Tedy Barnabasz radził, aby z sobą wzięli i Jana, którego zwano Markiem."}
@@ -4466,8 +4478,7 @@
 {"book": "ACT", "chapter": 19, "verse": "37", "text": "Albowiemeście przywiedli tych mężów, którzy nie są ani świętokradcami, ani bluźniercami boginii waszej."}
 {"book": "ACT", "chapter": 19, "verse": "38", "text": "A jeźliż Demetryjusz i ci, którzy z nim są rzemieślnicy, mają co przeciw komu, wszak bywa prawo, są też starostowie, niechże jedni drugich pozywają."}
 {"book": "ACT", "chapter": 19, "verse": "39", "text": "Jeźli się też o czem inszem pytacie, to się może w porządnem zgromadzeniu odprawić."}
-{"book": "ACT", "chapter": 19, "verse": "40", "text": "(19:40a) Albowiem trzeba się obawiać, abyśmy oskarżeni nie byli o rozruch dzisiejszy, gdyż nie masz żadnej przyczyny, z której byśmy mogli dać sprawę, żeśmy się tu zbiegli."}
-{"book": "ACT", "chapter": 19, "verse": "41", "text": "(19:40b) A to powiedziawszy, rozpuścił ono zgromadzenie."}
+{"book": "ACT", "chapter": 19, "verse": "40", "text": "Albowiem trzeba się obawiać, abyśmy oskarżeni nie byli o rozruch dzisiejszy, gdyż nie masz żadnej przyczyny, z której byśmy mogli dać sprawę, żeśmy się tu zbiegli. A to powiedziawszy, rozpuścił ono zgromadzenie."}
 {"book": "ACT", "chapter": 20, "verse": "1", "text": "A gdy się on rozruch uciszył, zwoławszy Paweł uczniów i z nimi się pożegnawszy, wyszedł stamtąd, aby szedł do Macedonii."}
 {"book": "ACT", "chapter": 20, "verse": "2", "text": "A przeszedłszy one strony i napomniawszy je szerokiemi słowy, przyszedł do Grecyi."}
 {"book": "ACT", "chapter": 20, "verse": "3", "text": "A tam zamieszkawszy przez trzy miesiące, gdzie nań Żydowie zasadzkę uczynili, gdy miał płynąć do Syryi, umyślił się powrócić przez Macedoniję."}
@@ -4612,11 +4623,12 @@
 {"book": "ACT", "chapter": 23, "verse": "34", "text": "A starosta list przeczytawszy, spytał go, z której by był krainy, a zrozumiawszy, że był z Cylicyi,"}
 {"book": "ACT", "chapter": 23, "verse": "35", "text": "Rzekł: Będę cię słuchał, gdy też przybędą ci, którzy na cię skarżą. I rozkazał go strzec na ratuszu Herodowym."}
 {"book": "ACT", "chapter": 24, "verse": "1", "text": "A po pięciu dniach jechał najwyższy kapłan Ananijasz z starszymi i z Tertullem niejakim prokuratorem; którzy stanęli przed starostą przeciwko Pawłowi."}
-{"book": "ACT", "chapter": 24, "verse": "2", "text": "(24:2) A gdy był pozwany, począł nań skarżyć Tertullus, mówiąc: (24:3a) Ponieważeśmy wielkiego pokoju dostąpili i wiele się dobrego temu narodowi stało przez twoję opatrzność,"}
-{"book": "ACT", "chapter": 24, "verse": "3", "text": "(24:3b) i zawsze i wszędy to ze wszelkiem dziękowaniem przyznajemy, wielmożny Feliksie!"}
+{"book": "ACT", "chapter": 24, "verse": "2", "text": "A gdy był pozwany, począł nań skarżyć Tertullus, mówiąc:"}
+{"book": "ACT", "chapter": 24, "verse": "3", "text": "Ponieważeśmy wielkiego pokoju dostąpili i wiele się dobrego temu narodowi stało przez twoję opatrzność, i zawsze i wszędy to ze wszelkiem dziękowaniem przyznajemy, wielmożny Feliksie!"}
 {"book": "ACT", "chapter": 24, "verse": "4", "text": "Ale żebym cię długo nie bawił, proszę, abyś nas maluczko posłuchał według zwykłej twojej ludzkości."}
 {"book": "ACT", "chapter": 24, "verse": "5", "text": "Albowiemeśmy znaleźli tego męża zaraźliwego i wszczynającego rozruch między wszystkimi Żydami po wszystkim świecie, i herszta tej sekty Nazarejczyków."}
 {"book": "ACT", "chapter": 24, "verse": "6", "text": "Który się też ważył splugawić kościół; któregośmy też pojmawszy, według zakonu naszego chcieli sądzić."}
+{"book": "ACT", "chapter": 24, "verse": "7", "text": "Lecz przyszedłszy hetman Lizyjasz z wielką mocą, wziął go z rąk naszych."}
 {"book": "ACT", "chapter": 24, "verse": "8", "text": "Rozkazawszy tym, którzy nań skarżą, iść do ciebie, od którego się ty sam będziesz mógł, wywiadując się, dowiedzieć tego wszystkiego, o co my nań skarżymy."}
 {"book": "ACT", "chapter": 24, "verse": "9", "text": "Na co się zgodzili i Żydowie, mówiąc: Że się tak rzecz ma."}
 {"book": "ACT", "chapter": 24, "verse": "10", "text": "Tedy Paweł odpowiedział, gdy nań starosta skinął, aby mówił: Od wielu lat wiedząc cię być sędzią tego narodu, tem ochotniej dam sprawę o tem, co się mnie dotycze."}
@@ -4768,6 +4780,7 @@
 {"book": "ACT", "chapter": 28, "verse": "26", "text": "Mówiąc: Idź do tego ludu, a mów: Słuchem słuchać będziecie, ale nie zrozumiecie, a widząc widzieć będziecie, ale nic nie ujrzycie;"}
 {"book": "ACT", "chapter": 28, "verse": "27", "text": "Albowiem zgrubiało serce ludu tego, a ciężko uszyma słyszeli i zamrużyli oczy swe, aby snać oczyma nie widzieli, a uszyma nie słyszeli, i sercem nie zrozumieli, i nie nawrócili się, a uzdrowiłbym je."}
 {"book": "ACT", "chapter": 28, "verse": "28", "text": "Niechże wam tedy wiadomo będzie, iż poganom posłane jest to zbawienie Boże, a oni słuchać będą."}
+{"book": "ACT", "chapter": 28, "verse": "29", "text": "A gdy to on rzekł, odeszli Żydowie, mając między sobą wielki spór."}
 {"book": "ACT", "chapter": 28, "verse": "30", "text": "I mieszkał Paweł przez całe dwa lata w najemnej gospodzie swojej, i przyjmował wszystkich, którzy przychodzili do niego;"}
 {"book": "ACT", "chapter": 28, "verse": "31", "text": "Każąc o królestwie Bożem i ucząc tych rzeczy, które są o Panu Jezusie Chrystusie, ze wszystkiem bezpieczeństwem bez przeszkody."}
 {"book": "ROM", "chapter": 1, "verse": "1", "text": "Paweł, sługa Jezusa Chrystusa, powołany Apostoł, odłączony ku opowiadaniu Ewangielii Bożej;"}
@@ -5199,6 +5212,7 @@
 {"book": "ROM", "chapter": 16, "verse": "21", "text": "Pozdrawiają was Tymoteusz, pomocnik mój, i Lucyjusz, i Jazon, i Sosypater, pokrewni moi."}
 {"book": "ROM", "chapter": 16, "verse": "22", "text": "Pozdrawiam was w Panu ja Tercyjusz, którym ten list pisał."}
 {"book": "ROM", "chapter": 16, "verse": "23", "text": "Pozdrawia was Gajus, gospodarz mój i wszystkiego zboru. Pozdrawia was Erastus, szafarz miejski, i Kwartus brat."}
+{"book": "ROM", "chapter": 16, "verse": "24", "text": "Łaska Pana naszego Jezusa Chrystusa niech będzie z wami wszystkimi. Amen."}
 {"book": "ROM", "chapter": 16, "verse": "25", "text": "A temu, który was może utwierdzić według Ewangielii mojej i opowiadania Jezusa Chrystusa, według objawienia tajemnicy od czasów wiecznych zamilczanej,"}
 {"book": "ROM", "chapter": 16, "verse": "26", "text": "Lecz teraz objawionej i przez Pisma prorockie według postanowienia wiecznego Boga ku posłuszeństwu wiary między wszystkimi narody oznajmionej;"}
 {"book": "ROM", "chapter": 16, "verse": "27", "text": "Temu, samemu mądremu Bogu niech będzie chwała przez Jezusa Chrystusa na wieki. Amen."}
@@ -5481,8 +5495,8 @@
 {"book": "1CO", "chapter": 12, "verse": "6", "text": "I różne są sprawy, ale tenże Bóg, który sprawuje wszystko we wszystkich."}
 {"book": "1CO", "chapter": 12, "verse": "7", "text": "A każdemu bywa dane objawienie Ducha ku pożytkowi."}
 {"book": "1CO", "chapter": 12, "verse": "8", "text": "Albowiem jednemu przez Ducha bywa dana mowa mądrości, a drugiemu mowa umiejętności przez tegoż Ducha;"}
-{"book": "1CO", "chapter": 12, "verse": "9", "text": "(12:9a) A drugiemu wiara w tymże Duchu, a drugiemu dar uzdrawiania w tymże Duchu,"}
-{"book": "1CO", "chapter": 12, "verse": "10", "text": "(12:9b) a drugiemu czynienie cudów, a drugiemu proroctwo, a drugiemu rozeznanie duchów. (12:10) A drugiemu rozmaite języki, a drugiemu wykładanie języków."}
+{"book": "1CO", "chapter": 12, "verse": "9", "text": "A drugiemu wiara w tymże Duchu, a drugiemu dar uzdrawiania w tymże Duchu, a drugiemu czynienie cudów, a drugiemu proroctwo, a drugiemu rozeznanie duchów."}
+{"book": "1CO", "chapter": 12, "verse": "10", "text": "A drugiemu rozmaite języki, a drugiemu wykładanie języków."}
 {"book": "1CO", "chapter": 12, "verse": "11", "text": "A to wszystko sprawuje jeden a tenże Duch, udzielając z osobna każdemu, jako chce."}
 {"book": "1CO", "chapter": 12, "verse": "12", "text": "Albowiem jako ciało jedno jest, a członków ma wiele, ale wszystkie członki ciała jednego, choć ich wiele jest, są jednym ciałem: tak i Chrystus."}
 {"book": "1CO", "chapter": 12, "verse": "13", "text": "Albowiem przez jednego Ducha my wszyscy w jedno ciało jesteśmy ochrzczeni, bądź Żydowie, bądź Grekowie, bądź niewolnicy, bądź wolni, a wszyscy napojeni jesteśmy w jednego Ducha."}
@@ -5599,8 +5613,8 @@
 {"book": "1CO", "chapter": 15, "verse": "40", "text": "I są ciała niebieskie i ciała ziemskie; lecz insza jest chwała ciał niebieskich, a insza ludzkich;"}
 {"book": "1CO", "chapter": 15, "verse": "41", "text": "Insza chwała słońca, a insza chwała księżyca, i insza chwała gwiazd; albowiem gwiazda od gwiazdy różna jest w jasności."}
 {"book": "1CO", "chapter": 15, "verse": "42", "text": "Takci będzie i powstanie umarłych. Bywa wsiane ziarno w skazitelności, a będzie wzbudzone w nieskazitelności."}
-{"book": "1CO", "chapter": 15, "verse": "43", "text": "(15:43a) Bywa wsiane w niesławie, a będzie wzbudzone w sławie; bywa wsiane w słabości, a będzie wzbudzone w mocy;"}
-{"book": "1CO", "chapter": 15, "verse": "44", "text": "(15:43b) bywa wsiane ciało cielesne, a będzie wzbudzone ciało duchowne. (15:44) Jest ciało cielesne, jest też ciało duchowne."}
+{"book": "1CO", "chapter": 15, "verse": "43", "text": "Bywa wsiane w niesławie, a będzie wzbudzone w sławie; bywa wsiane w słabości, a będzie wzbudzone w mocy; bywa wsiane ciało cielesne, a będzie wzbudzone ciało duchowne."}
+{"book": "1CO", "chapter": 15, "verse": "44", "text": "Jest ciało cielesne, jest też ciało duchowne."}
 {"book": "1CO", "chapter": 15, "verse": "45", "text": "Takci też napisane: Stał się pierwszy człowiek Adam w duszę żywą, ale pośledni Adam w ducha ożywiającego."}
 {"book": "1CO", "chapter": 15, "verse": "46", "text": "Wszakże nie jest pierwsze duchowne, ale cielesne, potem duchowne."}
 {"book": "1CO", "chapter": 15, "verse": "47", "text": "Pierwszy człowiek z ziemi ziemski; wtóry człowiek sam Pan z nieba."}
@@ -5639,7 +5653,7 @@
 {"book": "1CO", "chapter": 16, "verse": "22", "text": "Jeźliże kto nie miłuje Pana Jezusa Chrystusa, niech będzie przeklęstwem, które zowią Maran ata."}
 {"book": "1CO", "chapter": 16, "verse": "23", "text": "Łaska Pana Jezusa Chrystusa niech będzie z wami."}
 {"book": "1CO", "chapter": 16, "verse": "24", "text": "Miłość moja niech będzie z wami wszystkimi w Chrystusie Jezusie. Amen."}
-{"book": "2CO", "chapter": 1, "verse": "1", "text": "Paweł, Apostoł Jezusa Chrystusa przez wolę Bożą, i Tymoteusz brat,zborowi Bożemu, który jest w Koryncie, ze wszystkimi świętymi, którzy są we wszystkiej Achai."}
+{"book": "2CO", "chapter": 1, "verse": "1", "text": "Paweł, Apostoł Jezusa Chrystusa przez wolę Bożą, i Tymoteusz brat, zborowi Bożemu, który jest w Koryncie, ze wszystkimi świętymi, którzy są we wszystkiej Achai."}
 {"book": "2CO", "chapter": 1, "verse": "2", "text": "Łaska niech będzie wam i pokój od Boga, Ojca naszego, i Pana Jezusa Chrystusa."}
 {"book": "2CO", "chapter": 1, "verse": "3", "text": "Błogosławiony niech będzie Bóg i Ojciec Pana naszego, Jezusa Chrystusa, Ojciec miłosierdzia a Bóg wszelkiej pociechy,"}
 {"book": "2CO", "chapter": 1, "verse": "4", "text": "Który nas cieszy w każdym ucisku naszym, abyśmy i my cieszyć mogli i tych, którzy są w jakimkolwiek ucisku, tąż pociechą, którą my sami pocieszeni bywamy od Boga."}
@@ -5835,8 +5849,8 @@
 {"book": "2CO", "chapter": 11, "verse": "5", "text": "Boć mam za to, żem nie był w niczem podlejszy, niżeli oni bardzo wielcy Apostołowie."}
 {"book": "2CO", "chapter": 11, "verse": "6", "text": "Bo chociażem też i prostakiem w mowie, wszakże nie w umiejętności; ale zgoła jawnymiśmy się stali we wszystkich rzeczach u was."}
 {"book": "2CO", "chapter": 11, "verse": "7", "text": "Izalim się grzechu dopuścił, żem samego siebie uniżył, abyście wy byli wywyższeni, a żem wam darmo Ewangieliję Bożą opowiadał?"}
-{"book": "2CO", "chapter": 11, "verse": "8", "text": "(11:8a) Złupiłem inne zbory, biorąc od nich żołd, abym wam służył;"}
-{"book": "2CO", "chapter": 11, "verse": "9", "text": "(11:8b) a będąc u was i cierpiąc niedostatek, nie obciążyłem próżnując nikogo. (11:9) Albowiem niedostatek mój dopełnili bracia, którzy przyszli z Macedonii, i we wszystkim strzegłem się, abym wam ciężkim nie był, i na potem strzec się będę."}
+{"book": "2CO", "chapter": 11, "verse": "8", "text": "Złupiłem inne zbory, biorąc od nich żołd, abym wam służył; a będąc u was i cierpiąc niedostatek, nie obciążyłem próżnując nikogo."}
+{"book": "2CO", "chapter": 11, "verse": "9", "text": "Albowiem niedostatek mój dopełnili bracia, którzy przyszli z Macedonii, i we wszystkim strzegłem się, abym wam ciężkim nie był, i na potem strzec się będę."}
 {"book": "2CO", "chapter": 11, "verse": "10", "text": "Jestci prawda Chrystusowa we mnie, iż ta chluba nie będzie zatłumiona we mnie w krainach Achajskich."}
 {"book": "2CO", "chapter": 11, "verse": "11", "text": "Dlategoż? czy że was nie miłuję? Bógci wie,"}
 {"book": "2CO", "chapter": 11, "verse": "12", "text": "Ale co czynię, czynić jeszcze będę dlatego, abym odciął przyczynę tym, którzy przyczyny szukają, aby w tem, z czego się chlubią, byli znalezieni tacy, jako i my."}
@@ -5859,8 +5873,7 @@
 {"book": "2CO", "chapter": 11, "verse": "29", "text": "Któż choruje, a ja nie choruję? Któż się gorszy, a ja nie palę?"}
 {"book": "2CO", "chapter": 11, "verse": "30", "text": "Jeźli się mam chlubić, z krewkości moich chlubić się będę."}
 {"book": "2CO", "chapter": 11, "verse": "31", "text": "Bóg i Ojciec Pana naszego, Jezusa Chrystusa, który jest błogosławiony na wieki, wie, iż nie kłamię."}
-{"book": "2CO", "chapter": 11, "verse": "32", "text": "(11:32a) W Damaszku hetman ludu króla Arety osadził był strażą miasto Damaszek, chcąc mię pojmać;"}
-{"book": "2CO", "chapter": 11, "verse": "33", "text": "(11:32b) alem oknem po powrozie w koszyku przez mur był spuszczony i uszedłem rąk jego."}
+{"book": "2CO", "chapter": 11, "verse": "32", "text": "W Damaszku hetman ludu króla Arety osadził był strażą miasto Damaszek, chcąc mię pojmać; alem oknem po powrozie w koszyku przez mur był spuszczony i uszedłem rąk jego."}
 {"book": "2CO", "chapter": 12, "verse": "1", "text": "Wprawdzieć mi się chlubić nie jest pożyteczno: jednak przyjdę do widzenia i objawienia Pańskiego."}
 {"book": "2CO", "chapter": 12, "verse": "2", "text": "Znam człowieka w Chrystusie przed czternastoma laty, (jeźli się to działo w ciele, nie wiem, jeźli oprócz ciała, nie wiem, Bóg wie), który zachwycony był aż do trzeciego nieba."}
 {"book": "2CO", "chapter": 12, "verse": "3", "text": "A znam takiego człowieka, (Jeźli się to działo w ciele, jeźli oprócz ciała, nie wiem, Bóg wie)."}
@@ -5892,10 +5905,9 @@
 {"book": "2CO", "chapter": 13, "verse": "8", "text": "Boć nie możemy nic przeciwko prawdzie, ale za prawdą."}
 {"book": "2CO", "chapter": 13, "verse": "9", "text": "Albowiem się radujemy, że chociaśmy my słabymi, ale wy jesteście mocnymi; a tegoć i życzymy, abyście wy byli doskonałymi."}
 {"book": "2CO", "chapter": 13, "verse": "10", "text": "Przetoż to piszę, nie będąc obecny, abym będąc obecnym, nie musiał używać srogości według mocy, którą mi dał Pan na zbudowanie, a nie na zepsowanie."}
-{"book": "2CO", "chapter": 13, "verse": "11", "text": "(13:11a) Na ostatek, bracia! miejcie się dobrze; doskonałymi bądźcie, cieszcie się, jednomyślnymi bądźcie, w pokoju żyjcie, a Bóg miłości i pokoju będzie z wami."}
-{"book": "2CO", "chapter": 13, "verse": "12", "text": "(13:11b) Pozdrówcie jedni drugich świętem pocałowaniem."}
-{"book": "2CO", "chapter": 13, "verse": "13", "text": "(13:12) Pozdrawiają was wszyscy święci."}
-{"book": "2CO", "chapter": 13, "verse": "14", "text": "(13:13) Łaska Pana Jezusa Chrystusa i miłość Boża, i społeczność Ducha Świętego niech będzie z wami wszystkimi. Amen."}
+{"book": "2CO", "chapter": 13, "verse": "11", "text": "Na ostatek, bracia! miejcie się dobrze; doskonałymi bądźcie, cieszcie się, jednomyślnymi bądźcie, w pokoju żyjcie, a Bóg miłości i pokoju będzie z wami. Pozdrówcie jedni drugich świętem pocałowaniem."}
+{"book": "2CO", "chapter": 13, "verse": "12", "text": "Pozdrawiają was wszyscy święci."}
+{"book": "2CO", "chapter": 13, "verse": "13", "text": "Łaska Pana Jezusa Chrystusa i miłość Boża, i społeczność Ducha Świętego niech będzie z wami wszystkimi. Amen."}
 {"book": "GAL", "chapter": 1, "verse": "1", "text": "Paweł, Apostoł (nie od ludzi, ani przez człowieka, ale przez Jezusa Chrystusa i Boga Ojca, który go wzbudził od umarłych;)"}
 {"book": "GAL", "chapter": 1, "verse": "2", "text": "I wszyscy bracia, którzy są ze mną, zborom Galackim."}
 {"book": "GAL", "chapter": 1, "verse": "3", "text": "Łaska wam i pokój niech będzie od Boga Ojca i Pana naszego, Jezusa Chrystusa."}
@@ -5918,8 +5930,7 @@
 {"book": "GAL", "chapter": 1, "verse": "20", "text": "A co wam piszę, oto się przed Bogiem oświadczam, żeć nie kłamię."}
 {"book": "GAL", "chapter": 1, "verse": "21", "text": "Zatemem przyszedł do krain Syryi i Cylicyi;"}
 {"book": "GAL", "chapter": 1, "verse": "22", "text": "A byłem nieznajomym z twarzy zborom żydowskim, które są w Chrystusie;"}
-{"book": "GAL", "chapter": 1, "verse": "23", "text": "(1:23a) Lecz tylko byli usłyszeli, iż ten, który prześladował nas niekiedy, teraz opowiada wiarę, którą przedtem burzył."}
-{"book": "GAL", "chapter": 1, "verse": "24", "text": "(1:23b) I chwalili Boga ze mnie."}
+{"book": "GAL", "chapter": 1, "verse": "23", "text": "Lecz tylko byli usłyszeli, iż ten, który prześladował nas niekiedy, teraz opowiada wiarę, którą przedtem burzył. I chwalili Boga ze mnie."}
 {"book": "GAL", "chapter": 2, "verse": "1", "text": "Potem po czternastu latach wstąpiłem zasię do Jeruzalemu z Barnabaszem, wziąwszy z sobą i Tytusa."}
 {"book": "GAL", "chapter": 2, "verse": "2", "text": "A wstąpiłem według objawienia i przełożyłem im Ewangieliję, którą każę między poganami, a zwłaszcza zacniejszym, bym snać nadaremno nie bieżał, albo przedtem nie biegał."}
 {"book": "GAL", "chapter": 2, "verse": "3", "text": "Ale ani Tytus, który ze mną był, będąc Grekiem, nie był przymuszony obrzezać się,"}
@@ -5946,13 +5957,13 @@
 {"book": "GAL", "chapter": 3, "verse": "3", "text": "Takeście głupi? począwszy duchem, teraz ciałem dokonywacie?"}
 {"book": "GAL", "chapter": 3, "verse": "4", "text": "Takeście wiele cierpieli darmo, jeźli tylko i darmo?"}
 {"book": "GAL", "chapter": 3, "verse": "5", "text": "Ten tedy, który wam dodaje ducha i czyni cuda między wami, z uczynkówże zakonu to czyni, czyli z słuchania wiary?"}
-{"book": "GAL", "chapter": 3, "verse": "6", "text": "Tak jako „Abraham uwierzył Bogu i przyczytano mu to ku sprawiedliwości”."}
+{"book": "GAL", "chapter": 3, "verse": "6", "text": "Tak jako \"Abraham uwierzył Bogu i przyczytano mu to ku sprawiedliwości\"."}
 {"book": "GAL", "chapter": 3, "verse": "7", "text": "Widzicie tedy, że ci, którzy są z wiary, ci są synami Abrahamowymi."}
 {"book": "GAL", "chapter": 3, "verse": "8", "text": "A upatrzywszy to Pismo, iż z wiary Bóg usprawiedliwia pogan, przedtem opowiedziało Abrahamowi, iż w tobie będą błogosławione wszystkie narody."}
 {"book": "GAL", "chapter": 3, "verse": "9", "text": "A tak ci, którzy są z wiary, dostępują błogosławieństwa z wiernym Abrahamem."}
 {"book": "GAL", "chapter": 3, "verse": "10", "text": "Albowiem ile ich jest z uczynków zakonu, pod przeklęstwem są; bo napisane: Przeklęty każdy, który by nie został we wszystkiem, co napisane w księgach zakonu, aby to czynił."}
-{"book": "GAL", "chapter": 3, "verse": "11", "text": "A iż przez zakon nikt nie bywa usprawiedliwiony przed Bogiem, jawna jest stąd, bo „sprawiedliwy z wiary żyć będzie”."}
-{"book": "GAL", "chapter": 3, "verse": "12", "text": "Ale zakon nie jestci z wiary; lecz „człowiek, który by je czynił, żyć będzie przez nie”."}
+{"book": "GAL", "chapter": 3, "verse": "11", "text": "A iż przez zakon nikt nie bywa usprawiedliwiony przed Bogiem, jawna jest stąd, bo \"sprawiedliwy z wiary żyć będzie\"."}
+{"book": "GAL", "chapter": 3, "verse": "12", "text": "Ale zakon nie jestci z wiary; lecz \"człowiek, który by je czynił, żyć będzie przez nie\"."}
 {"book": "GAL", "chapter": 3, "verse": "13", "text": "Ale Chrystus odkupił nas z przeklęstwa zakonu, stawszy się za nas przeklęstwem, (albowiem napisane: Przeklęty każdy, który wisi na drzewie)."}
 {"book": "GAL", "chapter": 3, "verse": "14", "text": "Aby na pogan błogosławieństwo Abrahamowe przyszło w Chrystusie Jezusie, i abyśmy obietnicę Ducha wzięli przez wiarę."}
 {"book": "GAL", "chapter": 3, "verse": "15", "text": "Bracia! po ludzku mówię: a wszak i człowieczego testamentu utwierdzonego nikt nie łamie, ani do niego co przydaje."}
@@ -6022,8 +6033,8 @@
 {"book": "GAL", "chapter": 5, "verse": "19", "text": "A jawneć są uczynki ciała, które te są: Cudzołóstwo, wszeteczeństwo, nieczystość, rozpusta,"}
 {"book": "GAL", "chapter": 5, "verse": "20", "text": "Bałwochwalstwo, czary, nieprzyjaźni, swary, nienawiści, gniewy, spory, niesnaski, kacerstwa,"}
 {"book": "GAL", "chapter": 5, "verse": "21", "text": "Zazdrości, mężobójstwa, pijaństwa, biesiady, i tym podobne rzeczy, o których przepowiadam wam, jakom i przedtem powiedział, iż którzy takowe rzeczy czynią, królestwa Bożego nie odziedziczą."}
-{"book": "GAL", "chapter": 5, "verse": "22", "text": "(5:22a) Ale owoc Ducha jest miłość, wesele, pokój, nieskwapliwość, dobrotliwość, dobroć, wiara,"}
-{"book": "GAL", "chapter": 5, "verse": "23", "text": "(5:22b) cichość, wstrzemięźliwość. (5:23) Przeciwko takowym nie masz zakonu."}
+{"book": "GAL", "chapter": 5, "verse": "22", "text": "Ale owoc Ducha jest miłość, wesele, pokój, nieskwapliwość, dobrotliwość, dobroć, wiara, cichość, wstrzemięźliwość."}
+{"book": "GAL", "chapter": 5, "verse": "23", "text": "Przeciwko takowym nie masz zakonu."}
 {"book": "GAL", "chapter": 5, "verse": "24", "text": "Albowiem którzy są Chrystusowi, ciało swoje ukrzyżowali z namiętnościami i z pożądliwościami."}
 {"book": "GAL", "chapter": 5, "verse": "25", "text": "Jeźli duchem żyjemy, duchem też postępujmy."}
 {"book": "GAL", "chapter": 5, "verse": "26", "text": "Nie bądźmy chciwi próżnej chwały, jedni drugich wyzywając, jedni drugim zajrząc."}
@@ -6769,8 +6780,8 @@
 {"book": "TIT", "chapter": 3, "verse": "5", "text": "Nie z uczynków sprawiedliwości, które byśmy my czynili, ale podług miłosierdzia swego zbawił nas przez omycie odrodzenia i odnowienia Ducha Świętego,"}
 {"book": "TIT", "chapter": 3, "verse": "6", "text": "Którego wylał na nas obficie przez Jezusa Chrystusa, zbawiciela naszego,"}
 {"book": "TIT", "chapter": 3, "verse": "7", "text": "Abyśmy usprawiedliwieni będąc łaską jego, stali się dziedzicami według nadziei żywota wiecznego."}
-{"book": "TIT", "chapter": 3, "verse": "8", "text": "(3:8) Wiernać to mowa; a chcę, abyś ty to twierdził, aby się starali, jakoby w dobrych uczynkach przodkowali, którzy uwierzyli Bogu. (3:9a ) A te rzeczy są dobre i ludziom pożyteczne;"}
-{"book": "TIT", "chapter": 3, "verse": "9", "text": "(3:9b) a głupich gadek i wyliczania rodzajów, i sporów, i swarów zakonnych pohamuj; albowiem są niepożyteczne i próżne."}
+{"book": "TIT", "chapter": 3, "verse": "8", "text": "Wiernać to mowa; a chcę, abyś ty to twierdził, aby się starali, jakoby w dobrych uczynkach przodkowali, którzy uwierzyli Bogu."}
+{"book": "TIT", "chapter": 3, "verse": "9", "text": "A te rzeczy są dobre i ludziom pożyteczne; a głupich gadek i wyliczania rodzajów, i sporów, i swarów zakonnych pohamuj; albowiem są niepożyteczne i próżne."}
 {"book": "TIT", "chapter": 3, "verse": "10", "text": "Człowieka heretyka po pierwszem i wtórem napominaniu strzeż się,"}
 {"book": "TIT", "chapter": 3, "verse": "11", "text": "Wiedząc, iż takowy jest wywrócony i grzeszy, będąc sam własnym sądem swoim osądzony."}
 {"book": "TIT", "chapter": 3, "verse": "12", "text": "Gdy poślę do ciebie Artemana albo Tychyka, staraj się, abyś do mnie przyszedł do Nikopolim; bom tam postanowił zimować."}
@@ -6787,8 +6798,8 @@
 {"book": "PHM", "chapter": 1, "verse": "8", "text": "Przetoż choć mam wielką bezpieczność w Chrystusie, abym ci rozkazał, co przynależy;"}
 {"book": "PHM", "chapter": 1, "verse": "9", "text": "Jednak dla miłości raczej proszę, takowym będąc, to jest Paweł stary, a teraz i więzień Jezusa Chrystusa."}
 {"book": "PHM", "chapter": 1, "verse": "10", "text": "Proszę cię tedy za synem moim Onezymem, któregom urodził w więzieniu mojem;"}
-{"book": "PHM", "chapter": 1, "verse": "11", "text": "(1:11a) Który tobie niekiedy był niepożyteczny, ale teraz tobie i mnie bardzo pożyteczny;"}
-{"book": "PHM", "chapter": 1, "verse": "12", "text": "(1:11b) któregom odesłał, (1:12) Przetoż go ty jako wnętrzności moje przyjmij."}
+{"book": "PHM", "chapter": 1, "verse": "11", "text": "Który tobie niekiedy był niepożyteczny, ale teraz tobie i mnie bardzo pożyteczny; któregom odesłał,"}
+{"book": "PHM", "chapter": 1, "verse": "12", "text": "Przetoż go ty jako wnętrzności moje przyjmij."}
 {"book": "PHM", "chapter": 1, "verse": "13", "text": "Któregom ja chciał przy sobie zatrzymać, aby mi posługiwał zamiast ciebie w więzieniu dla Ewangielii."}
 {"book": "PHM", "chapter": 1, "verse": "14", "text": "Ale bez woli twojej nie chciałem nic uczynić, aby dobry twój uczynek nie był jako z przymuszenia, ale z dobrej woli."}
 {"book": "PHM", "chapter": 1, "verse": "15", "text": "Albowiem snać dla tego odłączył się był na chwilę od ciebie, abyś go zaś miał wiecznie,"}
@@ -7510,7 +7521,8 @@
 {"book": "3JN", "chapter": 1, "verse": "11", "text": "Najmilszy! nie naśladuj złego, ale dobrego. Kto dobrze czyni, z Boga jest; ale kto źle czyni, nie widział Boga."}
 {"book": "3JN", "chapter": 1, "verse": "12", "text": "Demetryjuszowi świadectwo jest dane od wszystkich, i od samej prawdy; lecz i my świadectwo o nim dajemy, a wiecie, iż świadectwo nasze prawdziwe jest."}
 {"book": "3JN", "chapter": 1, "verse": "13", "text": "Wielem miał pisać; lecz nie chcę pisać inkaustem i piórem;"}
-{"book": "3JN", "chapter": 1, "verse": "14", "text": "(1:14) Bo mam nadzieję, że cię w rychle ujrzę, a tedy ustnie mówić będziemy. (1:15) Pokój tobie. Pozdrawiają cię przyjaciele. Pozdrów i ty przyjaciół z imienia."}
+{"book": "3JN", "chapter": 1, "verse": "14", "text": "Bo mam nadzieję, że cię w rychle ujrzę, a tedy ustnie mówić będziemy."}
+{"book": "3JN", "chapter": 1, "verse": "15", "text": "Pokój tobie. Pozdrawiają cię przyjaciele. Pozdrów i ty przyjaciół z imienia."}
 {"book": "JUD", "chapter": 1, "verse": "1", "text": "Judas, sługa Jezusa Chrystusa a brat Jakóba, od Boga Ojca poświęconym i w Jezusie Chrystusie zachowanym i powołanym:"}
 {"book": "JUD", "chapter": 1, "verse": "2", "text": "Miłosierdzie i pokój, i miłość niech się wam rozmnoży."}
 {"book": "JUD", "chapter": 1, "verse": "3", "text": "Najmilsi! Wszelką pilność czyniąc, abym wam pisał o społecznem zbawieniu, musiałem wam pisać, napominając, iżbyście bojowali o wiarę raz świętym podaną."}
@@ -7747,7 +7759,8 @@
 {"book": "REV", "chapter": 12, "verse": "15", "text": "I wypuścił wąż z gęby swojej za niewiastą wodę jako rzekę, chcąc sprawić, aby ją rzeka porwała."}
 {"book": "REV", "chapter": 12, "verse": "16", "text": "Ale ziemia ratowała niewiastę; i otworzyła ziemia usta swoje, i wypiła rzekę, którą był wypuścił smok z gęby swojej."}
 {"book": "REV", "chapter": 12, "verse": "17", "text": "I rozgniewał się smok na niewiastę, i poszedł, aby walczył z drugimi z nasienia jej, którzy zachowują przykazania Boże i mają świadectwo Jezusa Chrystusa."}
-{"book": "REV", "chapter": 13, "verse": "1", "text": "(12:18) I stanąłem na piasku morskim. (13:1) I widziałem bestyję występującą z morza, mającą siedm głów i rogów dziesięć; a na rogach jej było dziesięć koron, a na głowach jej imię bluźnierstwa."}
+{"book": "REV", "chapter": 12, "verse": "18", "text": "I stanąłem na piasku morskim."}
+{"book": "REV", "chapter": 13, "verse": "1", "text": "I widziałem bestyję występującą z morza, mającą siedm głów i rogów dziesięć; a na rogach jej było dziesięć koron, a na głowach jej imię bluźnierstwa."}
 {"book": "REV", "chapter": 13, "verse": "2", "text": "A ta bestyja, którąm widział, podobna była rysiowi, a nogi jej jako niedźwiedzie, a gęba jej jako gęba lwia; i dał jej smok moc swoję i stolicę swoję, i moc wielką."}
 {"book": "REV", "chapter": 13, "verse": "3", "text": "A widziałem jednę z głów jej, jakoby na śmierć zabitą; ale rana jej śmiertelna uleczona jest. Tedy się dziwowała wszystka ziemia i szła za oną bestyją."}
 {"book": "REV", "chapter": 13, "verse": "4", "text": "I kłaniali się onemu smokowi, który dał moc bestyi; kłaniali się też bestyi, mówiąc: Któż podobny bestyi? Któż z nią walczyć może?"}

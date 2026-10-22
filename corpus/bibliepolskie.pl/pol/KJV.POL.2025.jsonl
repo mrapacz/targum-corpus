@@ -574,6 +574,7 @@
 {"book": "MAT", "chapter": 17, "verse": "18", "text": "I Jezus zgromił diabła; i wyszedł z niego: i dziecko zostało uzdrowione od tej właśnie godziny."}
 {"book": "MAT", "chapter": 17, "verse": "19", "text": "Wtedy podeszli uczniowie do Jezusa na osobności, i powiedzieli: Czemu my nie mogliśmy go wypędzić?"}
 {"book": "MAT", "chapter": 17, "verse": "20", "text": "I Jezus powiedział do nich, Z powodu waszej niewiary: bowiem zaprawdę powiadam wam, Jeśli macie wiarę jak nasionko gorczycy, powiecie tej górze, Przenieś się stąd na tamto miejsce; i przeniesie się; i nic nie będzie dla was niemożliwe."}
+{"book": "MAT", "chapter": 17, "verse": "21", "text": "Jednakże ten rodzaj nie wychodzi inaczej, jak tylko przez modlitwę i post."}
 {"book": "MAT", "chapter": 17, "verse": "22", "text": "A gdy przebywali w Galilei, Jezus powiedział do nich, Syn człowieczy zostanie wydany w ręce ludzi:"}
 {"book": "MAT", "chapter": 17, "verse": "23", "text": "I zabiją go, a trzeciego dnia zmartwychwstanie. A oni niezmiernie się zasmucili."}
 {"book": "MAT", "chapter": 17, "verse": "24", "text": "A gdy przybyli do Kafarnaum, ci, którzy przyjmowali podatek pieniężny, podeszli do Piotra i rzekli, Czy wasz mistrz nie płaci podatku?"}
@@ -590,6 +591,7 @@
 {"book": "MAT", "chapter": 18, "verse": "8", "text": "Dlatego jeśli twoja ręka albo stopa gorszy cię, odetnij je, i odrzuć je od siebie: lepiej jest dla ciebie wejść do życia kulawym lub okaleczonym, niż dwie ręce albo dwie stopy mając być wrzuconym do wiecznego ognia."}
 {"book": "MAT", "chapter": 18, "verse": "9", "text": "A jeśli twoje oko jest ci powodem zgorszenia, wyłup je, i odrzuć je od siebie: lepiej jest dla ciebie wejść do życia jednookim, niż dwoje oczu mając być wrzuconym do piekielnego ognia."}
 {"book": "MAT", "chapter": 18, "verse": "10", "text": "Uważajcie, abyście nie gardzili żadnym z tych małych; bowiem mówię wam, Że w niebie ich aniołowie zawsze patrzą na twarz mojego Ojca, który jest w niebie."}
+{"book": "MAT", "chapter": 18, "verse": "11", "text": "Bowiem Syn człowieczy przychodzi, aby zbawić to, co zginęło."}
 {"book": "MAT", "chapter": 18, "verse": "12", "text": "Jak myślicie? jeśli człowiek ma sto owiec, a jedna z nich się zabłąka, czyż nie zostawi tych dziewięćdziesięciu dziewięciu, i nie pójdzie w góry aby szukać tej która się zabłąkała?"}
 {"book": "MAT", "chapter": 18, "verse": "13", "text": "A jeśli uda mu się ją znaleźć, zaprawdę powiadam wam, że cieszy się z niej bardziej, niż z tych dziewięćdziesięciu dziewięciu, które się nie zabłąkały."}
 {"book": "MAT", "chapter": 18, "verse": "14", "text": "Tak też nie jest wolą waszego Ojca, który jest w niebie, by jeden z tych małych zginął."}
@@ -1330,6 +1332,7 @@
 {"book": "MRK", "chapter": 7, "verse": "13", "text": "Czyniąc słowo Boga bezskutecznym przez waszą tradycję, którą przekazaliście: i wiele innych tym podobnych rzeczy czynicie."}
 {"book": "MRK", "chapter": 7, "verse": "14", "text": "A gdy zwołał wszystkich ludzi do siebie, powiedział do nich, Słuchajcie mnie, każdy jeden z was, i zrozumcie:"}
 {"book": "MRK", "chapter": 7, "verse": "15", "text": "Nie ma nic z zewnątrz człowieka, co wchodząc w niego może go skalać: ale te rzeczy, które z niego wychodzą, te są tymi, które kalają człowieka."}
+{"book": "MRK", "chapter": 7, "verse": "16", "text": "Jeśli jakikolwiek człowiek ma uszy do słuchania, niech słucha."}
 {"book": "MRK", "chapter": 7, "verse": "17", "text": "A gdy wszedł do domu pozostawiając ludzi, jego uczniowie zapytali go o tę przypowieść."}
 {"book": "MRK", "chapter": 7, "verse": "18", "text": "A on mówi do nich, Czy wy także jesteście bezrozumni? Czyż nie spostrzegacie, że wszystko, co z zewnątrz wchodzi w człowieka, nie może go skalać;"}
 {"book": "MRK", "chapter": 7, "verse": "19", "text": "Ponieważ nie wchodzi do jego serca, ale do żołądka, i zostaje wydalone do ustępu, oczyszczając wszystkie pokarmy?"}
@@ -1432,7 +1435,9 @@
 {"book": "MRK", "chapter": 9, "verse": "41", "text": "Bowiem ktokolwiek poda wam kubek wody do picia w moje imię, ponieważ należycie do Chrystusa, zaprawdę powiadam wam, nie straci swojej nagrody."}
 {"book": "MRK", "chapter": 9, "verse": "42", "text": "A ktokolwiek zgorszy jednego z tych małych, którzy we mnie wierzą, lepiej dla niego, aby zawieszono mu u szyi kamień młyński, i wrzucono go do morza."}
 {"book": "MRK", "chapter": 9, "verse": "43", "text": "A jeśli twoja ręka cię gorszy, odetnij ją: lepiej jest dla ciebie wejść do życia ułomnym, niż mając dwie ręce pójść do piekła, w ogień, który nigdy nie zostanie ugaszony:"}
+{"book": "MRK", "chapter": 9, "verse": "44", "text": "Gdzie ich robak nie umiera, a ogień nie jest ugaszony."}
 {"book": "MRK", "chapter": 9, "verse": "45", "text": "A jeśli twoja stopa cię zgorszy, odetnij ją: lepiej jest dla ciebie wejść chromym do życia, niż mając dwie stopy zostać wrzuconym do piekła, w ogień, który nigdy nie zostanie ugaszony:"}
+{"book": "MRK", "chapter": 9, "verse": "46", "text": "Gdzie ich robak nie umiera, a ogień nie jest ugaszony."}
 {"book": "MRK", "chapter": 9, "verse": "47", "text": "A jeśli twoje oko cię zgorszy, wyłup je: lepiej jest dla ciebie wejść do królestwa Boga jednookim, niż mając dwoje oczu, zostać wrzuconym do ognia piekielnego:"}
 {"book": "MRK", "chapter": 9, "verse": "48", "text": "Gdzie ich robak nie umiera, a ogień nie jest ugaszony."}
 {"book": "MRK", "chapter": 9, "verse": "49", "text": "Bowiem każdy będzie posolony ogniem, a każda ofiara będzie posolona solą."}
@@ -1514,6 +1519,7 @@
 {"book": "MRK", "chapter": 11, "verse": "23", "text": "Bo zaprawdę powiadam wam, Że ktokolwiek powie tej górze, Usuń się, i rzuć się w morze; i nie zwątpi w swoim sercu, lecz będzie wierzył że te rzeczy, które mówi staną się; będzie miał cokolwiek mówi."}
 {"book": "MRK", "chapter": 11, "verse": "24", "text": "Dlatego mówię wam, O jakiekolwiek rzeczy prosicie, kiedy się modlicie, wierzcie że je otrzymacie, i będziecie je mieć."}
 {"book": "MRK", "chapter": 11, "verse": "25", "text": "A gdy stoicie, modląc się, przebaczcie, jeśli macie coś przeciwko komuś: aby także wasz Ojciec który jest w niebie, mógł przebaczyć wam wasze przewinienia."}
+{"book": "MRK", "chapter": 11, "verse": "26", "text": "Lecz jeśli wy nie przebaczycie, to i wasz Ojciec który jest w niebie, nie przebaczy wam waszych przewinień."}
 {"book": "MRK", "chapter": 11, "verse": "27", "text": "I znowu przyszli do Jerozolimy: a gdy chodził po świątyni, podeszli do niego główni kapłani, i prawoznawcy, oraz starsi,"}
 {"book": "MRK", "chapter": 11, "verse": "28", "text": "I mówią do niego, Przez jaki autorytet czynisz te rzeczy? i kto dał ci ten autorytet, żeby czynić te rzeczy?"}
 {"book": "MRK", "chapter": 11, "verse": "29", "text": "A Jezus odpowiedział i rzekł do nich, Ja także zadam wam pytanie, i odpowiedzcie mi, a ja wam powiem, przez jaki autorytet czynię te rzeczy."}
@@ -1701,6 +1707,7 @@
 {"book": "MRK", "chapter": 15, "verse": "25", "text": "A była godzina trzecia, i ukrzyżowali go."}
 {"book": "MRK", "chapter": 15, "verse": "26", "text": "A napis z jego oskarżeniem był wypisany powyżej, KRÓL ŻYDÓW."}
 {"book": "MRK", "chapter": 15, "verse": "27", "text": "I z nim ukrzyżowali dwóch złodziei; jednego po jego prawej stronie, a drugiego po lewej."}
+{"book": "MRK", "chapter": 15, "verse": "28", "text": "I pismo zostało wypełnione, które mówi, I został zaliczony do przestępców."}
 {"book": "MRK", "chapter": 15, "verse": "29", "text": "A ci, którzy przechodzili obok, bluźnili mu, kiwając głowami, i mówiąc, Ej, ty, który burzysz świątynię, i w trzy dni ją odbudowujesz,"}
 {"book": "MRK", "chapter": 15, "verse": "30", "text": "Zbaw samego siebie, i zejdź z krzyża."}
 {"book": "MRK", "chapter": 15, "verse": "31", "text": "Podobnie też główni kapłani, szydząc, mówili między sobą wraz z prawoznawcami, Zbawił innych; samego siebie nie może zbawić."}
@@ -2533,6 +2540,7 @@
 {"book": "LUK", "chapter": 17, "verse": "33", "text": "Ktokolwiek będzie szukał aby zbawić swoje życie, straci je; a ktokolwiek straci swoje życie, zbawi je."}
 {"book": "LUK", "chapter": 17, "verse": "34", "text": "Mówię wam, w tę noc dwoje ludzi będzie w jednym łóżku; jeden będzie wzięty, a drugi będzie zostawiony."}
 {"book": "LUK", "chapter": 17, "verse": "35", "text": "Dwie kobiety będą mleć razem; jedna będzie wzięta, a druga zostawiona."}
+{"book": "LUK", "chapter": 17, "verse": "36", "text": "Dwoje ludzi będzie na polu; jeden będzie wzięty, a drugi zostawiony."}
 {"book": "LUK", "chapter": 17, "verse": "37", "text": "I odpowiedzieli i rzekli do niego, Gdzie, Panie? A on powiedział do nich, Gdziekolwiek jest ciało, tam zgromadzą się orły."}
 {"book": "LUK", "chapter": 18, "verse": "1", "text": "I opowiedział im przypowieść w tym celu, aby ludzie zawsze się modlili, i nie słabli;"}
 {"book": "LUK", "chapter": 18, "verse": "2", "text": "Mówiąc, W pewnym mieście był sędzia, który nie bał się Boga, ani nie zważał na człowieka:"}
@@ -2797,6 +2805,7 @@
 {"book": "LUK", "chapter": 23, "verse": "14", "text": "Powiedział do nich, Przyprowadziliście mi tego człowieka, jako tego, który podburza lud: a oto ja, przesłuchawszy go przed wami, nie znalazłem żadnej winy w tym człowieku, w sprawach, o które go oskarżacie:"}
 {"book": "LUK", "chapter": 23, "verse": "15", "text": "Nie, ani też Herod: bo posłałem was do niego; i oto nie znalazł w nim nic, co zasługiwałoby na śmierć."}
 {"book": "LUK", "chapter": 23, "verse": "16", "text": "Dlatego ubiczuję go, i uwolnię go."}
+{"book": "LUK", "chapter": 23, "verse": "17", "text": "(Bo z konieczności musi im jednego wypuścić w święto.)"}
 {"book": "LUK", "chapter": 23, "verse": "18", "text": "A oni wszyscy razem zawołali mówiąc, Precz z tym człowiekiem, a wypuść nam Barabasza:"}
 {"book": "LUK", "chapter": 23, "verse": "19", "text": "(Który za pewien rozruch wywołany w mieście, i za morderstwo był wtrącony do więzienia.)"}
 {"book": "LUK", "chapter": 23, "verse": "20", "text": "Piłat jednak, chcąc wypuścić Jezusa, znowu mówił do nich."}
@@ -3058,6 +3067,7 @@
 {"book": "JHN", "chapter": 5, "verse": "1", "text": "Po tym było święto Żydów; i Jezus udał się do Jerozolimy."}
 {"book": "JHN", "chapter": 5, "verse": "2", "text": "A jest w Jerozolimie przy owczym rynku sadzawka, która zwana jest w języku hebrajskim Betesda, mająca pięć ganków."}
 {"book": "JHN", "chapter": 5, "verse": "3", "text": "W nich leżał wielki tłum niedołężnych ludzi, ze ślepych, chromych, wyschłych, czekających na poruszenie wody."}
+{"book": "JHN", "chapter": 5, "verse": "4", "text": "Bowiem Anioł zstępował co pewien czas do sadzawki, i poruszał wodę: wtedy ktokolwiek pierwszy wszedł po poruszeniu wody, zostawał uzdrowiony z jakichkolwiek dolegliwości jakie miał."}
 {"book": "JHN", "chapter": 5, "verse": "5", "text": "A był tam pewien człowiek, który miał ułomność od trzydziestu i ośmiu lat."}
 {"book": "JHN", "chapter": 5, "verse": "6", "text": "Gdy Jezus zobaczył go leżącego, i poznał że jest w tym stanie przez długi czas, mówi do niego, Chcesz być uzdrowiony?"}
 {"book": "JHN", "chapter": 5, "verse": "7", "text": "Bezwładny mężczyzna odpowiedział mu, Sir, nie mam człowieka, gdy woda zostaje poruszona, aby wniósł mnie do sadzawki: lecz gdy ja podążam, inny wchodzi przede mną."}
@@ -4056,6 +4066,7 @@
 {"book": "ACT", "chapter": 8, "verse": "34", "text": "A eunuch odpowiedział Filipowi i rzekł, Proszę cię, o kim to mówi prorok? o sobie, czy o kimś innym?"}
 {"book": "ACT", "chapter": 8, "verse": "35", "text": "Wtedy Filip otworzył usta, i zaczął od tego samego pisma, i głosił mu Jezusa."}
 {"book": "ACT", "chapter": 8, "verse": "36", "text": "A jak podążali swoją drogą, przybyli nad pewną wodę: i eunuch rzekł, Patrz, tutaj jest woda; co mi stoi na przeszkodzie, abym został ochrzczony?"}
+{"book": "ACT", "chapter": 8, "verse": "37", "text": "I powiedział Filip, Jeśli wierzysz z całego serca, możesz. A on odpowiedział i rzekł, Wierzę, że Jezus Chrystus jest Synem Boga."}
 {"book": "ACT", "chapter": 8, "verse": "38", "text": "I rozkazał rydwanowi, aby się zatrzymał: i zstąpili obaj do wody, zarówno Filip, jak i eunuch; i ochrzcił go."}
 {"book": "ACT", "chapter": 8, "verse": "39", "text": "A gdy wyszli z wody, Duch Pana porwał Filipa, tak że eunuch więcej go nie widział: i poszedł swoją drogą, radując się."}
 {"book": "ACT", "chapter": 8, "verse": "40", "text": "Lecz Filip znalazł się w Azocie: a przechodząc, głosił we wszystkich miastach, aż przybył do Cezarei."}
@@ -4318,6 +4329,7 @@
 {"book": "ACT", "chapter": 15, "verse": "31", "text": "Który gdy przeczytali, radowali się z powodu tego pocieszenia."}
 {"book": "ACT", "chapter": 15, "verse": "32", "text": "A Judasz i Sylas, będąc sami prorokami, napominali braci wieloma słowami i utwierdzali ich."}
 {"book": "ACT", "chapter": 15, "verse": "33", "text": "A po tym jak przebywali tam jakiś czas, zostali odprawieni w pokoju od braci do apostołów."}
+{"book": "ACT", "chapter": 15, "verse": "34", "text": "Niemniej jednak upodobało się Sylasowi jeszcze tam pozostać."}
 {"book": "ACT", "chapter": 15, "verse": "35", "text": "Również Paweł i Barnaba pozostali w Antiochii, nauczając i głosząc słowo Pana, wraz z wieloma innymi."}
 {"book": "ACT", "chapter": 15, "verse": "36", "text": "A po kilku dniach Paweł powiedział do Barnaby, Chodźmy znowu i odwiedźmy naszych braci w każdym mieście, w którym głosiliśmy słowo Pana, i zobaczmy jak się mają."}
 {"book": "ACT", "chapter": 15, "verse": "37", "text": "A Barnaba postanowił zabrać ze sobą Jana, którego zwą Marek."}
@@ -4617,6 +4629,7 @@
 {"book": "ACT", "chapter": 24, "verse": "4", "text": "Niemniej jednak, abym nie był dla ciebie bardziej nużący, proszę cię, abyś w swej łaskawości wysłuchał nas w kilku słowach."}
 {"book": "ACT", "chapter": 24, "verse": "5", "text": "Bowiem uznaliśmy tego człowieka za zaraźliwego człeka, i wichrzyciela rozruchów wśród wszystkich Żydów na całym świecie, oraz prowodyra sekty nazarejczyków:"}
 {"book": "ACT", "chapter": 24, "verse": "6", "text": "Który też zaczął profanować świątynię: którego schwytaliśmy, i chcieliśmy sądzić według naszego prawa."}
+{"book": "ACT", "chapter": 24, "verse": "7", "text": "Lecz główny dowódca Lizjasz natarł na nas, i wielką przemocą wyrwał go z naszych rąk,"}
 {"book": "ACT", "chapter": 24, "verse": "8", "text": "Rozkazując jego oskarżycielom, aby przyszli do ciebie: przez przesłuchanie go, ty sam będziesz mógł dowiedzieć się wszystkich tych rzeczy, o które my go oskarżamy."}
 {"book": "ACT", "chapter": 24, "verse": "9", "text": "Żydzi również zgadzali się, mówiąc, że tak się rzeczy miały."}
 {"book": "ACT", "chapter": 24, "verse": "10", "text": "Wtedy Paweł, po tym, jak namiestnik skinął na niego, aby przemówił, odpowiedział, Ponieważ wiem, że przez wiele lat jesteś sędzią tego narodu, tym chętniej odpowiadam za siebie:"}
@@ -4768,6 +4781,7 @@
 {"book": "ACT", "chapter": 28, "verse": "26", "text": "Mówiąc, Idź do tego ludu i powiedz, Słuchając, będziecie słyszeć, a nie zrozumiecie; i patrząc, będziecie widzieć, a nie spostrzeżecie:"}
 {"book": "ACT", "chapter": 28, "verse": "27", "text": "Bo serce tego ludu jest zatwardziałe, a uszy ich są przytępione, a oczy swe mają zamknięte; aby oczami nie widzieli, i uszami nie słyszeli, i sercem nie zrozumieli, i się nie nawrócili, i abym ich nie uzdrowił."}
 {"book": "ACT", "chapter": 28, "verse": "28", "text": "Niech wam więc będzie wiadome, że zbawienie Boga jest posłane do Gojów, i że oni je usłyszą."}
+{"book": "ACT", "chapter": 28, "verse": "29", "text": "A gdy powiedział te słowa, Żydzi odeszli, i prowadzili wielkie spory między sobą."}
 {"book": "ACT", "chapter": 28, "verse": "30", "text": "A Paweł mieszkał przez całe dwa lata w swoim własnym wynajętym domu, i przyjmował wszystkich, którzy przychodzili do niego,"}
 {"book": "ACT", "chapter": 28, "verse": "31", "text": "Głosząc królestwo Boga, i nauczając te rzeczy, które dotyczą Pana Jezusa Chrystusa, z całą pewnością, żaden człowiek nie zabraniając mu."}
 {"book": "ROM", "chapter": 1, "verse": "1", "text": "Paweł, sługa Jezusa Chrystusa, powołany aby być apostołem, odseparowany do ewangelii Boga,"}
@@ -5199,6 +5213,7 @@
 {"book": "ROM", "chapter": 16, "verse": "21", "text": "Tymoteusz, mój współpracownik, i Lucjusz, i Jazon, i Sosipater, moi krewni, pozdrawiają was."}
 {"book": "ROM", "chapter": 16, "verse": "22", "text": "Ja, Tercjusz, który pisałem ten list, pozdrawiam was w Panu."}
 {"book": "ROM", "chapter": 16, "verse": "23", "text": "Pozdrawia was Gajus, mój gospodarz i całego kościoła. Pozdrawia was Erastus, szafarz miejski, i Kwartus, brat."}
+{"book": "ROM", "chapter": 16, "verse": "24", "text": "Łaska naszego Pana Jezusa Chrystusa niech będzie z wami wszystkimi. Amen."}
 {"book": "ROM", "chapter": 16, "verse": "25", "text": "A temu, który ma moc utwierdzić was według mojej ewangelii i głoszenia Jezusa Chrystusa, według objawienia tajemnicy, która była zachowana w sekrecie od początku świata,"}
 {"book": "ROM", "chapter": 16, "verse": "26", "text": "Lecz teraz została objawiona, a przez pisma proroków, zgodnie z przykazaniem wiecznego Boga, została oznajmiona wszystkim narodom dla posłuszeństwa wiary:"}
 {"book": "ROM", "chapter": 16, "verse": "27", "text": "Jedynemu mądremu Bogu, niech będzie chwała poprzez Jezusa Chrystusa na wieki. Amen."}
