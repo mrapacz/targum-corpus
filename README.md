@@ -2,7 +2,7 @@
 
 **Links:** 📄 [LREC 2026 paper](https://aclanthology.org/2026.lrec-main.564/) · 🤗 [HuggingFace dataset](https://huggingface.co/datasets/mrapacz/targum-corpus) · 🌐 [Online viewer](https://targum.net/) · 🧪 [SIGHUM companion code](https://github.com/mrapacz/sighum-interlinear-vector-baselines)
 
-**Targum** is a multilingual New Testament translation corpus with unprecedented depth in five European languages: English, French, Italian, Polish, and Spanish. It contains **713** translations (**370** unique) collected from **22** source libraries and spanning **0–2026**.
+**Targum** is a multilingual New Testament translation corpus with unprecedented depth in five European languages: English, French, Italian, Polish, and Spanish. It contains **713** translations (**370** unique) collected from **22** source libraries and spanning **1525–2026**.
 
 This repository contains the **public release subset**: **318** translations distributed under public domain or open licenses.
 
@@ -179,3 +179,7 @@ Open-access PDF: <http://www.lrec-conf.org/proceedings/lrec2026/pdf/2026.lrec202
 
 Corpus metadata and derived annotations are released under [CC-BY 4.0](LICENSE).
 Individual translations retain their original licenses as recorded in `editions.tsv` (`copyright_statement` column).
+
+## Contributors
+
+Thanks to **Bible Highlighter ([AffectionsAbove.com](https://AffectionsAbove.com))** for identifying the BibleHub KJV as the Pure Cambridge Edition and drawing our attention to **Matthew Verschuur’s research at [BibleProtector.com](https://BibleProtector.com)**.
