@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-20T17:34:13.956176+00:00",
+  "exported_at": "2026-10-22T21:47:12.018077+00:00",
   "total_translations": 713,
   "translations_per_language": {
     "eng": 413,
@@ -33,7 +33,7 @@
     "vocatio.com.pl": 2
   },
   "year_range": [
-    0,
+    1525,
     2026
   ],
   "copyright_breakdown": {
@@ -51,32 +51,18 @@
     }
   },
   "copyright_breakdown_by_language": {
-    "eng": {
+    "pol": {
       "public_domain": {
-        "count": 159,
-        "percentage": 38.5
+        "count": 13,
+        "percentage": 16.5
       },
       "open_license": {
-        "count": 46,
-        "percentage": 11.1
+        "count": 13,
+        "percentage": 16.5
       },
       "copyrighted": {
-        "count": 208,
-        "percentage": 50.4
-      }
-    },
-    "spa": {
-      "public_domain": {
-        "count": 17,
-        "percentage": 16.0
-      },
-      "open_license": {
-        "count": 16,
-        "percentage": 15.1
-      },
-      "copyrighted": {
-        "count": 73,
-        "percentage": 68.9
+        "count": 53,
+        "percentage": 67.1
       }
     },
     "fra": {
@@ -93,6 +79,20 @@
         "percentage": 46.9
       }
     },
+    "spa": {
+      "public_domain": {
+        "count": 17,
+        "percentage": 16.0
+      },
+      "open_license": {
+        "count": 16,
+        "percentage": 15.1
+      },
+      "copyrighted": {
+        "count": 73,
+        "percentage": 68.9
+      }
+    },
     "ita": {
       "public_domain": {
         "count": 11,
@@ -107,18 +107,18 @@
         "percentage": 67.6
       }
     },
-    "pol": {
+    "eng": {
       "public_domain": {
-        "count": 13,
-        "percentage": 16.5
+        "count": 159,
+        "percentage": 38.5
       },
       "open_license": {
-        "count": 13,
-        "percentage": 16.5
+        "count": 46,
+        "percentage": 11.1
       },
       "copyrighted": {
-        "count": 53,
-        "percentage": 67.1
+        "count": 208,
+        "percentage": 50.4
       }
     }
   },
@@ -150,10 +150,10 @@
       "implementation_sha256": "dc456eaa547bc9c2d17ca014bb2ceb6471e4b2bf51a0453d068592453c2e5511"
     },
     "compiler": {
-      "git_commit": "2a6f9ede36dc5f09efbb294ff488011ed55bae46",
-      "git_dirty": false,
-      "uv_lock_sha256": "73476f65f01600b1d96c3bebe5a25278741d334d8978cab053b444a8d00d8311",
-      "python_version": "3.14.7"
+      "git_commit": "c46bd8fe286c506402730a544364d0cf81a1452e",
+      "git_dirty": true,
+      "uv_lock_sha256": "6af9043a50d3574b3347674cd9aa2d1f733849c0e0eb79a19d530bfa44b0687d",
+      "python_version": "3.14.9"
     },
     "export_profile": {
       "tables": {

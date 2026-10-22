@@ -1747,6 +1747,14 @@
       },
       {
         "copyrighted": true,
+        "edition_id": "international-standard-version-release-2-1",
+        "iso": "eng",
+        "name": "International Standard Version (Release 2.1)",
+        "work_id": "international-standard-version",
+        "year": 2012
+      },
+      {
+        "copyrighted": true,
         "edition_id": "king-james-version-brg-blue-red-gold-letter",
         "iso": "eng",
         "name": "King James Version (BRG Bible \u2014 Blue Red & Gold Letter Edition)",
@@ -2955,7 +2963,7 @@
       }
     ],
     "tallies": {
-      "eng": 207,
+      "eng": 208,
       "fra": 42,
       "ita": 16,
       "pol": 44,
@@ -2964,8 +2972,8 @@
   },
   "provenance": {
     "source_hashes": {
-      "web/editions.tsv": "bb61ab392a9bc85f93ce45daf0014cdc4b6203597a7ea25e06c26e954c982924",
-      "web/index.tsv": "61d4896e5e86b2a8010d9397e725d95d5e529a4e71b959bd5a222c3d1f5490a2",
+      "web/editions.tsv": "0d185ff3ce417ddf1b8d8eccc96fb1a437df41ca4ad27d9c4b236a31624eb10c",
+      "web/index.tsv": "70adabbabd7afbc3f81640a4fbf5c642f1d3e5dfdda9e00f7a739b4bc8e4a3f8",
       "web/instances.tsv": "9660420a57e4b589330c78e975e6ac7621678a196b7e7176a6a0928f0a49f514",
       "web/works.tsv": "f02b1293848a79c37f150b99327810eac21dd94fbdae2d8576157b0eada9367b"
     }
