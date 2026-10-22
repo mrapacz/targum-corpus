@@ -41,9 +41,9 @@ configs:
 
 **Links:** 📄 [LREC 2026 paper](https://aclanthology.org/2026.lrec-main.564/) · 🗂️ [GitHub mirror](https://github.com/mrapacz/targum-corpus) · 🌐 [Online viewer](https://targum.net/)
 
-**Targum** is a multilingual New Testament translation corpus with unprecedented depth in five European languages: English, French, Italian, Polish, and Spanish. It contains **651** translations (**334** unique) collected from **13** source libraries and spanning **1525–2025**.
+**Targum** is a multilingual New Testament translation corpus with unprecedented depth in five European languages: English, French, Italian, Polish, and Spanish. It contains **713** translations (**370** unique) collected from **22** source libraries and spanning **0–2026**.
 
-This dataset contains the **public release subset**: **301** translations distributed under public domain or open licenses. The remaining 350 copyrighted translations are not distributed but are available to researchers upon request.
+This dataset contains the **public release subset**: **318** translations distributed under public domain or open licenses. The remaining 395 copyrighted translations are not distributed but are available to researchers upon request.
 
 Named after the ancient Aramaic translations of the Hebrew Bible (תרגום, "translation"), the corpus prioritizes vertical depth over linguistic breadth, making it possible to computationally analyze a wide spectrum of historical periods and confessional traditions within each language.
 
@@ -59,14 +59,14 @@ The metadata tables (`works`, `editions`, `instances`, `book_coverage`) are expo
 
 | Language | Code | Total | Unique | Public subset |
 |---|---|---:|---:|---:|
-| English | `eng` | 390 | 194 | 191 |
-| French | `fra` | 78 | 41 | 43 |
-| Spanish | `spa` | 102 | 53 | 29 |
-| Polish | `pol` | 48 | 29 | 25 |
-| Italian | `ita` | 33 | 17 | 13 |
-| **Total** | | **651** | **334** | **301** |
+| English | `eng` | 413 | 208 | 205 |
+| French | `fra` | 81 | 42 | 43 |
+| Spanish | `spa` | 106 | 60 | 33 |
+| Polish | `pol` | 79 | 44 | 26 |
+| Italian | `ita` | 34 | 16 | 11 |
+| **Total** | | **713** | **370** | **318** |
 
-"Total" is the number of translation instances collected across all 13 source libraries (the same translation may appear on multiple sites). "Unique" is the number of distinct translation editions after deduplication. "Public subset" is the number of instances distributed in this dataset under public domain (235) or open licenses (66).
+"Total" is the number of translation instances collected across all 22 source libraries (the same translation may appear on multiple sites). "Unique" is the number of distinct translation editions after deduplication. "Public subset" is the number of instances distributed in this dataset under public domain (241) or open licenses (77).
 
 ## Structure
 
@@ -100,9 +100,6 @@ Pre-computed text embeddings are available for all translations, produced by sev
 
 | Model | Granularity | Files | Size |
 |---|---|---:|---:|
-| `Qwen/Qwen3-Embedding-0.6B` | chapter | 656 | ~269.6 MB |
-| `Qwen/Qwen3-Embedding-0.6B` | verse | 5 | ~61.4 MB |
-| `Qwen/Qwen3-Embedding-8B` | chapter | 656 | ~2.4 GB |
 
 Embeddings are stored as Hive-partitioned Parquet files:
 
@@ -270,7 +267,7 @@ hf download mrapacz/targum-corpus --repo-type dataset \
 
 ## Source Data
 
-Translations were collected from 13 libraries: bible.audio, bible.com, bible.is, biblegateway.com, biblehub.com, bibles.org, biblestudytools.com, bibliepolskie.pl, crossbible.com, ebible.org, jw.org, laparola.net, obohu.cz.
+Translations were collected from 22 libraries: bible.audio, bible.com, bible.is, biblegateway.com, biblehub.com, bibles.org, biblestudytools.com, biblia.info.pl, biblia.pl, biblia.tb.org.pl, bibliaprzyjaciol.pl, bibliepolskie.pl, crossbible.com, ebible.org, ebookpoint.pl, feib.pl, hachette.co.uk, jw.org, laparola.net, obohu.cz, pismoswiete.pl, vocatio.com.pl.
 
 ## Citation
 
